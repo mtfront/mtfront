@@ -1,0 +1,4 @@
+baseURL = 'http://mtfront.github.io/'
+languageCode = 'zh-CN'
+title = '椒盐豆豉'
+theme = 'hugo-book'
