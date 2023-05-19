@@ -2,3 +2,6 @@ baseURL = 'http://mtfront.github.io/'
 languageCode = 'zh-CN'
 title = '椒盐豆豉'
 theme = 'hugo-book'
+
+googleAnalytics = "UA-181620260-1"
+disqusShortname = "mtfront"
