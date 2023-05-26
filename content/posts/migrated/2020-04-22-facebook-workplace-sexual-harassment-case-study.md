@@ -1,0 +1,81 @@
+---
+title: 你脸一记教科书级 workplace sexual harassment case study
+author: 椒盐豆豉
+type: post
+date: 2020-04-22T22:41:30+00:00
+url: /facebook-workplace-sexual-harassment-case-study/
+categories:
+  - 重启电脑
+tags:
+  - Bay Area
+  - career
+  - 外国的月亮就是圆
+  - 女权
+
+---
+ 
+
+作为“外国的月亮就是圆”系列又一补充，我来把这条搬运到博客上，给错过了这条新闻的朋友们科普一下。
+
+TLDR：这是一篇“你脸那个利用职务之便骚扰女同事被公司立刻开除找不到工作愤恨上网自曝妄图 slut shaming 同事和说公司偏袒女性结果被大家骂到妈都不认识在湾区码农圈直接社会性死亡 linkedin 都给删了“的爽文
+
+Written on 2020-4-22
+
+<!--more-->
+
+转发写不下了广播居然也写不下了，槽点太多单独开帖喷那个教科书级职场性骚扰瓜。<a rel="noreferrer noopener" href="https://www.1point3acres.com/bbs/thread-628700-1-1.html" data-type="URL" data-id="https://www.1point3acres.com/bbs/thread-628700-1-1.html" target="_blank">原帖</a>｜<a rel="noreferrer noopener" href="https://www.douban.com/people/2473154/status/2926331392/" data-type="URL" data-id="https://www.douban.com/people/2473154/status/2926331392/" target="_blank">防止删帖截图</a>（虽然说用豆瓣防删也很不靠谱吧……）
+
+  1. 楼主连“下午5点单独在办公室”都要强调单独，之前买咖啡（在 FB 提到的九成九 on campus 那几家，有人对这个不熟，公司咖啡店跟办公楼在一起的，literally 不用出办公室都能去那种，同时朋友聊个天带个访客坐坐去那正常得不能再正常了）也是和“她们”也就是有其他同事在场，羽毛球也没说是“单独”，所以整个事件另楼主起心就是“同事们去公司咖啡店叫上我一起买咖啡，周末一起羽打羽毛球，（可以推断要联系打羽毛球和都是国人正常社交）加了微信和 ins（楼主甚至没提妹子一直给他点赞之类的），然后就“觉得她对我有好感”了，所以“逐渐对她产生好感”了……fine 这里还是正常青少年心理。
+  2. 楼主声称跟老婆说了之后老婆让减少接触，但是无奈“公司 5 点之后就没人了所以单独待着时间多了，一些暧昧的气氛就出现了，也让我在微信里说了一些不该说的话（比如你长得很好看之类的）”。Excuse me???所以现在不但不让女生加班以免男同事产生误会，一个 FB ads 组连上班到 5 点都不行了吗？？？湾区码农尤其年轻人大多数 10 点多才到办公室，8 小时不到就是故意加班和你单独相处了？？以及湾区尤其是 FB 这种 open office 如何单独相处？？？难道是开个 meeting room 跟你一起上班不成？稍微下班晚点七点跟保洁小哥单独相处咋整？佛了。
+  3. 微信骚扰了之后“气氛奇怪”——女生已经刻意避嫌了。评论里还有人说楼主要求去女生家，女生不愿意参加楼主的 project 但是楼主还威胁她说大家都不欢迎她这样不好做人🙄️。
+  4. 于是楼主憋不住了“在一次谈话中说出来我对她有好感但是我已经和我老婆结婚了，所以只想做普通朋友之类的”。“结果她让我特别惊讶的是她说其实她是可以去report我之类的话，但为了我们组她不想这么干。” 这段槽点太多，一个女生对组里更 senior 的同事摊开了说我要去 report 你了这是要多大勇气，说明女生也不想把事情闹僵。“然后她就说什么她知道有很多人喜欢她，而且她也快要有新男朋友之类的话。”楼主的角度可能是想 slut shame 人家，旁观者角度明显是用快有新男朋友来给楼主台阶下。真要搞你直接反手转发 HR 一点毛病没有好吗？
+  5. “当时我为了安抚她，就说谢谢她没有去report，但是我不太明白她要去report什么”。Excuse me 谁安抚谁？？就这楼主完全不理解自己一个半 report 关系的 tech lead，已婚，一直纠缠女同事，有什么不妥的，即便前面已经说了自己微信说了些不该说的话（能挑出来的那句“你长得很好看”估计已经是较轻的了，证据充足直接开除大家意会一下）。这个案例真的放到 training 里都会觉得太假题太简单，不知道楼主是有多不以为意才能毫无察觉。
+  6. “当时谈话完，她特别开开心心的走了。”更明显了，女生以为解决了问题不用担心工作也不用闹僵了。
+  7. “之后我感觉和她特别尴尬，所以有些刻意地躲着她（感觉这也是她之后要report我的原因，因为她觉得她的工作受到了影响）”——嗯你作为一个带项目的 E5 因为自己想入非非害得人家没法跟你做项目，还好意思说是“她觉得“而已？
+  8. “被调查后过几天，我就被老板和HR叫到一个小房间说我被terminated，原因是性骚扰”。嗯查了几天就立刻开了，证据有多清楚可想而知。“我当时就蒙了，我怎么也没想到会被说成是性骚扰。” 印证了之前不知道人家要 report 什么，楼主也算是不自知的 consistent 的了。
+  9. “之后和律师follow-up,说sexual harassment的定义是behavior characterized by the making of unwelcome and inappropriate sexual remarks”。——对，律师没说有斡旋余地（以楼主“单独5点加班”都要讲明的架势，律师说有争议的话会不说吗？），怕是看了你的材料脑子里翻了个白眼心想你这脑子有坑吧，侧面印证锤有多实。
+ 10. “自己也总是在懊悔自己当初为什么会做出那些特别SB的事，也特别愤恨那个女生为什么要去report。”律师都跟你说了你还是愤恨？不 report 你留着 PSC 过年吗？？留着等你 rape 吗？（反手抄送昨晚才被科普的<a href="https://www.usnewsexpress.com/archives/12623" data-type="URL" data-id="https://www.usnewsexpress.com/archives/12623" target="_blank" rel="noreferrer noopener">你脸旧案</a>）
+ 11. “公司里的异性关系特别tricky,千万不要和同事有暧昧关系。”。Tricky your daddy，每年一次强制 training 里白纸黑字写的还有 quiz 给你加深印象说可以 ask out for date 一次，被拒绝之后继续就是 harrasment，你是不识字吗？（我认识的同组同事开始交往发展为稳定恋爱关系甚至结婚的和后来好聚好散的好几对了，把 harassment prevention 阴阳怪气地妖魔化为见到胳膊就想到大腿那种确定不是敌军伪装来给楼主洗地赞同 tricky 的？）
+ 12. “尤其是广大男性同胞，公司很多时候都是偏袒弱势群体（女性）的。“后面好意思说“这件事主要错还是在我，发这个帖子就是想听听大家的想法骂骂我，有些描述可能不是很客观，再次对当事人表示道歉。”不是的喔，你都补充两次“愤恨”人家去 report 你并且“不明白为什么要 report”你了，还在结尾推荐了两本书和一些心路历程，你说你不是来找认同找人想一起 slut shame 女生的？翻车了还想自己圆回来？满满的”我踩了一个雷，大家以后性骚扰的时候隐蔽一点哟“的语气。
+ 13. “希望大家可以不要再讨论这件事了，不想对我的家人带来伤害。”所以你一个已婚男骚扰同事屡教不改被开除的时候没考虑到自己可能对家人带来伤害？
+ 14. “我也联系过其他律师，但是他们并不是特别愿意接这个案子。”手动微笑。律师又不是傻子。然后楼主总结出的原因是“即使我和前雇主打官司，他们光耗着就能耗死我“。你以为你没毛病公司闲的没事干喜欢找你事吗？招个人成本多大你不知道吗？
+ 15. 最后一条更新里还在说“我完全没有想用title威胁她做任何事。她朋友的回复中我才知道当事人的理解的和我的本意是不一样的。“。说好的”让大家来骂骂我“呢？
+ 16. 评论区的两个知情人士回复“楼主你要脸吗？我知道一切实情，建议你改一改帖子“、“作为一个知情者 我觉得楼主在这里颠倒黑白真的智障“。另外楼主这个贴经过他的主视角描述已经很多美化了，居然还有如此多槽点，可想而知事情实情有多可怕。
+
+个人认为，楼主已经 get what he deserved （被立即开除，刚好遇到 covid-19 工作也不好找，在网上也被大家喷到先删工作记录再整个 linkedin 都删了），现在主要骂点是他从头到尾的不自知了，不网暴人肉现实中追打的前提下提高点曝光度，给这种拎不清的男的和从小受 blame 受害者教育的女生们提个醒，也好。
+
+<hr class="wp-block-separator has-text-color has-background has-secondary-background-color has-secondary-color" />
+
+更新：就楼主这个叙事在我心目不存在“反转”的啊（除非隔天曝出来楼主精分讲的都是假的，真实情况是女生用刀威胁把楼主强奸了（cue 一下我文里第 10 条那个链接大家可以看一下，另一个教科书级 but even worse 的案例），女生就算已婚出轨先勾引再踹你（which she didn&#8217;t, even in OP&#8217;s story）楼主这个角度的故事被开都是活该啊。某些吃瓜群众对反转的要求是不是太低了？
+
+<ol start="17">
+  <li>
+    这事最大的槽点是，本来 nobody, literally nobody 扒楼主这事，不是女生新男友，不是楼主老婆，也不是内部同事闲聊泄露了。楼主本来被开了 offer 也不幸碰上疫情被收回重新开始找工作了，这事就翻片了。而是楼主自己没事找事出来想 slut shame 找认同感，结果翻车了还打肿脸充胖子，边各种明示暗示喷女生，边装可怜说“我就是来找骂的”。🙂
+  </li>
+</ol>
+
+<hr class="wp-block-separator has-text-color has-background has-quaternary-background-color has-quaternary-color is-style-wide" />
+
+如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
+
+<a href="https://www.patreon.com/bePatron?u=46962965" data-patreon-widget-type="become-patron-button">Become a Patron!</a>  
+  
+
+
+**<a rel="noreferrer noopener" href="https://afdian.net/@mtfront" target="_blank"><code>墙内赞助通道：爱发电</code></a>**
+
+<div class="da-reactions-outer TpostID523">
+  <div class="da-reactions-data da-reactions-container-async left" data-type="post" data-id="523" data-nonce="4281a24326" id="da-reactions-slot-post-523"> 
+  
+  <div class="da-reactions-static">
+    <img src="http://blog.douchi.space/wp-content/plugins/da-reactions/assets/dist/loading.svg" alt="Loading spinner" width="48" height="48" style="width:48px; height:48px" />
+  </div>
+</div></div>
+
+## Comments
+
+### Comment by R on 2020-12-10 16:30:03 -0800
+笑到不能自持。盲猜当事人/楼主会是那种当女生用我是拉拉来拒绝他、他会觉得你是用threesome来诱惑他的人。
+
+### Comment by 椒盐豆豉 on 2020-12-10 17:06:22 -0800
+哈哈哈哈哈哈你这个比喻过于形象

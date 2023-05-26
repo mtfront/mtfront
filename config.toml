@@ -5,3 +5,7 @@ theme = 'hugo-book'
 
 googleAnalytics = "UA-181620260-1"
 disqusShortname = "mtfront"
+
+[params]
+    BookRepo = 'https://github.com/mtfront/mtfront'
+    BookLogo = 'dino.gif'

@@ -1,0 +1,405 @@
+---
+title: 台北七日
+author: 椒盐豆豉
+type: post
+date: 2019-04-01T03:51:00+00:00
+url: /taipei-7-days/
+categories:
+  - 多喝热水
+tags:
+  - asia
+  - photography
+  - taiwan
+  - travel
+
+---
+ 
+
+作为一个西北五线城市内陆生长，大学亦在华北某无名经常被当野鸡的高校读书，研究生又扎进祖国码农圈堆子，又对台海局势等政治话题毫无兴趣的人，我对台湾的印象还停留在少年时代看的小清新电影们，脑海中的画像不外乎《不能说的秘密》里的淡水海岸，《那些年》里的铁路沙滩，《练习曲》里的单车环岛，和一干混淆了日本动画里长满青苔的石壁，稻田，蝉鸣和小道的模样。
+
+早已过了少年时代对做作青春的向往，加上我爸一个中年男人跟团游完回来差评如潮觉得“小池塘小市集小农村”没劲的一手评价，这趟旅途我更多是抱着打卡的心态。毕竟主要目的是参加同学在杭州的婚礼，从湾区到上海十几个小时的飞机折腾一趟，不如去附近转转。一年多前又刚去过日本香港泰国，对韩国又没什么兴趣，越南柬埔寨什么的我虽喜爱但家属要签证而且飞机太远，附近的旅行目的地似乎也就台湾最合适。加上家属年少时经常在台湾住的熟悉我完全不用操心行程，从美国直飞再回大陆我又只需要入台证不需要在再办通行证，这趟旅途也就顺理成章了。
+
+说来也奇怪，同样偏安一隅，同样地处南方，同样与大陆分分合合关系复杂，香港与台湾的画风完全不同。香港是一副风雨飘摇，中西合璧，踩着最快的扶梯吃着最贵的炒粉，行色匆匆。台湾却还保留着日系清爽，又没了日本的人口、文化、历史和经济负担，即便是台北市中心也有着慢悠悠地偏安一隅的悠闲。
+
+我废话比较多，只想当攻略用的，循着你觉得好的风景图找附近的描述跳着看就好。
+
+<!--more-->
+
+## Day 1 &#8211; 清闲的台北 {.wp-block-heading}
+
+
+
+清晨的飞机到达台北，坐机场线直接到达酒店附近。顺便赞美一下这个酒店 （Park Taipei Hotel），楼下就是大安捷运站，还有奶茶和咖啡店，有大片连排窗景，还可以看到 101，房间也干净不贵。
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="767" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.53.40-PM-1024x767.png" alt="" class="wp-image-713" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.53.40-PM-300x225.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.53.40-PM-1024x767.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.53.40-PM-768x575.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.53.40-PM-1536x1150.png 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.53.40-PM-2048x1534.png 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.53.40-PM-1600x1198.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>酒店房间 view</figcaption></figure>
+</div>
+
+还不能 check in，把行李放下之后我们就去外面溜达了。随便在附近路边小摊找了个有人排队的刈包摊买了点吃的，然后找个小公园坐下吃。也，太，好，吃，了，吧！！！！我是在美国太久了少见多怪吗？一瞬间就想起了小时候校门口那些卖的各种好吃夹膜，因为我妈有洁癖都不让我吃，偶尔有零花钱或者跟有同学请我吃的时候那种难得满足的记忆，可能更加深了我对现在能吃到这口味的好感。
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="768" height="1024" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.54.20-PM-768x1024.png" alt="" class="wp-image-714" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.54.20-PM-225x300.png 225w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.54.20-PM-768x1024.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.54.20-PM-1152x1536.png 1152w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.54.20-PM.png 1346w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>坐在小公园吃刈包</figcaption></figure>
+</div>
+
+还有因为这一行在市区很多暴走行程，我们偶尔累了就会找小公园坐下吃点东西。台北的小公园也挺多的，一水儿的同款儿童玩具、滑梯，各种在湾区见不到的亚热带季风气候的绿植。 在黄土朝天的湾区呆久了没见过世面，被台北家家门前几丛绿植，走两步就有个小公园鸟语蝉鸣的悠闲氛围吸引，甚至连自己最讨厌的阴沉天气都可以原谅了。三月多来还没热起来，冷气也早都走了，清爽宜人，昼夜几乎没有温差，太适合游客在外面行走了。我把这归咎于游客心态而不是上班，以我这么喜欢阳光喜欢晴天，要是要上班还得天天阴雨，我怕是得阴郁死。
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="765" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.55.03-PM-1024x765.png" alt="" class="wp-image-715" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.55.03-PM-300x224.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.55.03-PM-1024x765.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.55.03-PM-768x574.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.55.03-PM-1536x1148.png 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.55.03-PM-2048x1530.png 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.55.03-PM-1600x1196.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>一座标准台北小公园——绿植，花花绿绿的儿童滑梯，干净略有青苔的石板路，小亭子，三两躲老婆（？）的大爷和打电话讨论儿子学习的大妈，偷闲的上班族，遛狗的年轻人。感觉跟东京画的小公园画风也挺像。估计我们都是工作日游荡，一个小孩都没见到，十分开心。</figcaption></figure>
+</div>
+
+另外亲身证明”AB 型血不招蚊子“绝对是谣传。一行来我家属没事，我快要被蚊子吃了，第二天就赶紧逃进便利店买了消肿消痒药膏，天天喷着驱蚊水出门，还是被咬成狗。怎么三月就有蚊子了啊，你们敬业一点夏天再出来吸血好不好？
+
+为了打发时间，我们又去附近的诚品买了点书。 旅途第一天买的书就把手勒成了麻花，回酒店赶紧摆起啦做作一下。想起上次跟我妈硬在家乡书城呆了一小时硬是一本书的购买欲都没有。唉…… 想起小时候家有两个大书城，各类图书还百花齐放，我爱读的社科类也从来不会少，每周都要去泡上几小时买两三本回去。前年回国重去了一次，大失所望，只能见到教辅，工具书和鸡汤的身影了。前两天豆瓣转过一个广播说可能是这两年版号收紧迫于生计，遗憾。回国时间有限只去了五线小城市我家的书店（好歹也是两整层的），不知道大城市情况会不会好点。 也是这两年去了次香港的诚品，一进门羡慕的口水都要掉地上了——上上下下两层玲琅满目的书和读书的人就算了，各种类型都有平铺推荐版面和细分条，还有一堆特别精美的纪念品。
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="768" height="1024" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.55.57-PM-768x1024.png" alt="" class="wp-image-716" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.55.57-PM-225x300.png 225w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.55.57-PM-768x1024.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.55.57-PM-1152x1536.png 1152w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.55.57-PM.png 1342w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>旅途第一天就把一个箱子填了一半……</figcaption></figure>
+</div>
+
+时间差不多回到酒店，原计划是冲个澡休息小睡一下，下午三四点去淡水（离住的地方捷运大概不到一小时？）逛逛老街。三点多，起不来，想说睡到七八点出门，结果一觉醒来十一点了……只好出门吃宵夜。
+
+查了查哪家开门，走路去附近一兰拉面（上次去日本倒是没吃过，净顾着吃生鱼片寿司、鳗鱼饭跟和牛烧烤了）。一兰拉面对独行食客也太友好了吧！小隔间最大化桌子空间完全不用跟邻座有交流，跟服务员也不用交流帘子隔起来有事按铃，点单什么的全是选项手写不用讲话，还 24 小时营业。可惜队太长，半夜一点排了半小时🤔（我们排到头服务员来把后面的人领去分店了= =）。感觉三藩上班区应该多搞点。（后厨是不是像 overcooked 一样啊）
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="767" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.56.42-PM-1024x767.png" alt="" class="wp-image-717" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.56.42-PM-300x225.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.56.42-PM-1024x767.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.56.42-PM-768x575.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.56.42-PM-1536x1150.png 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.56.42-PM-2048x1534.png 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.56.42-PM-1600x1198.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>一兰拉面的小隔间，帘子后面上菜，写单按铃服务，两边隔开，完全不用跟人交流</figcaption></figure>
+</div>
+
+
+
+## Day 2 &#8211; 人间烟火 {.wp-block-heading}
+
+
+
+因为第一天睡太多，导致淡水和士林两个夜市都堆在了第二天，于是早上就非常清闲了，睡睡觉，看看电视，中下午出门。迷上了一个叫“动物星球”的频道，全天不同时段滚动播出不同主题的动物故事（基本是译制字幕），比如我们一下午在看奥妙湄公河，看广告还有救助残疾狗的亚曼达，人类变成猎物，美国红脖河岸生活，野生尚比亚，阿拉斯加专题什么的，听起来就特吸引。简直是我梦想中的电视台，就是广告多了点。赶紧去订阅了 YouTube 频道。
+
+话说香港的电视台似乎也有很多译制/英文引进节目。比起来，大陆虽然原创节目多，但是普通民众能接触的到的国外节目还是太少了。遗憾。不过这次回国发现 B 站越来越像 youtube 了，不再只是追番刷弹幕，也有了很多其他视频，比如 vlog，测评，教学之类的。之前买 B 站股票就赚了快 40%，这次回来又入了点。
+
+既然要去淡水方向，就顺便去趟故宫博物院吧。旁边刚好还有个摩天轮，上去打个卡。顺便再赞叹一下华为相机真是方便，随便掏出来广角和长焦都能 handle，随便做一下还有移轴玩具感（太俗了我就没做）。周内出来玩真好啊，一个熊孩子都没看见。
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="767" height="1024" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.57.38-PM-767x1024.png" alt="" class="wp-image-718" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.57.38-PM-225x300.png 225w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.57.38-PM-767x1024.png 767w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.57.38-PM-768x1026.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.57.38-PM-1150x1536.png 1150w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.57.38-PM.png 1342w" sizes="(max-width: 767px) 100vw, 767px" /></figure>
+</div>
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="768" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.57.53-PM-1-1024x768.png" alt="" class="wp-image-720" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.57.53-PM-1-300x225.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.57.53-PM-1-1024x768.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.57.53-PM-1-768x576.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.57.53-PM-1-1536x1152.png 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.57.53-PM-1-2048x1536.png 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.57.53-PM-1-1600x1200.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>房顶花花绿绿的还挺可爱的</figcaption></figure>
+</div>
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="767" height="1024" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.58.30-PM-767x1024.png" alt="" class="wp-image-721" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.58.30-PM-225x300.png 225w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.58.30-PM-767x1024.png 767w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.58.30-PM-768x1026.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.58.30-PM-1150x1536.png 1150w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.58.30-PM.png 1342w" sizes="(max-width: 767px) 100vw, 767px" /><figcaption>真是从哪都看得见 101</figcaption></figure>
+</div>
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="765" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.59.04-PM-1-1024x765.png" alt="" class="wp-image-723" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.59.04-PM-1-300x224.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.59.04-PM-1-1024x765.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.59.04-PM-1-768x574.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.59.04-PM-1-1536x1147.png 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.59.04-PM-1-2048x1530.png 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-8.59.04-PM-1-1600x1195.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>这张没什么内容，纯粹是炫耀手机有广角</figcaption></figure>
+</div>
+
+  
+本来以为台北就算比不上香港怎么也跟三藩差不多有天际线吧，结果真就 101 一个高楼。当然，整个城市节奏慢了许多，也是件好事。之前<a href="https://www.douban.com/people/mfcndw/status/2439195472/" data-type="URL" data-id="https://www.douban.com/people/mfcndw/status/2439195472/" target="_blank" rel="noreferrer noopener">转过这个广播</a>挺切题的。
+
+下了摩天轮就去故宫博物院， 去的路上 Uber 司机非常热情地介绍国宝都在这儿。结果白菜红烧肉毛公鼎全部外借了，一个都没看到。只好拿自拍充数假装去过。在门口等 uber 司机的时候还被非常热心的某大法传教大妈传教了半天，后来下雨了还热心地问我们要不要借伞。（台北 Uber 还挺多的）
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="1024" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.00.09-PM-1024x1024.png" alt="" class="wp-image-724" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.00.09-PM-300x300.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.00.09-PM-1024x1024.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.00.09-PM-150x150.png 150w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.00.09-PM-768x768.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.00.09-PM.png 1342w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>没看到本体，只好买冰箱贴凑数了</figcaption></figure>
+</div>
+
+然后就去淡水老街和士林夜市暴走。不禁感叹台湾人真是喜欢夜市，也能那怪我爸那种只喜欢看大风景的被拉去这种游客景点会不喜欢。家属可能有点水土不服，没什么胃口，每买小吃都是我吃完，后来撑到实在是吃不下了，就走马观花地随便按了按快门。比较令人佩服的是，客流量这么大的小吃街，以台北的习惯路上也没几个垃圾桶，地上居然没什么垃圾，连油污都不怎么有，不知道怎么做到的。（谁知随后在基隆夜市就看到前面的中学生随手吃完炸鸡就丢地上了，家属一直后悔没把它捡起来塞她书包里）
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="681" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.00.36-PM-1024x681.png" alt="" class="wp-image-725" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.00.36-PM-300x200.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.00.36-PM-1024x681.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.00.36-PM-768x511.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.00.36-PM-1536x1022.png 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.00.36-PM-2048x1363.png 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.00.36-PM-1600x1065.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>这张我是想拍出点恐怖效果的，结果被友人说可爱- &#8211;</figcaption></figure>
+</div><figure class="wp-block-gallery aligncenter columns-2 is-cropped wp-block-gallery-1 is-layout-flex">
+
+<ul class="blocks-gallery-grid">
+  <li class="blocks-gallery-item">
+    <figure><img decoding="async" loading="lazy" width="1024" height="682" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.01.42-PM-1024x682.png" alt="" data-id="726" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.01.42-PM.png" data-link="https://blog.douchi.space/?attachment_id=726" class="wp-image-726" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.01.42-PM-300x200.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.01.42-PM-1024x682.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.01.42-PM-768x511.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.01.42-PM.png 1340w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+  </li>
+  <li class="blocks-gallery-item">
+    <figure><img decoding="async" loading="lazy" width="1024" height="680" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.01.59-PM-1024x680.png" alt="" data-id="727" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.01.59-PM.png" data-link="https://blog.douchi.space/?attachment_id=727" class="wp-image-727" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.01.59-PM-300x199.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.01.59-PM-1024x680.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.01.59-PM-768x510.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.01.59-PM.png 1344w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+  </li>
+  <li class="blocks-gallery-item">
+    <figure><img decoding="async" loading="lazy" width="1024" height="679" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.02.09-PM-1024x679.png" alt="" data-id="728" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.02.09-PM.png" data-link="https://blog.douchi.space/?attachment_id=728" class="wp-image-728" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.02.09-PM-300x199.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.02.09-PM-1024x679.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.02.09-PM-768x509.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.02.09-PM.png 1348w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+  </li>
+  <li class="blocks-gallery-item">
+    <figure><img decoding="async" loading="lazy" width="1024" height="681" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.02.19-PM-1024x681.png" alt="" data-id="729" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.02.19-PM.png" data-link="https://blog.douchi.space/?attachment_id=729" class="wp-image-729" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.02.19-PM-300x200.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.02.19-PM-1024x681.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.02.19-PM-768x511.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.02.19-PM.png 1344w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+  </li>
+</ul></figure> 
+
+## Day 3 & 4 阳明山泡汤 {.wp-block-heading}
+
+
+
+第三天中午起来吃了顿马辣火锅，就打车去阳明山了。我们俩出游一般是在酒店躺着的时间最多，从来不赶景点。前一天的俩夜市连轴转暴走已经把整周的走路余额都用光了，刚好去阳明山泡两天汤。
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large is-resized"><img decoding="async" loading="lazy" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.03.24-PM-1024x1021.png" alt="" class="wp-image-730" width="640" height="638" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.03.24-PM-300x300.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.03.24-PM-1024x1021.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.03.24-PM-768x766.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.03.24-PM.png 1340w" sizes="(max-width: 640px) 100vw, 640px" /><figcaption>路过的圆山大饭店，这饭店建的比故宫博物院还气派</figcaption></figure>
+</div>
+
+阳明山嘛，一个跟我老家太白山脚下有个叫汤峪的地方差不多，有点自然景观，但主要是泡温泉。我们本来原计划第二天去竹子湖啊什么的走走，但这地方叫车也不方便，公交班次也少，不开车来实在是不便，外加我们懒，就躺在酒店看电视泡汤了。<figure class="wp-block-gallery aligncenter columns-1 wp-block-gallery-3 is-layout-flex">
+
+<ul class="blocks-gallery-grid">
+  <li class="blocks-gallery-item">
+    <figure><img decoding="async" loading="lazy" width="1024" height="765" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.03.54-PM-1024x765.png" alt="" data-id="731" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.03.54-PM.png" data-link="https://blog.douchi.space/?attachment_id=731" class="wp-image-731" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.03.54-PM-300x224.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.03.54-PM-1024x765.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.03.54-PM-768x574.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.03.54-PM.png 1346w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+  </li>
+  <li class="blocks-gallery-item">
+    <figure><img decoding="async" loading="lazy" width="1024" height="768" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.04.05-PM-1024x768.png" alt="" data-id="732" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.04.05-PM.png" data-link="https://blog.douchi.space/?attachment_id=732" class="wp-image-732" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.04.05-PM-300x225.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.04.05-PM-1024x768.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.04.05-PM-768x576.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.04.05-PM.png 1346w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+  </li>
+  <li class="blocks-gallery-item">
+    <figure><img decoding="async" loading="lazy" width="1024" height="411" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.04.18-PM-1024x411.png" alt="" data-id="733" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.04.18-PM.png" data-link="https://blog.douchi.space/?attachment_id=733" class="wp-image-733" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.04.18-PM-300x120.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.04.18-PM-1024x411.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.04.18-PM-768x308.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.04.18-PM-1536x616.png 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.04.18-PM-2048x821.png 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.04.18-PM-1600x641.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+  </li>
+  <li class="blocks-gallery-item">
+    <figure><img decoding="async" loading="lazy" width="1024" height="768" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.04.27-PM-1024x768.png" alt="" data-id="734" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.04.27-PM.png" data-link="https://blog.douchi.space/?attachment_id=734" class="wp-image-734" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.04.27-PM-300x225.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.04.27-PM-1024x768.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.04.27-PM-768x576.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.04.27-PM.png 1342w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+  </li>
+</ul><figcaption class="blocks-gallery-caption">就上面那张全景左边这个私人泡汤池倒是派上用场，在里面挂着 iPad 看了部电影和好几集《爱死机》</figcaption></figure> 
+
+  
+这里不得不吐槽一下住的酒店，叫阳明山天籁酒店，算是个 resort，价钱算便宜，山村里跟台北差不多了。结果设施老旧服务差，楼下还搞装修，酒店设的旅行路线团也莫名其妙（于是我们没去）。一问台湾的朋友似乎这还是个挺有名的酒店。感觉山村的地方跟大城市同样价钱算是豪华的酒店，往往设施体验都没大城市好。上次在泰国芭提雅也是，曼谷住的五星酒店服务好东西好吃设施房间都豪华，一去芭提雅也是入户有私人泳池那种，从设施到清洁度到服务都差太远了，价钱还差不多。
+
+不过这个天籁酒店有一点我挺喜欢，他里面的公用温泉形式是一个一个分开的小池子，每个池子不同主题，什么冷水清澈汤啊，高温按摩汤啊，中温波浪养生汤啊，鱼吃脚皮汤啊之类的，都在一个小庭院里集中在一起，可以走来走去，我们又是淡季去没什么熊孩子，还挺好玩。比起来之前在日本泡的汤一般都是一个大浴场一两个池子一个主题，进去就是真硬核泡汤了。
+
+## Day 5 意外惊喜的山村九份 {.wp-block-heading}
+
+
+
+我在这次台湾之旅前是没听过九份这个地方的。坐车去的路上听家属科普说传说《千与千寻》的原型就是九份。虽然她当即查了一下发现宫崎骏辟谣说没去过九份，但是也非常形象地给了我一个预设印象。结果去了还是惊喜，非常惊喜，可以算我旅行目的地中最惊喜的（毕竟我什么准备工作也没做，一点预期都没有）。
+
+这地方简直跟能想象到的日本&台湾小清新电影/动画里的田园山村一模一样：四通八达蜿蜒的石阶，幽静的长着青苔的小路，爬满藤蔓的旧墙，家家户户门口的几株植物，闹市区店家没精打采的狗子，静谧步道扶手上轻巧走过的猫咪。空气中弥漫的湿气在凉爽的三月天给拾阶而上的行人身上铺满一层细密的汗。人山人海接踵磨肩的商业区老街和不出五分钟就静得只能听到蝉鸣、风声和人家中传出的台语谈话声的居民区相应而成了人间烟火气的两种极致。 世界上如果有比 San Diego 还让我冲动觉得“如果能来这里退休夫复何求”的地方，那应该就是九份了。<figure class="wp-block-gallery aligncenter columns-2 is-cropped wp-block-gallery-5 is-layout-flex">
+
+<ul class="blocks-gallery-grid">
+  <li class="blocks-gallery-item">
+    <figure><img decoding="async" loading="lazy" width="1024" height="682" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.06.42-PM-1024x682.png" alt="" data-id="735" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.06.42-PM.png" data-link="https://blog.douchi.space/?attachment_id=735" class="wp-image-735" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.06.42-PM-300x200.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.06.42-PM-1024x682.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.06.42-PM-768x512.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.06.42-PM-1536x1023.png 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.06.42-PM-2048x1364.png 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.06.42-PM-1600x1066.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="blocks-gallery-item__caption">民宿阳台景色</figcaption></figure>
+  </li>
+  <li class="blocks-gallery-item">
+    <figure><img decoding="async" loading="lazy" width="1024" height="684" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.06.55-PM-1024x684.png" alt="" data-id="736" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.06.55-PM.png" data-link="https://blog.douchi.space/?attachment_id=736" class="wp-image-736" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.06.55-PM-300x200.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.06.55-PM-1024x684.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.06.55-PM-768x513.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.06.55-PM-1536x1026.png 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.06.55-PM-2048x1368.png 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.06.55-PM-1600x1069.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="blocks-gallery-item__caption">从全村四通八达的石阶一路走下来</figcaption></figure>
+  </li>
+  <li class="blocks-gallery-item">
+    <figure><img decoding="async" loading="lazy" width="1024" height="684" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.09-PM-1024x684.png" alt="" data-id="737" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.09-PM.png" data-link="https://blog.douchi.space/?attachment_id=737" class="wp-image-737" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.09-PM-300x200.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.09-PM-1024x684.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.09-PM-768x513.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.09-PM-1536x1025.png 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.09-PM-2048x1367.png 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.09-PM-1600x1068.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+  </li>
+  <li class="blocks-gallery-item">
+    <figure><img decoding="async" loading="lazy" width="1024" height="683" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.21-PM-1024x683.png" alt="" data-id="738" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.21-PM.png" data-link="https://blog.douchi.space/?attachment_id=738" class="wp-image-738" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.21-PM-300x200.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.21-PM-1024x683.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.21-PM-768x512.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.21-PM-1536x1024.png 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.21-PM-2048x1365.png 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.21-PM-1600x1067.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+  </li>
+  <li class="blocks-gallery-item">
+    <figure><img decoding="async" loading="lazy" width="1024" height="683" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.35-PM-1024x683.png" alt="" data-id="739" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.35-PM.png" data-link="https://blog.douchi.space/?attachment_id=739" class="wp-image-739" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.35-PM-300x200.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.35-PM-1024x683.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.35-PM-768x512.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.35-PM-1536x1024.png 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.35-PM-2048x1365.png 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.35-PM-1600x1067.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+  </li>
+  <li class="blocks-gallery-item">
+    <figure><img decoding="async" loading="lazy" width="1024" height="681" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.47-PM-1024x681.png" alt="" data-id="740" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.47-PM.png" data-link="https://blog.douchi.space/?attachment_id=740" class="wp-image-740" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.47-PM-300x200.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.47-PM-1024x681.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.47-PM-768x511.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.47-PM-1536x1022.png 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.47-PM-2048x1363.png 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.07.47-PM-1600x1065.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+  </li>
+</ul></figure> 
+
+住的地方对面有个叫富山宫的“庙中庙”，听热情的村民说是有人事业发达了回来建庙，后面人继续发达回来，又不能对前人的庙不敬，就在外面一层又一层的建了起来。
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="683" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.09.13-PM-1024x683.png" alt="" class="wp-image-741" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.09.13-PM-300x200.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.09.13-PM-1024x683.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.09.13-PM-768x512.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.09.13-PM-1536x1024.png 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.09.13-PM-2048x1365.png 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.09.13-PM-1600x1067.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>台湾到处都很多庙，九份也不例外。</figcaption></figure>
+</div>
+
+我还拍了段从民宿楼梯一路穿过整个村子走到老街的视频，打算剪个 timelapse。为了不把这篇游记拖没，先 TBD。
+
+以及，台湾的芋圆也太好吃了吧，大陆的太久没吃过不记得了，比湾区是强几百倍了。湾区/LA 的鲜芋仙都太甜，完全吃不完一碗。台湾的芋圆甜淡适中，感觉我能吃三碗不腻。
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="685" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.10.03-PM-1024x685.png" alt="" class="wp-image-742" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.10.03-PM-300x201.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.10.03-PM-1024x685.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.10.03-PM-768x513.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.10.03-PM-1536x1027.png 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.10.03-PM-2048x1369.png 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.10.03-PM-1600x1070.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</div>
+
+唯一的美中不足是，主景点九份老街 way too crowded. 我们还是周中去的，也是淡季，但人多的根本走不动路，立刻烦躁到不行。世界上日本人和韩国人最多的地方除了他们本国应该就是这儿了吧。
+
+另外，老街可能是因为过于商业化，食物也不怎么样。吃到一个叫护士长卤味的，大概是我人生中吃过最难吃的卤味。我们这么不爱浪费粮食的人都各吃了一个然后丢掉了。比起来更繁闹的士林夜市、淡水老街和基隆夜市的东西还是那么好吃，果然小地方过度商业化还是要留个心。
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="769" height="1024" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.10.17-PM-769x1024.png" alt="" class="wp-image-743" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.10.17-PM-225x300.png 225w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.10.17-PM-769x1024.png 769w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.10.17-PM-768x1022.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.10.17-PM-1154x1536.png 1154w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.10.17-PM.png 1340w" sizes="(max-width: 769px) 100vw, 769px" /><figcaption>这是夜晚老街人少的时候，因为很多人是 day trip 晚上已经回台北/基隆了。白天人多的时候我根本没心情举相机/手机。</figcaption></figure>
+</div>
+
+老街人多心生烦躁，赶紧连滚带爬走回民俗。看着夜晚静谧的山村小路，立刻又恢复了宁静和对这儿的一见钟情。
+
+<div class="wp-block-columns is-layout-flex wp-container-9">
+  <div class="wp-block-column is-layout-flow" style="flex-basis:66.66%">
+    <div class="wp-block-image">
+      <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="767" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.10.51-PM-1024x767.png" alt="" class="wp-image-744" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.10.51-PM-300x225.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.10.51-PM-1024x767.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.10.51-PM-768x575.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.10.51-PM-1536x1151.png 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.10.51-PM-2048x1534.png 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.10.51-PM-1600x1199.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+    </div>
+    
+    <div class="wp-block-image">
+      <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="765" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.11.07-PM-1024x765.png" alt="" class="wp-image-745" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.11.07-PM-300x224.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.11.07-PM-1024x765.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.11.07-PM-768x574.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.11.07-PM-1536x1148.png 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.11.07-PM-2048x1530.png 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.11.07-PM-1600x1196.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+    </div>
+  </div>
+  
+  <div class="wp-block-column is-layout-flow" style="flex-basis:50%">
+    <div class="wp-block-image">
+      <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="767" height="1024" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.11.20-PM-767x1024.png" alt="" class="wp-image-746" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.11.20-PM-225x300.png 225w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.11.20-PM-767x1024.png 767w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.11.20-PM-768x1025.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.11.20-PM-1151x1536.png 1151w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.11.20-PM.png 1338w" sizes="(max-width: 767px) 100vw, 767px" /><figcaption>静谧夜里过分热情的猫和喂猫少年。我们一路过猫又跟着我们走过来抛弃了之前在喂它们的少年，感觉怪不好意思的</figcaption></figure>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="683" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.13.40-PM-1024x683.png" alt="" class="wp-image-747" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.13.40-PM-300x200.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.13.40-PM-1024x683.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.13.40-PM-768x512.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.13.40-PM.png 1338w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>民宿门口</figcaption></figure>
+</div>
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="764" height="1024" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.13.51-PM-764x1024.png" alt="" class="wp-image-748" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.13.51-PM-224x300.png 224w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.13.51-PM-764x1024.png 764w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.13.51-PM-768x1029.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.13.51-PM-1146x1536.png 1146w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.13.51-PM.png 1336w" sizes="(max-width: 764px) 100vw, 764px" /><figcaption>民宿早餐，那个苹果是我吃过最好吃的苹果排前三了</figcaption></figure>
+</div>
+
+住的是一个叫雨天晴的民宿，价格公道，老板人很热情，早餐也是现做的，味道不错。最重要的是这应该是九份最高的民宿，选有 view 的房间可以看到九份全景，包括村落和远处的山和基隆港（本段第一张图）。离老街 10 分钟步行距离，刚好可以路过十分有情调的村中阶梯，又完全不会被游客嬉闹所波及。对面就有个公交站，刚好也能到瑞芳火车站。
+
+## Day 6 骑着电动机车 Gogoro，从黄金瀑布到基隆 {.wp-block-heading}
+
+
+
+为什么说机车才是台湾行的正确打开方式呢？就拿九份周边来说，山村公共交通不便，打车也没市区容易，开车小路山路不熟停车也得考虑，地方又小景点密集开车打车都 overhead 太大。摩托车兼具了速度与方便，完美融入当地生活。从鬼斧神工的自然景观到车水马龙的基隆庙口也不过几十分钟的车程。第二天一早我们就坐公交车到瑞芳火车站，准备租摩托出发。
+
+一个问题是汽油机车管得严，非台湾驾照有可能租不到。可能瑞芳这地方管的严，即便我们有美国的摩托车驾照和国际驾照翻译件，当地连着问了几家也没有普通机车愿意租给我们。刚好家属对台湾本土小电机车 gogoro 挺感兴趣，电车也不查驾照，我们就租了一台。Gogoro 操作简单，动力尚可（两个人山路有点虚，疯狂被油车超车），续航还行，换电站在台北基隆还挺多挺方便，换电方便即换即走。
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="356" height="201" src="https://blog.douchi.space/wp-content/uploads/2020/12/20190321_043619.gif" alt="" class="wp-image-749" /><figcaption>之前我这个 gogoro 换电 gif 的广播还莫名火了一把</figcaption></figure>
+</div>
+
+租车的时候又被台湾民风种草了。去租机车，信用卡也没留，还车时才付钱，也没有押金。我们问店家你不怕人家把车拿走吗？店家小妹说我们有你们资料啊（护照和号美国驾照号而已，复印都没有）🤔🤔🤔。话说 gogoro 好酷，界面使用方式什么的都好现代，可以说是台湾 Tesla 了。<figure class="wp-block-image size-large">
+
+<img decoding="async" loading="lazy" width="1024" height="770" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-10.32.36-PM-1024x770.png" alt="" class="wp-image-844" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-10.32.36-PM-300x225.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-10.32.36-PM-1024x770.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-10.32.36-PM-768x577.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-10.32.36-PM.png 1344w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption>骑车是游台湾的正确打开方式</figcaption></figure> 
+
+难得地碰到一天晴天，山和大海都变得可爱了起来。有了象鼻岩还要什么十二门徒，有了黄金瀑布还去什么优胜美地。黄金博物馆也是个门口其貌不扬结果意外内容丰富精致的园区，矿工便当猪扒饭也是实惠好吃。晚上继续骑着小机车去基隆庙口夜市，人没有台北九份那么多。
+
+象鼻岩这地方略有耳闻，本以为是可去可不去的景点，结果但没想到这么漂亮。不光是鬼斧神工的象鼻岩本身，从停车场一小段 hike 到海边的路上礁石也非常美（看起来像凝固的熔浆？）。坐在石头上吹吹海风，心旷神怡。
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="327" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.15.53-PM-1024x327.png" alt="" class="wp-image-750" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.15.53-PM-300x96.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.15.53-PM-1024x327.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.15.53-PM-768x245.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.15.53-PM-1536x490.png 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.15.53-PM-2048x654.png 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.15.53-PM-1600x511.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</div><figure class="wp-block-gallery aligncenter columns-2 is-cropped wp-block-gallery-10 is-layout-flex">
+
+<ul class="blocks-gallery-grid">
+  <li class="blocks-gallery-item">
+    <figure><img decoding="async" loading="lazy" width="1024" height="683" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.16.50-PM-1024x683.png" alt="" data-id="752" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.16.50-PM.png" data-link="https://blog.douchi.space/?attachment_id=752" class="wp-image-752" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.16.50-PM-300x200.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.16.50-PM-1024x683.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.16.50-PM-768x512.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.16.50-PM.png 1344w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+  </li>
+  <li class="blocks-gallery-item">
+    <figure><img decoding="async" loading="lazy" width="1024" height="684" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.17.02-PM-1024x684.png" alt="" data-id="753" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.17.02-PM.png" data-link="https://blog.douchi.space/?attachment_id=753" class="wp-image-753" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.17.02-PM-300x200.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.17.02-PM-1024x684.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.17.02-PM-768x513.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.17.02-PM.png 1344w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+  </li>
+  <li class="blocks-gallery-item">
+    <figure><img decoding="async" loading="lazy" width="1024" height="684" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.16.37-PM-1024x684.png" alt="" data-id="751" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.16.37-PM.png" data-link="https://blog.douchi.space/?attachment_id=751" class="wp-image-751" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.16.37-PM-300x200.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.16.37-PM-1024x684.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.16.37-PM-768x513.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.16.37-PM-1536x1026.png 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.16.37-PM-2048x1369.png 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.16.37-PM-1600x1069.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+  </li>
+</ul></figure> 
+
+象鼻也岩附近还有一个叫“阴阳海”的景点，应该是河水入海颜色不同。阴阳海正上方有一个废弃工厂，据说是《美国队长》某个场景取景处。我想响了半天也没想起来是哪集，可能是九头蛇基地？
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="419" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.18.48-PM-1024x419.png" alt="" class="wp-image-754" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.18.48-PM-300x123.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.18.48-PM-1024x419.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.18.48-PM-768x314.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.18.48-PM-1536x628.png 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.18.48-PM-2048x838.png 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.18.48-PM-1600x655.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</div>
+
+从象鼻岩往九份骑（对，我们早上出去转完太懒中午要回去睡一觉下午才出去），会路过一个叫黄金瀑布的地方，来之前根本没听说过，还是民宿老板热情介绍的，幸亏来了不然错过太可惜了。这附近是原来的金矿，山里还有个黄金博物馆，所以瀑布叫黄金瀑布。
+
+看到真正的“黄金瀑布”前，先被一个“黄金河”（我瞎起的名字）震住了：河床和河里的石头都是金色的，无责任瞎猜应该是附近铜矿的缘故，拍出来效果非常震撼。在黄金瀑布停车场之前一段距离的一座桥上能拍到完美视角。再往前走两步，还能看到黄金河映着远处的山村和大海，美不胜收。这地方根本没有车位也没人，地图上也没景点，不亲自路过根本不会看见。如果不是骑摩托车来的话就得把车心虚地横在门口了。
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="766" height="1024" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.19.05-PM-766x1024.png" alt="" class="wp-image-755" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.19.05-PM-224x300.png 224w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.19.05-PM-766x1024.png 766w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.19.05-PM-768x1027.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.19.05-PM-1149x1536.png 1149w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.19.05-PM.png 1342w" sizes="(max-width: 766px) 100vw, 766px" /><figcaption>横跨“黄金河”的桥上视角</figcaption></figure>
+</div>
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="768" height="1024" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.19.38-PM-1-768x1024.png" alt="" class="wp-image-757" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.19.38-PM-1-225x300.png 225w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.19.38-PM-1-768x1024.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.19.38-PM-1-1152x1536.png 1152w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.19.38-PM-1.png 1342w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+</div>
+
+再往山上骑就是黄金博物馆了。听名字本来以为是座展示金矿开采的小馆，结果进去是整个大园区，食堂、步道、日占矿工宿舍、庭院、金矿开采工具、历史、金饰应有尽有，暴走了一下午浑身大汗才走完。票价也不贵好像就 100 台币，工作人员还都特别热情地站在门口给介绍，后来小学生团来了工作人员还赶紧提醒我们快赶在小学生团前某打卡展品拍照摸金留念。小食堂里的“矿工套餐”也实惠好吃，八九十台币的猪扒饭+小菜+汤+无限畅饮饮料（可乐雪碧之类），吃完元气满满继续爬.
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="684" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.20.15-PM-1-1024x684.png" alt="" class="wp-image-759" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.20.15-PM-1-300x200.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.20.15-PM-1-1024x684.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.20.15-PM-1-768x513.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.20.15-PM-1-1536x1025.png 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.20.15-PM-1-2048x1367.png 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.20.15-PM-1-1600x1068.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>金螳螂？</figcaption></figure>
+</div>
+
+逛了两小时园区累成狗，骑回民宿睡觉准备晚上去基隆。此处有山路摩托车骑行视频，但是我太拖延了还没剪。晚上骑了几十分钟到基隆。基隆让我想起了越南胡志明市，满城的摩托车大潮，如果是我骑可能要吓尿了，还好家属老司机。夜市鸡排臭豆腐一顿吃满足了，晚上吹着凉风骑回酒店。我不是一个爱吃臭豆腐的人，不过基隆庙口夜市的臭豆腐是真好吃啊……
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="763" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.20.40-PM-1-1024x763.png" alt="" class="wp-image-761" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.20.40-PM-1-300x224.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.20.40-PM-1-1024x763.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.20.40-PM-1-768x573.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.20.40-PM-1.png 1344w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+</div>
+
+## Day 7 十分与平溪，瀑布和那些年 {.wp-block-heading}
+
+
+
+第二天的第一站是老板强烈推荐的不厌亭。建亭子的人真是会选地方，两边都是山路，站在亭子中可以正对着路中心拍照就算了。暴晒无遮挡热得烦躁的山顶上，亭子这一块刚好是风口，外面还觉得要被烤焦了，一进亭子立刻凉风习习。坐了好一会儿休息。
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="771" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.21.24-PM-1-1024x771.png" alt="" class="wp-image-763" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.21.24-PM-1-300x226.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.21.24-PM-1-1024x771.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.21.24-PM-1-768x578.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.21.24-PM-1.png 1342w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>不厌亭网红拍照点</figcaption></figure>
+</div>
+
+随后骑去十分的路上我再次感叹道难怪我爸不喜欢台湾，这跟我老家农村太像了。家属说这还不是太村的地方，台南还有更村的。我俩就像喜欢农家乐的矫情城里人一样，继续高兴地欣赏乡村风光。
+
+到平溪之前时间还多，找了个叫双溪荷花园的地方歇脚。三月当然是没有荷花的，拍拍荷叶也不错。荷塘旁边是个农贸市场，现在非旅游季，前不着村后不着店一个人都没有。远处看到桌上有几瓶咸菜，心想这都放了不知道多久了这么热的天不会坏掉么。走近一看居然是新鲜的，旁边还摆着个纸牌写着一罐 50 自取。不禁再感叹一下民风淳朴。
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="769" height="1024" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.21.51-PM-769x1024.png" alt="" class="wp-image-764" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.21.51-PM-225x300.png 225w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.21.51-PM-769x1024.png 769w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.21.51-PM-768x1022.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.21.51-PM-1154x1536.png 1154w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.21.51-PM.png 1340w" sizes="(max-width: 769px) 100vw, 769px" /></figure>
+</div>
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="765" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.22.15-PM-1024x765.png" alt="" class="wp-image-765" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.22.15-PM-300x224.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.22.15-PM-1024x765.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.22.15-PM-768x574.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.22.15-PM.png 1346w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>一支早开花的先锋荷花</figcaption></figure>
+</div>
+
+旁边是放着咸菜自取的农贸市场，加个滤镜一下就日本了嘛（并没有）  
+平溪的主要旅游项目是放天灯，十分也是。因为十分还有瀑布所以旅客多一点。经家属介绍《那些年》里沈佳宜和柯景腾放天灯那个场景就是在这儿。对放天灯没啥兴趣，在平溪老街寄了明信片，随便走进一家店吃了卤肉饭，还撸了的店主的猫。小村真便宜啊，一份卤肉发一份猪扒饭套餐分量大到两个人吃撑也才总共几十台币。
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="771" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.22.44-PM-1024x771.png" alt="" class="wp-image-766" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.22.44-PM-300x226.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.22.44-PM-1024x771.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.22.44-PM-768x578.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.22.44-PM.png 1342w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>平溪放天灯的就比十分少多了</figcaption></figure>
+</div>
+
+<div class="wp-block-image">
+  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="763" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.23.04-PM-1024x763.png" alt="" class="wp-image-767" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.23.04-PM-300x224.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.23.04-PM-1024x763.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.23.04-PM-768x572.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.23.04-PM.png 1342w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>这东西居然还没网红起来。要不是我路途太远而且骑摩托车来的真应该买一套。</figcaption></figure>
+</div>
+
+十分老街人山人海，周内如此不知道节假日如何。对放天灯没啥兴趣，倒是瀑布十分值得一看。也是人山人海，从门口要步行一段时间才到瀑布，走到已经汗流浃背。不过这个十分瀑布公园的设计十分合理，观瀑步道留足了观景台，而且步道单向出了不能返回，再进去要重绕一圈，避免游客乱走严重减缓步道速度，很周到了。<figure class="wp-block-gallery aligncenter columns-2 is-cropped wp-block-gallery-12 is-layout-flex">
+
+<ul class="blocks-gallery-grid">
+  <li class="blocks-gallery-item">
+    <figure><img decoding="async" loading="lazy" width="1024" height="762" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.24.22-PM-1024x762.png" alt="" data-id="769" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.24.22-PM.png" data-link="https://blog.douchi.space/?attachment_id=769" class="wp-image-769" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.24.22-PM-300x223.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.24.22-PM-1024x762.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.24.22-PM-768x572.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.24.22-PM-1536x1143.png 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.24.22-PM-2048x1524.png 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.24.22-PM-1600x1191.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+  </li>
+  <li class="blocks-gallery-item">
+    <figure><img decoding="async" loading="lazy" width="1024" height="766" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.24.34-PM-1024x766.png" alt="" data-id="770" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.24.34-PM.png" data-link="https://blog.douchi.space/?attachment_id=770" class="wp-image-770" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.24.34-PM-300x224.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.24.34-PM-1024x766.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.24.34-PM-768x574.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.24.34-PM-1536x1148.png 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.24.34-PM-2048x1531.png 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.24.34-PM-1600x1196.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+  </li>
+  <li class="blocks-gallery-item">
+    <figure><img decoding="async" loading="lazy" width="1024" height="767" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.23.46-PM-1024x767.png" alt="" data-id="768" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.23.46-PM.png" data-link="https://blog.douchi.space/?attachment_id=768" class="wp-image-768" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.23.46-PM-300x225.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.23.46-PM-1024x767.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.23.46-PM-768x575.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.23.46-PM-1536x1150.png 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.23.46-PM-2048x1534.png 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.23.46-PM-1600x1198.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="blocks-gallery-item__caption">虽然我带着相机但没长焦，还是得靠手机</figcaption></figure>
+  </li>
+</ul></figure> 
+
+逛完瀑布还在停车场碰到了个之前看的“商家乱给无照游客租电动车安全隐患”新闻的真实版事件。停车场是 U 型的，一个入口绕进来一排车位，中间有个小高台隔断，我们停在里面那排远离出口的底部，在车旁边喝水戴头盔开导航准备走。远远看到两个女生，一个晃晃悠悠推着车，一看就不太熟练。只见她试图抄近道越过小高台直接来里面的车位，跌跌撞撞半捏着油门过来。然后力道掌握不好，车一下子就前轮翘起来了，女生整个人被扬起前蹄的电车拖着跑到我们旁边差点砸到我们。最后她的车骑在我们旁边的车身上，她还没松油门。我家属赶紧上前让她松油门，旁边一个男生也赶紧跑过来帮我们扶车和把她的车拿下来。家属帮她们把车倒着停好在里面的车位的时候两个人一直不断微鞠躬着道歉，留下惊魂未定的我们俩。
+
+## Day 8 在路上 {.wp-block-heading}
+
+
+
+离开十分那天下午直接去瑞芳还了车。第二天坐小火车回台北，吃了传说中的林东芳牛肉面，名不虚传。还有多余时间，又去了趟迷你模型博物馆。这个馆我在温哥华看过一次，没想到台北附近路上也有。这次在台北呆的时间太短了，完全没逛够。<figure class="wp-block-gallery aligncenter columns-2 is-cropped wp-block-gallery-14 is-layout-flex">
+
+<ul class="blocks-gallery-grid">
+  <li class="blocks-gallery-item">
+    <figure><img decoding="async" loading="lazy" width="767" height="1024" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.25.41-PM-1-767x1024.png" alt="" data-id="772" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.25.41-PM-1.png" data-link="https://blog.douchi.space/?attachment_id=772" class="wp-image-772" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.25.41-PM-1-225x300.png 225w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.25.41-PM-1-767x1024.png 767w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.25.41-PM-1-768x1026.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.25.41-PM-1-1150x1536.png 1150w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.25.41-PM-1.png 1340w" sizes="(max-width: 767px) 100vw, 767px" /></figure>
+  </li>
+  <li class="blocks-gallery-item">
+    <figure><img decoding="async" loading="lazy" width="771" height="1024" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.25.55-PM-771x1024.png" alt="" data-id="773" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.25.55-PM.png" data-link="https://blog.douchi.space/?attachment_id=773" class="wp-image-773" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.25.55-PM-226x300.png 226w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.25.55-PM-771x1024.png 771w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.25.55-PM-768x1020.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.25.55-PM-1156x1536.png 1156w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-22-at-9.25.55-PM.png 1346w" sizes="(max-width: 771px) 100vw, 771px" /></figure>
+  </li>
+</ul></figure> 
+
+## Day 16 一些总结 {.wp-block-heading}
+
+
+
+很久没写游记了有些生疏，废话还是一样多，感谢大家耐心看完。台湾比我想象中的清心寡欲节奏慢，又人间烟火气足，感觉适合养老，印象极佳。毕竟，世界上在清新安逸民风淳朴的地方再多，哪有一个能像台湾一样文化同根同源，语言相通，来去自如呢。再加上细软又没有理解难度的台湾腔国语，真是一切都恰到好处。
+
+不禁有点自私的庆幸台海关系的限制导致还没有像别的地方一样完全被游客侵占和过度商业化，也有点担心不可抗力因素导致这份宁静不能长久。
+
+从美国出发的话倒是非常方便，在网上找就近台湾办事处网站填报申请入台证，大概一两个工作日审批后自己打印即可，出入境都带着。从美国 -> 台湾 -> 大陆的行程中国护照 + 入台证没有任何阻力，不需要台湾通行证（要去户口所在地办，而且应该有开放自由行户口限制，很多常住美国的人不一定有）。我猜从其他国家如此入台湾应该也可以只需入台证，未考证。
+
+机场出口外面美元到台币汇率不错，但更不错的是 Sapphire checking 直接 ATM 取，实时汇率我后来看了一眼比机场那个还便宜 0.4 台币，而且全球免 ATM 费。感觉以后不用去当地换货币了，直接带着卡刷就是了。其他行的旅行卡应该也有这种 feature，可以留意一下，安全方便又省钱。
+
+台湾物价比较便宜，随便填抱肚子人均几十台币就好，去吃比较高级一点的便餐也就一二百台币，吃了个自助火锅才每人二三百？我们俩人去了七天吃+玩+书+纪念品总共才花了五六百美金，住宿差不多九百多美金。
+
+台湾人可能是台湾腔加成的缘故，所有人都友好热情耐心。积极介绍景点的出租车司机、有说有笑积极帮忙的酒店前台、老实可爱的租车行小妹、热情好客讲价守信的民宿老板、九份闲逛碰到的怕我们迷路主动上来询问及推荐景点和介绍故事的热情村民，都给我留下了好印象。就连故宫博物院门口某大法的阿姨在我们拒绝了其传教后也再次主动借伞和指路给我们。
+
+下次还来！
+
+愿世界和平。
+
+<hr class="wp-block-separator has-text-color has-background has-quaternary-background-color has-quaternary-color is-style-wide" />
+
+如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
+
+<a href="https://www.patreon.com/bePatron?u=46962965" data-patreon-widget-type="become-patron-button">Become a Patron!</a>  
+  
+
+
+**<a rel="noreferrer noopener" href="https://afdian.net/@mtfront" target="_blank"><code>墙内赞助通道：爱发电</code></a>**
+
+<div class="da-reactions-outer TpostID712">
+  <div class="da-reactions-data da-reactions-container-async left" data-type="post" data-id="712" data-nonce="036490a1b6" id="da-reactions-slot-post-712"> 
+  
+  <div class="da-reactions-static">
+    <img src="http://blog.douchi.space/wp-content/plugins/da-reactions/assets/dist/loading.svg" alt="Loading spinner" width="48" height="48" style="width:48px; height:48px" />
+  </div>
+</div></div>

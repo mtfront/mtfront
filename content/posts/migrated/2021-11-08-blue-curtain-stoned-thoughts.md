@@ -1,0 +1,118 @@
+---
+title: 蓝色的窗帘
+author: 椒盐豆豉
+type: post
+date: 2021-11-09T01:56:32+00:00
+url: /blue-curtain-stoned-thoughts/
+categories:
+  - 不行就分
+tags:
+  - brain dump
+  - random
+  - 脑洞
+
+---
+晚饭前空腹吃了个 gummy 整个晚上都很迷幻，跟家属进行了诸多深层讨论觉得自己是个天才，晚饭之后就睡着了半夜 3pm 趁还记得赶紧手机 brain dump，然后一写写了这么多，觉得值得一篇 blog。<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
+
+<div class="wp-block-embed__wrapper">
+</div></figure> 
+
+<!--more-->
+
+### Space Oddity {.wp-block-heading}
+
+上了个厕所回来看到家属斜抱着聪明猫当吉他在唱 space oddity，然后我说这歌到底讲了个啥故事我从始至终都没听懂过。
+
+家属说她的理解是太空人升空，地面问的都是你穿的哪个牌子的衣服，吃的什么口香糖这种商业问题，然后为了广告效果还挑衅你走出来太空舱试试，你就走出去了，然后突然绳子断了你就越飘越远。所以前面都是 ground control to major tom，后面变成 major tom to ground control，再后面就开始说遗言了。就要表达一种表面光鲜没有人真的关心你的感觉。
+
+（同时播放 nasa Chris Hadfied 那个经典版本 space oddity 然后自己拿了个吉他开始跟一句看一句原版歌词跟我解释）
+
+我：卧槽你这个解读好 modern 好 disco（脑海里各种 cyberpunk 和 disco elysium vibe）。我的理解一直是这样的，major tom 去一个太空远征项目，走的时候就知道醒来地球上已经过去几百几千年了认识的人不在了，但是冬眠设备出了问题提前醒了，然后就试图呼叫地球无回应，逐渐意识到自己不再跟地球有联系了然后就继续飘了。
+
+家属：那前面升空时候跟地面联系的那个部分是什么。
+
+我：是刚从冬眠里醒来的大脑还没有完全复苏，开始闪回睡着前的画面而且分不清是现在还是回忆。
+
+家属：那中间 ground control 说你飞船好像出了问题怎么回事。
+
+我：就是光速跃迁之前其实设置没对，想要赶紧叫停已经来不及了，是出问题的起点伏笔。
+
+家属：那后面走出太空舱怎么回事。
+
+我：就是因为冬眠舱设置有问题，所以记忆产生了扭曲，这个其实是回忆里扭曲出来的现实，大脑欺骗自己没有在太空中流浪，而是在近地球一个表演意外里就死了。然后大脑逐渐恢复功能意识到这个是幻觉，才逐渐开始重新试图呼叫 ground control，然后意识到现在几百年后了地球上不可能有人了。
+
+家属：那后面说了句 planet earth is blue, 第一遍是 And there&#8217;s nothing I can do, 第二遍数 there&#8217;s nothing left to do，又是啥意思。
+
+我：就是他越飘越远，已经意识到地球上认识他的人都死了他在地球的世界里不存在了，但是他还记得地球上的事情，地球这个世界因为他的记忆而还存在在宇宙中。但是随着时间越来越久，虽然他的肉体按照常规时间不灭但是记忆已经开始消退了，从忘记家人的名字到基础的地球事实也忘了，最后唯一记得的就是地球是蓝的，然后反复重复这句话不让自己忘掉，但也知道无能为力。最后他知道随着自己记忆不可避免的消退之前熟悉的那个世界也要消失了最后变成一片虚无，最后就 there&#8217;s nothing left to do。
+
+家属：<img decoding="async" alt=":pickachu_wut:" src="https://media.douchi.space/douchi-c/custom_emojis/images/000/040/936/original/58618ae7ad9610ae.png" /> 
+
+我：最后在要消失的瞬间，飞船突然一震停下来了，外面来了个飞船。然后异形上来了  
+我：淦我的故事好科幻，我是不是讲成三体第三部了  
+家属：淦你的故事好科幻，英文版比较好读我才看到第二部  
+我 ：oops 我剧透了  
+家属：你第一天认识我吗反正我喜欢剧透
+
+我：这歌哪一年写的？  
+家属：（Googled）1969  
+我：……那好像还是你那个 modern 都市丽人寂寞空虚冷的版本可能性比较大（脑海里出现 Andy Warhol 可乐系列  
+家属：反正写的时候肯定 high 了  
+我：反正写的时候肯定 high 了
+
+### 蓝色的窗帘 {.wp-block-heading}
+
+我：我突然意识到以前中文翻译好多英文小学段子我都没听懂后来学了英语才恍然大悟，比如狮子王里彭彭丁满第一次发现小辛巴晕倒在皲裂的地面上，丁满说他看起来是蓝色的，彭彭说我看明明是橙色的。小时候完全没 get 到，换成英文语境才理解。（复习小学/初中？英语： blue 有忧伤的意思）
+
+家属：<img decoding="async" alt=":pickachu_wut:" src="https://media.douchi.space/douchi-c/custom_emojis/images/000/040/936/original/58618ae7ad9610ae.png" /> 原来中文版翻这么敷衍的吗！
+
+我：我突然想到经典的高考中文阅读理解“窗帘是蓝色的代表作者什么心情”，这个根本就是出题人抄了个三流英文 standup 段子但是没理解含义吧！这个事情能成为梗还是有报道原作者自己出来说窗帘本来就是蓝色的，I wonder 这个机翻烂梗到底是出题人抄英文段子，还是原作者想红出来复刻英文段子，还是出题人也没 get 到英文的段子被原作者嘲讽机翻出题，还是出题人知道梗以为原作者是这个梗但是原作者自己不知道所以才出来接受采访。
+
+家属：<img decoding="async" alt=":notlikethis:" src="https://media.douchi.space/douchi-c/custom_emojis/images/000/009/619/original/dc0318d0d82ae806.png" /> 
+
+### Hotel California {.wp-block-heading}
+
+然后就顺路聊到 Hotel California 歌词啥意思。家属就说这个歌词我一直觉得很变态，就是在大雨夜开车开得很困，突然前面有个灯火通明的大旅馆，就进去了，然后房间门口有女孩在招手，尽头房间有人群欢愉的声音，然后你怎么走都鬼打墙走不出去。
+
+我：所以你脑海里是 American Horror Story 的设定。
+
+她：这不是我的设定我就逐字翻译的。
+
+我：听起来像是，你说出来的听像 American Horror Sotry，但是你以为的实际上是讲白男对性工作者的压迫还混点 Epstein 那种权势黑幕的感觉，但是实际上讲的是特别像有个电影，锤哥有演的一个雨夜所有人被困一个大酒店但其实都是犯罪分子各怀鬼胎那个电影。
+
+家属：啥那个电影有锤哥吗？就是特别经典很好看那个。
+
+我：不那是两部电影，你说的那部我也觉得像，锤哥那部是个近年来的烂片。这么一说我突然觉得那部就是 literally 改编的 Hotel California 吧！！！！
+
+（然后我至今还没想起来那部经典的叫啥有知道的朋友可以评论）
+
+然后中间有句歌词是 1969 年之后我们店就不卖这种酒（spirit）了，YouTuber 在一本正经地瞎解释。  
+我：？？？都 69 和 spirit 了这个低俗黄色段子不是很明显吗？这不就是主角和酒店前台对暗号问有没有色情服务吗？然后主角以为他就是普通妓院 front，你以为在 American Horror Story 里里面群 P 声音实际上都是被酒店的鬼之前诱惑来吸食精神来做能源（咦突然 Matrix），但实际情况是里面有好多犯罪分子各怀鬼胎今天是龙门客栈的 setup  
+家属：哪，哪有，而且说 1969 就没有直接说 69 那种意思了吧。  
+我：19 就是 one night 啊。  
+家属：太牵强了吧。  
+（然后我意识到 419 好像确实是中文里才有的英文梗（吗？
+
+然后家属就开始放 YouTube 上一些奇奇妙妙更胡扯的解读，我俩开始吃牛肉面，然后我就开始失去记忆了.
+
+<hr class="wp-block-separator has-text-color has-background has-quaternary-background-color has-quaternary-color is-style-wide" />
+
+如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
+
+<a href="https://www.patreon.com/bePatron?u=46962965" data-patreon-widget-type="become-patron-button">Become a Patron!</a>  
+  
+
+
+**<a rel="noreferrer noopener" href="https://afdian.net/@mtfront" target="_blank"><code>墙内赞助通道：爱发电</code></a>**
+
+<div class="da-reactions-outer TpostID1751">
+  <div class="da-reactions-data da-reactions-container-async left" data-type="post" data-id="1751" data-nonce="bf90f7b32f" id="da-reactions-slot-post-1751"> 
+  
+  <div class="da-reactions-static">
+    <img src="http://blog.douchi.space/wp-content/plugins/da-reactions/assets/dist/loading.svg" alt="Loading spinner" width="48" height="48" style="width:48px; height:48px" />
+  </div>
+</div></div>
+
+## Comments
+
+### Comment by crossairplane on 2021-11-08 19:52:38 -0800
+hh, 反正写的时候肯定 high 了。

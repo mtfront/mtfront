@@ -1,0 +1,35 @@
+---
+title: 码农转行 FAQ：我该选择哪个技术栈/语言
+author: 椒盐豆豉
+type: post
+date: 2020-10-05T22:42:00+00:00
+url: /getting-into-software-development-faq-which-language-should-i-choose/
+categories:
+  - 重启电脑
+tags:
+  - career
+  - LPT
+  - software engineer
+
+---
+ 
+
+本文源载于 women in tech 小组：<a rel="noreferrer noopener" href="https://www.douban.com/group/topic/196085852/" data-type="URL" data-id="https://www.douban.com/group/topic/196085852/" target="_blank">转码 FAQ：我该选哪项技术栈/语言</a>？鉴于是 gender neutral 的建议就发个日记备份给组外的男友邻看。（不符合组规请勿一股脑入组凑热闹免得被踢脏号）
+
+在组内很多个新人求建议帖里都见到过几个相似的问题：我想转码前/后/移动端我该选哪个？/ Python/Java/C++/…学哪个？以后转 track 门槛是否很高？
+
+首先这个问题没有绝对正确答案，我回复别人的时候多打了一些就干脆开帖给诸位新同学参考吧。也欢迎其他各位在业界有经验的友邻来分析自己的体验！
+
+第二个问题，至少在美国的码农界，答案是：不是的，初、中级转岗还是挺容易的，各种技术就是个工具而已，工作本质是把需要实现的功能通过计算机实现而已，以现在大多数硬件和底层优化的容错率和需要写的逻辑的简单程度，对工具本身熟不熟造成的生产力差距远不如个人的执行力和学习能力能带来的差距大。 回到技术栈的具体方向来说，不同岗之间同一个人在很多公司内部转起来甚至都不需要面试，公司需要你干嘛你就干嘛，机缘巧合做了各项目之后简历上有了这些经验对日后职业路线有一定影响但也不大。举个例子我们班的同学里课基本相同不分 track，毕业之后即便是一起进了同家公司，也因为分组不同（看运气）现在做前后端以及 Mobile 的都有了。我们一起去了四个人居然就被分到前后移动三个方向去了。
+
+再比如我入行时候（因为当时几乎随机的分组）做的是后端，第二份工作跳去一家大公司做 growth 瞬间变成全栈+（前后端加 Mobile）（注意很多大公司是面 generalist 的，也就是即便到了 senior level 大多数职位你也可以用任意你现在会的技术面试，进了公司再分组匹配），第三家跳到小公司又回归了主流后端但项目需要前端也要随时能捡起来并 deliver。技术栈方面我三家公司五六个组用的技术完全不一样，第三家甚至面试只用我当时不会的语言直接做题，我突击了俩小时硬上也过了，现在工作也没碰到太多技术上的阻碍（毕竟大家都是多栈互相学习，少数不懂的咨询组里相关领域资深的同事就好）。 讲了这么多其实就是想表达很多初学者特别关注技术栈，仿佛非要选个一劳永逸的语言。而实际工作机会可能大部分靠时机和运气。所以大概查一下现在热门方向，timebox 个一两天收集这些方向的资料然后再做个决定就好了。提供两个无成本简单方法：1. 去感兴趣产品/服务的公司招聘网站搜开放的职位，看看 job description 说他们招什么技术栈。2. 上 GitHub 看自己感兴趣方面的项目用的什么技术栈。
+
+强调 timeboxed 是因为这个行业业内经验远比业前学习重要，现在隔行瞎猜半天，也不如选个差不太多的（而不是花很多时间找所谓最优，这甚至不是一个零和游戏，至于如何选差不多，上一段那俩方法足矣），先学习先入，行之后再凭借更丰富的资源和自己实际经验和知识的增加随机应变，做更好的选择。
+
+<div class="da-reactions-outer TpostID1008">
+  <div class="da-reactions-data da-reactions-container-async left" data-type="post" data-id="1008" data-nonce="abeacd0964" id="da-reactions-slot-post-1008"> 
+  
+  <div class="da-reactions-static">
+    <img src="http://blog.douchi.space/wp-content/plugins/da-reactions/assets/dist/loading.svg" alt="Loading spinner" width="48" height="48" style="width:48px; height:48px" />
+  </div>
+</div></div>
