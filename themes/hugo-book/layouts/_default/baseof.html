@@ -74,6 +74,10 @@
 
 {{ define "main" }}
   <article class="markdown">
+    {{ if eq .Type "post"}}
+      <h1>{{- .Title -}}</h1>
+    {{ end }}
+    {{ partial "docs/post-meta" . }}
     {{- .Content -}}
   </article>
 {{ end }}
