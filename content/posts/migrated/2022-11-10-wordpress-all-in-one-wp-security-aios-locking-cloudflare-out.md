@@ -32,7 +32,7 @@ So, that was just a small stupid incident on a random Thursday night 9pm before 
 
 ---
 {{< hint danger >}}
-If you find this blog useful and want to support my blog, feel free to:
+If you find this blog useful and want to support my blog or have a coffee chat with me, feel free to:
 {{< /hint >}}
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}Become Patreon{{< /button >}}
 {{< button href="https://ko-fi.com/S6S130C16" >}}Buy me a boba{{< /button >}}
