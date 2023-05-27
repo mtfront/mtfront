@@ -13,7 +13,7 @@ tags:
   - mastodon
 
 ---
-# 迁移 Object Storage 时候发生的一些愚蠢事件以及解决方案
+
 TL;DR: 我用 rclone 迁移 object storage 的时候脑一残就把目的 bucket access 设成了 private，导致迁移之后长毛象无法访问新的 bucket 所有媒体文件都无法显示，最后只好使用 s3cmd recursively set public acl 了一遍所有媒体文件。
 
 对事情经过不感兴趣想直接看的请点此直接跳转到 [Debug 步骤](../migrate-object-storage/#debug)和[解决方案](../migrate-object-storage/#solution)部分。

@@ -14,7 +14,7 @@ tags:
   - tutorial
 
 ---
-# How to setup RSS for notion blog using Zapier
+
 RSS has became an almost obsolete concept that most of my friends nowadays never heard of, which is a shame. It’s simple, clean, accessible with correct setup, and most importantly, a highly productive system for information consumption.
 
 ## **Why do you need RSS**

@@ -14,7 +14,6 @@ tags:
   - 消费主义陷阱
 
 ---
-# 一鞋走天下：三款网红 all purpose shoe 横向对比吐槽
 近年来越来越懒，从加州搬到西雅图的时候更是一台 sub compact sedan 过来把之前买的 90% 的鞋（主要是 sneaker）都扔下了。带的几双鞋里也绝大多数时间都在穿那么一两双。前两天刚好有群友问到 allbirds 和这两年新晋网红主打防水的品牌 vessi 的对比，最近也刚新添一双网红 sneaker Nike general purpose shoe (GPS）穿得比较多，索性写个这三款网红 all purpose shoe 的对比供大家参考。
 
 （插入 notion AI TLDR 我觉得还写的不错：对比了三款网红 all purpose shoe：Allbirds Wool Runners、Vessi Weekend Sneaker 和 Nike General Purpose Shoe。作者分享了他们的使用体验，包括舒适性、防水性、耐脏性和支撑性等方面。总的来说，作者推荐购买 Vessi 和 Nike GPS，而不推荐购买 Allbirds）

@@ -5,12 +5,12 @@
       <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>
     </h2>
     <p>
+      {{ partial "docs/post-meta" . }}
       {{- .Summary -}}
       {{ if .Truncated }}
         <a href="{{ .RelPermalink }}">Continue Reading -></a>
       {{ end }}
     </p>
-    {{ partial "docs/post-meta" . }}
   </article>
   {{ end }}
 

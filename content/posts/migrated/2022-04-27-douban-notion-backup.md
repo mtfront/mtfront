@@ -15,7 +15,7 @@ tags:
   - 复盘
 
 ---
-# 我的豆瓣书影游替代又一次尝试：Notion 精神仓库
+
 ## [先放链接：椒盐驼鸟的精神仓库](https://www.notion.so/2485c762efe040b988531aaa3e45ad25)
 
 内容由我手动更新 + 豆瓣同步（感谢[竹子的这篇教程](https://zhuzi.dev/2021/06/05/douban-backup-sync-notion/)），豆瓣同步的部分[有做过轻微修改](https://github.com/mtfront/douban-backup)适应我自己的需求。暂时有如下功能：

@@ -21,7 +21,6 @@ tags:
   - travel
 
 ---
-# 夏末西雅图周边三宝国家公园小游
 
 因为不怎么爱逛景点和 camping，来西雅图大半年了周边的国家公园也一个没去过。八月底朋友来西雅图，刚好趁机大家组了个团一个周末去了 Mt. Rainier 和 Olympic，回来之后觉得 rainier 非常惊艳，光速购入 national park pass，又找了个时间自己去了趟 North Cascades 以及瓜片来又走了一遍 skyline。这几个国家公园都是开车两三个小时能到，感觉平时周末自己去 hiking 也未尝不可，比湾区周边的可方便太多啦。
 

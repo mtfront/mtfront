@@ -16,7 +16,6 @@ tags:
 
 ---
 ![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/11/800px-Judith_Beheading_Holofernes_-_Caravaggio.jpeg)
-# 割以永治 part 1：我跟月经战斗的二十年
 
 月经，人类进化史上最大的败笔（我自封的），折磨浪费了很多壮年女性（因为是讨论月经相关话题，本文中的女性指 assigned sex at birth，后简称为女性）人生中 1/4 的时光，生产了无数塑料垃圾生化废料，在生育意愿越来越低今天用这么大的代价养着这么一个劳什子简直令人发指。
 

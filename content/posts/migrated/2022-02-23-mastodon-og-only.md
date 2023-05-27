@@ -15,7 +15,7 @@ tags:
   - tutorial
 
 ---
-# 长毛象主页“只看原创嘟文”Chrome Extension
+
 我把前两天做的能快速在长毛象主页“只看原创嘟文”的小代码转成一个 Chrome extension 啦。[Google 居然一天就审核通过了！点击这里安装 chrome 插件](https://chrome.google.com/webstore/detail/original-toots-only/jmkgmhecpnacpoilpekodceagbidllnj)。
 
 使用方法：

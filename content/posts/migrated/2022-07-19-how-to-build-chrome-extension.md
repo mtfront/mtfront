@@ -15,7 +15,6 @@ tags:
   - tutorial
 
 ---
-# 如何制作一款简单的 chrome 插件
 短短几年时间，Chrome 作为一款在主流桌面操作系统（Windows，Mac）不内置的第三方浏览器，短短几年时间击败了所有竞争对手，以压倒性优势 [67% 的市场份额](https://gs.statcounter.com/browser-market-share/desktop/worldwide/)稳居桌面端浏览器头把交椅。虽然近年来对其隐私方面顾虑层出不穷，一些 power user 也会试图寻找替代品（Brave，Duckduckgo 之类），但对于绝大多数网民来说还是浏览器的默认选择。
 
 在前端技术越来强大的今天，普通 desktop 用户很多客户端操作都能被网页版替代。拥有庞大的潜在客户群，javascript 上手难度低，浏览器作为运行环境无需担心与系统交互与测试，有 chrome store 管理分发，安装过程也比客户端简单很多，chrome extension（插件）就成了一个对开发者和使用者都轻量、便捷的实用平台。

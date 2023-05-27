@@ -16,7 +16,6 @@ tags:
   - 消费主义陷阱
 
 ---
-# 带货博主躺赚两年 Amazon Affiliate Program 回顾
 
 不知不觉我的 amazon affiliate program 竟然已经运营两年了，两年期间总收入 900 余美金（因为 amazon 只提供了两年的数据所以之前少掉一个月），占我目前 side hustle passive income 的 1/4 左右。
 

@@ -13,7 +13,6 @@ tags:
   - random
 
 ---
-# 事不过五的蘑菇体验
 
 今天感冒恢复差不多了恢复活力可以 repo 一下这个我吃过的史上最 intense 蘑菇体验。涉及 substance usage 具体描述考虑到不是所有地方都合法所以 warning 一下想退出的这里可以点 X 了，另外可能有一小段死亡 trigger warning。
 

@@ -15,7 +15,6 @@ tags:
   - tutorial
 
 ---
-# 高效、async 的信息流才是好的信息流：我的 RSS setup
 简单来说，RSS 是一个内容生产规范，使阅读者可以跨平台、无干扰地在自己选择的阅读器上阅读各个订阅源集成、统一的内容，而无需专门去发布平台（各个播客、新闻网站、社交媒体、email newsletter 等） 查看。
 
 像我一样从 RSS 盛行年代的过来的网民可能会把很多 RSS 带来的好处 take for granted，而这个流量至上的年代很多内容生产者会以其他不提供原生 RSS 支持的方式创作内容（mail list, notion, telegram channel，social platform post 等等），造成对习惯了 RSS 的读者而言 aggregation 困难和信息摄入效率低下，以至于这个无利可图的形式在跟很多新朋友提起都有点难以安利出去。
