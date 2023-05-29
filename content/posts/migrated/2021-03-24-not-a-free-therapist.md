@@ -12,11 +12,9 @@ tags:
   - rant
 
 ---
- 
+平时在社交网络上关注我，甚至看过博客评论区的人也知道，尊重对方时间真诚问和交流的我回的不少，我主动写的也不少，that’s totally normal。但就是会出那么个别伸手党问你比问亲妈还不当外人，这就忍不了了。于是我怒做了这个 poster 来模板回复伸手党：
 
-平时在社交网络上关注我，甚至看过博客评论区的人也知道，尊重对方时间真诚问和交流的我回的不少，我主动写的也不少，that&#8217;s totally normal。但就是会出那么个别伸手党问你比问亲妈还不当外人，这就忍不了了。于是我怒做了这个 poster 来模板回复伸手党：<figure class="wp-block-image size-large">
-
-<img decoding="async" loading="lazy" width="1024" height="1024" src="https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/Me-vs-Other-Rate-1024x1024.png" alt="" class="wp-image-1442" srcset="https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/Me-vs-Other-Rate-300x300.png 300w, https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/Me-vs-Other-Rate-1024x1024.png 1024w, https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/Me-vs-Other-Rate-150x150.png 150w, https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/Me-vs-Other-Rate-768x768.png 768w, https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/Me-vs-Other-Rate-1536x1536.png 1536w, https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/Me-vs-Other-Rate-1600x1600.png 1600w, https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/Me-vs-Other-Rate.png 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/Me-vs-Other-Rate-1024x1024.png)
 
 （注：在“真的想靠这个赚钱”和“足以吓退伸手党”和“温和地让不傻逼但不 considerate 的人能认识到错误以后改掉“之间有个 subtle 的分界线，待我摸索一阵到底这个线在哪）（现在这个版本我想做成明显偏向于最后一个目的，但不了解行情数字随便写的不一定合理欢迎提供 feedback 和行业参考）
 
@@ -24,10 +22,9 @@ tags:
 
 我跟 BFF 或者在自己的吐槽空间都不一定有脸疯狂倾诉，到底怎么有人好意思跟回过一句私信的陌生人疯狂单向倾诉两千字的，哪来的脸把陌生人当自己的情绪垃圾桶，约个 therapist 干这事你有钱这年代人家都不一定有时间立马约得上好吗，哪来的脸 jesus （这是反问句无需回答我知道人类是有多样性的
 
-<div class="da-reactions-outer TpostID1441">
-  <div class="da-reactions-data da-reactions-container-async left" data-type="post" data-id="1441" data-nonce="cea5437c5f" id="da-reactions-slot-post-1441"> 
-  
-  <div class="da-reactions-static">
-    <img src="http://blog.douchi.space/wp-content/plugins/da-reactions/assets/dist/loading.svg" alt="Loading spinner" width="48" height="48" style="width:48px; height:48px" />
-  </div>
-</div></div>
+---
+{{< hint danger >}}
+如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
+{{< /hint >}}
+{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
+{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
