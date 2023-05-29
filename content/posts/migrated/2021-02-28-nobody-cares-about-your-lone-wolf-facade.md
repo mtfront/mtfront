@@ -11,19 +11,15 @@ tags:
   - 复盘
 
 ---
- 
+ 昨天我失眠了。自从出国鼻炎消失之后我二十多年无法呼吸没睡好的觉仿佛都补回来了，所以很少会失眠。昨晚我躺在床上辗转反侧，大概是每个月总有那么几天人生迷茫吧。
 
-昨天我失眠了。自从出国鼻炎消失之后我二十多年无法呼吸没睡好的觉仿佛都补回来了，所以很少会失眠。昨晚我躺在床上辗转反侧，大概是每个月总有那么几天人生迷茫吧。
-
-这回迷茫的原因是，大概在疫情一年之后，我终于再次感叹道跟以前的朋友渐行渐远了。虽然之前也感叹过 <a rel="noreferrer noopener" href="https://blog.douchi.space/?p=592" data-type="post" data-id="592" target="_blank">grow apart</a>，但那大多是现在看来“无关紧要”的过客。而这种感觉突然在昨天夜里具体化了。
-
-<!--more-->
+这回迷茫的原因是，大概在疫情一年之后，我终于再次感叹道跟以前的朋友渐行渐远了。虽然之前也感叹过 [grow apart](../all-my-friends-grow-apart/)，但那大多是现在看来“无关紧要”的过客。而这种感觉突然在昨天夜里具体化了。
 
 诱因大概是我最后一个有交集的自称 BFF 的群似乎也渐行渐远了。以前每天有话说，隔三差五一言不合下班就横跨几十里从湾区三个地方汇聚起来吃顿火锅的群，现在也就隔三差五有一搭没一搭地安利一下剧，发点 weee 的跟买和微信读书无限卡链接，甚至这两天这些东西都不一定有人点。朋友 A 似乎也过着两人世界的小日子，偶尔在家做做手工。朋友 B 隔三差五跟别的圈聚个会，直到他在群里发了吹蜡烛的视频我们才意识到他生日（虽然这个群平时真的不怎么 care 生日，大概也是我们几个能走到一起的原因，我从小到大都讨厌过生日）。
 
 我打开微博，想说毕竟多年不刷应该有很多大学和以前朋友的动态吧，结果也没几个活人，不是网红就是转发抽奖或者打榜。
 
-我打开 Instagram，发现依旧在它自作聪明的人工智障算法 feed 和固执己见 2021 年了还不做分组功能的双重打击下，基本除了一两个活跃的之外基本看不到现实中好友的动态，无论是 story 还是 feed 都充满了 content creator，which, don&#8217;t get me wrong, I DO want to see, only when I want to。于是我 literally 花了几十分钟取关了一大堆，当然，收效甚微。
+我打开 Instagram，发现依旧在它自作聪明的人工智障算法 feed 和固执己见 2021 年了还不做分组功能的双重打击下，基本除了一两个活跃的之外基本看不到现实中好友的动态，无论是 story 还是 feed 都充满了 content creator，which, don’t get me wrong, I DO want to see, only when I want to。于是我 literally 花了几十分钟取关了一大堆，当然，收效甚微。
 
 我打开几百年不刷的朋友圈，随便划一下也没看到想看到的人或者哪怕以前真的熟过的人的动态。稍微划到一条有点想点赞或者聊两句的朋友圈，抬头一看发布时间两天前，感觉太 creepy 了有挖坟嫌疑还是别点了。
 
@@ -37,7 +33,7 @@ tags:
 
 前几年心情不好，自己连近乎敲诈的公寓续租都懒得 argue 为了省事直接签了，自己跑去欧洲静几周，在科隆机场自己坐在箱子上边聊天边哭了几小时，坐着火车路过奥地利的大山大田心境豁然开朗，到了少女峰山腰住着爆贵的酒店甚至就想说窗外就有山景出什么门甚至想睡一晚走人（当然后来幸亏逼着自己出了门，不虚此行），到了罗马跟这些年唯一会主动时不时喝多打视频过来聊个把小时的基友面基，虽然是一男一女但由于长得像俩男的还牵着手穿着人字拖大摇大摆走在梵蒂冈城墙内说会不会有人把我们赶出去。这趟旅途回来之后我不高兴的事全都彻底翻篇不计前嫌，从来最擅长的 move on 速度又发挥到了极致。
 
-再前几年还是穷学生的时候，还有放假直接买火车票到了对方城市才发消息说，hello it&#8217;s me 我路过你的城市（路过个屁，跨了大半个中国八竿子打不着），见个面吗，的潇洒劲。坐在摩托车后座上穿过我不曾到过的山山水水，走在江边吹着南方湿润的夏夜的风看着新布置灯光的城市。
+再前几年还是穷学生的时候，还有放假直接买火车票到了对方城市才发消息说，hello it’s me 我路过你的城市（路过个屁，跨了大半个中国八竿子打不着），见个面吗，的潇洒劲。坐在摩托车后座上穿过我不曾到过的山山水水，走在江边吹着南方湿润的夏夜的风看着新布置灯光的城市。
 
 操真是怀念啊。人不老不知道有朋自远方来有多可贵，也不知道能主动打电话、视频给我的朋友有多可贵。
 
@@ -55,32 +51,21 @@ tags:
 
 聊到厌班想辞职，我：辞啊，别人辞职最大阻力一般都家长，你妈都支持了看开 peer pressure 你怕啥。她：没钱啊那你包养我。我：好啊那你来啊。她：……（沉默几秒钟）屁啦你自己都没在上班你骗谁。我：我可以随时回去工作啊。她：……我要是有你这种底气就好了。
 
-我从小到大大概都有，至少在我自己心目中，独狼人设，and probably most people who know me would agree。小学中学住家属区我都是自己放学回家。高中住校我第一个跑去食堂赶在队伍之前吃饭，在别人还没吃上饭之前已经回宿舍做卷子。大学除非 social 否则我也是自己吃饭自己自习，完全 get 不到一起自习的必要性，毕竟我不喜欢的人我不想迁就，我喜欢的人一起自习 distraction 太多哪能学习。
+我从小到大大概都有，至少在我自己心目中，独狼人设，and probably most people who know me would agree。小学中学住家属区我都是自己放学回家。高中住校我第一个跑去食堂赶在队伍之前吃饭，在别人还没吃上饭之前已经回宿舍做卷子。大学除非 social 否则我也是自己吃饭自己自习，完全 get 不到一起自习的必要性，毕竟我不喜欢的人我不想迁就，我喜欢的人一起自习 distraction 太多哪能学习。
 
 （讲到这儿又有点怀念我唯一喜欢一起自习的钢铁直女好友，大四上半学期的大多数时间我们都在一起准备申请，因为方向基本没啥交集自习时候也没废话，因为聊得来且豪爽不墨迹所以走路吃饭自行车载回宿舍也愉快，又因为两边都明确对对方毫无意思所以完全没有 distraction，而且该好友贼有眼色，偶尔泡妹机会出现她一般都毫不尴尬飞速闪人。该好友后来回国了我甚感遗憾了一阵子，毕竟是唯一能跟我高效愉快自习的女人（噗
 
-要不是借着网瘾少女人设还算结交甚广，以及三生有幸在那几个阶段认识了一帮两肋插刀的狐朋狗友，这种独狼人设加上拧巴的性格加上性取向大概真的要算在“孤僻”和“freak”一类边缘人里了。（搞不好其实本来就是只是我自我感觉良好不自知？
+要不是借着网瘾少女人设还算结交甚广，以及三生有幸在那几个阶段认识了一帮两肋插刀的狐朋狗友，这种独狼人设加上拧巴的性格加上性取向大概真的要算在“孤僻”和“freak”一类边缘人里了。（搞不好其实本来就是只是我自我感觉良好不自知？
 
-最拧巴的大概还是，我 so afraid to show affection。前阵子<a rel="noreferrer noopener" href="https://blog.douchi.space/?p=1057" data-type="post" data-id="1057" target="_blank">整理了人人相册</a>翻到一张截图，我完全不记得这段对话的存在，来自我一个高中就算不上 close 圈子里大学也没什么联系大概因为她后来突然弯了所以聊起了这个话题对我的评价：态度太骚又含蓄，真不知道你这人咋就显得这么矛盾。我现在看到这段对话：我拧巴得这么明显千里之外的非同时代朋友都观察到了吗？？？！！！现在想来，年轻的我还真不是一般的拧巴，甚至有点直男癌。Applies to both friendship and romance. 到中年当然没有过去那么拧巴，但 still hesitate to show care and affection.
+最拧巴的大概还是，我 so afraid to show affection。前阵子[整理了人人相册](../mac-renren-backup/)翻到一张截图，我完全不记得这段对话的存在，来自我一个高中就算不上 close 圈子里大学也没什么联系大概因为她后来突然弯了所以聊起了这个话题对我的评价：态度太骚又含蓄，真不知道你这人咋就显得这么矛盾。我现在看到这段对话：我拧巴得这么明显千里之外的非同时代朋友都观察到了吗？？？！！！现在想来，年轻的我还真不是一般的拧巴，甚至有点直男癌。Applies to both friendship and romance. 到中年当然没有过去那么拧巴，但 still hesitate to show care and affection.
 
 经过今天的思考和交流，励志以后要做一个经常主动跟朋友聊几毛钱的中央空调。反正都一把年纪了，不要再像小时候一样拧巴半天装作不在乎了。(ง •̀_•́)ง
 
 人到中年大家都很忙都有各自的生活，哪有功夫给你拧巴和推诿，不主动点真的就散了，与其感怀人生若只如初见，不如主动问一句最近过的怎么样。Seriously, nobody cares about your lone wolf 人设。
 
-<hr class="wp-block-separator has-text-color has-background has-quaternary-background-color has-quaternary-color is-style-wide" />
-
+---
+{{< hint danger >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
-
-<a href="https://www.patreon.com/bePatron?u=46962965" data-patreon-widget-type="become-patron-button">Become a Patron!</a>  
-  
-
-
-**<a rel="noreferrer noopener" href="https://afdian.net/@mtfront" target="_blank"><code>墙内赞助通道：爱发电</code></a>**
-
-<div class="da-reactions-outer TpostID1312">
-  <div class="da-reactions-data da-reactions-container-async left" data-type="post" data-id="1312" data-nonce="543586b903" id="da-reactions-slot-post-1312"> 
-  
-  <div class="da-reactions-static">
-    <img src="http://blog.douchi.space/wp-content/plugins/da-reactions/assets/dist/loading.svg" alt="Loading spinner" width="48" height="48" style="width:48px; height:48px" />
-  </div>
-</div></div>
+{{< /hint >}}
+{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
+{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
