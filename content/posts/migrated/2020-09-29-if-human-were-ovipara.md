@@ -12,9 +12,7 @@ tags:
   - 脑洞
 
 ---
- 
-
-<a href="https://t.me/mtfront/873" data-type="URL" data-id="https://t.me/mtfront/873" target="_blank" rel="noreferrer noopener">最近我不是读到鸭嘴兽相关知识</a>嘛，昨天晚上睡前突然开了个脑洞俩人聊得兴奋得差点没睡着觉：如果人类是卵生的，世界是什么样子？（先假设人的蛋跟成年人的头一样大吧）
+[最近我不是读到鸭嘴兽相关知识](https://t.me/mtfront/873)嘛，昨天晚上睡前突然开了个脑洞俩人聊得兴奋得差点没睡着觉：如果人类是卵生的，世界是什么样子？（先假设人的蛋跟成年人的头一样大吧）
 
 首先肯定会产业化人工孵蛋器，穷人就去医院集中用大批量的，孵出来再去取。富人自家肯定有豪华孵蛋器，可以每天跟宝宝相处。肯定还有那种返璞归真的像想要在自家浴缸生产的 hippie 一样，想要自己人体孵蛋的。
 
@@ -38,20 +36,9 @@ tags:
 
 好像很解放女性的样子，为什么人类不是卵生🤔🤔🤔
 
-<hr class="wp-block-separator has-text-color has-background has-quaternary-background-color has-quaternary-color is-style-wide" />
-
+---
+{{< hint danger >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
-
-<a href="https://www.patreon.com/bePatron?u=46962965" data-patreon-widget-type="become-patron-button">Become a Patron!</a>  
-  
-
-
-**<a rel="noreferrer noopener" href="https://afdian.net/@mtfront" target="_blank"><code>墙内赞助通道：爱发电</code></a>**
-
-<div class="da-reactions-outer TpostID535">
-  <div class="da-reactions-data da-reactions-container-async left" data-type="post" data-id="535" data-nonce="529ab96ac1" id="da-reactions-slot-post-535"> 
-  
-  <div class="da-reactions-static">
-    <img src="http://blog.douchi.space/wp-content/plugins/da-reactions/assets/dist/loading.svg" alt="Loading spinner" width="48" height="48" style="width:48px; height:48px" />
-  </div>
-</div></div>
+{{< /hint >}}
+{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
+{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}

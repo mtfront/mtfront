@@ -12,9 +12,7 @@ tags:
   - software engineer
 
 ---
- 
-
-本文源载于 women in tech 小组：<a rel="noreferrer noopener" href="https://www.douban.com/group/topic/196085852/" data-type="URL" data-id="https://www.douban.com/group/topic/196085852/" target="_blank">转码 FAQ：我该选哪项技术栈/语言</a>？鉴于是 gender neutral 的建议就发个日记备份给组外的男友邻看。（不符合组规请勿一股脑入组凑热闹免得被踢脏号）
+本文源载于 women in tech 小组：[转码 FAQ：我该选哪项技术栈/语言](https://www.douban.com/group/topic/196085852/)？鉴于是 gender neutral 的建议就发个日记备份给组外的男友邻看。（不符合组规请勿一股脑入组凑热闹免得被踢脏号）
 
 在组内很多个新人求建议帖里都见到过几个相似的问题：我想转码前/后/移动端我该选哪个？/ Python/Java/C++/…学哪个？以后转 track 门槛是否很高？
 
@@ -26,10 +24,9 @@ tags:
 
 强调 timeboxed 是因为这个行业业内经验远比业前学习重要，现在隔行瞎猜半天，也不如选个差不太多的（而不是花很多时间找所谓最优，这甚至不是一个零和游戏，至于如何选差不多，上一段那俩方法足矣），先学习先入，行之后再凭借更丰富的资源和自己实际经验和知识的增加随机应变，做更好的选择。
 
-<div class="da-reactions-outer TpostID1008">
-  <div class="da-reactions-data da-reactions-container-async left" data-type="post" data-id="1008" data-nonce="abeacd0964" id="da-reactions-slot-post-1008"> 
-  
-  <div class="da-reactions-static">
-    <img src="http://blog.douchi.space/wp-content/plugins/da-reactions/assets/dist/loading.svg" alt="Loading spinner" width="48" height="48" style="width:48px; height:48px" />
-  </div>
-</div></div>
+---
+{{< hint danger >}}
+如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
+{{< /hint >}}
+{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
+{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}

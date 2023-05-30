@@ -13,51 +13,43 @@ tags:
   - 消费主义陷阱
 
 ---
-<a href="https://douchi.space/@mtfront/105816046690854819" data-type="URL" data-id="https://douchi.space/@mtfront/105816046690854819" target="_blank" rel="noreferrer noopener">四个月更新</a>：
+[四个月更新](https://douchi.space/@mtfront/105816046690854819)：
 
 Four month in，除了前面三个月时候说的指纹识别率大幅下降（我怀疑它用了 iPhone 类似的劣质 touchID sensor 但我没有证据，就用几个月之后跟近 N 年内安卓旗舰识别率不是一个量级），偶尔卡顿比较困扰我之外，最近内存管理又略显疲态了。很多时候两个 app 上滑到一半来回切甚至不点进去只在预览状态（比如 Merlin bird id 和 google photos 来回切找鸟）再回到原 app 都要重新刷新，你要跟我说 6G 内存在现阶段安卓上够用那是在逗我了，用一加的时候从来没有这种问题。还有刚才我 render 二月的 1se，后台回来一看居然没成功，显然也是内存不足，which 你在一加的机子上想都不用想这个问题。次旗舰还是次旗舰，买顶配旗舰你但凡用过再退回来是真的有肉眼可见的差距的。
 
 不过这部机子对办公真是太适合了，防骚扰电话功能一流，恐电话患者得到极大治愈，它识别 spam 是非常弱的通知，而且识别率很高。加上续航和机身好，对经常外出出差和打电话的人简直是福音。
 
-<a rel="noreferrer noopener" href="https://douchi.space/@mtfront/105663590776090813" data-type="URL" data-id="https://douchi.space/@mtfront/105663590776090813" target="_blank">三个月后更新体验 thread：</a>
+[三个月后更新体验 thread：](https://douchi.space/@mtfront/105663590776090813)
 
-次旗舰就是不行，Pixel 5 一开始还只有少数地方能感受到性能差距（比如处理图片、视频的时候）和震动马达、扬声器的妥协，加上优点明显（屏幕小且非曲面单手操作爽翻、续航强、系统自带骚扰电话过滤非常好用）觉得整体还是推荐的。现在用满三个月居然日常操作开始有卡顿了，不知道是内存管理还是 CPU 性能的锅，再加上 Google 学苹果给用户当爹强行去掉面部解锁（我对指纹和面部解锁本身都没有意见，有意见的是在已有的基础上开倒车强行去掉一个强制只用另一个跟用户说这是为你好），指纹识别的质量似乎也跟不上其他安卓友商现在用久了有污垢识别率大幅下降，于是我换机的心又起了。
+次旗舰就是不行，Pixel 5 一开始还只有少数地方能感受到性能差距（比如处理图片、视频的时候）和震动马达、扬声器的妥协，加上优点明显（屏幕小且非曲面单手操作爽翻、续航强、系统自带骚扰电话过滤非常好用）觉得整体还是推荐的。现在用满三个月居然日常操作开始有卡顿了，不知道是内存管理还是 CPU 性能的锅，再加上 Google 学苹果给用户当爹强行去掉面部解锁（我对指纹和面部解锁本身都没有意见，有意见的是在已有的基础上开倒车强行去掉一个强制只用另一个跟用户说这是为你好），指纹识别的质量似乎也跟不上其他安卓友商现在用久了有污垢识别率大幅下降，于是我换机的心又起了。
 
 像之前说的一样，有点想再给三星一个机会（几年前 S8 体验非常差）试试 S21 Ultra 了。
 
-<hr class="wp-block-separator has-text-color has-background has-secondary-background-color has-secondary-color is-style-default" />
+---
 
 我对 Pixel 这条产品线从来没有什么好印象——它的性价比实在太差了，用着中流安卓的硬件，卖着 iPhone 的价钱。尤其是近两年友商的照相素质突飞猛进，它几年前独步天下的图像处理也不再能救全场；而论软件体验这一项，半个亲儿子般的一加也过犹不及，同样简洁不说，还多了定制性和很多实用功能。第一方的所谓稳定性更不存在，当年我用 Pixel 2 的时候 bug 横出反倒没有一加靠谱。
 
 所以当我看到今年 Pixel 5 的低调发布时，拍腿大呼：Google 终于开窍了！这回完全是按实际的 enthusiast 而不是想象中的 geek 的需求来打造的，浑身上下透着“返璞归真”的气息：
 
-  * 毫不犹豫砍了 4 代纯属噱头的 soli 和与之而来的巨型刘海
-  * 加回实体指纹解锁
-  * 金属机身，但有无线充电和反向无线充电
-  * 加大电池容量，大胆上只用了 1080P 分辨率，用了中端 SoC，把被从初代诟病到现在的续航问题终于成功解决了
-  * 不再东施效颦苹果坚持用小 RAM & Storage（当然跟一加三星还是没法比）
-  * 不再自视甚高地只用后置单摄，加了 tech community 普遍认为更是“刀刃”的广角摄像头。更重要的是，这个摄像头凸起，非！常！薄！
-  * 最最最最最重要的是，只出了一款“小屏”（想要大屏可以去类似但不 share 产品线名字的 Pixel 4a 5G，态度非常明确），而且保留了 tech community 觉得更实用的 90hz 刷新率和非曲面屏
+- 毫不犹豫砍了 4 代纯属噱头的 soli 和与之而来的巨型刘海
+- 加回实体指纹解锁
+- 金属机身，但有无线充电和反向无线充电
+- 加大电池容量，大胆上只用了 1080P 分辨率，用了中端 SoC，把被从初代诟病到现在的续航问题终于成功解决了
+- 不再东施效颦苹果坚持用小 RAM & Storage（当然跟一加三星还是没法比）
+- 不再自视甚高地只用后置单摄，加了 tech community 普遍认为更是“刀刃”的广角摄像头。更重要的是，这个摄像头凸起，非！常！薄！
+- 最最最最最重要的是，只出了一款“小屏”（想要大屏可以去类似但不 share 产品线名字的 Pixel 4a 5G，态度非常明确），而且保留了 tech community 觉得更实用的 90hz 刷新率和非曲面屏
 
-可以说是每一个改动都深得我心。我前两年一直用的是一加，其他什么都满意，就是机型太大、曲面屏、续航、乏善可陈堆数量还越来越凸起的摄像头、浮夸的硬件设计 aesthetic不太满意，这回 Pixel 5 痛点一下全解决了，看完发布就立刻放弃了系统便利而预购了打算试试。
+可以说是每一个改动都深得我心。我前两年一直用的是一加，其他什么都满意，就是机型太大、曲面屏、续航、乏善可陈堆数量还越来越凸起的摄像头、浮夸的硬件设计 aesthetic不太满意，这回 Pixel 5 痛点一下全解决了，看完发布就立刻放弃了系统便利而预购了打算试试。
 
 经过一个月的使用，我终于可以放心地说——这真的是一款头脑清醒、放弃噱头、返璞归真的安卓“次旗舰”。如果简单、实用、做好本职工作的手机是你的偏好，那 Pixel 5 非常值得被考虑。
 
 引用我平时不是特别喜欢语调节奏，但这回对 Pixel 的评价深得我心的 Austin：
 
-<blockquote class="wp-block-quote">
-  <p>
-    虽然它没有最好的参数，相机也被其他友商赶超，但现在的智能手机已经越来越好到，作为一个没有预算问题的 tech enthusist，并不在乎&#8221;性价比“的情况下（我是这个情况），只要过了一个 baseline（足够好的性能、屏幕、续航、相机），那么选择手机的决定因素不再是以前的”性能多好“”功能多新“，而是以前不那么重要的”手感“”做工“”屏幕大小“（想要小屏）等等。
-  </p>
-  
-  <cite>——Austin, Pixel 5, I Was Wrong. https://youtu.be/5dE9gwwMoKY</cite>
-</blockquote><figure class="wp-block-image size-large">
+> 虽然它没有最好的参数，相机也被其他友商赶超，但现在的智能手机已经越来越好到，作为一个没有预算问题的 tech enthusist，并不在乎”性价比“的情况下（我是这个情况），只要过了一个 baseline（足够好的性能、屏幕、续航、相机），那么选择手机的决定因素不再是以前的”性能多好“”功能多新“，而是以前不那么重要的”手感“”做工“”屏幕大小“（想要小屏）等等。——Austin, Pixel 5, I Was Wrong. https://youtu.be/5dE9gwwMoKY
+> 
+![](https://media.douchi.space/douchi/media_attachments/files/110/452/867/938/696/629/original/7a1c40bd1320dd58.png)
 
-<img decoding="async" loading="lazy" width="1024" height="683" src="https://blog.douchi.space/wp-content/uploads/2020/12/DSC03156-01-1024x683.jpeg" alt="" class="wp-image-448" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/DSC03156-01-300x200.jpeg 300w, https://blog.douchi.space/wp-content/uploads/2020/12/DSC03156-01-1024x683.jpeg 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/DSC03156-01-768x512.jpeg 768w, https://blog.douchi.space/wp-content/uploads/2020/12/DSC03156-01-1536x1024.jpeg 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/DSC03156-01-2048x1365.jpeg 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/DSC03156-01-1600x1067.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> <!--more-->
-
-<p class="has-huge-font-size">
-  Size matters
-</p>
+## Size matters
 
 从多少人今年不顾渣电量而首选 iPhone Mini 来看，天下苦大屏久已。这两年我非常不喜欢的一个手机界 trend 就是——旗舰的屏幕越做越大。如果你不想错过一个品牌里最好的硬件，你只能选最大的。这个恶俗我认为起于三星，兴于苹果，滥于一众国产安卓厂商。苹果、三星、Google 似乎也意识到了这个问题，因此前两者每年都会出小屏旗舰，但还是会比大屏的少那么一些边角功能，如摄像头等。Google 则是从 Pixel 产线以来，一直坚持小屏 Pixel 跟大屏版除了电池之外完全一样的配置。
 
@@ -65,9 +57,9 @@ Four month in，除了前面三个月时候说的指纹识别率大幅下降（�
 
 今年，这个问题被解决了——电池容量像友商大屏机看齐（4080 毫安），同时没用旗舰 SoC（没用 865+ 而是用了 765g），保持了 1080p，只要不像三星一样玩出什么大毛病，续航 physically 不可能差。于是 Google 干脆一不做二不休，直接取消了大屏旗舰，小屏爱好者可以毫无顾虑地购入 Pixel 5 了。
 
-而事实证明，手机用户用了太久的大屏，以至于回归小屏的幸福比想象中还要浓烈。今天到我开始用 Pixel 已经过去了整整 33 天，我还是会是不是拿起它的机身来回把玩，爱不释手。Build quality 和它的特殊材质是一方面，但小屏幕本身和久违的单手可用性真的太香了。<figure class="wp-block-image size-large">
+而事实证明，手机用户用了太久的大屏，以至于回归小屏的幸福比想象中还要浓烈。今天到我开始用 Pixel 已经过去了整整 33 天，我还是会是不是拿起它的机身来回把玩，爱不释手。Build quality 和它的特殊材质是一方面，但小屏幕本身和久违的单手可用性真的太香了。
 
-<img decoding="async" loading="lazy" width="1024" height="683" src="https://blog.douchi.space/wp-content/uploads/2020/12/DSC03162-60-01-1024x683.jpeg" alt="" class="wp-image-446" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/DSC03162-60-01-300x200.jpeg 300w, https://blog.douchi.space/wp-content/uploads/2020/12/DSC03162-60-01-1024x683.jpeg 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/DSC03162-60-01-768x512.jpeg 768w, https://blog.douchi.space/wp-content/uploads/2020/12/DSC03162-60-01-1536x1024.jpeg 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/DSC03162-60-01-2048x1365.jpeg 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/DSC03162-60-01-1600x1067.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+![](https://media.douchi.space/douchi/media_attachments/files/110/452/874/285/184/654/original/b9dbfaf3e6eb866e.png)
 
 只用了几十分钟再拿回之前在用的也逐渐以为自己习惯了大屏的 Oneplus 8 pro，立刻觉得后者笨重无比，傻大黑粗，再也没有实用欲望。拿在手上的实机体验比光看图的大小对比还要明显，真的是拿了一部小手机跟拿了一片砖的区别。
 
@@ -75,13 +67,9 @@ Four month in，除了前面三个月时候说的指纹识别率大幅下降（�
 
 虽然一直说是“小屏”，但因为全面屏的普及，现代的小屏手机今非昔比。Pixel 5 这块屏也有 6 寸，对比一下很多 iPhone 用户用到了今年的 iPhone 8，机身差不多大的情况下，iPhone 8 的屏幕只有 4.7 寸。而向上对比安卓的大屏旗舰 OnePlus 8 pro，这个机身大小的缩减非常显著。我从 OnePlus 8 pro 的 6.78 寸屏直接换到 Pixel 5 的 6 寸屏毫无 missing out 的感觉。
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="564" height="1024" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-05-at-7.17.56-PM-564x1024.png" alt="" class="wp-image-452" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-05-at-7.17.56-PM-165x300.png 165w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-05-at-7.17.56-PM-564x1024.png 564w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-05-at-7.17.56-PM.png 674w" sizes="(max-width: 564px) 100vw, 564px" /><figcaption>PhoneArena iPhone 8 vs Pixel 5 vs Oneplus 8 pro size comparison</figcaption></figure>
-</div>
+![PhoneArena iPhone 8 vs Pixel 5 vs Oneplus 8 pro size comparison](https://media.douchi.space/douchi/media_attachments/files/110/455/037/591/973/740/original/9f2a829452927ebf.png)
 
-<p class="has-large-font-size">
-  续航——Lives up to its hype
-</p>
+## 续航——Lives up to its hype
 
 而今年另一款备受关注的小屏手机 iPhone 12 mini 的致命问题是续航。iPhone 的电池容量一向小到苹果往往发布会兜不提容量是众所周知的事情，但 iPhone 12 mini 因为机身小而比普通 iPhone 12 还小了 20% 的电池容量（2227 mAh）也是对他感兴趣的用户几乎唯一的顾虑。
 
@@ -89,12 +77,12 @@ Four month in，除了前面三个月时候说的指纹识别率大幅下降（�
 
 更何况 Pixel 还有两个作弊式的省电参数：
 
-  * 1080p 的屏幕。上面提到的所有安卓机都是 1440p。其中 OnePlus 8 pro 还是更费电的 120hz
-  * SoC 用了次旗舰 765g。上面提到的所有安卓机都是功耗更大性能更高的 855/865(+)
+- 1080p 的屏幕。上面提到的所有安卓机都是 1440p。其中 OnePlus 8 pro 还是更费电的 120hz
+- SoC 用了次旗舰 765g。上面提到的所有安卓机都是功耗更大性能更高的 855/865(+)
 
 本来这就不是一个 fair fight。Pixel 5 等于直接去拿次旗舰的性能去打其他安卓旗舰更高清、顺滑的屏幕和更强的性能，这相当于拿 civic 去比 m3 的油耗（当然，性能差距没这么大）。
 
-但像我前一篇文章[我为什么从一个年年更新 iPhone 用全家桶的人变成了果黑][1]提到的一样，安卓用户贵在有选择。关注极致性能，经常拿手机剪视频、打竞技性游戏的，可以去选顶级旗舰。关注续航的，以前要么妥协 build quality 和软件体验去选次旗舰老人机，要么去选在墙外诸多不便的华为。现在 Pixel 5 填补了这个“旗舰的 build quality，够用的性能，墙外顺滑一流的软件体验，华为式的续航“的空白。
+但像我前一篇文章[我为什么从一个年年更新 iPhone 用全家桶的人变成了果黑](https://blog.douchi.space/?p=435)提到的一样，安卓用户贵在有选择。关注极致性能，经常拿手机剪视频、打竞技性游戏的，可以去选顶级旗舰。关注续航的，以前要么妥协 build quality 和软件体验去选次旗舰老人机，要么去选在墙外诸多不便的华为。现在 Pixel 5 填补了这个“旗舰的 build quality，够用的性能，墙外顺滑一流的软件体验，华为式的续航“的空白。
 
 废话了半天，它的续航到底有多好呢？手机刚出的时候我看了一些不是特别专业的 youtuber 测评说“没有想象中的好”还有点失望差点取消订单，后来转念一想这些人是不是在逗我，用了一两天就敢做续航测评的是当人没用过手机吗？经常换手机的人都知道，刚 setup 手机很多软件需要更新、数据需要 index，往往都是比较耗电的工作。通常用一两周以上续航才会稳定下来。那么我现在稳定下来的续航数据是多少呢——
 
@@ -104,88 +92,72 @@ Screen on time 8～9 小时。
 
 再更具体地对比一下，我之前 Galaxy S8 的时候抽风起来 3 个小时 screen on，正常的话 4 小时多；OnePlus 7 pro & 8 pro 这种大屏 5～6 小时，如果白天多用点的话晚上睡觉前就电量预警了，充电速度奇快确实用得到，去洗个澡的功夫可以充 3、40% 回个血，在床上玩也不用紧张。
 
-换成 Pixel 5，这个“回个血”就没有必要了。续航时间稳定下来之后，我拖延症不想面对一睁眼就要上班这个现实所以不想睡觉拖到 3 点的时候，也没见过电量预警。如果自制力好 1 点多睡觉的话则是根本没必要充电，第二天起来用到下午再充都没压力。<figure class="wp-block-image size-large">
+换成 Pixel 5，这个“回个血”就没有必要了。续航时间稳定下来之后，我拖延症不想面对一睁眼就要上班这个现实所以不想睡觉拖到 3 点的时候，也没见过电量预警。如果自制力好 1 点多睡觉的话则是根本没必要充电，第二天起来用到下午再充都没压力。
 
-<img decoding="async" loading="lazy" width="1024" height="683" src="https://blog.douchi.space/wp-content/uploads/2020/11/DSC03149-01-1024x683.jpeg" alt="" class="wp-image-338" srcset="https://blog.douchi.space/wp-content/uploads/2020/11/DSC03149-01-300x200.jpeg 300w, https://blog.douchi.space/wp-content/uploads/2020/11/DSC03149-01-1024x683.jpeg 1024w, https://blog.douchi.space/wp-content/uploads/2020/11/DSC03149-01-768x512.jpeg 768w, https://blog.douchi.space/wp-content/uploads/2020/11/DSC03149-01-1536x1024.jpeg 1536w, https://blog.douchi.space/wp-content/uploads/2020/11/DSC03149-01-2048x1366.jpeg 2048w, https://blog.douchi.space/wp-content/uploads/2020/11/DSC03149-01-1600x1067.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+![](https://media.douchi.space/douchi/media_attachments/files/110/455/039/599/713/520/original/c6ae0274e9f42e77.png)
 
 现在在居家办公的，续航的威力还没有被完全展现。如果是旅行在外走一天+拍照或者要通勤上班的话，这个续航就非常令人放心了。另外还有当年华为发明的反向无线充电，因此带 AirPods Pro 等无线耳机出远门也无需另带挨千刀的 lightning 了。
 
 不过让我比较意外的是 Pixel 5 的 ambient display（always on display，安卓 OLED 屏基本都有的，平时锁屏也显示时钟和 notification 的那种）非常费电。前期一天下一看经常耗电量 7～9%。鉴于没什么实际用途我就把它 disable 了。早期开着 ambient display + 手机用电还没稳定下来的时候 screen on 是 6 小时左右。现在的 8～9 小时不知道 ambient display、app 更新和数据 index 较为稳定，还是 Pixel 的 adaptive battery 这几个功能哪个贡献更多。
 
-<p class="has-large-font-size">
-  Build——It matters more than you thought
-</p>
+## Build——It matters more than you thought
 
 光看图和视频测评可能很难看出这个质感，but trust me，用惯了这两年旗舰机的“玻璃三明治”指纹收集集之后，用到这个**温润的质感**真的爱不释手。它：
 
-  * 比玻璃或陶瓷轻、软，又不似大理石般冰冷
-  * 摩擦力大不易滑落，即便是单手操作
-  * 完全不显指纹
-  * 耐摔，虽然这两年玻璃已经做得很结实了从来没有摔碎过，but still, &#8220;glass is glass and glass breaks&#8221;
-  * 温润，但不似普通光滑塑料外壳般廉价
-  * Google 宣称这是”回收铝&#8221;，但其实外壳是塑料，使无线充电得以实现。Shady move just like Apple🤷‍♂️ Google 真是越来越像 Apple 了，后面还会提到。
+- 比玻璃或陶瓷轻、软，又不似大理石般冰冷
+- 摩擦力大不易滑落，即便是单手操作
+- 完全不显指纹
+- 耐摔，虽然这两年玻璃已经做得很结实了从来没有摔碎过，but still, “glass is glass and glass breaks”
+- 温润，但不似普通光滑塑料外壳般廉价
+- Google 宣称这是”回收铝”，但其实外壳是塑料，使无线充电得以实现。Shady move just like Apple Google 真是越来越像 Apple 了，后面还会提到。
+    
+    !https://s.w.org/images/core/emoji/14.0.0/svg/1f937-200d-2642-fe0f.svg
+    
 
-整体而言，这次的 sage 绿跟这个质感非常搭，有种清爽不张扬的 mint 感。对比起来黑色就显得非常普通了，不推荐。<figure class="wp-block-image size-large">
+整体而言，这次的 sage 绿跟这个质感非常搭，有种清爽不张扬的 mint 感。对比起来黑色就显得非常普通了，不推荐。
 
-<img decoding="async" loading="lazy" width="1024" height="683" src="https://blog.douchi.space/wp-content/uploads/2020/12/DSC03165-01-1024x683.jpeg" alt="" class="wp-image-447" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/DSC03165-01-300x200.jpeg 300w, https://blog.douchi.space/wp-content/uploads/2020/12/DSC03165-01-1024x683.jpeg 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/DSC03165-01-768x512.jpeg 768w, https://blog.douchi.space/wp-content/uploads/2020/12/DSC03165-01-1536x1024.jpeg 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/DSC03165-01-2048x1365.jpeg 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/DSC03165-01-1600x1067.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /> </figure> 
+![](https://media.douchi.space/douchi/media_attachments/files/110/455/040/738/282/524/original/0e81643cd098e65d.png)
 
-另外一点没被当卖点但非常值得表扬和实用的是，Pixel 5 的 **camera bump 非常小**，而且因为是方形的所以放在桌面上摇晃非常小。自从苹果带了个坏头之后手机厂商越来越肆无忌惮地把摄像头做更凸这个 trend 真是太讨人厌了。
+另外一点没被当卖点但非常值得表扬和实用的是，Pixel 5 的 **camera bump 非常小**，而且因为是方形的所以放在桌面上摇晃非常小。自从苹果带了个坏头之后手机厂商越来越肆无忌惮地把摄像头做更凸这个 trend 真是太讨人厌了。
 
-但，整个机身设计除了大小之外最拉动我从一加跳船的因素是——**平面屏**。曲面屏三星刚搞出来的时候确实很酷炫，整个机子正面看起来确实有种欺骗性作弊式的高屏占比。但从 S8 到 Oneplus 8 pro 我用了三年的曲面屏，从始祖三星用到优化最好的华为再用到一加，没有一家能把防误触做到像平面屏一样忘记曲面的存在。更何况，“看起来屏占比高”是有代价的——一部分的屏幕以被扭曲的姿态呈现，就算可视角度、色移等可以以屏幕素质的提升来解决，但是边缘的画面本身还是被扭曲的，除非边缘直接用软件控制不显示，但那不就是买椟还珠吗？因为仅从曲率开始的地方开始显示的话，其实屏幕面积比同等大小的平面屏还要小，就完全本末倒置了。<figure class="wp-block-image size-large">
+但，整个机身设计除了大小之外最拉动我从一加跳船的因素是——**平面屏**。曲面屏三星刚搞出来的时候确实很酷炫，整个机子正面看起来确实有种欺骗性作弊式的高屏占比。但从 S8 到 Oneplus 8 pro 我用了三年的曲面屏，从始祖三星用到优化最好的华为再用到一加，没有一家能把防误触做到像平面屏一样忘记曲面的存在。更何况，“看起来屏占比高”是有代价的——一部分的屏幕以被扭曲的姿态呈现，就算可视角度、色移等可以以屏幕素质的提升来解决，但是边缘的画面本身还是被扭曲的，除非边缘直接用软件控制不显示，但那不就是买椟还珠吗？因为仅从曲率开始的地方开始显示的话，其实屏幕面积比同等大小的平面屏还要小，就完全本末倒置了。
 
-<img decoding="async" loading="lazy" width="1024" height="684" src="https://blog.douchi.space/wp-content/uploads/2020/11/DSC03154-01-1024x684.jpeg" alt="" class="wp-image-340" srcset="https://blog.douchi.space/wp-content/uploads/2020/11/DSC03154-01-300x200.jpeg 300w, https://blog.douchi.space/wp-content/uploads/2020/11/DSC03154-01-1024x684.jpeg 1024w, https://blog.douchi.space/wp-content/uploads/2020/11/DSC03154-01-768x513.jpeg 768w, https://blog.douchi.space/wp-content/uploads/2020/11/DSC03154-01-1536x1026.jpeg 1536w, https://blog.douchi.space/wp-content/uploads/2020/11/DSC03154-01-2048x1367.jpeg 2048w, https://blog.douchi.space/wp-content/uploads/2020/11/DSC03154-01-1600x1068.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption>一个背部解锁很不方便的场景</figcaption></figure> 
+![一个背部解锁很不方便的场景](https://media.douchi.space/douchi/media_attachments/files/110/455/042/179/582/545/original/bca285039bfb9203.png)
 
 最后，虽然我对以“安全”为理由而强制不支持面部解锁颇有怨言，但相信对被 FaceID 和各种技术的屏下指纹折磨了三年的用户们都对回归物理指纹解锁期待已久。不过鉴于近两年屏下指纹的识别率和速度已经提升了很多（当然还是无法跟物理指纹解锁相比，还停留在几年前最后的 touchID 印象的 iPhone 用户可能无法理解，安卓世界的物理指纹解锁真是无论怎么按都瞬间解锁，跟 touch ID 不是一个数量级），所以偶尔在桌面上平放想快速看一下内容的时候还是有一点点希望能有个屏下/面部解锁的。当然，这 1% 的 use case 缺失换来了 99% 时间更准更快更强的物理指纹解锁，也算值得的 trade off。
 
-<p class="has-large-font-size">
-  相机——依然靠谱，但跟友商差距缩小
-</p>
+## 相机——依然靠谱，但跟友商差距缩小
 
 曾几何时（Pixel 2 的年代，aka 三年前），Pixel 靠一个摄像头横扫天下，就算又贵硬件又差也有无数人“权当买了个有 AI 能打电话的相机“来买 Pixel。在不同偏好上华为稍微可以与之一争，但墙外几乎无可匹敌。时隔 3 年市场情况已经产生了天翻地覆的变化，三星、一加甚至 iPhone 都已经追了上来，而 Pixel 5 还在坚持用跟 Pixel 2 一样的 sensor，加了一颗广角，单靠后期处理独步天下。但是即便所有智能手机的 sensor 都是索尼供应的，索尼自家手机的相机也一塌糊涂，足见在手机摄影界硬件真的不是那么重要。我认为明年 Pixel 6 升级 sensor 将会成为主要卖点，但我们来看看今年这个一把年纪的 sensor 还能不能 hold up。
 
-鉴于近两年旗舰机的处理水平，理想光条件下就没什么好比了，没有肉眼可见分别。因此以下只发需要高宽容度的、暗光、长焦、广角等“非理想”状态。因为是相机素质所以均未处理，所有图右击在新网页打开可以看大图（非原图，年代久远是 Google photo 和 WordPress 压缩过的了，毕竟手机摄影实用性上来讲开 100% 看噪点也没啥意思）。<figure class="wp-block-gallery columns-2 is-cropped wp-block-gallery-87 is-layout-flex">
+鉴于近两年旗舰机的处理水平，理想光条件下就没什么好比了，没有肉眼可见分别。因此以下只发需要高宽容度的、暗光、长焦、广角等“非理想”状态。因为是相机素质所以均未处理，所有图右击在新网页打开可以看大图（非原图，年代久远是 Google photo 和 WordPress 压缩过的了，毕竟手机摄影实用性上来讲开 100% 看噪点也没啥意思）。
 
-<ul class="blocks-gallery-grid">
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" loading="lazy" width="1024" height="768" src="https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201126_221415422-1024x768.jpg" alt="" data-id="457" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201126_221415422-scaled.jpg" data-link="https://blog.douchi.space/?attachment_id=457" class="wp-image-457" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201126_221415422-300x225.jpg 300w, https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201126_221415422-1024x768.jpg 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201126_221415422-768x576.jpg 768w, https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201126_221415422-1536x1152.jpg 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201126_221415422-2048x1536.jpg 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201126_221415422-1600x1200.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="blocks-gallery-item__caption">广角镜头逆光，紫边比 Oneplus 8 控制得好</figcaption></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" loading="lazy" width="1024" height="768" src="https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20201024_133036-1024x768.jpg" alt="" data-id="468" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20201024_133036-scaled.jpg" data-link="https://blog.douchi.space/?attachment_id=468" class="wp-image-468" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20201024_133036-300x225.jpg 300w, https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20201024_133036-1024x768.jpg 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20201024_133036-768x576.jpg 768w, https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20201024_133036-1536x1152.jpg 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20201024_133036-2048x1536.jpg 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20201024_133036-1600x1200.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="blocks-gallery-item__caption">作为对比 Oneplus 8 pro 的逆光广角，注意左上角和阳光处的紫边</figcaption></figure>
-  </li>
-</ul></figure> 
+{{< columns >}}
+![广角镜头逆光，紫边比 Oneplus 8 控制得好](https://media.douchi.space/douchi/media_attachments/files/110/455/043/603/556/135/original/4a98bfe1f8acaea8.png)
+<---> 
+![作为对比 Oneplus 8 pro 的逆光广角，注意左上角和阳光处的紫边](https://media.douchi.space/douchi/media_attachments/files/110/455/045/953/317/392/original/201bc61940bd41c1.png)
+{{< / columns >}}
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="768" src="https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201126_234305386-1024x768.jpg" alt="" class="wp-image-456" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201126_234305386-300x225.jpg 300w, https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201126_234305386-1024x768.jpg 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201126_234305386-768x576.jpg 768w, https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201126_234305386-1536x1152.jpg 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201126_234305386-2048x1536.jpg 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201126_234305386-1600x1200.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>天色已晚暮色将近的主镜头和包容度</figcaption></figure>
-</div><figure class="wp-block-gallery columns-2 is-cropped wp-block-gallery-89 is-layout-flex">
+![天色已晚暮色将近的主镜头和包容度](https://media.douchi.space/douchi/media_attachments/files/110/455/046/476/044/155/original/b05398375af6ad66.png)
 
-<ul class="blocks-gallery-grid">
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" loading="lazy" width="1024" height="768" src="https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201126_182420825-1024x768.jpg" alt="" data-id="458" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201126_182420825-scaled.jpg" data-link="https://blog.douchi.space/?attachment_id=458" class="wp-image-458" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201126_182420825-300x225.jpg 300w, https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201126_182420825-1024x768.jpg 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201126_182420825-768x576.jpg 768w, https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201126_182420825-1536x1152.jpg 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201126_182420825-2048x1536.jpg 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201126_182420825-1600x1200.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="blocks-gallery-item__caption">广角 HDR （从室内向室外）</figcaption></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" loading="lazy" width="1024" height="768" src="https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20201031_154946-1024x768.jpg" alt="" data-id="464" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20201031_154946-scaled.jpg" data-link="https://blog.douchi.space/?attachment_id=464" class="wp-image-464" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20201031_154946-300x225.jpg 300w, https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20201031_154946-1024x768.jpg 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20201031_154946-768x576.jpg 768w, https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20201031_154946-1536x1152.jpg 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20201031_154946-2048x1536.jpg 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20201031_154946-1600x1200.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="blocks-gallery-item__caption">Oneplus 8 pro 广角 HDR，虽然不是 apple to apple 对比但是一加的取向还是有点用力过猛</figcaption></figure>
-  </li>
-</ul></figure> 
+{{< columns >}}
+![广角 HDR （从室内向室外）](https://media.douchi.space/douchi/media_attachments/files/110/455/073/689/307/161/original/1ca74a11d5941582.png)
+<--->
+![Oneplus 8 pro 广角 HDR，虽然不是 apple to apple 对比但是一加的取向还是有点用力过猛](https://media.douchi.space/douchi/media_attachments/files/110/455/047/270/390/960/original/d337d2e5a55c6179.png)
+{{< /columns >}}    
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="768" src="https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201109_004852547.MP_-1024x768.jpg" alt="" class="wp-image-461" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201109_004852547.MP_-300x225.jpg 300w, https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201109_004852547.MP_-1024x768.jpg 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201109_004852547.MP_-768x576.jpg 768w, https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201109_004852547.MP_-1536x1152.jpg 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201109_004852547.MP_-2048x1536.jpg 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201109_004852547.MP_-1600x1200.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>主镜头 HRD point & shoot （在车上行进中）</figcaption></figure>
-</div><figure class="wp-block-gallery columns-3 is-cropped wp-block-gallery-91 is-layout-flex">
+![主镜头 HRD point & shoot （在车上行进中）](https://media.douchi.space/douchi/media_attachments/files/110/455/049/901/187/892/original/55ace0b26529894a.png)
 
-<ul class="blocks-gallery-grid">
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" loading="lazy" width="1920" height="2560" src="https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201125_053522037-scaled.jpg" alt="" data-id="462" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201125_053522037-scaled.jpg" data-link="https://blog.douchi.space/?attachment_id=462" class="wp-image-462" /><figcaption class="blocks-gallery-item__caption">主镜头暗光逆光 + 浅景深（未开人像模式，自然景深）</figcaption></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" loading="lazy" width="768" height="1024" src="https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20200912_193003-768x1024.jpg" alt="" data-id="466" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20200912_193003-scaled.jpg" data-link="https://blog.douchi.space/?attachment_id=466" class="wp-image-466" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20200912_193003-225x300.jpg 225w, https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20200912_193003-768x1024.jpg 768w, https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20200912_193003-1152x1536.jpg 1152w, https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20200912_193003-1536x2048.jpg 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20200912_193003-1600x2133.jpg 1600w, https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20200912_193003-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption class="blocks-gallery-item__caption">没找到 Oneplus 8 pro 逆光的，来张普通室内暗光吧</figcaption></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" loading="lazy" width="768" height="1024" src="https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20190415_235521-768x1024.jpg" alt="" data-id="467" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20190415_235521-scaled.jpg" data-link="https://blog.douchi.space/?attachment_id=467" class="wp-image-467" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20190415_235521-225x300.jpg 225w, https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20190415_235521-768x1024.jpg 768w, https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20190415_235521-1152x1536.jpg 1152w, https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20190415_235521-1536x2048.jpg 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20190415_235521-1600x2133.jpg 1600w, https://blog.douchi.space/wp-content/uploads/2020/12/IMG_20190415_235521-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption class="blocks-gallery-item__caption">华为 mate 20 pro 主镜头，华为解析度、亮度、虚化啥都好，就是室内色温暖得要死不知道为啥</figcaption></figure>
-  </li>
-</ul></figure> 
+{{< columns >}}
+![主镜头暗光逆光 + 浅景深（未开人像模式，自然景深）](https://media.douchi.space/douchi/media_attachments/files/110/455/051/398/291/341/original/4b94d4f07a1fb138.png)
+<--->
+![没找到 Oneplus 8 pro 逆光的，来张普通室内暗光吧](https://media.douchi.space/douchi/media_attachments/files/110/455/051/763/082/219/original/f26a885ff97c900c.png)
+<--->
+![华为 mate 20 pro 主镜头，华为解析度、亮度、虚化啥都好，就是室内色温暖得要死不知道为啥](https://media.douchi.space/douchi/media_attachments/files/110/455/052/509/660/130/original/45ccfb5e79632031.png)
+{{< /columns >}}
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="768" height="1024" src="https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201130_051310587-768x1024.jpg" alt="" class="wp-image-455" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201130_051310587-225x300.jpg 225w, https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201130_051310587-768x1024.jpg 768w, https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201130_051310587-1152x1536.jpg 1152w, https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201130_051310587-1536x2048.jpg 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201130_051310587-1600x2133.jpg 1600w, https://blog.douchi.space/wp-content/uploads/2020/12/PXL_20201130_051310587-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption>长焦镜头（2X）手持暗光室内</figcaption></figure>
-</div>
+![长焦镜头（2X）手持暗光室内](https://media.douchi.space/douchi/media_attachments/files/110/455/054/426/706/680/original/377ec3a500f44b9e.png)
+
 
 整体而言，毕竟这是套 12MP 的老 sensor，解析度上已经跟不上新手机了，但 point & shoot 非常省心。另外 Pixel 当年抄袭 live photo 出的如果画面中有动作就录一小段视频/连拍，既可以选 best brame 也可以导出小视频，结合 Google photo 无缝预览有时候还是蛮实用的。
 
@@ -197,39 +169,33 @@ Screen on time 8～9 小时。
 
 预测明年全面升级 sensor，如果不升的话就有点说不过去了。总体来说今年的相机表现结合软件只能说是 meet expectation 没有惊喜，但依然是安卓旗舰第一梯队省心靠谱的拍摄选择。
 
-<p class="has-large-font-size">
-  软件——It&#8217;s clean, but that&#8217;s about it. And, Google is not afraid to show its dirty move.
-</p>
+## 软件——It’s clean, but that’s about it. And, Google is not afraid to show its dirty move.
 
 我对 youtuber 一贯喜欢吹捧的“最接近原生安卓”的系统毫无迷信。对绝大多数消费者而言，系统清爽自然很好，但摆在第一的肯定还是实用性。友商定制的各种实用功能里虽然不发噱头和累赘，但在清爽和实用之间还是有找到平衡的，比如一加，跟 Oneplus 8 pro 相比使用 Pixel 5 的 Android 11 至少有如下**不便**：
 
-  * 没有 rom 级别的长截图。虽然有不少第三方软件可以实现长截图的效果，但 app 内一键卷屏没有一个完美实现的，最后我只好用多张截图 + 缝合的第三方 app 这种以前我用来嘲笑 iPhone 用户的笨办法实现。在我过去几年用过的安卓机（一加、华为、Vivo、三星）里这还是头一遭
-  * 没有 notification slider——这个被 youtuber 们说了无数遍的一加的杀手功能不知道为什么还没有其他厂家抄袭，难道有专利？一加在电源键上有个硬件 slider 可以在铃声、震动和静音中间切换，谁用谁知道，用完就离不开了。很遗憾 Pixel 和其他安卓机没有，要切换模式最快的方法是按音量键呼出软件 volume slider 然后切换。
-  * 不能调节屏幕色温，只有几个款预设 color profile 可选，虽然默认的就很舒服了。（一加不知道为什么色温问题不大但是自动亮度一直很莫名其妙几乎没法用）
-  * Bug 较多，比如 NFC 有些设备不能 toggle on and off，截图第二张之后点编辑会进入编辑前一张等低级错误。这种互联网软件公司的正式发布产品比做硬件的友商软件 bug 多我作为圈内人可以理解，但从消费者层面上而言其实用一加、三星等硬件厂（虽然三星 try to do software in some way）的软件可能反倒更“省心”一些。
-  * Launcher 东施效颦苹果，限制了部分 customization，当然通过换 launcher 能解决，但很多人不就是冲着这个简洁的 Pixel launcher 来的吗？
-      * 不能把最下面的 Google bar 去掉，虽然这个 universal search （既能搜 app、settings 又能直接网页 Google search）还挺好用的，but still 有种苹果式的当爹感觉。
-      * Gesture bar 在 home 页不能去掉。虽然这个已经比苹果那种骑用户脸上当爹的 intrusive gesture bar 不明显很多了，but still. 用户学一两次就会用的东西需要这样天天在眼前晃荡来提示怎么用吗？好歹给个选项关闭啊<figure class="wp-block-image size-large">
+- 没有 rom 级别的长截图。虽然有不少第三方软件可以实现长截图的效果，但 app 内一键卷屏没有一个完美实现的，最后我只好用多张截图 + 缝合的第三方 app 这种以前我用来嘲笑 iPhone 用户的笨办法实现。在我过去几年用过的安卓机（一加、华为、Vivo、三星）里这还是头一遭
+- 没有 notification slider——这个被 youtuber 们说了无数遍的一加的杀手功能不知道为什么还没有其他厂家抄袭，难道有专利？一加在电源键上有个硬件 slider 可以在铃声、震动和静音中间切换，谁用谁知道，用完就离不开了。很遗憾 Pixel 和其他安卓机没有，要切换模式最快的方法是按音量键呼出软件 volume slider 然后切换。
+- 不能调节屏幕色温，只有几个款预设 color profile 可选，虽然默认的就很舒服了。（一加不知道为什么色温问题不大但是自动亮度一直很莫名其妙几乎没法用）
+- Bug 较多，比如 NFC 有些设备不能 toggle on and off，截图第二张之后点编辑会进入编辑前一张等低级错误。这种互联网软件公司的正式发布产品比做硬件的友商软件 bug 多我作为圈内人可以理解，但从消费者层面上而言其实用一加、三星等硬件厂（虽然三星 try to do software in some way）的软件可能反倒更“省心”一些。
+- Launcher 东施效颦苹果，限制了部分 customization，当然通过换 launcher 能解决，但很多人不就是冲着这个简洁的 Pixel launcher 来的吗？
+    - 不能把最下面的 Google bar 去掉，虽然这个 universal search （既能搜 app、settings 又能直接网页 Google search）还挺好用的，but still 有种苹果式的当爹感觉。
+    - Gesture bar 在 home 页不能去掉。虽然这个已经比苹果那种骑用户脸上当爹的 intrusive gesture bar 不明显很多了，but still. 用户学一两次就会用的东西需要这样天天在眼前晃荡来提示怎么用吗？好歹给个选项关闭啊 
+    
+    ![就是这俩玩意儿](https://media.douchi.space/douchi/media_attachments/files/110/455/055/077/064/981/original/04ef9bce6fd6b033.png)
 
-<img decoding="async" loading="lazy" width="734" height="226" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-05-at-11.58.16-PM.png" alt="" class="wp-image-454" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-05-at-11.58.16-PM-300x92.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-05-at-11.58.16-PM.png 734w" sizes="(max-width: 734px) 100vw, 734px" /> <figcaption>就是这俩玩意儿</figcaption></figure> 
+- 没有一加便利的负一屏。一加先前升级 Android 11 之后左边负一屏变成跟 Pixel 一样的 Google feed 了我还吓了一跳遗憾半天之前好用的便签、dashboard、停车功能（比 Google maps 那个自作聪明的解决方案好用一百倍）、tools 如计算器等没有了，最后发现被改到在 home 页上划了（见下图）。这又算一个一加软件比 Pixel 好用的例子。
+![](https://media.douchi.space/douchi/media_attachments/files/110/455/055/746/536/044/original/f0408e5f69b0834a.png)
+![](https://media.douchi.space/douchi/media_attachments/files/110/455/056/067/748/533/original/ec188ca8356e9429.png)
+    
 
-  * 没有一加便利的负一屏。一加先前升级 Android 11 之后左边负一屏变成跟 Pixel 一样的 Google feed 了我还吓了一跳遗憾半天之前好用的便签、dashboard、停车功能（比 Google maps 那个自作聪明的解决方案好用一百倍）、tools 如计算器等没有了，最后发现被改到在 home 页上划了（见下图）。这又算一个一加软件比 Pixel 好用的例子。<figure class="wp-block-gallery columns-1 is-cropped wp-block-gallery-93 is-layout-flex">
-
-<ul class="blocks-gallery-grid">
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" loading="lazy" width="1024" height="683" src="https://blog.douchi.space/wp-content/uploads/2020/12/DSC03166-01-1024x683.jpeg" alt="" data-id="445" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/DSC03166-01-scaled.jpeg" data-link="https://blog.douchi.space/?attachment_id=445" class="wp-image-445" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/DSC03166-01-300x200.jpeg 300w, https://blog.douchi.space/wp-content/uploads/2020/12/DSC03166-01-1024x683.jpeg 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/DSC03166-01-768x512.jpeg 768w, https://blog.douchi.space/wp-content/uploads/2020/12/DSC03166-01-1536x1024.jpeg 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/DSC03166-01-2048x1365.jpeg 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/DSC03166-01-1600x1067.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" loading="lazy" width="1024" height="683" src="https://blog.douchi.space/wp-content/uploads/2020/12/DSC03169-01-1024x683.jpeg" alt="" data-id="444" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/DSC03169-01-scaled.jpeg" data-link="https://blog.douchi.space/?attachment_id=444" class="wp-image-444" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/DSC03169-01-300x200.jpeg 300w, https://blog.douchi.space/wp-content/uploads/2020/12/DSC03169-01-1024x683.jpeg 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/DSC03169-01-768x512.jpeg 768w, https://blog.douchi.space/wp-content/uploads/2020/12/DSC03169-01-1536x1024.jpeg 1536w, https://blog.douchi.space/wp-content/uploads/2020/12/DSC03169-01-2048x1365.jpeg 2048w, https://blog.douchi.space/wp-content/uploads/2020/12/DSC03169-01-1600x1067.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-  </li>
-</ul><figcaption class="blocks-gallery-caption">OnePlus 负一屏 vs Google Feed</figcaption></figure> 
+OnePlus 负一屏 vs Google Feed
 
 另外我还想特别吐槽一下这个 Google feed，为什么要强制用户在负一屏看新闻啊？我想看不是有 Google news 吗？左上角隐藏的那个自带的 snapshot （Calendar、日历、股票等）反倒更好用一些那个放负一屏我都没一键。这个 feed 放在这么重要一个位置唯一的目的就是插广告，也确实有广告，而且居然还比 Google news 里的多？？？以后 Pixel 用户有什么脸嘲笑小米在 Rom 层面插广告？甚至，这个 feed 是 Android 11 自带的，别的厂商不别有安排的也是有的（比如一加），我没仔细看别的厂商有没有广告，如果有的话那就晋升为在系统层面插广告了，真的不要脸疯了。
 
 联系 Google 最近一系列吃相难看的圈钱活动
 
-  * Google photo 2021 年 6 月取消 unlimited upload, 改为跟 gmail/drive share 15G storage，用超过的可能被删数据，也就是说可能连邮件都用不了。未来 Pixel 也不能幸免，Pixel 5 是最后一台承诺继续有 unlimited upload 的设备
-  * YouTube 强制给未参加 partner program 的视频内插广告。也就是说不管内容创作者是否同意，是否能收到钱，YouTube 都会强制插广告. 这件事为什么糟糕之前讨论过了不再赘述：<a rel="noreferrer noopener" href="https://t.me/mtfront/1273" target="_blank">https://t.me/mtfront/1273</a>
+- Google photo 2021 年 6 月取消 unlimited upload, 改为跟 gmail/drive share 15G storage，用超过的可能被删数据，也就是说可能连邮件都用不了。未来 Pixel 也不能幸免，Pixel 5 是最后一台承诺继续有 unlimited upload 的设备
+- YouTube 强制给未参加 partner program 的视频内插广告。也就是说不管内容创作者是否同意，是否能收到钱，YouTube 都会强制插广告. 这件事为什么糟糕之前讨论过了不再赘述：https://t.me/mtfront/1273
 
 不禁让人对刚刚在硬件上返璞归真恢复信心的 Pixel 线的未来方向担心起来。
 
@@ -237,25 +203,21 @@ Screen on time 8～9 小时。
 
 简而言之，Pixel 5 的软件体验虽然用起来绝大多数时间是舒服且够用的，我认为并不比墙外其他安卓友商具有决定性优势，甚至在实用性功能上还有一些牺牲。
 
-<p class="has-large-font-size">
-  肉眼可见的妥协
-</p>
+肉眼可见的妥协
 
 既然下降来到了 $699 以及发售一个月黑五打到的 $649 这个价位，就已经不是现在顶级旗舰 $900+ 的市场竞争了，甚至比同为小屏市场的 iPhone 12 mini 最低配（一半的存储、电池等）也便宜不少。compromise 自然是有的，用户也不会一味苛求所有用料都是顶级，关键是钱是否用在了“刀刃”上，以及被砍掉被妥协的部分是否是自己关心的。在我肉眼可见（不看参数只看体验）的体验中发现了如下妥协：
 
-  * 性能在大多数时候如果不是 side by side 对比，还是很流畅的，自然发热也是几乎没有。但也止步于“流畅”了，没有一加那种开任何 app 都飞快的感觉。个别 app 有时候开启特别慢，应该是没有针对 765 优化，我注意到的有
-      * Doordash
-      * Snapseed 保存有时候特别久（这还是 Google 自家的…… 给跪）
-      * M1 finance -> 截至 11/30/2020 已修复
-  * 拍完照片有个一两秒的处理时间，这在以往的旗舰上还是比较少见的
-  * 6G 内存还是能看到肉眼可见的局限，后台启动 app 经常看到冷启动，类似状况在 12G 的一加上我已经两年没有见到过了。比如 Telegram 几乎每次打开都要重新载入对话头像，连关了电池优化都不行。
-  * 上面的屏下扬声器跟真正的双扬声器（如 Oneplus 8 pro, Samsung Galaxy S20 系列等）还是有肉耳可见的差距，立体感逊色很多。另外下面的扬声器虽然是两个开口，但其实只有一个发声。结合这两点，还是挺容易像以往单扬声器一样手持被挡住的。如果经常外放看视频、玩游戏的话会比较明显。不能说是“差”，但绝对算不上“好”。
-  * 震动马达素质一般，处于中规中矩的水平，没有 2020 年旗舰的细腻，至少跟 Oneplus 8 pro 比有明显差距，很多细微的震动反馈愉悦感没有了。
-  * 18W 的“快充”也就勉强 diss 一下 iPhone，跟安卓友商起步 35w 上至 65w 电磁炉般的充电没法比，还好续航能力佳弥补了一下
+- 性能在大多数时候如果不是 side by side 对比，还是很流畅的，自然发热也是几乎没有。但也止步于“流畅”了，没有一加那种开任何 app 都飞快的感觉。个别 app 有时候开启特别慢，应该是没有针对 765 优化，我注意到的有
+    - Doordash
+    - Snapseed 保存有时候特别久（这还是 Google 自家的…… 给跪）
+    - M1 finance -> 截至 11/30/2020 已修复
+- 拍完照片有个一两秒的处理时间，这在以往的旗舰上还是比较少见的
+- 6G 内存还是能看到肉眼可见的局限，后台启动 app 经常看到冷启动，类似状况在 12G 的一加上我已经两年没有见到过了。比如 Telegram 几乎每次打开都要重新载入对话头像，连关了电池优化都不行。
+- 上面的屏下扬声器跟真正的双扬声器（如 Oneplus 8 pro, Samsung Galaxy S20 系列等）还是有肉耳可见的差距，立体感逊色很多。另外下面的扬声器虽然是两个开口，但其实只有一个发声。结合这两点，还是挺容易像以往单扬声器一样手持被挡住的。如果经常外放看视频、玩游戏的话会比较明显。不能说是“差”，但绝对算不上“好”。
+- 震动马达素质一般，处于中规中矩的水平，没有 2020 年旗舰的细腻，至少跟 Oneplus 8 pro 比有明显差距，很多细微的震动反馈愉悦感没有了。
+- 18W 的“快充”也就勉强 diss 一下 iPhone，跟安卓友商起步 35w 上至 65w 电磁炉般的充电没法比，还好续航能力佳弥补了一下
 
-<p class="has-large-font-size">
-  Verdict
-</p>
+Verdict
 
 在推出了性价比之王 Pixel 4a 之后，Google 乘胜追击在 Pixel 5 上大胆冒险从旗舰这个竞争激烈的市场 step down 来到次旗舰市场竞争。不惜牺牲性能来专注于出色的续航、小巧细腻的机身、舒服的平面屏、实体指纹解锁、广角镜头等实用性功能，大刀阔斧砍掉了华而不实的噱头 project soli 和前置双摄。
 
@@ -263,34 +225,22 @@ Screen on time 8～9 小时。
 
 在返璞归真和愈发贪婪的两条路上齐头并进，今年 Pixel 4a 和 Pixel 5 开了个不错的头，希望明年 Google 不要搞砸。
 
-<hr class="wp-block-separator" />
+---
 
 以下链接为推广链接，对您的购买价格不会有任何影响，我会得到一笔很小的佣金。很高兴文章对您有帮助，感谢您的支持！
 
-  * <a href="https://amzn.to/3shCtNi" data-type="URL" data-id="https://amzn.to/3shCtNi">Pixel 5</a>
-  * <a href="https://amzn.to/39l61kt" data-type="URL" data-id="https://amzn.to/39l61kt" target="_blank" rel="noreferrer noopener">Pixel 4 5G </a>&#8211; 性价比选择，大屏，电池较小
+- [Pixel 5](https://amzn.to/3shCtNi)
+- [Pixel 4 5G](https://amzn.to/39l61kt) – 性价比选择，大屏，电池较小
 
-<hr class="wp-block-separator has-text-color has-background has-quaternary-background-color has-quaternary-color is-style-wide" />
-
+---
+{{< hint danger >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
+{{< /hint >}}
+{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
+{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
 
-<a href="https://www.patreon.com/bePatron?u=46962965" data-patreon-widget-type="become-patron-button">Become a Patron!</a>  
-  
-
-
-**<a rel="noreferrer noopener" href="https://afdian.net/@mtfront" target="_blank"><code>墙内赞助通道：爱发电</code></a>**
-
-<div class="da-reactions-outer TpostID451">
-  <div class="da-reactions-data da-reactions-container-async left" data-type="post" data-id="451" data-nonce="66fd3764b5" id="da-reactions-slot-post-451"> 
-  
-  <div class="da-reactions-static">
-    <img src="http://blog.douchi.space/wp-content/plugins/da-reactions/assets/dist/loading.svg" alt="Loading spinner" width="48" height="48" style="width:48px; height:48px" />
-  </div>
-</div></div>
-
- [1]: https://blog.douchi.space/?p=435
-
-## Comments
+{{< details "Migrated Comments" open >}}
 
 ### Comment by Wei on 2021-12-13 17:50:05 -0800
 手持13pro+8pro，这两天没事逛淘宝看到有薄荷绿残存的货，琢磨着也把8pro卖了换pixel当备用机，5这个颜色、大小和重量实在是太诱惑了，8pro我也是深受曲面屏其害。上回用google还是nexus5和6，希望能有一个好的体验。
+{{< / details >}}

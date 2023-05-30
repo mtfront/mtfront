@@ -14,33 +14,23 @@ tags:
   - 消费主义陷阱
 
 ---
- 
-
-我，一个骨灰级果黑（见附录1），也不得不承认，<a href="https://amzn.to/3sjAaJG" data-type="URL" data-id="https://amzn.to/3sjAaJG" target="_blank" rel="noreferrer noopener">Airpods Pro</a> （后简称 AP）可能是近五年来苹果最良心的产品，甚至是现在市面上最 versatile、综合素质及平衡性最好的真无线耳机。往远里讲，我们离科幻电影里 always on 的可穿戴设备又近了一步（市场上真无线降噪耳机不是没有其他选择，然而对我个人总有种种原因阻止我全天候佩戴）。往近里讲，苹果在近几年都只会出平庸、体验差的 rip off 产品之后终于又就践行了之前“虽然不做第一个，但通常做最成熟顺滑体验的那个“的作风。
+ 我，一个骨灰级果黑（见附录1），也不得不承认，[Airpods Pro](https://amzn.to/3sjAaJG) （后简称 AP）可能是近五年来苹果最良心的产品，甚至是现在市面上最 versatile、综合素质及平衡性最好的真无线耳机。往远里讲，我们离科幻电影里 always on 的可穿戴设备又近了一步（市场上真无线降噪耳机不是没有其他选择，然而对我个人总有种种原因阻止我全天候佩戴）。往近里讲，苹果在近几年都只会出平庸、体验差的 rip off 产品之后终于又就践行了之前“虽然不做第一个，但通常做最成熟顺滑体验的那个“的作风。
 
 In short，如果你：对普通 airpods（类似于传统 iPhone 附赠耳机）非入耳的设计不契合，对舒适度有较高要求，经常使用飞机、火车、地铁等公共交通工具，对音质没有极致的追求，希望一副耳机适应各种场合（工作、通勤、差旅、通话、音乐），简装出行不喜欢随身携带包的话，airpods 可能是市面上最好的选择，无论你是 iOS 还是 Android 用户。
 
 （本来懒得更新最后别人问起觉得是大问题还是更一下吧：连 oneplus 7 pro 的时候打电话收音非常谜，外面路上你讲话基本别想听到了，在家也很飘，只能用手罩着打对面才能听到。连苹果产品比如 mbp 开会收音就毫无问题。不知道是一加还是安卓的锅。如果用安卓/一加且买来的主要 use case 是打电话的话建议保证有无条件退货渠道）
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="680" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.40.16-PM-1024x680.png" alt="" class="wp-image-630" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.40.16-PM-300x199.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.40.16-PM-1024x680.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.40.16-PM-768x510.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.40.16-PM.png 1346w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
-</div>
+![](https://media.douchi.space/douchi/media_attachments/files/110/452/749/122/893/105/original/5df7020c0f367e87.png)
 
-<p class="has-quaternary-background-color has-background">
-  图片文字未特别说明均为自己拍摄/截图，禁止转载。
-</p>
+{{< hint warning>}}
+图片文字未特别说明均为自己拍摄/截图，禁止转载。
+{{< / hint >}}
 
-<!--more-->
-
-<p class="has-large-font-size">
-  舒适、贴耳、可靠
-</p>
+## 舒适、贴耳、可靠
 
 这是我最看中的一点。AP 从自身体积、形状和重量，耳塞舒适度，收纳盒体积，优秀的 transparency mode 和耳压平衡口多个方面保证了这是市场上同类产品最舒适自然、最适合全天佩戴的真无线耳机之一。
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img decoding="async" loading="lazy" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.40.52-PM-1024x680.png" alt="" class="wp-image-631" width="640" height="425" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.40.52-PM-300x199.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.40.52-PM-1024x680.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.40.52-PM-768x510.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.40.52-PM.png 1344w" sizes="(max-width: 640px) 100vw, 640px" /><figcaption>对自己拍出官方广告图的效果十分满意</figcaption></figure>
-</div>
+![对自己拍出官方广告图的效果十分满意](https://media.douchi.space/douchi/media_attachments/files/110/452/749/885/316/646/original/ca2d7e4fa8cdcc3d.png)
 
 AP 是我佩戴过最舒服的耳机（唯一比它舒服的是 Bose SoundSport，那副是有线耳机，且有鲨鱼鳍（我才知道叫这个名字），不如 AP 携带和佩戴方便），I can easily wear it for hours。耳塞外部的平衡气口起到的平衡内外耳压效果应该对长时间佩戴的舒适性也很有帮助，开着 transparency mode 几乎可以忘了有戴耳机。
 
@@ -48,35 +38,21 @@ AP 是我佩戴过最舒服的耳机（唯一比它舒服的是 Bose SoundSport�
 
 另外蓝牙信号也非常稳定无延迟，我穿过两个房间继续打电话没有任何影响。不像有些也不便宜的厂商还会出现手机装在裤兜里身体某个姿势挡到耳机都会信号不稳定。
 
-<p class="has-large-font-size">
-  方便 &#8211; transparency mode 和便携性
-</p>
+方便 – transparency mode 和便携性
 
 这应该是我最看重的在真无线耳机 feature。因为不像项链式耳机和头戴式耳机一样方便随时摘下来放挂在脖子上，因此要么摘下来找盒子放，要么带着直接听，在办公室“平时降噪听音乐，偶尔有人走过来对话或者起来倒水、上厕所”或者通勤时”交通工具上降噪听音乐，下来走路过马路等需要听到环境音“这种场景时十分不便。暂停音乐后因为入耳式耳机封闭性较好有一定程度上的被动降噪，听别人讲话和环境音较为吃力。因此很多入降噪耳机都提供了 transparency mode/pass through mode/环境音增强，即用麦克风收进环境音再用耳机播放。
 
 AP 的 transparency mode 非常自然，除了距离感被压平了一些之外（有一次我在房间突然听到身后有猫扒拉猫砂的声音大惊，转头发现猫在一米之外的猫砂盆扒拉）几乎跟裸耳效果一致。这保证了 AP 可以随时挂耳，没有那么频繁地需要被摘下。耳不需要摘下就解决了真无线耳机摘取不方便要找盒子的大问题，又因为没有线的束缚而在这个项链式耳机的传统强项领域成功反超。
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="585" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.41.26-PM-1024x585.png" alt="" class="wp-image-632" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.41.26-PM-300x171.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.41.26-PM-1024x585.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.41.26-PM-768x439.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.41.26-PM.png 1344w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Jabra elite active 65t, 图来自 android police</figcaption></figure>
-</div>
+AP 的 transparency 比我前一副有这个功能的耳机（Jabra elite active 65T）自然很多。后者因为 transparency mode 听起来太塑料人工感太强我基本不用这个功能，跟别人对话或者去上厕所还得把耳机放回收纳盒十分麻烦，所以才有了当年想要项链式耳机的[讨论](https://www.douban.com/people/mfcndw/status/2511091570/)和[总结](https://www.douban.com/people/mfcndw/status/2513144523/)。
 
-AP 的 transparency 比我前一副有这个功能的耳机（Jabra elite active 65T）自然很多。后者因为 transparency mode 听起来太塑料人工感太强我基本不用这个功能，跟别人对话或者去上厕所还得把耳机放回收纳盒十分麻烦，所以才有了当年想要项链式耳机的<a href="https://www.douban.com/people/mfcndw/status/2511091570/" data-type="URL" data-id="https://www.douban.com/people/mfcndw/status/2511091570/" target="_blank" rel="noreferrer noopener">讨论</a>和<a href="https://www.douban.com/people/mfcndw/status/2513144523/" data-type="URL" data-id="https://www.douban.com/people/mfcndw/status/2513144523/" target="_blank" rel="noreferrer noopener">总结</a>。
+![oneplus bullets wireless 2 的塑胶收纳盒无法保护耳机本体不受挤压，从而导致磁铁吸附易脱离，引发误开机耗电、扰乱音频输出](https://media.douchi.space/douchi/media_attachments/files/110/456/565/988/642/811/original/370a6c7e8809c0a8.png)
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1022" height="1024" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.42.22-PM-1022x1024.png" alt="" class="wp-image-633" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.42.22-PM-1022x1024.png 1022w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.42.22-PM-768x769.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.42.22-PM.png 1344w" sizes="(max-width: 1022px) 100vw, 1022px" /><figcaption>oneplus bullets wireless 2 的塑胶收纳盒无法保护耳机本体不受挤压，从而导致磁铁吸附易脱离，引发误开机耗电、扰乱音频输出</figcaption></figure>
-</div>
+而后来买的项链式的 [oneplus bullets wireless 2](https://www.douban.com/people/mfcndw/status/2527820956/) 虽然续航、充电速度、性价比都十分出色，但致命缺点是收纳盒设计缺陷，耳机放进去之后磁铁吸附极易被挤开而导致自动开机耗电，最终导致基本无法放进背包携带，也是我开始寻求新解决方案最终买了 AP 的主要原因。
 
-而后来买的项链式的 <a href="https://www.douban.com/people/mfcndw/status/2527820956/" data-type="URL" data-id="https://www.douban.com/people/mfcndw/status/2527820956/" target="_blank" rel="noreferrer noopener">oneplus bullets wireless 2</a> 虽然续航、充电速度、性价比都十分出色，但致命缺点是收纳盒设计缺陷，耳机放进去之后磁铁吸附极易被挤开而导致自动开机耗电，最终导致基本无法放进背包携带，也是我开始寻求新解决方案最终买了 AP 的主要原因。
-
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="482" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.43.00-PM-1024x482.png" alt="" class="wp-image-634" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.43.00-PM-300x141.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.43.00-PM-1024x482.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.43.00-PM-768x361.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.43.00-PM.png 1348w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>收纳盒刚好能装进牛仔裤那个从来不知道干嘛用的小口袋 &#8211; 截图自 MKBHD airpods pro review</figcaption></figure>
-</div>
+收纳盒刚好能装进牛仔裤那个从来不知道干嘛用的小口袋 – 截图自 MKBHD airpods pro review
 
 它应该也是市面上体积最小的主动降噪耳机，甚至比普通 airpods 还要短，扬声器头部也仅比普通 airpods 大一点点。收纳盒几乎是市面上同类产品中最小的。听起来不算什么 deal breaker，但这代表着 AP 可以轻松揣进兜里几乎跟着你去任何地方，如平时出门无需多带个包，通勤时候不用翻箱倒柜从包里掏出耳机盒。
-
-<div class="wp-block-image">
-  <figure class="aligncenter size-large is-resized"><img decoding="async" loading="lazy" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.43.25-PM-1024x638.png" alt="" class="wp-image-635" width="642" height="399" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.43.25-PM-300x187.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.43.25-PM-1024x638.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.43.25-PM-768x478.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.43.25-PM.png 1342w" sizes="(max-width: 642px) 100vw, 642px" /><figcaption>Sony WF-1000MX3 vs Airpods pro, 图来自 https://www.slashgear.com/gv/apple-airpods-pro-gallery/</figcaption></figure>
-</div>
 
 跟主要竞争对手 Sony WF-1000XM3（俗称降噪豆）比小不少。降噪豆那个巨大的收纳盒被诟病不少，随手揣兜里应该会影响比较大。耳机本身也十分巨大，虽然从网上测评来看佩戴也比较舒适，但自身 8.5g 的重量还是比 5.4g 的 AP 重了不少，我没有试过长时间佩戴有没有 AP 轻松。
 
@@ -84,36 +60,28 @@ AP 的 transparency 比我前一副有这个功能的耳机（Jabra elite active
 
 最最最最最大的缺点是，AP 的收纳盒是用 lightning 口充的。虽然支持无线充电，但差旅在外大多数人还是懒得带充电板的。像我这样的全系 usb typc-c 用户（windows laptop, mbp, chromebook, iPad pro, switch，俩人的手机等等）要多带一根线非常不满。
 
-<p class="has-large-font-size">
-  降噪效果
-</p>
+## 降噪效果
 
 Good enough. Excellent for its size.
 
-我以前一直觉得反正不放音乐都听的见环境噪音，放了音乐都能盖住，公司标配的 bose QC 35 又因为我个人不喜欢头戴式耳机（戴十几分钟就会出汗）而从来没有旅行带过，所以一直觉得主动降噪功能鸡肋还费电。直到我买了 AP 然后把 QC35 甩给家属俩人<a href="https://www.douban.com/people/mfcndw/status/2749031661/" data-type="URL" data-id="https://www.douban.com/people/mfcndw/status/2749031661/" target="_blank" rel="noreferrer noopener">开着主动降噪坐了次五小时的飞机</a>——真的体验提升太多了，安睡往返十小时，中长途飞机的 exhausting 感减轻很多。我是睡眠特别好的人，几乎每天都沾床 5 分钟就睡着，半夜家属起床上厕所我也从来不会被吵醒，但是以往不用降噪耳机在飞机上还是会睡不好，本来以为是座位不舒服的问题（确实也有很大关联，毕竟偶尔被升舱一次躺平了都从头睡到尾饭都没吃上）。用了之后才发现本可不必如此，毕竟一副好的降噪耳机可比次次升舱便宜多了。
+我以前一直觉得反正不放音乐都听的见环境噪音，放了音乐都能盖住，公司标配的 bose QC 35 又因为我个人不喜欢头戴式耳机（戴十几分钟就会出汗）而从来没有旅行带过，所以一直觉得主动降噪功能鸡肋还费电。直到我买了 AP 然后把 QC35 甩给家属俩人[开着主动降噪坐了次五小时的飞机](https://www.douban.com/people/mfcndw/status/2749031661/)——真的体验提升太多了，安睡往返十小时，中长途飞机的 exhausting 感减轻很多。我是睡眠特别好的人，几乎每天都沾床 5 分钟就睡着，半夜家属起床上厕所我也从来不会被吵醒，但是以往不用降噪耳机在飞机上还是会睡不好，本来以为是座位不舒服的问题（确实也有很大关联，毕竟偶尔被升舱一次躺平了都从头睡到尾饭都没吃上）。用了之后才发现本可不必如此，毕竟一副好的降噪耳机可比次次升舱便宜多了。
 
 网上风评来看 AP 降噪效果应该稍逊为 Sony 降噪豆。但那是横向各频率对比的效果，单戴一副的话应该对任意一副都是绝对满意的。我手头只早几年的 bose QC35 作对比，单论降噪效果不分上下（当然，qc35 续航强得多，但也很少有需要一次戴 25 小时耳机的场景出现）。考虑到体积、舒适度和便携性带来的诸多便利，个人觉得 AP 完胜。
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="679" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.44.20-PM-1024x679.png" alt="" class="wp-image-636" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.44.20-PM-300x199.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.44.20-PM-1024x679.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.44.20-PM-768x509.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.44.20-PM.png 1346w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>QC35 vs airpods pro，虽然体积、类型相差万里，但因为前者是办公、旅行经典装备且普及率非常高，还是难免会被拿出来和 AP 比较</figcaption></figure>
-</div>
+![QC35 vs airpods pro，虽然体积、类型相差万里，但因为前者是办公、旅行经典装备且普及率非常高，还是难免会被拿出来和 AP 比较](https://media.douchi.space/douchi/media_attachments/files/110/456/567/373/348/126/original/d8866f3a28ef8eea.png)
 
-<p class="has-large-font-size">
-  音质
-</p>
+## 音质
 
 我不是耳机发烧友，对音质的要求也仅限于”不要像普通 iPhone 附带耳机那么差就行“。对我而言 airpods pro 的音质在同类产品中算得上 decent。此外，音质方面比普通 airpods 理论上有两大点提升：
 
-  1. 苹果之前那个祖传的耳塞设计封闭性几乎为零，耳塞本来体积小 speaker 小，这对音质的影响几乎是致命的。大家可以尝试把自己的任意一副耳塞（入耳非入耳都行）往外拉出两毫米，然后放音乐看看效果有多差——这就是传统苹果耳机的效果。Airpods pro 入耳式设计从本质解决了这个问题，封闭性更好，音质不再塑料、廉价。
-  2. 在嘈杂环境下听音乐、通话难免需要开较高音量，而耳机的扬声器体积有限 naturally 在大音量场景捉襟见肘，失真、爆破音、杂音随之而来。由于 airpods pro 不错的主动降噪效果去除了需要极限音量的必要性。我戴着它坐了两次四五小时的飞机，用中等音量毫无问题。也就是说，主动降噪保证了在绝大多数场景下你会使用一副耳机最擅长的音量范围，也就自然而然得到更好的音质。
+1. 苹果之前那个祖传的耳塞设计封闭性几乎为零，耳塞本来体积小 speaker 小，这对音质的影响几乎是致命的。大家可以尝试把自己的任意一副耳塞（入耳非入耳都行）往外拉出两毫米，然后放音乐看看效果有多差——这就是传统苹果耳机的效果。Airpods pro 入耳式设计从本质解决了这个问题，封闭性更好，音质不再塑料、廉价。
+2. 在嘈杂环境下听音乐、通话难免需要开较高音量，而耳机的扬声器体积有限 naturally 在大音量场景捉襟见肘，失真、爆破音、杂音随之而来。由于 airpods pro 不错的主动降噪效果去除了需要极限音量的必要性。我戴着它坐了两次四五小时的飞机，用中等音量毫无问题。也就是说，主动降噪保证了在绝大多数场景下你会使用一副耳机最擅长的音量范围，也就自然而然得到更好的音质。
 
 但是很奇妙的一点是虽然音乐音量足够大，但通话音量总觉的有点小，我在家音量开到最大都刚好能听见，不知道是不是自适应设置了 cap，还没有在嘈杂环境通话测试是否受影响。当然这也有可能是手机（oneplus 7 pro）软件调教的问题，毕竟音乐明明可以更大音量。
 
 另外，AP 秉承了苹果一贯的尿性，本身（无论在 iOS 和 Android）就比其他跨平台耳机少了许多功能，如均衡器、不同场景适应等。但我对音质要求不高，AP 本身均衡也已经比较舒服了，所以本来以前用别的耳机也就没怎么用过那些功能，因此没觉得遗憾。
 
-<p class="has-large-font-size">
-  Does all the features work on Android？
-</p>
+## Does all the features work on Android？
 
 基础手势操作功能完全不受影响。按一下：play/pause；按两下：下一首歌；按三下：上一首歌。长按：切换主动降噪和 transparency mode。
 
@@ -125,96 +93,76 @@ iOS 上有，android 上暂时没有完美解决方案的功能：摘下耳机�
 
 （几个月后的更新：连 oneplus 7 pro 的时候打电话收音非常谜，外面路上你讲话基本别想听到了，在家也很飘，只能用手罩着打对面才能听到。连苹果产品比如 mbp 开会收音就毫无问题。不知道是一加还是安卓的锅。如果用安卓/一加且买来的主要 use case 是打电话的话建议保证有无条件退货渠道）
 
-<p class="has-large-font-size">
-  性价比
-</p>
+## 性价比
 
 作为（我自封的）苹果近五年来最良心产品，Airpods pro 跟苹果其他产品甚至市场上同类产品相比而言性价比都 surprisingly good。原价 $249 对一款优秀的真无线降噪耳机来说不算贵，刚出两个月 Amazon 打折到 $235，虽然声称 out of stock 不过下单的话还是一周送达。
 
-Airpods 2 &#8211; $199，在出了 airpods pro 之后除非是苹果死忠粉且一戴入耳式耳机就会难受死，否则不均被候选价值。一是设计问题不贴耳，即便你的耳型不会掉也有大把同类性价比高得多音质好得多的选择，冲着 gimmicky 的跟果系产品快速 pair 这个只会用到几次的功能付那么多苹果税只能说是个偷懒的选择。二是只比 pro 便宜不到 $50，但是缺点甚多（就算不在乎主动降噪，容易掉这个致命缺点也无法忽视，就算坐着适合你的耳型不掉也至少少了安心走路、去 gym 这两个使用场景。而且，你确定不需要主动降噪吗？我以前也是这么想的，请看这条广播），走在路上可能会掉到鄙视链的底层。原因一在出 airpods pro 之前还可以以“懒得选，直接买（苹果）”来解释，出了 pro 之后就没有这个借口了。
+Airpods 2 – $199，在出了 airpods pro 之后除非是苹果死忠粉且一戴入耳式耳机就会难受死，否则不均被候选价值。一是设计问题不贴耳，即便你的耳型不会掉也有大把同类性价比高得多音质好得多的选择，冲着 gimmicky 的跟果系产品快速 pair 这个只会用到几次的功能付那么多苹果税只能说是个偷懒的选择。二是只比 pro 便宜不到 $50，但是缺点甚多（就算不在乎主动降噪，容易掉这个致命缺点也无法忽视，就算坐着适合你的耳型不掉也至少少了安心走路、去 gym 这两个使用场景。而且，你确定不需要主动降噪吗？我以前也是这么想的，请看这条广播），走在路上可能会掉到鄙视链的底层。原因一在出 airpods pro 之前还可以以“懒得选，直接买（苹果）”来解释，出了 pro 之后就没有这个借口了。
 
 最主要的同类竞争对手:
 
-  * Sony WF-1000XM3，目前在 Amazon 上售价 $228。降噪效果索尼略胜，体积便携 AP 秒杀。充电方面索尼的 usb-c 比 AP 的 lightning 胜出百倍，但 AP 有无线充电扳回一城。customization 上苹果先天残废索尼完胜。综合下来我还是 prefer AP，贵十几二十刀换来我更看重的舒适、小巧、最好的 transparency mode 。
-  * Jabra Elite 75t，目前售价 $180，综合网上评价来看是综合体验最好的纯无线耳机之一，非大牌没有品牌税，没有主动降噪功能因此售价较低，续航优秀（7.5 小时/28 小时），较为舒适。我耳机测评比较信赖的 youtuber JimsReviewRoom 把它评为了 <a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=3IRXczRw9uk" data-type="URL" data-id="https://www.youtube.com/watch?v=3IRXczRw9uk" target="_blank">2019 年度最佳真无线耳机</a>。我个人没有选它是因为1. 同类已经有同品牌去年的 65t，现在想试试主动降噪的真无线耳机。2. Jabra Elite active 65t 虽然大多数时间 work 的时候体验不错，但 a. 小毛病较多，我用了几个月之后碰到神秘连接和音质问题很令人恼火，客服也没给出解决方案，app 也不是每次都 work。b. transparency mode 人工质感较强，比较塑料，不知道今年有多大改进，但看网上风评还是说 AP 的最好。如果非常非常确定自己不想为主动降噪多花几十刀，或者预算吃紧，又或是想要均衡器能 customize 音效，可以试试这一款。
-  * Powereats Pro &#8211; 原价 $249 目前 Amazon 上打折到 $200, 出 airpods pro 之前短暂地做了苹果系不喜欢 airpods 用户的”官方“选择一段时间，因为机身大续航自然强过 AP（机身 9 小时），因为有耳挂所以激烈运动更有安全感，但是 1.没有主动降噪，2. 机身大收纳大不便携，3. 耳挂造成佩戴不如普通耳塞方便。所以除非是激烈运动 gym 听歌爱好者（普通慢跑、举铁、划船机等 airpods pro 完全可以 handle），否则无脑选 AP。
-  * Sennheiser Momentum &#8211; 目前 Amazon 售价 $229，音质在主动降噪纯无线耳机里最佳，但应该是最不舒服的一款，续航也很差（4 小时，收纳盒也只能充电两次），对非音控的性价比较低。
-  * 降噪老牌经典 Bose QC 35 II 目前售价 $349。作为体积大的头戴式降噪耳机自然在续航以及音质上秒杀，便携性 AP 完胜，降噪效果见仁见智，舒适性看个人偏好不做过多对比。
+- Sony WF-1000XM3，目前在 Amazon 上售价 $228。降噪效果索尼略胜，体积便携 AP 秒杀。充电方面索尼的 usb-c 比 AP 的 lightning 胜出百倍，但 AP 有无线充电扳回一城。customization 上苹果先天残废索尼完胜。综合下来我还是 prefer AP，贵十几二十刀换来我更看重的舒适、小巧、最好的 transparency mode 。
+- Jabra Elite 75t，目前售价 $180，综合网上评价来看是综合体验最好的纯无线耳机之一，非大牌没有品牌税，没有主动降噪功能因此售价较低，续航优秀（7.5 小时/28 小时），较为舒适。我耳机测评比较信赖的 youtuber JimsReviewRoom 把它评为了 [2019 年度最佳真无线耳机](https://www.youtube.com/watch?v=3IRXczRw9uk)。我个人没有选它是因为1. 同类已经有同品牌去年的 65t，现在想试试主动降噪的真无线耳机。2. Jabra Elite active 65t 虽然大多数时间 work 的时候体验不错，但 a. 小毛病较多，我用了几个月之后碰到神秘连接和音质问题很令人恼火，客服也没给出解决方案，app 也不是每次都 work。b. transparency mode 人工质感较强，比较塑料，不知道今年有多大改进，但看网上风评还是说 AP 的最好。如果非常非常确定自己不想为主动降噪多花几十刀，或者预算吃紧，又或是想要均衡器能 customize 音效，可以试试这一款。
+- Powereats Pro – 原价 $249 目前 Amazon 上打折到 $200, 出 airpods pro 之前短暂地做了苹果系不喜欢 airpods 用户的”官方“选择一段时间，因为机身大续航自然强过 AP（机身 9 小时），因为有耳挂所以激烈运动更有安全感，但是 1.没有主动降噪，2. 机身大收纳大不便携，3. 耳挂造成佩戴不如普通耳塞方便。所以除非是激烈运动 gym 听歌爱好者（普通慢跑、举铁、划船机等 airpods pro 完全可以 handle），否则无脑选 AP。
+- Sennheiser Momentum – 目前 Amazon 售价 $229，音质在主动降噪纯无线耳机里最佳，但应该是最不舒服的一款，续航也很差（4 小时，收纳盒也只能充电两次），对非音控的性价比较低。
+- 降噪老牌经典 Bose QC 35 II 目前售价 $349。作为体积大的头戴式降噪耳机自然在续航以及音质上秒杀，便携性 AP 完胜，降噪效果见仁见智，舒适性看个人偏好不做过多对比。
 
-<p class="has-large-font-size">
-  Verdict
-</p>
+## Verdict
 
-+++++ 舒适  
-++++ 自然的 transparency mode  
-++++ 便携、小巧  
-++++ 收纳盒虽小但续航不错（24 小时）  
-+++ 降噪  
-+++ 无线充电  
-+++ Android 几乎完美适配  
-++ 性价比  
-+ 蓝牙信号稳定可靠（因为几乎是 5.0 标配所以横向对比不算太大的优势）
++++++ 舒适
 
-&#8212;&#8211; lightning 充电口  
-&#8212;- 耳机本身不能调节音量，需用手机或者声控  
-&#8212;- 跟一加 7 pro pair 打电话收音很谜  
-&#8212; 对 iOS 有一定依赖性  
-&#8212; 耳机本身续航勉强（4.5 小时）
+++++ 自然的 transparency mode
+
+++++ 便携、小巧
+
+++++ 收纳盒虽小但续航不错（24 小时）
+
++++ 降噪
+
++++ 无线充电
+
++++ Android 几乎完美适配
+
+++ 性价比
+
+++ 蓝牙信号稳定可靠（因为几乎是 5.0 标配所以横向对比不算太大的优势）
+
+—– lightning 充电口
+
+—- 耳机本身不能调节音量，需用手机或者声控
+
+—- 跟一加 7 pro pair 打电话收音很谜
+
+— 对 iOS 有一定依赖性
+
+— 耳机本身续航勉强（4.5 小时）
 
 以下链接为推广链接，对您的购买价格不会有任何影响，我会得到一笔很小的佣金。很高兴文章对您有帮助，感谢您的支持！
 
-  * <a href="https://amzn.to/3sjAaJG" data-type="URL" data-id="https://amzn.to/3sjAaJG" target="_blank" rel="noreferrer noopener">Amazon &#8211; AirPods Pro</a>
+- [Amazon – AirPods Pro](https://amzn.to/3sjAaJG)
 
-<hr class="wp-block-separator has-text-color has-background has-quaternary-background-color has-quaternary-color is-style-wide" />
+## 附录1：我有多果黑
 
+1. 见豆瓣#每日自带干粮黑苹果# tag
+2. 知乎上无数片黑苹果文，大多数是我最讨厌苹果的时候写的所以可能较为偏激，but still
+- [iPhone 有什么让你放弃的理由？](https://www.zhihu.com/question/266646689/answer/316913643)
+- [如何看待iPhone XR上市10天跌破6k？](https://www.zhihu.com/question/301512001/answer/527884527)
+- [如何看待苹果手机 12 月 2 日发生的大面积黑屏重启转圈故障？](https://www.zhihu.com/question/263469988/answer/269834077)
+- [从 iPhone 更换成 Android 手机之后，你有怎样的不同体验？](https://www.zhihu.com/question/263623119/answer/271526517)
+- [不想折腾到底应该用苹果还是安卓旗舰手机？](https://www.zhihu.com/question/269606284/answer/417916558)
+- [如何评价苹果在 2016 年 10 月 27 日发布的 MacBook Pro？](https://www.zhihu.com/question/52014866/answer/128720201)
+- [1000 美元的 iPhone 对美国人来说贵吗？](https://www.zhihu.com/question/295023848/answer/496750067)
+- [难道只有我一个人觉得苹果手机真的很难用？](https://www.zhihu.com/question/265746800/answer/298045888)
+- [如果安卓手机不卡顿，其市场占有率会有极大提升吗？](https://www.zhihu.com/question/282170983/answer/433461309)
+
+## 附录2：我用的 Android Airpods 管理软件
+
+我用的第三方软件是 MaterialPods，目前电量功能在 oneplus 7 pro 上完美运行每次都立刻显示。Pro 版除了去广告之外暂时没有特别吸引的功能（因为语音助手还没有完美实现），不过也是一次性买断的而且自己选金额，最小的才 $1.49，也还是比苹果税及带来的不便（比如控制中心对无线和蓝牙控制的无能）划算的多。
+![](https://media.douchi.space/douchi/media_attachments/files/110/456/567/739/840/914/original/8d3ed30bb9e0535d.png)
+
+---
+{{< hint danger >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
-
-<a href="https://www.patreon.com/bePatron?u=46962965" data-patreon-widget-type="become-patron-button">Become a Patron!</a>  
-  
-
-
-**<a rel="noreferrer noopener" href="https://afdian.net/@mtfront" target="_blank"><code>墙内赞助通道：爱发电</code></a>**
-
-<p class="has-large-font-size">
-  附录1：我有多果黑
-</p>
-
-  1. 见豆瓣#每日自带干粮黑苹果# tag
-  2. 知乎上无数片黑苹果文，大多数是我最讨厌苹果的时候写的所以可能较为偏激，but still
-
-  * <a href="https://www.zhihu.com/question/266646689/answer/316913643" data-type="URL" data-id="https://www.zhihu.com/question/266646689/answer/316913643" target="_blank" rel="noreferrer noopener">iPhone 有什么让你放弃的理由？</a>
-  * <a href="https://www.zhihu.com/question/301512001/answer/527884527" data-type="URL" data-id="https://www.zhihu.com/question/301512001/answer/527884527" target="_blank" rel="noreferrer noopener">如何看待iPhone XR上市10天跌破6k？</a>
-  * <a href="https://www.zhihu.com/question/263469988/answer/269834077" data-type="URL" data-id="https://www.zhihu.com/question/263469988/answer/269834077" target="_blank" rel="noreferrer noopener">如何看待苹果手机 12 月 2 日发生的大面积黑屏重启转圈故障？</a>
-  * <a href="https://www.zhihu.com/question/263623119/answer/271526517" data-type="URL" data-id="https://www.zhihu.com/question/263623119/answer/271526517" target="_blank" rel="noreferrer noopener">从 iPhone 更换成 Android 手机之后，你有怎样的不同体验？</a>
-  * <a href="https://www.zhihu.com/question/269606284/answer/417916558" data-type="URL" data-id="https://www.zhihu.com/question/269606284/answer/417916558" target="_blank" rel="noreferrer noopener">不想折腾到底应该用苹果还是安卓旗舰手机？</a>
-  * <a href="https://www.zhihu.com/question/52014866/answer/128720201" data-type="URL" data-id="https://www.zhihu.com/question/52014866/answer/128720201" target="_blank" rel="noreferrer noopener">如何评价苹果在 2016 年 10 月 27 日发布的 MacBook Pro？</a>
-  * <a href="https://www.zhihu.com/question/295023848/answer/496750067" data-type="URL" data-id="https://www.zhihu.com/question/295023848/answer/496750067" target="_blank" rel="noreferrer noopener">1000 美元的 iPhone 对美国人来说贵吗？</a>
-  * <a href="https://www.zhihu.com/question/265746800/answer/298045888" data-type="URL" data-id="https://www.zhihu.com/question/265746800/answer/298045888" target="_blank" rel="noreferrer noopener">难道只有我一个人觉得苹果手机真的很难用？</a>
-  * <a href="https://www.zhihu.com/question/282170983/answer/433461309" data-type="URL" data-id="https://www.zhihu.com/question/282170983/answer/433461309" target="_blank" rel="noreferrer noopener">如果安卓手机不卡顿，其市场占有率会有极大提升吗？</a>
-
-<p class="has-large-font-size">
-  附录2：我用的 Android Airpods 管理软件
-</p>
-
-我用的第三方软件是 MaterialPods，目前电量功能在 oneplus 7 pro 上完美运行每次都立刻显示。Pro 版除了去广告之外暂时没有特别吸引的功能（因为语音助手还没有完美实现），不过也是一次性买断的而且自己选金额，最小的才 $1.49，也还是比苹果税及带来的不便（比如控制中心对无线和蓝牙控制的无能）划算的多。<figure class="wp-block-image size-large">
-
-<img decoding="async" loading="lazy" width="1024" height="848" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.48.48-PM-1024x848.png" alt="" class="wp-image-637" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.48.48-PM-300x249.png 300w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.48.48-PM-1024x848.png 1024w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.48.48-PM-768x636.png 768w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.48.48-PM.png 1340w" sizes="(max-width: 1024px) 100vw, 1024px" /> <figcaption>我用的第三方软件 MaterialPods 当 AP 连接时自动显示的电量界面</figcaption></figure> <figure class="wp-block-gallery columns-2 wp-block-gallery-28 is-layout-flex">
-
-<ul class="blocks-gallery-grid">
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" loading="lazy" width="358" height="1024" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.50.01-PM-358x1024.png" alt="" data-id="638" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.50.01-PM.png" data-link="https://blog.douchi.space/?attachment_id=638" class="wp-image-638" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.50.01-PM-105x300.png 105w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.50.01-PM-358x1024.png 358w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.50.01-PM-537x1536.png 537w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.50.01-PM-716x2048.png 716w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.50.01-PM.png 754w" sizes="(max-width: 358px) 100vw, 358px" /></figure>
-  </li>
-  <li class="blocks-gallery-item">
-    <figure><img decoding="async" loading="lazy" width="483" height="1024" src="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.50.16-PM-483x1024.png" alt="" data-id="639" data-full-url="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.50.16-PM.png" data-link="https://blog.douchi.space/?attachment_id=639" class="wp-image-639" srcset="https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.50.16-PM-142x300.png 142w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.50.16-PM-483x1024.png 483w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.50.16-PM-725x1536.png 725w, https://blog.douchi.space/wp-content/uploads/2020/12/Screen-Shot-2020-12-21-at-5.50.16-PM.png 760w" sizes="(max-width: 483px) 100vw, 483px" /></figure>
-  </li>
-</ul><figcaption class="blocks-gallery-caption">MaterialPods 可以 customize 的功能</figcaption></figure> 
-
-
-
-<div class="da-reactions-outer TpostID629">
-  <div class="da-reactions-data da-reactions-container-async left" data-type="post" data-id="629" data-nonce="4bf103b4f4" id="da-reactions-slot-post-629"> 
-  
-  <div class="da-reactions-static">
-    <img src="http://blog.douchi.space/wp-content/plugins/da-reactions/assets/dist/loading.svg" alt="Loading spinner" width="48" height="48" style="width:48px; height:48px" />
-  </div>
-</div></div>
+{{< /hint >}}
+{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
+{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}

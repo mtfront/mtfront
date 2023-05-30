@@ -44,29 +44,16 @@ tags:
 
 当然，不主动劝是一回事，在自己的地盘讲还是要讲的。这种事情有缘人能救一个救一个。
 
-<hr class="wp-block-separator has-text-color has-background has-quaternary-background-color has-quaternary-color is-style-wide" />
+[toot](https://douchi.space/web/@mtfront/105323301074250595)
 
+---
+{{< hint danger >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
+{{< /hint >}}
+{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
+{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
 
-<a href="https://www.patreon.com/bePatron?u=46962965" data-patreon-widget-type="become-patron-button">Become a Patron!</a>  
-  
-
-
-**<a rel="noreferrer noopener" href="https://afdian.net/@mtfront" target="_blank"><code>墙内赞助通道：爱发电</code></a>**
-
-<!--more 评论区折叠线没有更多内容了-->
-
-
-
-<div class="da-reactions-outer TpostID435">
-  <div class="da-reactions-data da-reactions-container-async left" data-type="post" data-id="435" data-nonce="db43b994de" id="da-reactions-slot-post-435"> 
-  
-  <div class="da-reactions-static">
-    <img src="http://blog.douchi.space/wp-content/plugins/da-reactions/assets/dist/loading.svg" alt="Loading spinner" width="48" height="48" style="width:48px; height:48px" />
-  </div>
-</div></div>
-
-## Comments
+{{< details "Migrated Comments" open >}}
 
 ### Comment by bamboobone on 2020-12-04 11:25:54 -0800
 还是来这儿看无码版爽。这个界面的文本宽度也看着很舒服！  
@@ -81,3 +68,5 @@ Apple和ccp 某种意义上讲，的确非常像🌚
 
 ### Comment by 椒盐豆豉 on 2020-12-05 16:07:54 -0800
 “我是为你好！”——父母，Apple，CCP
+
+{{< / details >}}

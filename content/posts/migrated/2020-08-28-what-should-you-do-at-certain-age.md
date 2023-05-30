@@ -40,24 +40,13 @@ tags:
 
 郁郁寡欢的时候还是得看看自己其实有多少 option。当很多人发现自己其实已经被 privilege 包围了却给自己了一堆枷锁之后，即便不冲破这条既定路线光是知道有选择已经足够了。
 
-<hr class="wp-block-separator" />
+---
 
 人搁那儿讲客观条件之外的个人选择怕人误读结尾都强调 privilege 了，有的男的上来就是一副镰刀心“你们不懂这是历史进程”。有了 ego 没什么不可以，全世界就你最懂，每天不 mansplaining 仿佛没吃饭似的不舒服。
 
-<hr class="wp-block-separator has-text-color has-background has-quaternary-background-color has-quaternary-color is-style-wide" />
-
+---
+{{< hint danger >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
-
-<a href="https://www.patreon.com/bePatron?u=46962965" data-patreon-widget-type="become-patron-button">Become a Patron!</a>  
-  
-
-
-**<a rel="noreferrer noopener" href="https://afdian.net/@mtfront" target="_blank"><code>墙内赞助通道：爱发电</code></a>**
-
-<div class="da-reactions-outer TpostID569">
-  <div class="da-reactions-data da-reactions-container-async left" data-type="post" data-id="569" data-nonce="b7dc7f8c2f" id="da-reactions-slot-post-569"> 
-  
-  <div class="da-reactions-static">
-    <img src="http://blog.douchi.space/wp-content/plugins/da-reactions/assets/dist/loading.svg" alt="Loading spinner" width="48" height="48" style="width:48px; height:48px" />
-  </div>
-</div></div>
+{{< /hint >}}
+{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
+{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}

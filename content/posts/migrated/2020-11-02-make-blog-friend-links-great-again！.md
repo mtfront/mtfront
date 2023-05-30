@@ -10,25 +10,26 @@ tags:
   - PSA
 
 ---
-上回说到
-
+[上回说到](https://douchi.space/web/@mtfront/105130690488549010)
+{{< hint warning >}}
+啊话说我又想起来一个时代的眼泪，十几年前玩博客的时候大家流行搞友情链接这种玩意儿，然后我心里就会默默的因为欣赏的博主链接了我或者把我拍在高位而高兴，或者是大 V 链接了我而感到荣幸。这玩意儿随着社交网络的兴起而没落了，毕竟也没见过在 FB、IG 或者 LinkedIn 上把特别好友挂出来炫耀我们是 BFF 的不是？不知道算是时代的眼泪，还是我们都长大成人了不兴小孩子过家家这一套了。 
+{{< /hint >}}
 以及觉得自己年纪大了不好意思搞了。
 
 今天被提醒，怕啥，搞就搞！
 
-Let&#8217;s make 友情链接 great again！
+Let’s make 友情链接 great again！
 
 单方面加了几个最近看到的网友的 blog，还有想要链接的来留言呀。
 
-<div class="da-reactions-outer TpostID187">
-  <div class="da-reactions-data da-reactions-container-async left" data-type="post" data-id="187" data-nonce="80f4e89da4" id="da-reactions-slot-post-187"> 
-  
-  <div class="da-reactions-static">
-    <img src="http://blog.douchi.space/wp-content/plugins/da-reactions/assets/dist/loading.svg" alt="Loading spinner" width="48" height="48" style="width:48px; height:48px" />
-  </div>
-</div></div>
+---
+{{< hint danger >}}
+如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
+{{< /hint >}}
+{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
+{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
 
-## Comments
+{{< details "Migrated Comments" open >}}
 
 ### Comment by 云五 on 2020-11-02 17:30:50 -0800
 来搞搞搞！  
@@ -103,3 +104,5 @@ Let&#8217;s make 友情链接 great again！
 
 ### Comment by 椒盐豆豉 on 2021-01-04 23:42:53 -0800
 加啦，黑猫太可爱啦～
+
+{{< / details >}}

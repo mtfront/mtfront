@@ -13,15 +13,13 @@ tags:
   - 情感
 
 ---
-Written on 2020-6-26
-
 感觉美国人流行 father issue，我跟我爸非常相安无事，出柜之后他几年没跟我说话我俩井水不犯河水。我比较大的问题是我妈，“我妈担心我过得不好”成为了“我过得不好”的最大贡献因素。
 
 问题有三个根本原因：
 
-  1. 我妈没把我当成年人看待。很多妈都有这个问题。But SHE HAS NO CONCEPT OF RESPECT.
-  2. 我妈沉迷自己深爱我苦大仇深的人设不能自拔，以至于拒绝拥有自己任何 life。
-  3. 我拒绝被控制。
+1. 我妈没把我当成年人看待。很多妈都有这个问题。But SHE HAS NO CONCEPT OF RESPECT.
+2. 我妈沉迷自己深爱我苦大仇深的人设不能自拔，以至于拒绝拥有自己任何 life。
+3. 我拒绝被控制。
 
 1 + 2 造成了她毕生精力尤其是退休以后，都用在了视图控制我上，且 bring a lot of negativity. 本质上来说，我讲的任何事情她是不会相信的，对知道我干的任何行为也会第一时间 negative comment。
 
@@ -29,35 +27,42 @@ Written on 2020-6-26
 
 诸如“房贷只占我工资的 x%，我已经在储蓄、投资、养老金交满了，应急资金几年来也很稳定“我已经说了多次了，拒绝相信，坚信我年轻乱花钱（我单单在豆瓣写的理财日志都赚了多少 referral bonus 了？？）。每次只要被发现我买了任何 grocery 之外的东西都会批判我不要乱花钱，要攒点钱。买车就算了，电脑、手机、甚至游戏、乐高这么小件的东西第一切入要素都是“别乱花钱”，甚至不是中国式家长传统的“不务正业”。Like 我小时候也没瞎要零花钱啊，小学没毕业我就要求压岁钱给我自己练习理财并且我也没有花掉了，她到底哪里来的我要穷死了这个印象？买了房之后变本加厉，吃个餐馆都得担心“你房贷还不还得起“，尽管为了跟别人攀比已经早就打探过工资了。
 
-<!--more-->
+再诸如她成天羡慕我一个朋友跟她妈无话不谈贴心小棉袄。I was like yeah you try 我讲什么你都一巴掌拍死看能不能谈得下去。
 
-再诸如她成天羡慕我一个朋友跟她妈无话不谈贴心小棉袄。I was like yeah you try 我讲什么你都一巴掌拍死看能不能谈得下去。  
-我去看电影了，她：大晚上不要自己在外面。那我本来能跟你聊电影讲什么我现在除了哦还能说什么？  
-我出去旅游了，她：少自己去外面不安全。那我本来能跟你聊风土人情现在除了哦还能说什么？  
-我出去跟人吃饭了，她：不要自己开车回家，找个伴陪。那我本来跟你聊菜好不好吃本地有啥餐馆，现在我能说啥？陪我回家然后呢？我要不要雇个专职司机算了？  
-我养猫了，她：宠物身上不干净，不然你养车库吧。那我本来每周给你发点猫片，现在我聊啥？动物保护中心怎么调查我虐待动物吗？  
+我去看电影了，她：大晚上不要自己在外面。那我本来能跟你聊电影讲什么我现在除了哦还能说什么？
+
+我出去旅游了，她：少自己去外面不安全。那我本来能跟你聊风土人情现在除了哦还能说什么？
+
+我出去跟人吃饭了，她：不要自己开车回家，找个伴陪。那我本来跟你聊菜好不好吃本地有啥餐馆，现在我能说啥？陪我回家然后呢？我要不要雇个专职司机算了？
+
+我养猫了，她：宠物身上不干净，不然你养车库吧。那我本来每周给你发点猫片，现在我聊啥？动物保护中心怎么调查我虐待动物吗？
+
 我换工作了，她：你是不是跟以前经理有矛盾，年轻人不要那么冲（以下省略二百字）。即便之前工作本身同事关系一句话都没聊过就来了我换工作毕竟是发生了啥负面事情的 assumption，你不觉得有点晚吗？
 
 有几次她抱怨我为什么不跟她无事不谈之后我指出跟她聊天不 pleasant，久而久之谁愿意聊啊。她立刻跳起三丈高为自己辩护：我这不是关心你，你怎么不领情，blahblah。我：我可以领情啊，我哦了你又嫌我不多讲，我多讲了你又一巴掌拍死？你同事拿条贵的裙子给你看你是讲“呀真好看花得值“还是讲“年纪一大把了买这么妖艳贱货的裙子做啥子哟“？你同事拿条便宜的裙子给你看你是讲”呀太物超所值了眼光真棒捡到这种折扣“还是讲”一把年纪了为老不尊怎么这么作践自己呢“？
 
-She was like 那怎么一样，你是我孩子啊。我：Then don&#8217;t expect we can have girls talk ok? 你觉得别人低人一等怎么做朋友。Her: 苦大仇深 my kid doesn&#8217;t tell me shit，循环回两段之前。Literally 这个循环可以每五分钟发生一次，我刚才真的气到觉得自己快要爆炸了。
+She was like 那怎么一样，你是我孩子啊。我：Then don’t expect we can have girls talk ok? 你觉得别人低人一等怎么做朋友。Her: 苦大仇深 my kid doesn’t tell me shit，循环回两段之前。Literally 这个循环可以每五分钟发生一次，我刚才真的气到觉得自己快要爆炸了。
 
 然后不多时这么吵一次之后，她：你给我建议我改进。我给了任何建议之后，她：（苦大仇深套装）我还不是为你好，所有父母都这样。我：不是你想要改进的？她：我有改进了啊。我：没有哦，This conversation literally happened five minutes ago and has happened before. Do you want me to record you now? 她：不要，我们就谈谈才有进步（循环回本段开始 x3）
 
-她的<a href="https://blog.douchi.space/?p=345" data-type="URL" data-id="https://blog.douchi.space/?p=345" target="_blank" rel="noreferrer noopener">循环逻辑之前讲过很多了</a>，<a href="https://www.douban.com/doulist/120720601/" target="_blank" rel="noreferrer noopener">总结过了</a>不赘述了。
+她的[循环逻辑之前讲过很多了](../me-partner-arguing-with-my-mom/)，[总结过了](https://www.douban.com/doulist/120720601/)不赘述了。
 
 然后刚刚她说，刚刚视频时候小x（我家属）为啥笑着路过，你让她来跟我解释是笑你还是笑我。（家属听到我提高音量进来安抚了以下我关了个窗。不然怎样怒目圆睁进来吗）。她本来应该为你好的，调节咱俩的矛盾的。我：去年我跟你谈的时候气得快掀桌子了好几次了她把我哄回去了还跟你聊你没看见吗？然后背后你就知道欺负人家？我妈：我哪欺负她了。我：好，假如你生了个儿子，儿子带女朋友回家，你趁儿子不在偷偷拉住女朋的手语重心长地说，你要为他好，多劝劝他找个新女朋友吧。这个时候女朋友没当场扇你一巴掌是不是已经很给面子了？我妈：那怎么一样，你们是俩女……
 
 我就把电话给挂了。
 
-Like literally my therapist&#8217;s reaction to this story was literally &#8220;That&#8217;s so rude!&#8221;
+Like literally my therapist’s reaction to this story was literally “That’s so rude!”
 
-<hr class="wp-block-separator is-style-default" />
+---
 
-2 alone 造成了常见的“鼓励父母有自己的爱好就没空管我了“不奏效。我建议过：  
-a. 好几次养宠物，毕竟她 expect 我智商停留在 3 岁对她言听计从贴心小棉袄。她之前搪塞的理由是“洁癖受不了动物毛“（但她其实并不过敏），今天我发了个无毛猫照片给她，她觉得我在 troll 她并且批判“我对你如何如何你对我就是这种态度“。  
-b. 建议她多读书，小说也行。她以自己没文化年纪大了为由不以为意。  
-c. 多旅行。搪塞理由同上，且意思自己没文化不敢瞎出去。（并且不许我出去）  
+2 alone 造成了常见的“鼓励父母有自己的爱好就没空管我了“不奏效。我建议过：
+
+a. 好几次养宠物，毕竟她 expect 我智商停留在 3 岁对她言听计从贴心小棉袄。她之前搪塞的理由是“洁癖受不了动物毛“（但她其实并不过敏），今天我发了个无毛猫照片给她，她觉得我在 troll 她并且批判“我对你如何如何你对我就是这种态度“。
+
+b. 建议她多读书，小说也行。她以自己没文化年纪大了为由不以为意。
+
+c. 多旅行。搪塞理由同上，且意思自己没文化不敢瞎出去。（并且不许我出去）
+
 d. 广场舞。搪塞理由是社恐。但是教育我“不要那么刺头“的时候她又成了社交达人情感专家了，fine。
 
 我现在简直想建议她去找个不像我爸这么沉闷的小狼狗。但我爸沉迷他深爱我妈的人设可能不会接受这个设定。
@@ -74,20 +79,9 @@ d. 广场舞。搪塞理由是社恐。但是教育我“不要那么刺头“�
 
 今天本来提前下班，可以画好画，然后打游戏，看书，早睡的。但是现在实际结果是跟我妈吵架吵得嗓子都哑了挂了（几次）电话之后家属第一反应拿来的都不是水了是喉糖。How to easily ruin a day that could have been great.
 
-<hr class="wp-block-separator has-text-color has-background has-quaternary-background-color has-quaternary-color is-style-wide" />
-
+---
+{{< hint danger >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
-
-<a href="https://www.patreon.com/bePatron?u=46962965" data-patreon-widget-type="become-patron-button">Become a Patron!</a>  
-  
-
-
-**<a rel="noreferrer noopener" href="https://afdian.net/@mtfront" target="_blank"><code>墙内赞助通道：爱发电</code></a>**
-
-<div class="da-reactions-outer TpostID347">
-  <div class="da-reactions-data da-reactions-container-async left" data-type="post" data-id="347" data-nonce="70309a6d71" id="da-reactions-slot-post-347"> 
-  
-  <div class="da-reactions-static">
-    <img src="http://blog.douchi.space/wp-content/plugins/da-reactions/assets/dist/loading.svg" alt="Loading spinner" width="48" height="48" style="width:48px; height:48px" />
-  </div>
-</div></div>
+{{< /hint >}}
+{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
+{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}

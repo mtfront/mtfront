@@ -11,8 +11,6 @@ tags:
   - 复盘
 
 ---
- 
-
 我的所有好朋友好像都 grow apart 了。
 
 青梅竹马懂事了就疏远了后来还变了直男癌，最后一次交集一个是在 Facebook 上用 God 来教训我的 pride photo 被我怼回去之后拉黑了，一个是我妈在我出柜前用“这下尘埃落定了你没机会了，但是你看看人家“的语气说他回去办婚礼。
@@ -31,24 +29,13 @@ tags:
 
 现在的 BFF 圈子却是有过一个月拼租期的室友和上学和刚来湾区帮我指路良多的妹子前男友（当然也是我同学啦），虽然说是 BFF，也就是相忘于江湖的有一搭没一搭在群里讲两句，有需要了随时去他们家拎包入住，shelter in place 期间了大家跑去非法聚众各抱着半个西瓜一起啃瓜子吃外卖而已。这波朋友风雨飘摇等他们有人回国了或者我离开湾区了估计也就走到头了吧。
 
-人生的本质果然是孤独的旅程啊。（Not saying it&#8217;s bad）
+人生的本质果然是孤独的旅程啊。（Not saying it’s bad）
 
-（看到<a rel="noreferrer noopener" href="https://www.douban.com/people/zeaglog/status/3003867517/%20" data-type="URL" data-id="https://www.douban.com/people/zeaglog/status/3003867517/%20" target="_blank">良师傅广播</a>有感而发转发写不下了）
+（看到[良师傅广播](https://www.douban.com/people/zeaglog/status/3003867517/%20)有感而发转发写不下了）
 
-<hr class="wp-block-separator has-text-color has-background has-quaternary-background-color has-quaternary-color is-style-wide" />
-
+---
+{{< hint danger >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
-
-<a href="https://www.patreon.com/bePatron?u=46962965" data-patreon-widget-type="become-patron-button">Become a Patron!</a>  
-  
-
-
-**<a rel="noreferrer noopener" href="https://afdian.net/@mtfront" target="_blank"><code>墙内赞助通道：爱发电</code></a>**
-
-<div class="da-reactions-outer TpostID592">
-  <div class="da-reactions-data da-reactions-container-async left" data-type="post" data-id="592" data-nonce="312b45aee8" id="da-reactions-slot-post-592"> 
-  
-  <div class="da-reactions-static">
-    <img src="http://blog.douchi.space/wp-content/plugins/da-reactions/assets/dist/loading.svg" alt="Loading spinner" width="48" height="48" style="width:48px; height:48px" />
-  </div>
-</div></div>
+{{< /hint >}}
+{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
+{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}

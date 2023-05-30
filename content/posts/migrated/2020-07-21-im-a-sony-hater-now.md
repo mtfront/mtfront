@@ -12,13 +12,11 @@ tags:
   - 消费主义陷阱
 
 ---
- 
-
-提到最近包裹 delay，引发了<a href="https://t.me/mtfront/545" data-type="URL" data-id="https://t.me/mtfront/545" target="_blank" rel="noreferrer noopener">一大串吐槽</a>觉得搞不好《对马之魂》会是我玩的最后一个 PS 独占游戏，甚至可能是我最后一次在 PS 平台上买跨平台游戏了。
+提到最近包裹 delay，引发了[一大串吐槽](https://t.me/mtfront/545)觉得搞不好《对马之魂》会是我玩的最后一个 PS 独占游戏，甚至可能是我最后一次在 PS 平台上买跨平台游戏了。
 
 起因是这样的：
 
-我本来全平台都有，早期没把 3A 放在 PC 上玩是因为还有点实体版收藏癖 + 主机躺沙发玩方便，但没在 xbox 上玩纯粹是因为买的时候随大流所以跨平台直接无脑买 PS4 版，xbox 一直放在家里吃灰 + 玩 forza horizon 用而已，听大家一直 XGP 真香我也没当回事想说反正没时间玩收藏性质多。直到前阵子因为买了<a href="https://www.douban.com/people/mfcndw/status/2992610677/" data-type="URL" data-id="https://www.douban.com/people/mfcndw/status/2992610677/" target="_blank" rel="noreferrer noopener">《cyberpunk2077》 限定版 xbox one x </a>送了 XGP 试用我用了一下，才发现好多我以为主机美区都没有中文的游戏在 xbox 上原来是有中文的。
+我本来全平台都有，早期没把 3A 放在 PC 上玩是因为还有点实体版收藏癖 + 主机躺沙发玩方便，但没在 xbox 上玩纯粹是因为买的时候随大流所以跨平台直接无脑买 PS4 版，xbox 一直放在家里吃灰 + 玩 forza horizon 用而已，听大家一直 XGP 真香我也没当回事想说反正没时间玩收藏性质多。直到前阵子因为买了[《cyberpunk2077》 限定版 xbox one x](https://www.douban.com/people/mfcndw/status/2992610677/) 送了 XGP 试用我用了一下，才发现好多我以为主机美区都没有中文的游戏在 xbox 上原来是有中文的。
 
 你说我被索尼骗了 6 年，眯着眼睛看真爱《巫师3》的那么小的英文、跳过真爱《刺客信条》系列那么多背景故事心想说剧情不重要，还有无数本来能一目十行母语更 enjoy 的跨平台游戏，我是图啥？
 
@@ -34,22 +32,11 @@ tags:
 
 先把 flag 立在这儿了，PS5 肯定不会第一时间买了。《对马之魂》八成是我玩的最后一个 PS 独占了。看看后期有没有够吸引的独占会让我真香吧。
 
-（越想越气决定把我之前写的<a href="https://blog.douchi.space/?p=1492" data-type="URL" data-id="https://blog.douchi.space/?p=1492" target="_blank" rel="noreferrer noopener">小白主机选购指南</a>也更新了）
+（越想越气决定把我之前写的[小白主机选购指南](../2019-newbie-gamer-platform-guide/)也更新了）
 
-<hr class="wp-block-separator has-text-color has-background has-quaternary-background-color has-quaternary-color is-style-wide" />
-
+---
+{{< hint danger >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
-
-<a href="https://www.patreon.com/bePatron?u=46962965" data-patreon-widget-type="become-patron-button">Become a Patron!</a>  
-  
-
-
-**<a rel="noreferrer noopener" href="https://afdian.net/@mtfront" target="_blank"><code>墙内赞助通道：爱发电</code></a>**
-
-<div class="da-reactions-outer TpostID1491">
-  <div class="da-reactions-data da-reactions-container-async left" data-type="post" data-id="1491" data-nonce="d34013249f" id="da-reactions-slot-post-1491"> 
-  
-  <div class="da-reactions-static">
-    <img src="http://blog.douchi.space/wp-content/plugins/da-reactions/assets/dist/loading.svg" alt="Loading spinner" width="48" height="48" style="width:48px; height:48px" />
-  </div>
-</div></div>
+{{< /hint >}}
+{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
+{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
