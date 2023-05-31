@@ -26,6 +26,7 @@ https://blog.douchi.space/index.xml
 {{< button href="https://mtfront.notion.site/2485c762efe040b988531aaa3e45ad25" target="_blank">}}书影游精神仓库{{< /button >}}
 {{< button href="https://mtfront.notion.site/mtfront-shopping-reviews-e568ee6ebaa44b5da146cbe4ac4663eb" target="_blank">}}剁手安利数据库{{< /button >}}
 {{< button href="https://www.redbubble.com/people/Mt-Front/shop?asc=u" target="_blank">}}椒盐像素小卖铺{{< /button >}}
+{{< button href="https://discord.gg/cESS4JpsdG" target="_blank">}}站点通告 Discord{{< /button >}}
 
 ## Where to find me
 [![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/rss.png)](https://blog.douchi.space/index.xml)
