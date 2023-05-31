@@ -4,16 +4,19 @@ type: docs
 BookComments: False
 bookToc: false
 ---
-# About
-<!-- ![profile](dino.gif) -->
-
-## 喜欢就买，不行就分，多喝热水，重启电脑
-- 曾用名：黄信滚、孟飞升
+# 老朋友啦？[直接去读博客](posts)
+ RSS 地址更新了哦！点击图标[![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/rss.png)](https://blog.douchi.space/index.xml)或复制链接 
+```
+https://blog.douchi.space/index.xml
+```
+## About
+<!-- ![](dino.gif) -->
 - 女｜弯
 - 现居美国西雅图粗糙码农
 - 单机游戏玩家, PC 厨，索黑
 - 电影、电子产品爱好者，果黑
 - 写了二十年博客，前两年入坑 pixel art，寻找新创作媒介中
+- 曾用名：黄信滚、孟飞升
 
 ## 成为我博客的金主
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}

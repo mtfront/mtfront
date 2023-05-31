@@ -12,7 +12,10 @@
       .not-found h1 {
         margin: .25em 0 0 0;
         opacity: .25;
-        font-size: 40vmin;
+        font-size: 20vmin;
+      }
+      .oops {
+        max-width: 400px;
       }
     </style>
   </head>
@@ -20,9 +23,10 @@
   <body>
     <main class="flex justify-center not-found">
       <div>
-        <h1>404</h1>
+        <img class="oops" src="/oops.gif" />
         <h2>Page Not Found</h2>
-        <h3>
+        <h2>ಥ_ಥ回首页看看</h2>
+        <h1>
           <a href="{{ .Site.Home.RelPermalink }}">{{ .Site.Title }}</a>
         </h3>
       </div>
