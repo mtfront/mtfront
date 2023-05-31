@@ -25,7 +25,7 @@ bookToc: false
 {{< button href="https://www.redbubble.com/people/Mt-Front/shop?asc=u" target="_blank">}}椒盐像素小卖铺{{< /button >}}
 
 ## Where to find me
-[![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/rss.png)](https://blog.douchi.space/?feed=rss2)
+[![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/rss.png)](https://blog.douchi.space/index.xml)
 [![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/mastodon.png)](https://douchi.space/@mtfront)
 [![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/telegram.png)](https://t.me/mtfront)
 [![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/douban.png)](https://www.douban.com/people/mfcndw/)
