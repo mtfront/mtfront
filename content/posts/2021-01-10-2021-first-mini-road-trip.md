@@ -42,7 +42,7 @@ tags:
 
 ![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Point-Reyes/PXL_20210109_230915883-01.jpg)
 
-虽然说 [DJI Mini 2](https://blog.douchi.space/?p=323) 的抗风能力不错，但今天海边确实没什么风一点压力都无。
+虽然说 [DJI Mini 2](../dji-mini-2-review/) 的抗风能力不错，但今天海边确实没什么风一点压力都无。
 
 ![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Point-Reyes/Photo_6553640_DJI_40_jpg_4976912_0_202119151538_photo_original-01.jpg)
 

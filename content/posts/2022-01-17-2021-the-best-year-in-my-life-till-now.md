@@ -52,7 +52,7 @@ Sorta after covid 终于恢复了出游，拿到护照之后出行也更自在�
 
 ### **书影游**
 
-今年我看过的影视 255 部，读过 41 本书，玩了 53 个游戏。具体的都写在 [2021 书影音游总结](https://blog.douchi.space/?p=1764)里了就不在这里重复了。
+今年我看过的影视 255 部，读过 41 本书，玩了 53 个游戏。具体的都写在 [2021 书影音游总结](../2021-movie-game-book/)里了就不在这里重复了。
 
 ### **Blog – 55 篇**
 
@@ -93,7 +93,7 @@ Sorta after covid 终于恢复了出游，拿到护照之后出行也更自在�
 - [Mastodon 中文全文搜索失效 debug 日记及修复方法](../mastodon-chinese-search-debug-log/)
 - [Kindle Notes 轻松导出导入 Notion —— 我的第一个 chrome extension](../kindle-notes-notion-exporter-chrome-extension/)
 - [The most unprofessional recruiter I’ve ever seen](../the-most-unprofessional-recruiter-ive-ever-seen/)
-- [批量给头像添加彩虹滤镜](https://blog.douchi.space/?p=1624)
+- [批量给头像添加彩虹滤镜](../rainbow-filter-script/)
 - [我的第三次裸辞，这回没有 deadline](../rainbow-filter-script/)
 - [中年码农在 pandemic 的尾巴（？）再就业报告](../senior-software-engineer-pandemic-job-hunting/)
 
@@ -103,9 +103,9 @@ Sorta after covid 终于恢复了出游，拿到护照之后出行也更自在�
 - [我看过的 Netflix 上的错过可惜的“冷门“佳片](../netflix-hidden-gems/)
 - [我的信息摄入 & 读书 tracking workflow](../information-consumption-reading-tracking-workflow/)
 - [大历史：一本图文版和文字版完全两种体验的宏观大通史](../book-big-history/)
-- [祖先的故事：正文比标题好看一百倍的寻根溯源朝圣之旅](https://blog.douchi.space/?p=1205)
+- [祖先的故事：正文比标题好看一百倍的寻根溯源朝圣之旅](../book-ancestors-tale/)
 - [最近读到的好书推荐（偏社科类）](../book-ancestors-tale/)
-- [把迷失的电报频道变成书影游剪报](https://blog.douchi.space/?p=1397)
+- [把迷失的电报频道变成书影游剪报](../book-ancestors-tale/)
 - [我的轻量读书习惯再养成](../telegram-reading-channel/)
 - [兜了一大圈，我的默认游戏平台又回到了 PC](../back-to-pc-gaming/)
 - [搞姬是世界上最幸福的事——这些年我看过的姬片](../lesbian-movies-i-watched/)
@@ -122,7 +122,7 @@ Sorta after covid 终于恢复了出游，拿到护照之后出行也更自在�
 - [2020，难得一份充满 deliverables 的年终总结](../2020-year-full-of-deliverables-recap/)
 - [人生中那些觉醒的瞬间](../epiphany-moments-in-life/)
 - [2021 第一次迷你 road trip](../2021-first-mini-road-trip/)
-- [本站文章分类聚合方向问卷](https://blog.douchi.space/?p=1121)
+~~- [本站文章分类聚合方向问卷](https://blog.douchi.space/?p=1121)~~
 - [Accessible good hiking trail is a privilege](../blog-category-poll/)
 - [Nobody cares about your lone wolf 人设](../nobody-cares-about-your-lone-wolf-facade/)
 - [一次风与灌木草原湾区小冰岛的 hike](../windy-sea-hike/)
@@ -158,7 +158,7 @@ Sorta after covid 终于恢复了出游，拿到护照之后出行也更自在�
 
 ### **四月**
 
-随着疫情开始好转和大家逐渐打上了疫苗，时隔多年我终于开始出去跟朋友吃饭了。介绍了两位网友认识，还跟朋友去了 Tahoe 他滑雪我自己走了好几个 trail（本来想随便走一下结果某天就顺手从 squaw valley 直接走到 tahoe city 了）。报了税。写了第一个 [Chrome 插件](https://blog.douchi.space/?p=1481)。月底时候怀疑人生和没现金流恐慌达到高峰，一时半会儿身份也下不来，于是开始正式刷题和准备找工作。
+随着疫情开始好转和大家逐渐打上了疫苗，时隔多年我终于开始出去跟朋友吃饭了。介绍了两位网友认识，还跟朋友去了 Tahoe 他滑雪我自己走了好几个 trail（本来想随便走一下结果某天就顺手从 squaw valley 直接走到 tahoe city 了）。报了税。写了第一个 [Chrome 插件](../kindle-notes-notion-exporter-chrome-extension/)。月底时候怀疑人生和没现金流恐慌达到高峰，一时半会儿身份也下不来，于是开始正式刷题和准备找工作。
 
 ![Tahoe 朋友滑雪我走路的 road trip](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/01/20210420_141217-1024x768.jpeg)
 
@@ -216,7 +216,7 @@ Sorta after covid 终于恢复了出游，拿到护照之后出行也更自在�
 
 ## **2022 Resolution**
 
-我本来不想写的，因为毕竟现在的生活态度就是走一步看一步，喜欢就买不行就分多喝热水重启电脑，车到山前必有路，所以立了 flag 也没什么用。但是惊讶地发现[去年还是立了一些](https://blog.douchi.space/?p=1004)所谓“板上钉钉要做的事“，结果虽然 technically 一样都没有完成，但是 this year ended up much better than I expected，所以感觉以后回头看看年初的预期和实际上生活出来的轨迹，无论是更好还是更坏，都还蛮有趣的。那就写吧：
+我本来不想写的，因为毕竟现在的生活态度就是走一步看一步，喜欢就买不行就分多喝热水重启电脑，车到山前必有路，所以立了 flag 也没什么用。但是惊讶地发现[去年还是立了一些](../2021-the-best-year-in-my-life-till-now/)所谓“板上钉钉要做的事“，结果虽然 technically 一样都没有完成，但是 this year ended up much better than I expected，所以感觉以后回头看看年初的预期和实际上生活出来的轨迹，无论是更好还是更坏，都还蛮有趣的。那就写吧：
 
 - 跟瓜片去好多好多地方，做好多好多好玩的事情
 - 工作上保持头几个月的热情，继续想加班就加班想摸鱼就摸鱼，希望这次能持久一些，但如果不行的话也不要勉强自己

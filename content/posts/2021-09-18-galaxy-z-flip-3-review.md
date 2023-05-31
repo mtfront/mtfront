@@ -97,7 +97,7 @@ Z flip 3 是不适合单手打开的。hinge 有一定阻尼所以直接无法�
 
 使我退货的最后一根稻草是，我睡前看书时候会用手机记录看书时间，偶尔看睡着了就忘了充电。虽然醒来可能还有 15%~30% 的电，但要是稍微赖个床刷个几十分钟手机，真的会没电到关机。就更不用说第二天要出门的情况了。被关机了第二次之后我愤怒地决定退货。
 
-在我用前一部 [Galaxy S21 Ultra](https://blog.douchi.space/?p=1400) 的时候这完全不是个问题。S21 Ultra 无疑是个中度使用的两天手机，睡觉不充电醒来也经常有 50%、60% 的电量，上班时候再充甚至不充等到第二天睡觉再充都没有问题。
+在我用前一部 [Galaxy S21 Ultra](../best-smartphone-yet-samsung-galaxy-s21-ultra-review/) 的时候这完全不是个问题。S21 Ultra 无疑是个中度使用的两天手机，睡觉不充电醒来也经常有 50%、60% 的电量，上班时候再充甚至不充等到第二天睡觉再充都没有问题。
 
 ### **电量焦虑带来的过度电池优化**
 
@@ -109,11 +109,11 @@ Z flip 3 只能 pin 一个 App 就算了，后台杀 App 非常激进，导致�
 
 讲道理现在旗舰机的主摄在光线充足的情况下都拉不开差距。再讲道理就在不远的两三年前，很多人还会说“我不要鸡肋的 2~3 倍长焦，给我超广角”，这个很多人也包括我。Z flip 3 就是只有广角和超广角两颗镜头。
 
-但由奢入俭难，当只能选两颗镜头的时候，我肯定 chose 超广角 over 长焦。但，在[已经被 S21 Ultra 四颗超长焦惯坏了](https://blog.douchi.space/?p=1461)之后，Z flip 3 的摄像系统就成了一个不能忽略的大短板。优质的长焦这种东西是你有的时候觉得没用，但失去了之后追悔莫及的东西。少了颗长焦，保证画质的情况下构图就算了，拍动物、拍鸟什么的完全别妄想。
+但由奢入俭难，当只能选两颗镜头的时候，我肯定 chose 超广角 over 长焦。但，在[已经被 S21 Ultra 四颗超长焦惯坏了](../best-smartphone-yet-samsung-galaxy-s21-ultra-review/)之后，Z flip 3 的摄像系统就成了一个不能忽略的大短板。优质的长焦这种东西是你有的时候觉得没用，但失去了之后追悔莫及的东西。少了颗长焦，保证画质的情况下构图就算了，拍动物、拍鸟什么的完全别妄想。
 
 ![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/09/20210905_155316-1024x768.jpeg)
 
-这是 z flip 3 数字变焦 zoom 到最大幅度（似乎是 5x）的图。几年前这个糊度或许还能勉强接受，但出门左传[去看看我 S21 Ultra 那篇观鸟大爷测评（30x 差不多这个画质）](https://blog.douchi.space/?p=1461)之后，就很难再接受这种程度的 zoom 了。
+这是 z flip 3 数字变焦 zoom 到最大幅度（似乎是 5x）的图。几年前这个糊度或许还能勉强接受，但出门左传[去看看我 S21 Ultra 那篇观鸟大爷测评（30x 差不多这个画质）](../the-perfect-phone-for-casual-bird-lover-samsung-galaxy-s21-ultra-one-month-later/)之后，就很难再接受这种程度的 zoom 了。
 
 当然，如果你是从本来就就只有一两颗镜头的手机，比如 Pixel 5 或者几年前的安卓旗舰，或者非 Pro 的 iPhone 转来，那可能落差不会这么大。没有对比就没有伤害。
 
@@ -144,8 +144,8 @@ $999 的价格并非没有折叠屏溢价。溢价之处在于，同样的价钱
 
 拓展阅读：
 
-- [Galaxy S21 Ultra 测评](https://blog.douchi.space/?p=1400)
-- [S21 Ultra as perfect phone for a casual bird lover](https://blog.douchi.space/?p=1461)
+- [Galaxy S21 Ultra 测评](../best-smartphone-yet-samsung-galaxy-s21-ultra-review/)
+- [S21 Ultra as perfect phone for a casual bird lover](../the-perfect-phone-for-casual-bird-lover-samsung-galaxy-s21-ultra-one-month-later/)
 
 ---
 {{< hint danger >}}

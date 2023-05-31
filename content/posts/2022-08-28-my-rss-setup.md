@@ -19,7 +19,7 @@ tags:
 
 像我一样从 RSS 盛行年代的过来的网民可能会把很多 RSS 带来的好处 take for granted，而这个流量至上的年代很多内容生产者会以其他不提供原生 RSS 支持的方式创作内容（mail list, notion, telegram channel，social platform post 等等），造成对习惯了 RSS 的读者而言 aggregation 困难和信息摄入效率低下，以至于这个无利可图的形式在跟很多新朋友提起都有点难以安利出去。
 
-我在之前的一篇[如何利用 Zapier 给 notion blog 生成 RSS feed 的教程](https://blog.douchi.space/rss-for-notion-zapier/)里提到过 RSS 在现在这个年代对阅读者和创作者都仍有许多优势：
+我在之前的一篇[如何利用 Zapier 给 notion blog 生成 RSS feed 的教程](../rss-for-notion-zapier/)里提到过 RSS 在现在这个年代对阅读者和创作者都仍有许多优势：
 
 - 没有平台插入的、伪装成用户内容的广告
 - 无需担心平台自作聪明的算法干扰导致你不在第一时间阅读 post 就错过内容
@@ -32,10 +32,10 @@ tags:
 
 本文是 [8 月 patreon 金主们票选出来的内容](https://www.patreon.com/posts/aug-2022-bo-ke-70538184)（我竟然在月内完成了我好骄傲）。[欢迎大家点进 9 月的投票选择下个月的博客](https://www.patreon.com/posts/sep-2022-bo-ke-71140728)：
 
-- 真·小白友好美国理财 101·2.0 ([1.0 在这里，很多朋友跟我说看不懂所以打算写个 2.0](https://blog.douchi.space/personal-finance-for-dummies-in-us/)）
+- 真·小白友好美国理财 101·2.0 ([1.0 在这里，很多朋友跟我说看不懂所以打算写个 2.0](../personal-finance-for-dummies-in-us/)）
 - 我的时间管理系统
 - 八年美国互联网公司摸鱼经验总结
-- Desk setup 2022（[2021 desk setup 在这里](https://blog.douchi.space/desk-setup-2021/)）
+- Desk setup 2022（[2021 desk setup 在这里](../desk-setup-2021/)）
 
 <!--more-->
 

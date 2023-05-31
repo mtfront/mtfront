@@ -12,7 +12,7 @@ tags:
   - 复盘
 
 ---
-上班了就是闲暇时间少了很多，这篇 [8 月的 Patreon 博客选题投票](https://www.patreon.com/posts/54152044)我拖到 9 月都快结束了，还是狠下心来了第二次 [social network rehab](https://blog.douchi.space/?p=1662) 才有心力和时间开始动笔。
+上班了就是闲暇时间少了很多，这篇 [8 月的 Patreon 博客选题投票](https://www.patreon.com/posts/54152044)我拖到 9 月都快结束了，还是狠下心来了第二次 [social network rehab](../social-network-rehab/) 才有心力和时间开始动笔。
 
 顺便，一鼓作气把拖欠了大半个月的 9 月选题发了吧，这回主题是职业/功利向的，[欢迎金主们点击链接去帮我决定要写什么](https://www.patreon.com/posts/56499124)：
 
@@ -40,7 +40,7 @@ tags:
 
 ### **解决方案**
 
-于是我在我的 [Daylio 每日目标](https://blog.douchi.space/?p=420)里加入了早睡一条。我的“早睡”标准也经历了如下变化：
+于是我在我的 [Daylio 每日目标](../daylio-improve-mood-like-a-pro-data-scientist/)里加入了早睡一条。我的“早睡”标准也经历了如下变化：
 
 2 点以前躺下（会玩手机） -> 2 点之前停止玩手机（一般还会看 15~40 分钟书）-> 1:30 前停止玩手机 -> 1 点前停止玩手机 -> 12 点前停止玩手机
 

@@ -38,7 +38,7 @@ Amazon 没有提供特别详细的 report（which 我不理解，商品分类信
 
 大家最熟悉的 affiliate 广告形式可能是 youtuber 会把视频中提到的产品链接贴在视频说明中，号召大家如果感兴趣可以通过 affiliate link 购买。一些测评播主的 affiliate 收入可能是 YouTube 平台提供的广告收入的十几倍（我印象中 MKBHD 公布过有一年的 YouTube 广告收入是四五万，affiliate 收入是五六十万）。
 
-此外，本博客的读者可能比较熟悉的[我的剁手安利数据库](https://www.notion.so/mtfront-shopping-reviews-e568ee6ebaa44b5da146cbe4ac4663eb)和我平时的[测评文章中提到的产品](https://blog.douchi.space/category/stuff/)绝大多数链接也是 amazon affiliate 链接。
+此外，本博客的读者可能比较熟悉的[我的剁手安利数据库](https://www.notion.so/mtfront-shopping-reviews-e568ee6ebaa44b5da146cbe4ac4663eb)链接也是 amazon affiliate 链接。
 
 我个人认为它比传统的在线自动投放的广告“优越”很多，几乎是四赢局面：
 
@@ -76,16 +76,16 @@ Amazon 没有提供特别详细的 report（which 我不理解，商品分类信
 
 因为 amazon 没给分链接统计因此以下都是约数。
 
-- [iPad 床头架](https://www.notion.so/08248b7a9a8e4c309eaad70abc47b404)，当之无愧的王者，不完全统计至少卖出去过二三十个。也难怪，毕竟东西便宜、需求量大，而且在我多篇博文（如这篇 [iPad setup](https://blog.douchi.space/ipad-pro-setup/)）中出现过。
+- [iPad 床头架](https://www.notion.so/08248b7a9a8e4c309eaad70abc47b404)，当之无愧的王者，不完全统计至少卖出去过二三十个。也难怪，毕竟东西便宜、需求量大，而且在我多篇博文（如这篇 [iPad setup](../ipad-pro-setup/)）中出现过。
 - [Designing Data-Intensive Applications](https://amzn.to/3Y48Y0v)（DDIA），我没想到这本书如此畅销卖出去至少 7 本，看来我的读者中真的码农不少，当然也有可能是买这种跟工作相关又不是算法的书可能能直接找公司当学习经费报销。
 - [Purple Harmony Pillow](https://amzn.to/3HjF8P1)，虽然没有什么大爆发式销量但时不时就会卖出去一个，毕竟睡眠质量这么重要的东西稍微投资一点还是很值得的。
 - [Floor Lamp](https://amzn.to/40dc7wO)，我没想到地灯这么畅销，毕竟它真的挺亮而且照的比较均匀，还能控制色温和亮度，高度也合适。唯一的遗憾是是电子开关不能直接插智能插座语音控制。
 
 ### 收入最高产品
-- [Samsung Galaxy S21 Ultra](https://amzn.to/3RgC0If)，单笔收入 $84 刀，虽然我写了两篇测评（[中文整体体验](https://blog.douchi.space/best-smartphone-yet-samsung-galaxy-s21-ultra-review/)和[英文打鸟测评](https://blog.douchi.space/the-perfect-phone-for-casual-bird-lover-samsung-galaxy-s21-ultra-one-month-later/)），还天天在各种社交媒体上发的照片都被大家打趣三星硬广，不过两年来只拿到过一笔回扣……索性它回扣力度也是很大。Surprisingly，之前几个月换一次手机的我竟然不知不觉用这部两年了，今年终于要换手机了，安卓市场这两年没什么突破，不出大问题的话估计没有创意地直接 S23 Ultra 了。
+- [Samsung Galaxy S21 Ultra](https://amzn.to/3RgC0If)，单笔收入 $84 刀，虽然我写了两篇测评（[中文整体体验](../best-smartphone-yet-samsung-galaxy-s21-ultra-review/)和[英文打鸟测评](../the-perfect-phone-for-casual-bird-lover-samsung-galaxy-s21-ultra-one-month-later/)），还天天在各种社交媒体上发的照片都被大家打趣三星硬广，不过两年来只拿到过一笔回扣……索性它回扣力度也是很大。Surprisingly，之前几个月换一次手机的我竟然不知不觉用这部两年了，今年终于要换手机了，安卓市场这两年没什么突破，不出大问题的话估计没有创意地直接 S23 Ultra 了。
 - [Casper Element 床垫](https://amzn.to/3Y0n5E0)，跟前面的 [purple 枕头](https://amzn.to/3HjF8P1)异曲同工，睡眠质量这么重要的事情还是值得投资的，更何况后来发现也没比宜家贵多少。（说到这个我发现宜家床架也是个大坑，用过之后就疯狂安利，也卖出去一些 [amazon 折叠床架](https://amzn.to/3kLkBv3)，没有外观要求的话真的是比木质床架方便太多了）
 - [iPhone 13 mini](https://amzn.to/3kSLbCJ)，本果黑竟然靠卖 iPhone 赚过钱……but money is money🤷‍♀️   
-- 此外插播一条，不是 amazon 的但是应该是我单条收入最多的 referral：[Personal Capital 记账资产 tracking app](https://share.personalcapital.com/x/ArGnow)。之前在多篇[理财文](https://blog.douchi.space/personal-finance-for-dummies-2-0/)里提到过了。至少赚过小几百刀的 referral bonus。毕竟 signup 不要钱还能赚 $20 Amazon gift card，如果不是对 privacy 特别特别小心想要 minimize digital footprint 的话没什么门槛。
+- 此外插播一条，不是 amazon 的但是应该是我单条收入最多的 referral：[Personal Capital 记账资产 tracking app](https://share.personalcapital.com/x/ArGnow)。之前在多篇[理财文](../personal-finance-for-dummies-2-0/)里提到过了。至少赚过小几百刀的 referral bonus。毕竟 signup 不要钱还能赚 $20 Amazon gift card，如果不是对 privacy 特别特别小心想要 minimize digital footprint 的话没什么门槛。
 
 ### 最想卖但从来没卖出去过的产品
 

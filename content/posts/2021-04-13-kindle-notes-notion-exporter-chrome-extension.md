@@ -19,7 +19,7 @@ tags:
 
 ![](https://user-images.githubusercontent.com/5817602/113990452-53e9f780-9806-11eb-8d48-5471aaab27c6.png)
 
-与我之前的[微信读书导出工具](https://blog.douchi.space/?p=1431)类似。不过微信读书那个工具需要会用命令行和装 Python，本工具只要有 chrome 就能用。
+与我之前的[微信读书导出工具](../we-read-notion-exporter-script/)类似。不过微信读书那个工具需要会用命令行和装 Python，本工具只要有 chrome 就能用。
 
 （注：由于没有美区之外的 Kindle 账号我无法测试 i18n，本插件暂时只支持美区 Kindle 账号，如果有人愿意测试的话欢迎提交 pull request）
 

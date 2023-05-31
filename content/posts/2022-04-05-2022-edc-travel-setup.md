@@ -160,7 +160,7 @@ Source: Amazon
 
 良师傅推荐的加拿大防水鞋牌子，经过波士顿大雪认证，踩及膝的雪和不小心一脚踩在完全没（mò）过脚面的冰水混合物都没进水袜子都没湿，而且居然不冷（之前在西雅图也不热）波士顿出街不比冬靴好看方便多了，还挺耐脏，赞美科技，好评！有普通 sneaker 样子的也有运动鞋样子的，我这双是 weekend sneaker。
 
-之前也在[恢复独居新家置办的一些新物件](https://blog.douchi.space/?p=1874)中安利过，经常下雨的 city girl 必备单品。
+之前也在[恢复独居新家置办的一些新物件](../live-alone-new-purchase/)中安利过，经常下雨的 city girl 必备单品。
 
 ### **Slipper – [Havainas Women’s Slim Flip Flop](https://amzn.to/3pScCtE)**
 

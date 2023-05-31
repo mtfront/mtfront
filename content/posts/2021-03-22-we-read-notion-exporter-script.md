@@ -25,7 +25,7 @@ tags:
 | --- | --- | --- | --- |
 | 章节名 | 你的高亮/划线 | 你的笔记/想法 | 用来排序的序号 |
 
-变成在 notion 的表格之后后续可以导出、自己加新 field 排序、filter 等，配合其他工具使用参见之前这篇中的效果：[读书笔记 workflow](https://blog.douchi.space/?p=1134#reading)。
+变成在 notion 的表格之后后续可以导出、自己加新 field 排序、filter 等，配合其他工具使用参见之前这篇中的效果：[读书笔记 workflow](../information-consumption-reading-tracking-workflow/)。
 
 ## **如何使用**
 

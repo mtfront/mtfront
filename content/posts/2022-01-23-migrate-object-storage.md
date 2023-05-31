@@ -20,13 +20,13 @@ TL;DR: 我用 rclone 迁移 object storage 的时候脑一残就把目的 bucket
 
 ## **事情是这样的**
 
-我之前 Mastodon 实例用的 object storage 是 scaleway，每个月每个 bucket 头 75G 免费非常适合各种小站诸如 mastodon，博客之类的。但问题是这个免费服务似乎隔三差五就 desync（我不是特别了解 object storage 底层逻辑就不瞎解释了），新上传的媒体无法被稳定访问。之前我是能忍就忍，几个月找一次客服的频率凑合。后来听说巴黎区比我一开始所在的阿姆斯特丹区稳定一些，[就迁移了过去](https://blog.douchi.space/?p=1301)。几个月相安无事没管这事。
+我之前 Mastodon 实例用的 object storage 是 scaleway，每个月每个 bucket 头 75G 免费非常适合各种小站诸如 mastodon，博客之类的。但问题是这个免费服务似乎隔三差五就 desync（我不是特别了解 object storage 底层逻辑就不瞎解释了），新上传的媒体无法被稳定访问。之前我是能忍就忍，几个月找一次客服的频率凑合。后来听说巴黎区比我一开始所在的阿姆斯特丹区稳定一些，[就迁移了过去](/scaleway-object-storage-unstable-mastodon-migrate/)。几个月相安无事没管这事。
 
 但是前阵子这个老毛病又来了， 去年底我去欧洲玩的时候就被坑过一阵，前两天它又回来了。一怒之下我决定换服务。
 
 先前[云五老师已经把驴肉火烧的媒体服务迁到了 S3](https://yukieyun.net/tech/mastodon-media-from-scaleway-to-aws-s3/)，S3 自然是以 availability 和 reliability 闻名，但是后续听说价格较贵，外加我几年前没用已经忘掉了的 EC2 欠费了我上次想迁移的时候付清了欠费居然又再次被关账户了，懒得再来回折腾。在 Linode 和 Digitalocean 之间犹豫了一下，前者新用户 $100 credit 以为能用 20 个月，注册之后才发现两个月 expire，遂一怒之下还是在服务器同托管商 digitalocean 加开了 object storage。
 
-本来按照我自己[上次的迁移笔记](https://blog.douchi.space/?p=1301)顺顺利利跑了好几天 rclone，今天想说洗澡看电影前顺手 switch 了吧免得得一直 sync。结果 sync 了之后各处 credential 检查了半天也还是无法显示图片。
+本来按照我自己[上次的迁移笔记](../scaleway-object-storage-unstable-mastodon-migrate/)顺顺利利跑了好几天 rclone，今天想说洗澡看电影前顺手 switch 了吧免得得一直 sync。结果 sync 了之后各处 credential 检查了半天也还是无法显示图片。
 
 ## **Debugging**
 

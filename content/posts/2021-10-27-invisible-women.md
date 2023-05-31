@@ -21,7 +21,7 @@ tags:
 - Sony WF-1000XM4
 - iPad Mini 2021
 
-回到正题，很遗憾我还没有看过标题里这本其实内容我很感兴趣的书，但作为一个在 tech industry 工作，工种 male dominant，有电子产品、单机游戏、车这类传统意义上的男性兴趣爱好，性取向是女的，并且外型更像传统意义上男的（[比如 aer travel pack 2 测评以及评论可见一斑](https://blog.douchi.space/?p=1683)）以至于会被二元论而不自知的顺直人反复排列组合评论“原来楼主是男的/女的/直男/直女/gay/les”，的 self identified as 顺女，的一个女的，我对这个话题感触颇深。
+回到正题，很遗憾我还没有看过标题里这本其实内容我很感兴趣的书，但作为一个在 tech industry 工作，工种 male dominant，有电子产品、单机游戏、车这类传统意义上的男性兴趣爱好，性取向是女的，并且外型更像传统意义上男的（[比如 aer travel pack 2 测评以及评论可见一斑](../one-bag-travel-aer-travel-pack-2/)）以至于会被二元论而不自知的顺直人反复排列组合评论“原来楼主是男的/女的/直男/直女/gay/les”，的 self identified as 顺女，的一个女的，我对这个话题感触颇深。
 
 ![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/10/Screen-Shot-2021-10-17-at-11.59.51-PM-1024x874.png)
 

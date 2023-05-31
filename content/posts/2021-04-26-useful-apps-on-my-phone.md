@@ -55,7 +55,7 @@ tags:
 
 ## **[个人财务状况总管家 – Personal Capital](https://share.personalcapital.com/x/ArGnow)**
 
-这个东西在[我的小白懒人理财文](https://blog.douchi.space/?p=284)和[其他理财相关的文章](https://blog.douchi.space/?tag=money)，以及每月的消费总结里提到多遍了，简单来说是包含理财账户和资产 tracking 和 budget/transaction monitor 的一体 App。
+这个东西在[我的小白懒人理财文](../personal-finance-for-dummies-in-us/)和[其他理财相关的文章](../tags/money)，以及每月的消费总结里提到多遍了，简单来说是包含理财账户和资产 tracking 和 budget/transaction monitor 的一体 App。
 
 ![Personal capital asset & cashflow tracking](https://media.douchi.space/douchi/media_attachments/files/110/450/215/837/596/253/original/14224e855636e304.png)
 
@@ -86,7 +86,7 @@ tags:
 
 康奈尔出的观鸟 app，可以通过回答 5 个问题（地点、大小、颜色等）或者直接上传图片来识别你碰到的鸟，每个鸟有多张照片、习性简介、叫声、分布迁徙地图等帮助识别。当然也可以 explore 你下载的 pack 里的所有鸟。你所见过的鸟都可以加在 life list 里随时查看，同时这些数据也会帮助鸟类学家研究。
 
-[开始手机观鸟生涯之后](https://blog.douchi.space/?p=1461)就离不开这个 app 了，比起以前的鸟类爱好者看到鸟要拿出一大本厚书来查找方便太多了。
+[开始手机观鸟生涯之后](../the-perfect-phone-for-casual-bird-lover-samsung-galaxy-s21-ultra-one-month-later/)就离不开这个 app 了，比起以前的鸟类爱好者看到鸟要拿出一大本厚书来查找方便太多了。
 
 {{< columns >}}
 ![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/04/Screenshot_20210426-171753_Merlin-Bird-ID-476x1024.jpg)
