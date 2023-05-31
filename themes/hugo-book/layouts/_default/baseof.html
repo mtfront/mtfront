@@ -76,9 +76,9 @@
   <article class="markdown">
     {{ if eq .Type "post"}}
       <h1>{{- .Title -}}</h1>
+      {{ partial "docs/post-meta" . }}
+      <hr />
     {{ end }}
-    {{ partial "docs/post-meta" . }}
-    <hr />
     {{- .Content -}}
   </article>
 {{ end }}
