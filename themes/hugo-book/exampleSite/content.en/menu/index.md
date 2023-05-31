@@ -1,5 +1,5 @@
 ---
-headless: true
+headless: false
 ---
 
 - [**Example Site**]({{< relref "/docs/example" >}})

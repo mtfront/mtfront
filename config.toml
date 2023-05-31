@@ -9,3 +9,4 @@ disqusShortname = "mtfront"
 [params]
     BookRepo = 'https://github.com/mtfront/mtfront'
     BookLogo = 'dino.gif'
+    BookMenuBundle = '/menu'
