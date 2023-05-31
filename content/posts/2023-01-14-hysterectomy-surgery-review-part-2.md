@@ -16,7 +16,7 @@ tags:
 ---
 ![](https://s3.nl-ams.scw.cloud/mtfront-blog/2023/01/Liberty-Leading-the-People-oil-canvas-Eugene-1830.webp)
 
-既然我已经活蹦乱跳地开始出去玩了，感觉应该把这个之前立下 flag 要写的手术体验短期 review 一鼓作气写了。关于我为什么选择了切子宫（Hysterectomy）的原委请看本系列第一篇：[割以永治 part 1：我跟月经战斗的二十年](https://blog.douchi.space/hysterectomy-fighting-period-part-1/)。其实我术后短期也有一直在长毛象直播，有长毛象账号的感兴趣的朋友可以去 follow 一下[这个 thread](https://douchi.space/@mtfront/109548353876150898)。
+既然我已经活蹦乱跳地开始出去玩了，感觉应该把这个之前立下 flag 要写的手术体验短期 review 一鼓作气写了。关于我为什么选择了切子宫（Hysterectomy）的原委请看本系列第一篇：[割以永治 part 1：我跟月经战斗的二十年](../hysterectomy-fighting-period-part-1/)。其实我术后短期也有一直在长毛象直播，有长毛象账号的感兴趣的朋友可以去 follow 一下[这个 thread](https://douchi.space/@mtfront/109548353876150898)。
 
 我手术是 2022 年 12 月 20 日做的，所以现在已经过去了二十多天，觉得可以比较全面地写短期体验了。大家一年之后还记得话可以来鸡我写个长期测评。
 

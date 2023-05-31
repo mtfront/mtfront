@@ -1,4 +1,4 @@
-baseURL = 'http://mtfront.github.io/'
+baseURL = 'https://blog.douchi.space/public'
 languageCode = 'zh-CN'
 title = '椒盐豆豉'
 theme = 'hugo-book'
