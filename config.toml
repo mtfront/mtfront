@@ -3,7 +3,7 @@ languageCode = 'zh-CN'
 title = '椒盐豆豉'
 theme = 'hugo-book'
 
-googleAnalytics = "UA-181620260-1"
+googleAnalytics = "G-0R5FWRP8MH"
 disqusShortname = "mtfront"
 
 [params]
