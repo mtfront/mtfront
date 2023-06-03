@@ -2,7 +2,7 @@
 title: 告别行李箱 One Bag Travel 一包游天下两年记
 author: 椒盐豆豉
 type: post
-date: 2023-06-01T05:20:40+00:00
+date: 2023-06-02T23:50:40+00:00
 url: /one-bag-travel-2-years-in/
 categories:
   - 喜欢就买
@@ -11,9 +11,7 @@ tags:
   - tech
   - travel
   - 消费主义陷阱
-draft: true
 ---
-// todo undraft 
 两年前的夏天，我入坑了 Aer Travel Pack 2 并且写了一篇 [one bag travel 短期体验文](../one-bag-travel-aer-travel-pack-2/)。当时刚买这个包不久只出门了一趟两周的 trip。现在两年过去了：
 
 - 这个包随着我走过世界各地无数地方（包括分别去欧洲和亚洲的两次两周的旅行）
@@ -41,12 +39,10 @@ draft: true
 - 上飞机头顶没空间的话可以硬挤在脚下。我就是不想 check in 行李，所以塞不进脚下的话对我而言 one bag travel 意义少了一大半，因此也不怎么会考虑比 Aer Travel Pack 2（33L）再大的包。其实我这个包看起来过大很多人也不相信能塞脚下，甚至某次买了巨便宜的票不能线上 check in 还跟某无良航空公司人工 check in 的工作人员撕了一下，最后当然是我赢了并且放进去了。
 - 不是传统“背包客”那种背着巨型登山包一出出去半年那种。其一暂时没有时间也一般不适应玩那么久；其二我不喜欢特别野的户外，撑死 day hike，不想在 urban environment 看起来过于 hardcore；其三，那种包很多时候小飞机塞不进去得 check in。
 
-TODO 插图
-
 {{< columns >}}
-平时 one bag travel 的行头
+![平时 one bag travel 的行头](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/08/20210811_100658-scaled-e1630273525874-768x1024.jpeg)
 <--->
-偶尔买了东西 overflow 成 two bags travel。
+![偶尔买了东西 overflow 成 two bags travel](https://media.douchi.space/douchi/media_attachments/files/110/467/995/392/146/739/original/403a04e8c25e84f5.jpeg)
 {{< / columns >}}
 ## 为何 one bag travel
 
@@ -93,9 +89,8 @@ TODO 插图
 - 水壶。为了减轻重量不喜欢用金属的，现在在用的是一个[自行车水壶](https://amzn.to/3hP1k7a)，喝水用喷的不接触可以少洗一点。
 - 可压缩 Day pack。视目的地情况会考虑要不要带，如果是开车 road trip 一般不带，坐飞机到目的地要用电脑或者出门一整天需要带水那种会带。目前用的是 Aer Go Pack 2，唯一的缺点是装电脑的时候还是没有专门的 EDC 或者 travel pack 支撑好，会上半部分外倾，电脑底部会顶着腰，长期背不是很舒服。但压缩包要做到功能性（有足够多分层空间）+ 压缩性 + 外观好看就很难，绝大多数登山那种压缩包我就觉得太丑不适合我们电驭游宅 urban environment 活动。
 
-TODO 插图 pack
-
 以上东西我夏天的话可以轻松 pack 两周的东西进 33L 的 Aer Travel Pack 2。冬天一周问题也不大。
+![前两天刚去日本两周的行头](https://media.douchi.space/douchi/media_attachments/files/110/392/140/845/626/877/original/25af4a90ab3beb48.jpeg)
 
 ## 如何入坑
 
@@ -110,6 +105,10 @@ TODO 插图 pack
 包的大小而言，我个人觉得 24L 以下的更侧重于 EDC（everyday carry），24L ～ 35L 比较适合我定义中的 one bag travel，再大的话重量和大小可能会不满足前面说过的一些需求。
 
 不过我偶尔发现 4 天以下的短途旅行背 33L 的 travel pack 2 稍有些大，外加 go pack 背电脑不舒服，消费主义陷阱如我又买了个 24L 的 Aer City Pack Pro。晚点试用几次加上我买过的 Travel Sling 2, Gym Pack 3, Go Pack 2 和 Travel Pack 2 可以写个 Aer 全家桶安利。
+
+## 相关阅读：
+- [one bag travel 短期体验文](../one-bag-travel-aer-travel-pack-2/)
+- [我的包里有什么｜2022 EDC & Travel Setup](../2022-edc-travel-setup)
 
 ---
 {{< hint danger >}}
