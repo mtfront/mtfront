@@ -20,7 +20,7 @@ tags:
 
 <!--more-->
 
-## [Anker 旅行充电头](https://amzn.to/43kjwM6)
+## [Anker 旅行充电头](https://amzn.to/3Z6LwkB)
 
 心水了好久的 anchor 的 65W 旅行充电头，一个 type a 俩 type c 手机电脑手表都能充了，体积也比我以往出门带的 mbp 充电头小很多，emo 想要强行消费主义的时候就光速下单了。用了半年相见恨晚，在最近写的 [one bag travel 文](../one-bag-travel-2-years-in/)里也有提，安卓用户一根 usb-c 线手机电脑游戏机都解决了，我对这个东西的评价与日俱增太方便了，同城凡事要带电脑出门也会带着，相见恨晚，比以前带苹果大充电头方便太多了，充电速度也足够快。
 
