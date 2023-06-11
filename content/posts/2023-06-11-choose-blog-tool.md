@@ -19,6 +19,9 @@ tags:
 
 其实就是自嘲了一下博客圈都喜欢捣腾建站啦 refactor 啦什么的，建站教程/折腾日志写得越欢的实际后续博客文章数量越少。
 
+![](https://rakhim.org/images/honestly-undefined/blogging.jpg)
+（后来[象友评论补充](https://thirdshire.com/post/blogging-journey/)了我想找的那张[原图在这里](https://rakhim.org/honestly-undefined/19/)）
+
 本写了二十年博客的话痨今天就来打破一下 stereotype，建完站之后的因为新鲜劲和 performance improvement 倒是已经井喷了三篇文章了。
 
 趁着[前两天刚捣腾过一次建站](../blog-migrate-wordpress-hugo)还记忆犹新，也来老生常谈又双叒叕写一篇面向小白的“个人博客选什么工具或平台“的建站文。
@@ -112,10 +115,10 @@ tags:
 - 定制性高，网上到处都是免费模版能选，此外稍微会点 html & css & javscript 都能改出来很多功能，比在第三方的系统里倒腾方便和自由很多
 - 有 git 背书的强大版本管理有迹可循
 - 流行工具基本都支持 RSS
-- Github 对内容的审查不管有无与否肯定是比 Notion 的松的，至少墙外用户的数据肯定也不在中国
 - 可以利用 Disqus 插件等方便实现留言区，很多模版也支持
 - 可以留用 Google analytics 等统计访客信息，很多模版也支持
 - 搜索引擎可以索引到，方便检索
+- Github 对内容的审查不管有无与否肯定是比 Notion 的松的，至少墙外用户的数据肯定也不在中国（有象友在[评论里补充](https://douchi.space/@mtfront/110525031995790160) Github 应该是不能发 NSFW 的内容，我自己没有这个需求所以忽略了这一点，同样限制应该也适用于免费托管和 Notion。需要发 NSFW 的博客内容的话除了对应专用平台之外可能在本文里的选项只有自建站。）
 
 ### 静态生成 Github Pages 博客的缺点
 
