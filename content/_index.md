@@ -18,7 +18,7 @@ https://blog.douchi.space/index.xml
 - 写了二十年博客，前两年入坑 pixel art，寻找新创作媒介中
 - 曾用名：黄信滚、孟飞升
 
-## 成为我博客的金主
+## 支持我的博客创作
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
 {{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
 
