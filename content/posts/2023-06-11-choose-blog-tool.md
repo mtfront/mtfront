@@ -49,7 +49,7 @@ tags:
 
 原因我在前两天的[建站文](../blog-migrate-wordpress-hugo)中也稍有提到，在此复制粘贴：
 
-- 隔三差五会坏掉。光看我 [discord server 里站点状态的更新](https://discord.gg/cESS4JpsdG)一大半都是博客故障通报就知道了，内容较为简单的博客比上千人用的社交网络还多围护就很离谱。绝大多时间修是好修的，[偶尔需要 debug](https://blog.douchi.space/wordpress-all-in-one-wp-security-aios-locking-cloudflare-out/)，但一个人运行的东西又不可能 24 小时维护，别人要看文章的时候用不了就很烦人。
+- 隔三差五会坏掉。光看我 [discord server 里站点状态的更新](https://discord.gg/cESS4JpsdG)一大半都是博客故障通报就知道了，内容较为简单的博客比上千人用的社交网络还多维护就很离谱。绝大多时间修是好修的，[偶尔需要 debug](https://blog.douchi.space/wordpress-all-in-one-wp-security-aios-locking-cloudflare-out/)，但一个人运行的东西又不可能 24 小时维护，别人要看文章的时候用不了就很烦人。
 - 要钱。因为要自己租服务器，就算可以多个应用 share，也是一笔开支。
 - 访问速度慢。自己的小服务器优化不到哪去。
 - 臃肿难定制。其实 Wordpress 功能很多，博客只是其中一小部分，于是有很多用不到的 bloated 服务和代码在占用宝贵的服务器资源，虽然提供了图形界面，但大多数定制被模版所限，模版和插件质量也良莠不齐需要自己鉴别。而直接改代码又得读它臃肿的代码很麻烦。
@@ -122,7 +122,7 @@ tags:
 
 ### 静态生成 Github Pages 博客的缺点
 
-- git 和生成工具的学习成本（也没有很高）
+- git 和生成工具的学习成本（也没有很高，有非码农零基础[象友补充](https://douchi.space/@mtfront/110525031995790160)道跟着教程两天就搭好了没出过问题）
 - 需要另寻图床（当然也可以把原图直接存在 github repo 里啦但就有压缩的问题）
 - 跨平台编辑（如没装 git 的电脑或手机）不便（可以在 github 网页版手写 markdown 但肯定没 notion 方便啦），像我其实就在 notion 里打草稿发的时候再复制，倒是 notion 复制直接是 markdown 很方便
 - 如果没有定制域名把自己 github 用户名藏起来的话有人可以顺着你的 github repo 找到你的编辑历史、草稿等，所以不另建私人 repo 和不用自定义域名的情况下不如博客平台私密性好
