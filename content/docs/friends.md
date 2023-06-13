@@ -35,5 +35,6 @@ BookComments: False
 [隐者の书庭](http://paxinla.github.io/)\
 [ESN](https://blog-rouge-xi.vercel.app/) \
 [东风吹柳](https://dongfeng.space/) \
-[Shingi](https://www.shingireservation.com/)
+[Shingi](https://www.shingireservation.com/)\
+[李一桃](https://yitaoli2023.github.io/yitaoli/posts/blog-hugo/)
 {{< / columns >}}
