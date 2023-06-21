@@ -11,6 +11,7 @@ tags:
   - tutorial
   - patreon
   - wordpress
+  - hugo
 ---
 
 之前忘记在哪看到一篇建站教程 ，给了类似这么一张图，实在找不到原文/图了，大意翻译一下：
