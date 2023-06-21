@@ -2,6 +2,7 @@ baseURL = 'https://blog.douchi.space/public'
 languageCode = 'zh-CN'
 title = '椒盐豆豉'
 theme = 'hugo-book'
+hasCJKLanguage = true
 
 googleAnalytics = "G-0R5FWRP8MH"
 disqusShortname = "mtfront"

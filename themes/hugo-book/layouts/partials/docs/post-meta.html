@@ -11,6 +11,7 @@
   </div>
   {{ end }}
 {{ end }}
+<p>本文总计 {{ div .WordCount 1000.0 | lang.FormatNumber 2}}k 字, 阅读约需要 {{ div .WordCount 400}} 分钟</p>
 
 {{ if .Params.image }}
 <p>
