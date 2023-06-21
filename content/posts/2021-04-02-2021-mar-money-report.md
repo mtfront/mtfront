@@ -205,7 +205,7 @@ Costco 打折家属送的，晚点会出长评。初步印象真的比前两年�
 本月的主题是不上班一直爽，一直不上一直爽（难道不是过去几个月都是……
 
 ---
-{{< hint danger >}}
+{{< hint info >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
 {{< /hint >}}
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}

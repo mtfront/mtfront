@@ -45,7 +45,7 @@ https://github.com/medcl/elasticsearch-analysis-stconvert/releases/download/v6.8
 9. 重启 ES，查了几次 status 发现运行稳定，sidekiq 里 failed retry queue 稳定下降，在 Mastodon 里随便搜了几个中文出现了过去的嘟文，确认问题解决。
 
 ---
-{{< hint danger >}}
+{{< hint info >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
 {{< /hint >}}
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}

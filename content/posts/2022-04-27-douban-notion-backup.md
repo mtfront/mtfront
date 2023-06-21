@@ -69,7 +69,7 @@ tags:
 结果刚修好 workflow 豆瓣就整这一出。以后豆瓣要是完全不能用的话修改一下代码从 NeoDB 自动同步应该也不会太难，暂时就先用豆瓣吧。（不过自己做 side project debug 的时候真是比上班快乐多了
 
 ---
-{{< hint danger >}}
+{{< hint info >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
 {{< /hint >}}
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}

@@ -107,7 +107,7 @@ This is the universal RSS icon. Usually pasting this icon with your feed URL sho
 ## **Now, enjoy writing!**
 
 ---
-{{< hint danger >}}
+{{< hint info >}}
 If you find this blog useful and want to support my blog or have a coffee chat with me, feel free to:
 {{< /hint >}}
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}Become Patreon{{< /button >}}

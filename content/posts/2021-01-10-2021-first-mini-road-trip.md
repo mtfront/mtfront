@@ -69,7 +69,7 @@ tags:
 回程途中本来想走金门桥和 280，无奈 Google map 非常执拗估计 280 太堵，只好走了金门桥 + 三番中间堵一段（但是每次还是会被上 Bay bridge 铺在眼前的三番天际线震撼）+ Bay Bridge 湾区最漂亮的两座桥，又开无聊的 880 回家吃麻辣烫。
 
 ---
-{{< hint danger >}}
+{{< hint info >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
 {{< /hint >}}
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}

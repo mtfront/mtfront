@@ -132,7 +132,7 @@ tags:
 不管选用什么工具，希望大家都能找到自己私下也好公开也好的表达空间！Let’s make blog great again!（此处坑一篇想写很久的“为什么你需要一个个人博客”）
 
 ---
-{{< hint danger >}}
+{{< hint info >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
 {{< /hint >}}
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}

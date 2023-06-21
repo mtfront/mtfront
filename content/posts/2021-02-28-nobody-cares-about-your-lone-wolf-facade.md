@@ -64,7 +64,7 @@ tags:
 人到中年大家都很忙都有各自的生活，哪有功夫给你拧巴和推诿，不主动点真的就散了，与其感怀人生若只如初见，不如主动问一句最近过的怎么样。Seriously, nobody cares about your lone wolf 人设。
 
 ---
-{{< hint danger >}}
+{{< hint info >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
 {{< /hint >}}
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}

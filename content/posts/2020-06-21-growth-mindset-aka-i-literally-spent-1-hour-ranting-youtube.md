@@ -67,7 +67,7 @@ How you present it matters
 当然，大多数人还是没必要通过当 growth engineer 这个大坑来 gain such mindset. 有空可以自己报个公司免费那种 growth 101 之类的培训课去上上，对改变看世界的角度还蛮有帮助的。感觉很多 backend engineer 乃至业外普通用户还是太瞧不上或者 over simplify 这些犄角旮旯的苍蝇肉了。
 
 ---
-{{< hint danger >}}
+{{< hint info >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
 {{< /hint >}}
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}

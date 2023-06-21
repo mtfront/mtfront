@@ -92,7 +92,7 @@ Amazon 没有提供特别详细的 report（which 我不理解，商品分类信
 当仁不让的是 [LG C1 77 寸 OLED 电视](https://amzn.to/3Ju4Pfl)，几乎每有朋友来我家我都要 demo 一遍……应该也是我安利数据库里最贵的东西？没卖出去的原因也很显然，它，就，比较贵，而且也不是所有人都刚好搬家刚好需要电视又刚好看到我的安利又刚好在 budget 里如果有朝一日我卖出去一台的话我会在象上敲锣打鼓让大家知道的。
 
 ---
-{{< hint danger >}}
+{{< hint info >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
 {{< /hint >}}
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}

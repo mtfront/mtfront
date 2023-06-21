@@ -763,7 +763,7 @@ DRIPs加入。这个群体主要是单细胞寄生虫，也称鱼孢菌，早已
 >
 
 ---
-{{< hint danger >}}
+{{< hint info >}}
 如果喜欢本文的话，欢迎在 Patreon 给我打赏顺便解锁一下小 perks（不喜欢月费的话页面最下方可以 make custom pledge 输入自定义金额 (ง •̀_•́)ง）. 另外 Patreon 上的某些 Tier 还可以指定定制商品 Pixel Art 哦！
 {{< /hint >}}
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}

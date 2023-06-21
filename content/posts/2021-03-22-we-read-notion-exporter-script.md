@@ -15,7 +15,7 @@ tags:
 ---
 因为最近开始做[读书笔记剪报 channel](https://t.me/mtfront)，因此需要一些排序、过滤功能，以前偷懒直接纯文本粘贴的微信读书笔记就不好使了。索性写了个 script，[点此下载](https://github.com/mfcndw/weread-notion)。[点此 sponsor。](https://github.com/sponsors/mfcndw)
 
-{{< hint danger >}}
+{{< hint info >}}
 ***注意：本 script 仅在 MacOS 上测试过***，Windows 不知道有没有问题，就算有我猜轻微改一下能用，如果有试了的朋友欢迎告诉我。
 {{< / hint >}}
 
@@ -42,7 +42,7 @@ tags:
 11. 去掉无用的 Notion 默认生成的列，如 ‘Tags’
 
 ---
-{{< hint danger >}}
+{{< hint info >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
 {{< /hint >}}
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}

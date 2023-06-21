@@ -91,7 +91,7 @@ tags:
 我第一次开店还在适应调整中，另外 backlog 里还有一些待传商品日后会陆续传上来（没想到这真是个体力活）/画出来。所以大家有什么意见建议也欢迎在小店逛逛和在这里留言。
 
 ---
-{{< hint danger >}}
+{{< hint info >}}
 如果喜欢本文的话，欢迎在 Patreon 给我打赏顺便解锁一下小 perks（不喜欢月费的话页面最下方可以 make custom pledge 输入自定义金额 (ง •̀_•́)ง）. 另外 Patreon 上的某些 Tier 还可以指定定制商品 Pixel Art 哦！
 {{< /hint >}}
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}

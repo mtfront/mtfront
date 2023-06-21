@@ -181,7 +181,7 @@ XGP 试玩觉得不错就趁 steam 又入了一波，roguelite 该有的不同�
 剪这个月视频的时候刚拿到 dream 公司 offer 所以心情十分劲爽，于是配了一个很中二劲爽的 BGM。其实这个月因为一直在连轴转面试所以完全一点都不劲爽……
 
 ---
-{{< hint danger >}}
+{{< hint info >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
 {{< /hint >}}
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}

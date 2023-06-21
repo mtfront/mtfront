@@ -91,7 +91,7 @@ tags:
 另外的好处是精力感觉丰富了很多，少了犯困、心理上被吃饭打断划水的机会。每天也少了一次思考要吃什么的纠结时间，感觉轻松很多。吃东西的时候也更 appreciate 食物了。
 
 ---
-{{< hint danger >}}
+{{< hint info >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
 {{< /hint >}}
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}

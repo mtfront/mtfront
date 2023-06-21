@@ -54,7 +54,7 @@ tags:
 （也有象友纠正我据说湾区拥有世界顶尖的 trail 资源，但我总是听说其他地方 trail 好适合户外，比如西雅图温哥华科罗拉多等等。在 YouTube 上看的各种越野测评博主住大农村也有很多 trail，所以造成了 trail 遍地都是的印象，没有在其他地方长居不得而知，这个需要其他城市的朋友们来验证了。但少说我长居过的匹兹堡至少有咱们 Schenley Park 就非常棒嘛。）
 
 ---
-{{< hint danger >}}
+{{< hint info >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
 {{< /hint >}}
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}

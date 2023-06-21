@@ -69,7 +69,7 @@ TL;DR 一些亮点：
 整体而言，对 one bag travel 相见恨晚，第一次尝试对 aer travel pack 2 也非常满意，已经迫不及待去更多地方玩了！（Delta & work：你当我们不存在是吗）
 
 ---
-{{< hint danger >}}
+{{< hint info >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
 {{< /hint >}}
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}

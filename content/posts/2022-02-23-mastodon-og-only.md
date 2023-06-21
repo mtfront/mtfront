@@ -37,7 +37,7 @@ v1.1.0 版本已添加 timeline filter 更新，Chrome store 审核通过后会�
 ~~想更无缝/在 Chrome 账户上多器材同步的话就等 chrome store 上架版本吧，到时候我会再来吆喝一声的。~~
 
 ---
-{{< hint danger >}}
+{{< hint info >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
 {{< /hint >}}
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}

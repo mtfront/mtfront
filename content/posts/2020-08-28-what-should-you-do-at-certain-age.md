@@ -45,7 +45,7 @@ tags:
 人搁那儿讲客观条件之外的个人选择怕人误读结尾都强调 privilege 了，有的男的上来就是一副镰刀心“你们不懂这是历史进程”。有了 ego 没什么不可以，全世界就你最懂，每天不 mansplaining 仿佛没吃饭似的不舒服。
 
 ---
-{{< hint danger >}}
+{{< hint info >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
 {{< /hint >}}
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}

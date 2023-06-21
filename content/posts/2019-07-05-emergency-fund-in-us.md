@@ -98,7 +98,7 @@ Summary 我的囤现金分配（按流动性）：
 有了充足的现金储备之后，就可以研究一下投资理财了。相关阅读：**[(懒惰的)在美国年轻人的第一份理财计划](https://blog.douchi.space/personal-finance-for-dummies-in-us/)**
 
 ---
-{{< hint danger >}}
+{{< hint info >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
 {{< /hint >}}
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}

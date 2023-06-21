@@ -155,7 +155,7 @@ If you’re convinced, here’s my affiliate link, it won’t affect your price 
 - [S21 128G (This one doesn’t have 10x zoom, but everything else is pretty much the same)](https://amzn.to/3cUsvdQ) （$699）
 
 ---
-{{< hint danger >}}
+{{< hint info >}}
 If you find this blog useful and want to support my blog or have a coffee chat with me, feel free to:
 {{< /hint >}}
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}Become Patreon{{< /button >}}

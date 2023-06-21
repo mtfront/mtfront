@@ -65,7 +65,7 @@ TL;DR: 我用 rclone 迁移 object storage 的时候脑一残就把目的 bucket
 谁能想到酒足饭饱挂着电话陪瓜片赛博睡觉（？）然后打算悠闲地看个电影的周六夜晚我实际上在 debug object storage & download s3cmd & 手贱图方便在笔记本上直接装了所以现在眼巴巴地等着 30 万个 object 被 set acl-public……
 
 ---
-{{< hint danger >}}
+{{< hint info >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
 {{< /hint >}}
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}

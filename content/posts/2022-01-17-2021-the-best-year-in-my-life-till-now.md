@@ -229,7 +229,7 @@ Sorta after covid 终于恢复了出游，拿到护照之后出行也更自在�
 一个迟到但比以往更加真心希望传递给诸位的，新年快乐。
 
 ---
-{{< hint danger >}}
+{{< hint info >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
 {{< /hint >}}
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}

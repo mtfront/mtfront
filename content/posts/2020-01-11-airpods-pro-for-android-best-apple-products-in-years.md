@@ -161,7 +161,7 @@ Airpods 2 – $199，在出了 airpods pro 之后除非是苹果死忠粉且一�
 ![](https://media.douchi.space/douchi/media_attachments/files/110/456/567/739/840/914/original/8d3ed30bb9e0535d.png)
 
 ---
-{{< hint danger >}}
+{{< hint info >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
 {{< /hint >}}
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}

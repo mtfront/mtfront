@@ -149,7 +149,7 @@ Onewheel 的最新产品 Pint 是 2019 年发布的，照之前的发布时间�
 - 自行车 – 适合本来就用自行车锻炼的爱好者，不推荐本来不骑的人专门买来只为通勤
 
 ---
-{{< hint danger >}}
+{{< hint info >}}
 如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者干脆就想单独聊五毛钱，欢迎点击下面按钮成为我的金主：
 {{< /hint >}}
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
