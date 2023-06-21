@@ -15,7 +15,7 @@ BookComments: False
 [无竹斋](http://bamboobone9.com/)
 <--->
 [Noodlehead](http://noodlehead.life/)\
-[theWanderingAlison](https://thewanderingallison.github.io/)\
+[theWanderingAllison](https://thewanderingallison.github.io/)\
 [四喜丸子](https://fourhappylions.com/)\
 [此方方有限公司](https://blog.konata.co/) \
 [卧锦](https://crescendomeow.wordpress.com/) \
