@@ -1,19 +1,16 @@
 <nav>
-  <ul>
   {{ range $term, $_ := .Site.Taxonomies }}
     {{ with $.Site.GetPage (printf "/%s" $term | urlize) }}
-    <li class="book-section-flat">
-      <strong>{{ .Title | title }}</strong>
-      <ul>
+      <strong>{{ .Title | title }}</strong></br></br>
       {{ range .Pages }}
-        <li class="flex justify-between">
-          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-          <span>{{ len .Pages }}</span>
-        </li>
+        <!-- experimenting with a bunch of different styles of tag-cloud -->
+        <!-- <a class="tag-cloud" href="{{ .RelPermalink }}" target="_blank">{{ .Title }}「{{ len .Pages }}」</a> -->
+        <!-- <a class="tag-cloud" href="{{ .RelPermalink }}" target="_blank">{{ .Title }}【{{ len .Pages }}】</a> -->
+        <!-- <a class="tag-cloud" href="{{ .RelPermalink }}" target="_blank">{{ .Title }} ({{ len .Pages }})</a> -->
+        <a class="tag-cloud" href="{{ .RelPermalink }}" target="_blank">{{ .Title }} [{{ len .Pages }}]</a>
       {{ end }}
-      </ul>
-    </li>
+    </br>
+    </br>
     {{ end }}
   {{ end }}
-  </ul>
 </nav>

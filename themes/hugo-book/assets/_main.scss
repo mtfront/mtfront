@@ -157,6 +157,7 @@ body[dir="rtl"] .book-menu {
   }
 
   > ul {
+    display: inline;
     padding-inline-start: 0;
   }
 }
@@ -274,6 +275,26 @@ body[dir="rtl"] .book-menu {
 
   ul {
     padding-inline-start: 1.5em;
+  }
+}
+
+.tag-cloud {
+  display: inline-block;
+  font-size: $font-size-12;
+  color: var(--color-link);
+  line-height: 20px;
+  border: 0;
+  // border: $padding-1 solid var(--color-link);
+  border-radius: $border-radius;
+  padding: 0 1px;
+  margin: 2px;
+  cursor: pointer;
+  background-color: white;
+
+  &:hover {
+    text-decoration: none;
+    // background-color: #E8F6EF;
+    filter: drop-shadow(1px 1px 1px var(--color-link));
   }
 }
 
