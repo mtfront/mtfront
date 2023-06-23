@@ -9,6 +9,7 @@ categories:
 tags:
   - tutorial
   - hugo
+  - code
 ---
 
 这……[说好的不折腾](../blog-migrate-wordpress-hugo)，但事实证明建站果然是个巨坑（指上瘾而不是难搞），开始了就难以放下折腾，理解了为啥有那么多建站文了哈哈哈。本次小装修记是受了象友白石京的[装修笔记](https://thirdshire.com/post/hugo-stack-renovation/)启发，外加厌班，就顺便小改了一些博客功能。做了如下修改：
