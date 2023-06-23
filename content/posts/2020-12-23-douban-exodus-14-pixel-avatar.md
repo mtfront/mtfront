@@ -10,7 +10,7 @@ tags:
   - mastodon
   - pixelart
   - project
-
+bookToc: false
 ---
  一切缘起于 2020 年 10 月. [原 toot](https://m.cmx.im/@mtfront/105048107977207412)
 

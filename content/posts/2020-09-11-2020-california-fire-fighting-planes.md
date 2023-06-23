@@ -11,7 +11,7 @@ categories:
 tags:
   - data
   - 搬运
-
+bookToc: false
 ---
 
 在看一篇对加州火情中消防局对飞机的运用报道非常棒，顺手做了些笔记转发写不下了，只是 TLDR ，[原文戳此](https://graphics.reuters.com/CALIFORNIA-WILDFIRE/AIRCRAFT/bdwpkzmyyvm/)。

@@ -10,7 +10,7 @@ tags:
   - career
   - LPT
   - software engineer
-
+bookToc: false
 ---
 本文源载于 women in tech 小组：[转码 FAQ：我该选哪项技术栈/语言](https://www.douban.com/group/topic/196085852/)？鉴于是 gender neutral 的建议就发个日记备份给组外的男友邻看。（不符合组规请勿一股脑入组凑热闹免得被踢脏号）
 

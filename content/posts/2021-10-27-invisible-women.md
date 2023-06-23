@@ -11,7 +11,7 @@ tags:
   - patreon
   - software engineer
   - 外国的月亮就是圆
-
+bookToc: false
 ---
 
 上班+继续拖延症，这篇 [9 月 Patreon 博客选题](https://www.patreon.com/posts/56499124)我又是拖到 10 月快结束了才写。我发誓 10 月的我一定尽快完成！这次挂几个好写的测评鸡自己快点写出来，[欢迎金主们点击链接去帮我决定要写什么](https://www.patreon.com/posts/57918655)：

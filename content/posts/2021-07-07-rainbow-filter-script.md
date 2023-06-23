@@ -10,7 +10,7 @@ tags:
   - code
   - LGBTQ
   - project
-
+bookToc: false
 ---
 为了（并没有用地）抗议所有微信 LGBT 公众号被封杀，[我顺手写了个批量处理彩虹头像的简单 python script](https://github.com/mfcndw/rainbowup).
 

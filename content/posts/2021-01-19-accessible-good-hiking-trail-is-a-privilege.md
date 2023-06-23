@@ -11,7 +11,7 @@ tags:
   - photography
   - travel
   - 外国的月亮就是圆
-
+bookToc: false
 ---
 继[上周一路向北的 mini road trip](../2021-first-mini-road-trip/) 之后，本周赶在湾区突然温暖如春的冬日结束前（过两天就要下雨了）继续换个方向出游。
 

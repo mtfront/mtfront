@@ -10,7 +10,7 @@ categories:
 tags:
   - career
   - software engineer
-
+bookToc: false
 ---
 今天我们组全公司唯二 staff engineer 聊到他都五十岁了，平时作为队友聊项目聊技术聊爱好聊器材，他专业 fermentation，平时还在公司动不动发个自酿酒 sour dough foodie channel 里答答疑啥的，所以完全没有意识到这个年龄差。
 

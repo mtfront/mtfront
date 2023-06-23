@@ -9,7 +9,7 @@ categories:
 tags:
   - career
   - software engineer
-
+bookToc: false
 ---
 工作满三年之际的时候我从 Amazon 裸辞了，不是因为大家司空见惯的血汗工厂剥削。事实上，我可能是很多人认知圈里为数不多甚至仅有的 Amazon 忠实拥趸。我甚至还写过一篇[吹 Amazon 吐槽某脸的文](../my-first-job-and-ranting-my-second/). 所以，想来看喷亚麻文的群众可能要失望了。写本文纯粹是因为我回国玩有时差，半夜醒了没事干而已。内容主要是个人辞职原因以及新公司面试吐槽的流水帐，对想要辞职和跳槽的朋友可能有一些参考价值。
 

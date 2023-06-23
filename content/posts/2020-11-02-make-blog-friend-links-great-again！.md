@@ -8,7 +8,7 @@ categories:
   - 关我屁事
 tags:
   - PSA
-
+bookToc: false
 ---
 [上回说到](https://douchi.space/web/@mtfront/105130690488549010)
 {{< hint warning >}}

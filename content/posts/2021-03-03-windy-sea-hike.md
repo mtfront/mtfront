@@ -10,7 +10,7 @@ tags:
   - Bay Area
   - hiking
   - photography
-
+bookToc: false
 ---
 被 FedEx 放鸽子的我今天去了之前象友推荐的 [Old Colma Road Loop](https://www.alltrails.com/trail/us/california/old-colma-road-loop). 风景无敌之外，风也无敌，到山顶上风大到往生，吹到站不稳那种，拿手机拍照都要紧握手机怕被吹走。
 

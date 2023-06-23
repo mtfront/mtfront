@@ -15,7 +15,7 @@ tags:
   - travel
   - vanlife
   - 消费主义陷阱
-
+bookToc: false
 ---
 这两天去了个大表哥风味的地方露营和 hiking，一点信号没有但其实离 San Jose 就一山之隔。平时我们一般都去远一些两三小时车程的地方 camping，但这次是家属改造好 mini van 变成 camper van 的第一次实地实验，于是就就近了，万一床塌了还能卷铺盖回家。（不是
 

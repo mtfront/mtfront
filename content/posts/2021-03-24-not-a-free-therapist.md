@@ -10,7 +10,7 @@ tags:
   - career
   - pixelart
   - rant
-
+bookToc: false
 ---
 平时在社交网络上关注我，甚至看过博客评论区的人也知道，尊重对方时间真诚问和交流的我回的不少，我主动写的也不少，that’s totally normal。但就是会出那么个别伸手党问你比问亲妈还不当外人，这就忍不了了。于是我怒做了这个 poster 来模板回复伸手党：
 

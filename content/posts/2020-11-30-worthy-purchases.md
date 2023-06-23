@@ -12,7 +12,7 @@ tags:
   - tech
   - wellness
   - 消费主义陷阱
-
+bookToc: false
 ---
 因为厌班所以在划水，看到 [womenoverseas 上这个主题](https://womenoverseas.com/t/topic/8690/7)很棒就写了起来，一写又写了一大堆索性搬运到博客来吧。
 

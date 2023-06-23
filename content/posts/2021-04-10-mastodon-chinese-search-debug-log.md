@@ -10,7 +10,7 @@ tags:
   - debug
   - elasticsearch
   - mastodon
-
+bookToc: false
 ---
 我的长毛象实例最近全文搜索失效，debug 了一下失效原因。简而言之，elasticsearch 自动更新了，所以之前装的中文全文搜索 plugin 本来是给 6.8.12 built 的，现在 6.8.14 运行不了，elastisearch 就卡死了。
 

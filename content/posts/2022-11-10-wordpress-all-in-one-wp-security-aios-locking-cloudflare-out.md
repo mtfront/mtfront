@@ -12,7 +12,7 @@ categories:
 tags:
   - debug
   - wordpress
-
+bookToc: false
 ---
 
 I&#8217;m going on a trip tomorrow and not gonna bring my computer, so I decided to take one last check at my WordPress site making sure everything is doing fine. Then I saw recently all the bot like high count visitors are from a narrow range of IP from Singapore. I thought it&#8217;s just some good old crawler draining up my server, so I casually added the range to All In One Wp Security (AIOS)&#8217;s blacklist manager.

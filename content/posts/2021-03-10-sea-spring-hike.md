@@ -19,7 +19,7 @@ tags:
   - hiking
   - photography
   - travel
-
+bookToc: false
 ---
 昨天本来想趁天晴出去溜达结果写文上头没时间，今天想说总有时间出门了吧，结果外面就开始打雷。本来想去隔壁村小湖看鸟，到了天气预报说没雨的时间开出门，结果越往东雨越大，但感觉西边太阳出来了，于是掉头往西去 Coyote Hills 南边的 San Francisco Bay National Wildlife Refuge。
 

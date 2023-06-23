@@ -12,7 +12,7 @@ tags:
   - patreon
   - project
   - PSA
-
+bookToc: false
 ---
 大家好！像往常一样，在一个厌班的下午，我终于把 Patreon 搭起来啦。起因是我之前看到有独立博客写手也无奖励有 support me patreon ，另外也有少数几位豆瓣友邻提到过愿意资助豆豉 douchi.space ，于是正在琢磨开源不节流辞职活动的我不禁又把这个项目提上了日程。
 

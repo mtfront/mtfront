@@ -14,7 +14,7 @@ tags:
   - software engineer
   - 复盘
   - 情感
-
+bookToc: false
 ---
  本文为 Patreon 约稿，参与约稿：{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
 

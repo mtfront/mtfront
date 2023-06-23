@@ -10,7 +10,7 @@ tags:
   - gaming
   - rant
   - 消费主义陷阱
-
+bookToc: false
 ---
 提到最近包裹 delay，引发了[一大串吐槽](https://t.me/mtfront/545)觉得搞不好《对马之魂》会是我玩的最后一个 PS 独占游戏，甚至可能是我最后一次在 PS 平台上买跨平台游戏了。
 

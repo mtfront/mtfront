@@ -9,7 +9,7 @@ categories:
 tags:
   - Memory
   - tutorial
-
+bookToc: false
 ---
 [花了一晚上把所有备份的人人照片日期整理好了](https://douchi.space/web/@mtfront/105506251925621875)，来写个手把手教程顺便纪念一下这个大工程。
 
