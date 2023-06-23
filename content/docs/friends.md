@@ -5,7 +5,6 @@ bookToc: false
 BookComments: False
 ---
 # Make 友情链接 Great Again
-会不定期清理失效域名、停更的博客，如有更新请随时联系我加回来！
 {{< columns >}}
 [狗额](https://xnth97.github.io/)\
 [云五的自留地](https://yukieyun.net/)\
@@ -37,3 +36,9 @@ BookComments: False
 [Shingi](https://www.shingireservation.com/)\
 [李一桃](https://yitaoli2023.github.io/yitaoli/posts/blog-hugo/)
 {{< / columns >}}
+
+---
+会不定期清理失效域名、停更的博客，如有更新请随时联系我加回来！
+{{< details "Archive" >}}
+[穿堂风](https://machasoul.com/) | [卧锦](https://crescendomeow.wordpress.com/) | [堂本栞](https://shiorireads.ca/)
+{{< / details >}}
