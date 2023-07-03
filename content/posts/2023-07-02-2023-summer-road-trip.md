@@ -11,7 +11,7 @@ tags:
   - travel
   - seattle
   - photography
-bookToc: false
+bookToc: True
 
 ---
 
