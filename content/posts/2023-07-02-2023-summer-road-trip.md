@@ -52,7 +52,7 @@ Cabin 是个 Trailer 改的，虽小但设施齐全十分 cozy。后面还可以
 ### Terwilliger Hot Springs 野温泉
 富婆找到的一个山里的野温泉，有三个温度不同的，10 刀入门费，允许全裸。离停车的地方还要 hike 一小段，路上风景也不错。我们去的时候下着小雨，路上烟雨蒙蒙，整个体验非常新奇。即便是 Juneteeth 不是所有地方都放假下着雨的周一还是蛮多人，要是人少点 + 没有裸男和小孩就完美了，感觉远道而来的游客很难体验到独占感觉。
 ![](https://media.douchi.space/douchi/media_attachments/files/110/574/758/569/568/207/original/028c6c7bd0944ef0.jpeg)
-！[](https://media.douchi.space/douchi/media_attachments/files/110/574/758/523/373/270/original/950c72684c02de64.jpeg)
+![](https://media.douchi.space/douchi/media_attachments/files/110/574/758/523/373/270/original/950c72684c02de64.jpeg)
 
 泡完温泉我们就打道回府，在波特兰吃了顿日料秒杀西雅图又便宜，回到家感觉 3 天开 22 个小时还是有点累，但这种出去玩到好的有诸多惊喜回家累但舒服的休息的感觉还是很棒的。
 
