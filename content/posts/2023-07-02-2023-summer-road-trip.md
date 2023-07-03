@@ -2,7 +2,7 @@
 title: 初夏惊喜不断 Oregon & Washington Road Trip
 author: 椒盐豆豉
 type: post
-date: 2023-07-02T22:0:00+00:00
+date: 2023-07-02T22:00:00+00:00
 url: /2023-summer-road-trip/
 featured_image: https://media.douchi.space/douchi/media_attachments/files/110/648/424/678/297/874/original/14dfb6c73efb9a07.jpeg
 categories:
