@@ -2,8 +2,9 @@
   <label for="menu-control">
     <img src="{{ "svg/menu.svg" | relURL }}" class="book-icon" alt="Menu" />
   </label>
-
-  <strong>{{ partial "docs/title" . }}</strong>
+  <!-- We already inject title in baseof.html, remove duplicate mobile header here -->
+  <!-- <strong>{{ partial "docs/title" . }}</strong> -->
+  <strong>椒盐豆豉</strong>
 
   <label for="toc-control">
     {{ if default true (default .Site.Params.BookToC .Params.BookToC) }}
