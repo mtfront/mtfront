@@ -1,20 +1,3 @@
-<div class="container">
-  <div id="{{ .Get 1 }}" class="{{ .Get 1 }}"></div>
-</div>
-
-<script 
-  type="text/javascript" 
-  src="https://cdn.jsdelivr.net/npm/@clappr/player@latest/dist/clappr.min.js"
->
-</script>
-
-<script>
-  var playerElement = document.getElementById("{{ .Get 1 }}");
-
-  var player = new Clappr.Player({
-    source: {{ .Get 0 }},
-    mute: true,
-  });
-
-  player.attachTo(playerElement);  
-</script>
+<video controls width="100%" autoplay muted>
+  <source src="{{ .Get 0 }}" type="video/mp4" />
+</video>
