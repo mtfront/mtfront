@@ -18,6 +18,8 @@ bookToc: True
 上周末 pride 完在湖边 picnic 看书看到一位大哥有个极酷的折叠 kayak，扭捏了一下克服了社恐上前询问了，大哥给我展示了一下像折纸一样能折叠起来个小盒子，也比充气橡胶 kayak 轻多了。拍了照记下来之后谢过大哥，想说这么好的东西怎么还没推广，回去赶紧下单一个趁季度结束前 wellness reimbursement 羊毛先薅上。
 {{< video "https://media.douchi.space/douchi/media_attachments/files/110/613/315/830/296/122/original/f689b34024942078.mp4" "official">}}
 
+TLDR：如果这一次体验能代表长期体验的话那完全是 game changer，这钱花得太值了。本文大概介绍了下便携性、稳定性等，还给了个同类产品的横向对比和选购指南，顺便附上我自己的整套行头作业。
+
 <!--more-->
 
 回家在官网、Amazon 和 REI 比了比价。[Amazon 上也是官网在直销](https://amzn.to/44qXAiA)，如果本地没有 REI 的话可以走 Amazon，但是寄送比较慢。我因为家旁边就有 REI 可以当天 pickup，玩新玩具心切，第二天下定决心要买之后就立刻下单打算当天去划了。可惜 REI 六点才 ready，已经一心去划安排好行程的我就拿出今年因为懒还没拿出来过的充气小 kayak 去了。划完心急火燎赶去 REI pickup，提上就觉得，确实轻便：
