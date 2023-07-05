@@ -72,7 +72,7 @@ Oru 内部型号选择的话，官网有一个[横向比较的页面](https://ww
 但是后来看了上面提到的 youtuber 她觉得俩船性能和稳定性都差不多，要是她买的时候出了 Lake 的话考虑到价钱便宜两三百以及更好拆装，完全没有理由买 Inlet。看了几个测评 Lake 的稳定性肯定也至少是比我的充气小破船好的。此外官网的对比图里 Lake 和 Inlet 的评级都是"calm water"。考虑到价钱、重量和更易拆装，最后就选了 Lake，想说 REI 一年退货反正要是觉得不稳再换也行。今天一次划下来觉得没买错。
 
 ## 整套行头
-- [Oru Lake (Kayak Only)](https://amzn.to/44qXAiA)。官方的 bundle 里包和水杯完全没用不建议买，桨我自己有小皮艇的，亚麻上随便买个[可拆卸的 kayak paddle](https://amzn.to/44NgLn5)即可。
+- [Oru Lake (Kayak Only)](https://amzn.to/44qXAiA)。官方的 bundle 里包和水杯完全没用不建议买，桨我自己有小皮艇的，亚麻上随便买个[可拆卸的 kayak paddle](https://amzn.to/44NgLn5)即可。如果使用官网购买的话也可以[使用我的 refer 链接](http://rwrd.io/4vk7bw7?c)
 - [Oru Float Bags](https://amzn.to/44rrCTl)官方的没有太贵就直接买了，吹气吹几下就能打满，万一翻船还是建议买上
 - [Kayak 救生衣](https://amzn.to/37PIhsh)也是之前小皮艇一起买的，有个拉链口袋装手机（能装进我的 S23 Ultra 所以应该绝大多数手机都没问题），需注意跟那种比较宽的救生背心不一样肩带是比较细的下面也没那么长，不会挡道划桨。传统普通那种救生背心划船很容易挡到。
 - [超薄运动浴巾](https://amzn.to/3PGQRNa)受了 For 老师安利买的游泳时候用的浴巾，Kayak 用刚好，不占地儿还吸水上岸擦干方便
