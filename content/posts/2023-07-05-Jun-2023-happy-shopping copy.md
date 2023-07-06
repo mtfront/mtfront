@@ -12,9 +12,9 @@ tags:
   - monthly
 ---
 
-能传递一些我自以为的 spark joy 的[消费主义陷阱](../tags/消费主义陷阱)。第一条重启就不定什么人为时间框架了，随便介绍点近期想安利的幸福感购物。之后系列要是能写起来的话每月一结倒是希望能简短好写一些。这是个 monthly digest 的被动接受形式，如果想主动找什么东西想搜索、filter 的话，还是直接去看我的[剁手安利数据库](https://mtfront.notion.site/mtfront/mtfront-shopping-reviews-e568ee6ebaa44b5da146cbe4ac4663eb)。
-
 这个月的幸福感购物主题是——夏天了！户外！野餐！短短一个月买了不少 spark joy 的东西，包括小白船、野餐套装和包等，迫不及待来和大家分享了～
+
+这是个 monthly digest 的被动接受形式，传递一些我自以为的 spark joy 的[消费主义陷阱](../tags/消费主义陷阱)。如果想主动找什么东西想搜索、filter 的话，还是直接去看我的[剁手安利数据库](https://mtfront.notion.site/mtfront/mtfront-shopping-reviews-e568ee6ebaa44b5da146cbe4ac4663eb)。
 
 <!--more-->
 
