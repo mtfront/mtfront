@@ -49,7 +49,7 @@ Meta 使用 ActivityPub 开发其新平台和 Meta 十几年前在 Messenger 服
 长毛象是一个总部位于德国的非营利性组织、完全通过众筹运作。如果你喜欢使用 mastodon.social，或者官方 iOS 和 Android app，或者想要支持我们开发长毛象软件，你可以[向我们的非营利组织 Patreon 捐赠](https://patreon.com/mastodon)。
 
 ---
-译者按：上面的链接是 mastodon 官方的，请多多给官方打钱支持！下面的链接是译者和长毛象实例 douchi.space 的请按需选择。文中大多数观点本人（代表 douchi.space 管理者）同意，不会对 Threads 采取全站预屏蔽，想要屏蔽的用户可以在它们联通之时自行屏蔽它们全站。如果将来情况有变，再做观察决定。
+译者按：上面的链接是 mastodon 官方的，请多多给官方打钱支持！下面的链接是译者和长毛象实例 douchi.space 的请按需选择。文中大多数观点本人（代表 douchi.space 管理者）同意，不会对 Threads 采取全站预屏蔽，想要屏蔽的用户可以在它们联通之时自行屏蔽它们全站（屏蔽的效果可以参考 [o3o 管理员西卡卡这篇嘟文](https://o3o.ca/@jess/110673977015198184)）。如果将来情况有变，再做观察决定。
 
 ---
 {{< hint info >}}
