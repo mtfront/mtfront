@@ -5,7 +5,7 @@
 {{ range $taxonomy, $_ := .Site.Taxonomies }}
   {{ with $terms := $.GetTerms $taxonomy }}
   <div>
-    {{ range $n, $term := $terms }}{{ if $n }}, {{ end }}
+    {{ range $n, $term := $terms }}{{ if $n }} <span style="color:#7AA874">| </span> {{ end }}
       <a href="{{ $term.RelPermalink }}">{{ $term.Title }}</a>
     {{- end }}
   </div>
@@ -21,3 +21,17 @@
   {{ end }}
 </p>
 {{ end }}
+
+<!-- button style tag 
+style=
+  "
+  padding: 0px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-style: solid;
+  border-color: #7AA874;
+  border-width: 0.5px;
+  border-radius: 4px;
+  margin-top: 2px;
+  margin-bottom: 2px;"  -->
