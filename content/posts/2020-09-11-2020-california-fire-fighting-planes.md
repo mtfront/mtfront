@@ -7,10 +7,11 @@ url: /2020-california-fire-fighting-planes/
 ig_es_is_post_notified:
   - 1
 categories:
-  - 喜欢就买
+  - 重启电脑
 tags:
   - data
-  - 搬运
+  - news
+  - translation
 bookToc: false
 ---
 
