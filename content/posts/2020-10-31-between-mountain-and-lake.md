@@ -4,7 +4,7 @@ author: 椒盐豆豉
 type: post
 date: 2020-10-31T07:35:07+00:00
 url: /between-mountain-and-lake/
-featured_image: https://media.douchi.space/douchi/media_attachments/files/110/453/061/272/529/201/original/1dde73970319288b.png
+image: https://media.douchi.space/douchi/media_attachments/files/110/453/061/272/529/201/original/1dde73970319288b.png
 categories:
   - 多喝热水
 tags:

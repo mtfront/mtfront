@@ -4,7 +4,7 @@ author: 椒盐豆豉
 type: post
 date: 2023-06-01T05:15:40+00:00
 url: /discord-social-productivity/
-featured_image: https://media.douchi.space/douchi/media_attachments/files/110/470/438/068/647/694/original/b97367e8a2b96a19.png
+image: https://media.douchi.space/douchi/media_attachments/files/110/470/438/068/647/694/original/b97367e8a2b96a19.png
 categories:
   - 重启电脑
 tags:

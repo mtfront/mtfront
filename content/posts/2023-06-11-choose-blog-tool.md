@@ -4,7 +4,7 @@ author: 椒盐豆豉
 type: post
 date: 2023-06-11T02:57:00+00:00
 url: /choose-blog-tool/
-featured_image: https://media.douchi.space/douchi/media_attachments/files/110/524/994/735/412/405/original/6c7e830c4e3c7f92.png
+image: https://media.douchi.space/douchi/media_attachments/files/110/524/994/735/412/405/original/6c7e830c4e3c7f92.png
 categories:
   - 重启电脑
 tags:

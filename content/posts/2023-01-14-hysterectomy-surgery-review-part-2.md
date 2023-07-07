@@ -4,7 +4,7 @@ author: 椒盐豆豉
 type: post
 date: 2023-01-14T08:22:41+00:00
 url: /hysterectomy-surgery-review-part-2/
-featured_image: https://s3.nl-ams.scw.cloud/mtfront-blog/2023/01/Liberty-Leading-the-People-oil-canvas-Eugene-1830.webp
+image: https://s3.nl-ams.scw.cloud/mtfront-blog/2023/01/Liberty-Leading-the-People-oil-canvas-Eugene-1830.webp
 ig_es_is_post_notified:
   - 1
 categories:

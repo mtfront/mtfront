@@ -4,7 +4,7 @@ author: 椒盐豆豉
 type: post
 date: 2020-05-21T05:22:35+00:00
 url: /oynx-boox-nova-2-in-between-kindle-and-ipad/
-featured_image: https://media.douchi.space/douchi/media_attachments/files/110/456/479/484/281/931/original/64fc2520217db9bf.png
+image: https://media.douchi.space/douchi/media_attachments/files/110/456/479/484/281/931/original/64fc2520217db9bf.png
 categories:
   - 喜欢就买
 tags:
