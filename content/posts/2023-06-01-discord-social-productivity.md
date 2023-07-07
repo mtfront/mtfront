@@ -13,7 +13,7 @@ tags:
   - tech
   - productivity
 ---
-![](https://media.douchi.space/douchi/media_attachments/files/110/470/438/068/647/694/original/b97367e8a2b96a19.png)
+
 Discord，一个虽然疫情期间扩展了很多新用户，但似乎仍然在青少年及 PC 游戏玩家之外的主流群体中是个神秘的”小众平台“。很多不关注互联网动态也不打 PC 游戏的我的同龄人甚至没听过这个名字。
 
 这点上我有点想吐槽 Discord 的宣发和新手引导。因为虽然是游戏语言起家，但其实通过这 8 年的发展，Discord 的文字聊天也已具有强大的丰富强大的功能（自定义 reaction、markdown 富文本、回复和 thread，forum channel、AI 助手等），外加比 slack 更强大的 server 管理工具（自由度很高的 permission 和 role 管理、AutoMod、Onboarding 模版、可定制邀请链接、server subscription 喝 boosting 等众筹手段等），以及强大的开放 API 所带来的众多插件和无限可能，其实从社群运营还是个人生产力管理角度，都是一个很强大的工具。但市场拓展宣发和上手难度造成了在很多人心目中它还只是一个 PC 游戏玩家的小众平台，实在很可惜。
