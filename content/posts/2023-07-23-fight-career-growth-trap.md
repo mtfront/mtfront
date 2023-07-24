@@ -44,9 +44,9 @@ tags:
 不巧赶上 pandemic，干了一段时间还是 burnout 了，全世界 remote 也导致这份工作一开始进公司看中的可以转 remote 的优势消失了，[于是又裸辞了](../i-quit-again-without-offer-or-deadline/)。
 
 ## phase 4 - i don't want to grow
-休息一段时间之后[我找到了一份 dream job](../http://localhost:1313/public/2022-dream-job/)，甚至高于我当时开始找工作时候的最好预期。当时拿到的不同公司 offer 分布在 L3 和 L4 之间，最后出于兴趣选了这份给了 L3 的工作。到目前已经在该厂工作了两年，止住了我前三分工作一路下滑的 tenure。不过最近又陷入了小危机。
+休息一段时间之后[我找到了一份 dream job](../2022-dream-job/)，甚至高于我当时开始找工作时候的最好预期。当时拿到的不同公司 offer 分布在 L3 和 L4 之间，最后出于兴趣选了这份给了 L3 的工作。到目前已经在该厂工作了两年，止住了我前三分工作一路下滑的 tenure。不过最近又陷入了小危机。
 
-去年底我们组进行小 reorg，原来的 TL 转 manager 新拉了一个组，[休病假](../http://localhost:1313/public/hysterectomy-surgery-review-part-2/)前跟我商量让我接受 TL。前面提到我早年对 scrum master 工作反感（虽然现在公司根本没有 scrum） + 拒绝过 manager 路线，但这次因为新 manager 拿出了“（我没有那么喜欢的一个）同事想当但新旧 manager 都觉得他还欠点火候还是我合适”的糖衣炮弹（……），外加我觉得 TL 跟纯管理岗的 people manager 还是有区别，此外感觉公司内的 staff 确实都是 TL，虽然我没那么想升职但饼怼到脸上了且又是熟悉的工作环境就觉得不妨一试。
+去年底我们组进行小 reorg，原来的 TL 转 manager 新拉了一个组，[休病假](../hysterectomy-surgery-review-part-2/)前跟我商量让我接受 TL。前面提到我早年对 scrum master 工作反感（虽然现在公司根本没有 scrum） + 拒绝过 manager 路线，但这次因为新 manager 拿出了“（我没有那么喜欢的一个）同事想当但新旧 manager 都觉得他还欠点火候还是我合适”的糖衣炮弹（……），外加我觉得 TL 跟纯管理岗的 people manager 还是有区别，此外感觉公司内的 staff 确实都是 TL，虽然我没那么想升职但饼怼到脸上了且又是熟悉的工作环境就觉得不妨一试。
 
 放完病假回来发现组已经大变样，比本来预期的 team scope 大了快一倍。但新官上任且我组女 eng 比例奇高，[一开始还干劲满满](https://douchi.space/@mtfront/109794693067309370)。好景不长，过了两个月不到就[开始厌恶 TL 这种](https://douchi.space/@mtfront/110340825693769633)处理所有杂物且要操心所有 project，但又没有 tangible 的实际产出的感觉。要 drive 很多 meeting 对也是特别大的消耗。外加我组新来的人都非常 senior，我这个 TL 没他们懂得多感觉非常没有存在必要，（虽然 manager 觉得有必要？）鱼都摸不踏实。（当然后来我发现了为啥找我当 TL，项目管理方面我确实还是至少不比他们弱的）。
 
