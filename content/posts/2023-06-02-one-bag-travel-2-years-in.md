@@ -11,6 +11,7 @@ tags:
   - tech
   - travel
   - 消费主义陷阱
+  - digital nomad
 ---
 两年前的夏天，我入坑了 Aer Travel Pack 2 并且写了一篇 [one bag travel 短期体验文](../one-bag-travel-aer-travel-pack-2/)。当时刚买这个包不久只出门了一趟两周的 trip。现在两年过去了：
 

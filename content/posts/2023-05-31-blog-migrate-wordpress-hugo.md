@@ -12,7 +12,7 @@ tags:
   - code
   - project
   - PSA
-
+  - digital nomad
 ---
 ## TLDR
 
