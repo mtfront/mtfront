@@ -18,7 +18,7 @@ bookToc: false
 
 My math is bad though so my calculation might be wrong, use at your own risk 🤣
 
-{{< iframe "https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/timezone-converter.html" "100%" "400">}}
+{{< iframe "https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/digital-nomad-timezone-converter.html" "100%" "400">}}
 
 ---
 
