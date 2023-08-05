@@ -14,6 +14,8 @@ tags:
 
 这两天也更新了一下自己的 [about 页面]({{< relref "/docs/about">}})，重新整理了一下自己现在还在输出的内容平台，索性也稍微展开讲讲好了。
 
+<!--more-->
+
 ## [![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/rss.png) 博客 - 长文和其它平台集散中心](https://blog.douchi.space/index.xml)
 无需多说，我自己最主要的内容集散中心。因为是自建站，形式灵活想放什么放什么，也可以当成集中了所有平台的 hub。虽说是[写了近二十年辗转了多个平台从来没断过]({{< relref "/posts/2020-10-29-hello-world-its-me-again" >}})，但尤其是近两年在长毛象上搞过两拨 make blogging great again 博客伟大复兴的共同号召，以及最近[从 wordpress 迁移到静态站]({{< relref "/posts/2023-05-31-blog-migrate-wordpress-hugo">}})，又重新燃起了写博客热情近期疯狂输出。除了能更整理和沉淀思维的博客长文之外，其实一直有改造成个人赛博小窝的想法，比如搞点可视化能互动的虚拟小窝，放点其它内容集成的伪·profolio（比如 pixel art，播客，书影游和 side project）之类的，但因为太懒所以自从迁移简单链接了其它平台之后还一直没开始执行。
 
