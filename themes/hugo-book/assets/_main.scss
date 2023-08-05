@@ -57,7 +57,9 @@ aside nav ul {
   }
 
   a:hover {
-    opacity: 0.5;
+    color: var(--color-link);
+    transform: scale(1.5, 1.5);
+    transform-origin: left;
   }
 
   ul {
@@ -169,7 +171,16 @@ body[dir="rtl"] .book-menu {
 }
 
 .book-post {
-  margin-bottom: $padding-16 * 3;
+  margin-bottom: $padding-16 * 2;
+  &:hover {
+    box-shadow: 3px 3px 3px 0px var(--color-link);
+    transform: scale(1.01);
+  }
+}
+
+.post-divider {
+  border: 1px solid var(--color-link);
+  margin-bottom: $padding-16 * 2;
 }
 
 .book-header {
@@ -285,7 +296,7 @@ body[dir="rtl"] .book-menu {
   line-height: 20px;
   border: 0;
   // border: $padding-1 solid var(--color-link);
-  border-radius: $border-radius;
+  border-radius: 2px;
   padding: 0 1px;
   margin: 2px;
   cursor: pointer;
@@ -295,6 +306,7 @@ body[dir="rtl"] .book-menu {
     text-decoration: none;
     // background-color: #E8F6EF;
     filter: drop-shadow(1px 1px 1px var(--color-link));
+    transform: scale(1.5, 1.5);
   }
 }
 
