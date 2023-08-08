@@ -173,7 +173,7 @@ body[dir="rtl"] .book-menu {
 .book-post {
   margin-bottom: $padding-16 * 2;
   &:hover {
-    box-shadow: 3px 3px 3px 0px var(--color-link);
+    box-shadow: 3px 3px 3px 0px var(--color-link-light);
     transform: scale(1.01);
   }
 }
@@ -307,6 +307,7 @@ body[dir="rtl"] .book-menu {
     // background-color: #E8F6EF;
     filter: drop-shadow(1px 1px 1px var(--color-link));
     transform: scale(1.5, 1.5);
+    transform-origin: left;
   }
 }
 
