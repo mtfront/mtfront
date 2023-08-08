@@ -74,6 +74,11 @@ Google map 搜 Instagram HQ 即可找到
 
 ![电梯直接上八楼，进去有个木头色的大圆球，里面有 Facebook 用户数据互动展板](https://media.douchi.space/douchi/media_attachments/files/110/461/936/687/369/293/original/507306cc420ad2e6.png)
 
+{{<video "https://media.douchi.space/douchi/media_attachments/files/110/852/183/751/987/434/original/eac7d9d684e99285.mp4">}}
+
+{{<video "https://media.douchi.space/douchi/media_attachments/files/110/852/185/056/017/985/original/002121418acacf1c.mp4">}}
+互动 emoji 墙
+
 ![](https://media.douchi.space/douchi/media_attachments/files/110/461/937/120/979/141/original/d1ebe939d29d1f90.png)
 
 ![虽然不知道是什么但是好像很厉害的样子](https://media.douchi.space/douchi/media_attachments/files/110/461/947/834/049/338/original/252b4ad59187a3e6.png)
