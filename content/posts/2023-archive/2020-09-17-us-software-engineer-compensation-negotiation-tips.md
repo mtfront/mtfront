@@ -26,7 +26,7 @@ tags:
 
 我跳过两次槽基本都是这个路数，一次比跟我相同背景还比我多几年经验的朋友每年多拿了三四万刀（不算 signon），一次小公司没参考数据不过最后一步 recruiter 谈不过我直接叫 VP 来跟我谈的（最后给了我要的数字），还算比较成功。
 
-（当然，compete offer 是底气的根源，也有听说有人无 compete offer negotiate 成功的，但我就没有经验不瞎逼逼了）
+（当然，compete/match offer 是底气的根源，也有听说有人无 compete offer negotiate 成功的，但我就没有经验不瞎逼逼了）
 
 ---
 {{< hint info >}}
