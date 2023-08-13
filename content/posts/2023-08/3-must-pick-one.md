@@ -9,6 +9,7 @@ categories:
 tags:
   - 问卷
   - random
+booktoc: false
 ---
 
 还没有听过随机波动，不过从[订阅的博客里](https://liminalnegativespace.github.io/blog/posts/pickOne/)看到了这个问卷，本问卷爱好者怎么会错过机会呢！立刻不请自来前来做了。用的是[随机波动原版问卷](https://www.stovol.club/118) + 前答主补充。
