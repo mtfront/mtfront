@@ -10,6 +10,7 @@ tags:
   - tutorial
   - hugo
   - code
+  - blog
 bookToc: false
 ---
 

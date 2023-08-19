@@ -13,6 +13,7 @@ tags:
   - project
   - PSA
   - digital nomad
+  - blog
 ---
 ## TLDR
 
