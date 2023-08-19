@@ -9,6 +9,7 @@ categories:
 tags:
   - brain dump
   - blog
+  - patreon
 booktoc: false
 ---
 
