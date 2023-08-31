@@ -1,5 +1,5 @@
 ---
-title: Chase Sapphire Reserve (CSR) 还值吗——全家桶懒人版
+title: Chase Sapphire Reserve (CSR vs CSP) 还值吗——全家桶懒人版
 author: 椒盐豆豉
 type: post
 date: 2023-08-30T20:11:00+00:00
@@ -58,7 +58,7 @@ image: https://media.tenor.com/w0PjtL6-8UEAAAAd/confused.gif
 
 通过上述计算，我们可以大致计算一下我实际上需要花费的下限（乐观估计）。
 - $205 / (3.2 * 1.5 - 2.56 * 1.25)% = 12,812
-- $145 / (3.2 * 1.5 - 2.56 * 1.25)% = 9，062
+- $145 / (3.2 * 1.5 - 2.56 * 1.25)% = 9,062
 
 CFU 因为绝大多数都是 1.5% 的返现因此没看 breakdown，但是赚的点数差不多是 CSR 的 1/3，因此实际花的钱比大概是 CSR ： CFU = 3 ： 2。再计算进公式的话的，CSR + CFU 等价点数差不多是 2.52, CSP + CFU 等价 2.14。重新计算：
 
