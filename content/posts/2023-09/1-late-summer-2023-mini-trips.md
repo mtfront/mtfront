@@ -66,7 +66,7 @@ bookToc: false
 
 ### Cougar Mountain 动物园
 ![](https://media.douchi.space/douchi/media_attachments/files/110/783/217/416/305/732/original/8b36bf6d2a5d9609.jpeg)
-来西雅图快两年了倒是没去过西雅图动物园，那天突发奇想跑去东亚图的一个小动物园，还挺惬意的。(再次赞美 S23 Ultra，感觉相机短期内离不开了)
+来西雅图快两年了倒是没去过西雅图动物园，那天突发奇想跑去东亚图的一个小动物园，还挺惬意的。(再次赞美 [S23 Ultra](https://amzn.to/45BDW4m)，心动的别的手机很多（比如 zenphone 10），但感觉相机短期内离不开三星了了)
 
 ![](https://media.douchi.space/douchi/media_attachments/files/110/785/254/873/778/975/original/61415cd456a5a090.png)
 
