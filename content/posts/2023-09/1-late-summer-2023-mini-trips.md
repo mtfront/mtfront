@@ -50,13 +50,12 @@ bookToc: false
 还真……挺好看的。分 Upper & lower deck，有个小 trail 可以在之间走。Upper 那个酒店似乎是《双峰》拍摄地。马路对面有免费停车场，不要被 Google maps 默认导的骗了。
 
 ## 一些算不上 trip 的附近小玩点
-![](https://media.douchi.space/douchi/media_attachments/files/110/822/772/568/770/223/original/8d748cebeab5f4af.jpeg)
-
 ### Ascend Prime Steak & Sushi
 ![](https://media.douchi.space/douchi/media_attachments/files/111/016/974/899/791/196/original/ec59898f14904f07.png)
 一家东亚图餐厅的楼顶 view。
 
 ### 家门口划船
+![](https://media.douchi.space/douchi/media_attachments/files/110/822/772/568/770/223/original/8d748cebeab5f4af.jpeg)
 {{< columns >}}
 [小白船](https://amzn.to/44qXAiA)难得再下一次水，还是在家门口，体验跟[第一次]({{< relref "/posts/2023-archive/2023-07-03-oru-kayak-first-impression" >}})差不多其实，还是很喜欢。 
 
