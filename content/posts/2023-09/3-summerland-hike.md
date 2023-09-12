@@ -19,8 +19,6 @@ image: https://media.douchi.space/douchi/media_attachments/files/111/050/061/927
 
 感觉如果说 skyline 是 visiter's trail 的话这条就是 hiker's trail 了，view 没有前者那么雪山时刻怼脸的震撼，但 variety 大而且很山林。路过 summerland camp 有旱厕。不知道是不是因为 weekday，遇到的 hiker 中老年人居多。
 
-
-
 <!--more-->
 
 {{< columns >}}
@@ -44,6 +42,9 @@ image: https://media.douchi.space/douchi/media_attachments/files/111/050/061/927
 以及满山都是花栗鼠和地松鼠。速度超快可可爱爱，只有这只停下让我拍了。
 {{< / columns >}}
 {{< video "https://media.douchi.space/douchi/media_attachments/files/111/050/099/420/127/302/original/e8ce3781fbc77927.mp4" >}}
+
+整体突然有种宝刀未老的感觉……
+![](https://media.douchi.space/douchi/media_attachments/files/111/050/464/325/649/571/original/821ec64291d59c0d.png)
 
 (以及今天从公园出来一路没有很多拐弯的下山走到小镇上的时候我被小车车 MPG 震撼了第一眼还以为仪表坏了，再定睛一看赶紧拿手机拍了张。感觉是它的记录了。平时日常走高速最多也就 33mpg 吧。被换掉之前发光发热了！)
 ![](https://media.douchi.space/douchi/media_attachments/files/111/050/276/512/142/118/original/3617f0d0ded34e77.png)
