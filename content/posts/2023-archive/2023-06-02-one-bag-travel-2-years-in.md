@@ -8,8 +8,6 @@ categories:
   - 喜欢就买
 tags:
   - review
-  - tech
-  - travel
   - 消费主义陷阱
   - digital nomad
 ---
