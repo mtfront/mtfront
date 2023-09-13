@@ -77,9 +77,9 @@ bookToc: true
 
 卖这个包是因为 travel pack 太大，且我之前不用 packing cube，到了目的地落地行动背着不大方便，普通的压缩包都质感很塑料不想背，发现 Aer 出了质感不错的就立刻下单了。
 
-这个包的最大特点是不同于 Aer 祖传的厚实防水的 Cordura 1680D nylon, 而是用了更轻薄更容易折叠的材料。此外肩垫恶化背部支撑也少很多，因此可以折起来卷起来放在大包里。功能性上基本是一个极简的 day pack——有电脑区和祖传 quick access & luggage pass through，两个外部水瓶区，此外还有一个磁吸带扣的外部开放式口袋可以塞一些杂七八八不是特别贵重的东西，比如帽子、零食、地图等。
+这个包的最大特点是不同于 Aer 祖传的厚实防水的 Cordura 1680D nylon, 而是用了更轻薄更容易折叠的材料，因此可以折起来卷起来放在大包里。但随之而来的是肩带和背部支撑也少很多。功能性上基本是一个极简的 day pack——有电脑区和祖传 quick access & luggage pass through，两个外部水瓶区，此外还有一个磁吸带扣的外部开放式口袋可以塞一些杂七八八不是特别贵重的东西，比如帽子、零食、地图等。
 
-不过后来因为背电脑不大舒服，这个包沦为了我的游泳包。quick access 装钥匙游泳卡，外面的开放口放泳帽泳镜，内部放浴巾和换的衣服。因为体积小也很容易塞进游泳馆的小柜子。
+不过后来因为背电脑不大舒服，这个包沦为了我的游泳包，出行落地包也转化为了用 expandable bag + packing cube 模式（后面会提到）。quick access 装钥匙游泳卡，外面的开放口放泳帽泳镜，内部放浴巾和换的衣服。因为体积小也很容易塞进游泳馆的小柜子。
 
 ### 使用场景
 - One bag traveler/数字游民塞进大 travel bag 里落地背电脑/平板等出行（如果不背电脑的话落地 sling 能解决没必要背包
@@ -99,6 +99,7 @@ bookToc: true
 
 ## City Pack Pro - 24L - 容量大功能全的城市 EDC 和短途旅行神器
 ![官网图](https://cld.accentuate.io/6648202100832/1681936341020/AER21047_citypackpro_lifestyle_18.jpg)
+
 是之前很流行的 20L city pack 的升级 pro 版，注意不要和中间没有横着拉链的 pro pack 搞混。买这个包的初衷是因为短途旅行（2～4 天）背 travel pack 的话会嫌太大，20L 的 go pack 又太小而且背电脑不舒服，于是就十分消费主义地买了这个 niche 包。刚拿到的时候其实不大喜欢因为感觉背上之后上部会向外倾没有想象中的 sleek，但后来夏天到了开发了躺草坪看书和 kayak 之后发现这个容量确实多塞点东西 city walk 很适合，已经成了我除了 Sling 之外第二常用的包了。 24L 的容量对我来说 3、4 天的旅行装东西绰绰有余，肩带和背电垫都是 Aer 祖传的舒服，organization pockets 也非常多，出差装各种 tech gear & accessory 得心应手，现在非常喜欢。
 
 ### 使用场景
@@ -150,6 +151,8 @@ bookToc: true
 ---
 
 总之，Aer 让我入坑 one bag travel，旅行都有了新的期待点。虽然最近新添了很多别家 gear（[Peak Design Travel Bag 30L](https://amzn.to/48bc6xD) + [Peak Design Packing Cube](https://amzn.to/3KjGlrK)、[Peak Design 洗漱包](https://amzn.to/37mySYA)（现在觉得占空间稍稍有点大，不过也暂时没有特别缺空间，晚点有看上的轻薄款再换好了）、[Bellroy Light Sling](https://amzn.to/3q2nx9L)等），但还是 Aer 的自来水粉，你看看这没有 affiliate link 也要专门写文夸它们的架势就知道了。当然，出掉一切起点的 travel pack 2 也算是一个转折点，等手头现有这套行头折腾顺了还可以再来一篇 travel gear & EDC update。
+
+（画外音，本来以为是比较美国本土的牌子，前阵子去日本旅行的时候发现满大街都是 Aer，才意外发现 Aer 在日本也很流行，不过这种 urban vibe 也确实很适合日本上班族的需求）
 
 ---
 {{< hint info >}}
