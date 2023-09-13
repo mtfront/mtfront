@@ -16,7 +16,7 @@ bookToc: true
 
 从两年前买了 [Aer Travel Pack 2]({{< relref "/posts/2023-archive/2021-08-29-one-bag-travel-aer-travel-pack-2" >}}) 之后，一头扎入了 one bag travel 的坑，[两年下来非常满意]({{< relref "/posts/2023-archive/2023-06-02-one-bag-travel-2-years-in" >}})。 除了 travel gear 之外，第一次用上不是公司发的杂牌包的我用上 Aer 这种 design 更精致用料更高级的出行工具也大开眼界，从此同类 travel + EDC (everyday carry，据说这个缩写可以区分 nerd 和现充) gear 测评也看了买了不少。
 
-一大圈下来还是 Aer 这种 urban travel 的风格更中意，前后买过 5 个包，横跨 12L 的 minimal EDC 到 33L 的travel bag 的各种 use case，目前手里还留下三个，在出掉我的第一个 aer 包尝试一下 peak design 的现在写篇回顾再合适不过了。
+一大圈下来还是 Aer 这种 urban travel 的风格更中意，前后买过 5 个包，横跨 12L 的 minimal EDC 到 33L 的travel bag 的各种 use case，目前手里还留下三个，掐指一算，竟然已经在 Aer 身上花了超过 900 刀了。在出掉我的第一个 aer 包尝试一下 peak design 的现在写篇回顾再合适不过了。
 
 <!--more-->
 
@@ -149,7 +149,7 @@ bookToc: true
 
 ---
 
-总之，Aer 让我入坑 one bag travel，旅行都有了新的期待点。虽然最近新添了很多别家 gear（[Peak Design Travel Bag 30L](https://amzn.to/48bc6xD) + [Peak Design Packing Cube](https://amzn.to/3KjGlrK)、[Peak Design 洗漱包](https://amzn.to/37mySYA)（现在觉得占空间稍稍有点大，不过也暂时没有特别缺空间，晚点有看上的轻薄款再换号了）、[Bellroy Light Sling](https://amzn.to/3q2nx9L)等），但还是 Aer 的自来水粉，你看看这没有 affiliate link 也要专门写文夸它们的架势就知道了。当然，出掉一切起点的 travel pack 2 也算是一个转折点，等手头现有这套行头折腾顺了还可以再来一篇 travel gear & EDC update。
+总之，Aer 让我入坑 one bag travel，旅行都有了新的期待点。虽然最近新添了很多别家 gear（[Peak Design Travel Bag 30L](https://amzn.to/48bc6xD) + [Peak Design Packing Cube](https://amzn.to/3KjGlrK)、[Peak Design 洗漱包](https://amzn.to/37mySYA)（现在觉得占空间稍稍有点大，不过也暂时没有特别缺空间，晚点有看上的轻薄款再换好了）、[Bellroy Light Sling](https://amzn.to/3q2nx9L)等），但还是 Aer 的自来水粉，你看看这没有 affiliate link 也要专门写文夸它们的架势就知道了。当然，出掉一切起点的 travel pack 2 也算是一个转折点，等手头现有这套行头折腾顺了还可以再来一篇 travel gear & EDC update。
 
 ---
 {{< hint info >}}
