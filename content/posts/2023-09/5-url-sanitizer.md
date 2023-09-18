@@ -48,7 +48,8 @@ YouTube 上的“分享”按钮会生成一个格式为`https://youtu.be/1ING-L
 
 当然，有些网站也把不含有追踪信息只有访问资源的 ID 放在参数中，比如 YouTube 主页点进一个链接 `https://www.youtube.com/watch?v=1ING-LVW7wM`，这里的`v=`后面实际上是 video ID，去掉这个参数的话是找不到视频的。因此去掉参数时要依情况而定，基本上参数的名称都能比较直白地揭示其用途。也可以试着打开自己手动净化后的链接看看资源还能不能正常打开。
 
-就这个简单操作我做了一个净化 URL 的 Chrome 小插件：[URL sanitizer Chrome 插件商店链接](https://chrome.google.com/webstore/detail/url-sanitizer/ajkpelpeineingjfmenbgkhophnlofgc)
+就这个简单操作我做了一个净化 URL 的 Chrome 小插件：
+### [URL sanitizer Chrome 插件商店链接](https://chrome.google.com/webstore/detail/url-sanitizer/ajkpelpeineingjfmenbgkhophnlofgc)
 ![](https://lh3.googleusercontent.com/CC3g1LA5x-M7hcLmQhTUZ7mJGVGhHPqR48hXZpW3y3vUqq93q1LUVRaQHM-bczASA0oupmHr8KYZq02Q4t-kg8GV=w640-h400-e365-rj-sc0x00ffffff)
 
 它只有两个简单功能：
