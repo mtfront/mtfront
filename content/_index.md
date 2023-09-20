@@ -4,7 +4,7 @@ type: docs
 BookComments: False
 bookToc: false
 ---
-# 老朋友啦？[直接去读博客]({{< relref "/posts/">}})
+# 老朋友啦？[直接去读博客]({{< relref "/posts/">}}) ｜ {{< random "随便看看" >}}
  RSS 地址更新了哦！点击图标 [![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/rss.png)](https://blog.douchi.space/index.xml) 或复制链接 
 ```
 https://blog.douchi.space/index.xml

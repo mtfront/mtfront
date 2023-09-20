@@ -311,6 +311,21 @@ body[dir="rtl"] .book-menu {
   }
 }
 
+.random {
+  display: inline-block;
+  font-size: $font-size-14;
+  border: 0;
+  background-color: transparent;
+  margin: 0;
+
+  &:hover {
+    text-decoration: none;
+    transform: scale(1.5, 1.5);
+    transform-origin: left;
+    color: var(--color-link);
+  }
+}
+
 // Responsive styles
 .book-menu-content,
 .book-toc-content,
