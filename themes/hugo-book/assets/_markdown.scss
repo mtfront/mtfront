@@ -16,8 +16,8 @@
   h6 {
     font-weight: normal;
     line-height: 1;
-    margin-top: 1.5em;
-    margin-bottom: $padding-16;
+    // margin-top: 1.5em;
+    // margin-bottom: $padding-16;
 
     a.anchor {
       opacity: 0;
@@ -36,6 +36,15 @@
   h5,
   h6 {
     font-weight: bolder;
+  }
+
+  h2 {
+    font-size: 1.75em;
+    line-height: 1.75;
+  }
+  h3 {
+    font-size: 1.375em;
+    line-height: 1.375;
   }
 
   h5 {
