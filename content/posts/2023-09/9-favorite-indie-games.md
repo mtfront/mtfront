@@ -2,7 +2,7 @@
 title: 从潜水员戴夫聊起，说说这些年我喜欢的独立游戏
 author: 椒盐豆豉
 type: post
-date: 2023-09-25T20:35:00+00:00
+date: 2023-09-28T02:31:00-07:00
 url: /favorite-indie-games/
 categories:
   - 喜欢就买

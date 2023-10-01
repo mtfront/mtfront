@@ -2,7 +2,7 @@
 title: 个人年度游戏编年史
 author: 椒盐豆豉
 type: post
-date: 2023-09-23T21:10:00+00:00
+date: 2023-09-24T00:21:00-07:00
 url: /favorite-game-every-year/
 categories:
   - 喜欢就买
