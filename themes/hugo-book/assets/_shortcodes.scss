@@ -66,13 +66,13 @@
 
   // {{< columns >}}
   .book-columns {
-    margin-left: -$padding-16;
-    margin-right: -$padding-16;
+    margin-left: -$padding-4;
+    margin-right: -$padding-4;
 
     > div {
-      margin: $padding-16 0;
+      margin: $padding-4 0;
       min-width: $body-min-width;
-      padding: 0 $padding-16;
+      padding: 0 $padding-4;
     }
   }
 
