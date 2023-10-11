@@ -10,7 +10,7 @@ tags:
   - travel
   - photography
 bookToc: true
-image: https://media.douchi.space/douchi/media_attachments/files/111/191/921/003/339/415/original/d87df2ad2bbe7980.jpeg
+image: https://media.douchi.space/douchi/media_attachments/files/111/215/012/041/732/489/original/16e5b35ca55dee22.png
 ---
 
 女朋友妈妈来访，我们想计划点有美国特色在中国不大容易见到的旅游项目。首先范围缩小到自然风光排除城市游，其次假期有限四五天能完成的，旅途劳顿也不想坐飞机太久和条件太艰苦，也不需要太提前抢订位置等等，最后一拍大腿美国最有名的国家公园黄石这不最符合嘛，遂一个月内订票租车敲定了这次行程。
