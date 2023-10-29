@@ -36,7 +36,9 @@
   <script defer src="{{ $swJS.RelPermalink }}" {{ template "integrity" $swJS }}></script>
 {{ end -}}
 
-{{- template "_internal/google_analytics.html" . -}}
+{{ if eq (getenv "HUGO_ENV") "production" }}
+  {{- template "_internal/google_analytics.html" . -}}
+{{ end }}
 
 <!-- RSS -->
 {{- with .OutputFormats.Get "rss" -}}
