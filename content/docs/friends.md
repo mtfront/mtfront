@@ -37,7 +37,7 @@ BookComments: False
 [ESN](https://blog-rouge-xi.vercel.app/) \
 [此方方有限公司](https://blog.konata.co/) 
 <--->
-[Nise](https://blog.wraith615.xyz/)
+[Nise](https://blog.wraith615.xyz/) \
 [嘰嘰乞乞](https://tiffahahahu7.github.io/gigigatgat/zh-tw/)
 <--->
 {{< / columns >}}
