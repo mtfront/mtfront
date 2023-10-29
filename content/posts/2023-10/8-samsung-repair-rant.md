@@ -3,7 +3,7 @@ title: 记一次高科技低生活的手机维修
 author: 椒盐豆豉
 type: post
 date: 2023-10-29T16:29:00-07:00
-url: /amsung-repair-rant/
+url: /samsung-repair-rant/
 categories:
   - 喜欢就买
 tags:
