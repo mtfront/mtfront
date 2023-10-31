@@ -69,7 +69,7 @@ image: https://media.douchi.space/douchi/media_attachments/files/111/215/012/041
 ### 西拇指 🦌
 吃完饭赶太阳落山之前开到西拇指，没想到天时地利人和看到了非常美的远处晚霞雪山湖面，还没来得及惊叹完毕，又有几只 Elk 出现在完美的晚霞之中，应该是本次旅途中最 highlight 的时刻，画面太美影像完全不能表现当场震撼。再次感叹旅游真的很看运气，如果没有晚霞也没碰见鹿的话白天来看的话可能体验就一般。
 
-{{< video "https://media.douchi.space/douchi/cache/media_attachments/files/111/191/563/704/401/103/original/9a2b3dc9a4f9a207.mp4" >}}
+{{< video "https://media.douchi.space/douchi/cache/media_attachments/files/111/191/563/704/401/103/original/67fcdadb804c33e5.mp4" >}}
 
 {{< columns >}}
 ![](https://media.douchi.space/douchi/media_attachments/files/111/192/106/355/264/981/original/1b88392059b8d907.jpeg)
