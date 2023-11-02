@@ -77,6 +77,17 @@ Remote 了几年，坚定的居家办公者这回也对偶尔能非强制去个 
 ![](https://media.douchi.space/douchi/media_attachments/files/111/293/435/820/262/504/original/b61d9f34da525fdc.jpg)
 {{< / columns >}}
 
+### 冬季二刷小九寨沟
+
+{{< columns >}}
+[前阵子提到去了次 Gold Creek Pond 甚是喜欢]({{< relref "/posts/2023-09/1-late-summer-2023-mini-trips#gold-creek-pond" >}})，等入秋了想说会不会有一些秋色，于是跑去二刷了。结果发现山里大都是常绿树没什么秋色，气温倒已经是冬天的体感了，阴头的步道上都结满了霜。不过出图还是很漂亮的！拍完之后没多久手机就摔坏了，修好了赶紧把图救出来。
+
+![](https://media.douchi.space/douchi/media_attachments/files/111/334/349/439/851/084/original/8fec955437cf9213.jpeg)
+<--->
+![](https://media.douchi.space/douchi/media_attachments/files/111/334/348/264/594/787/original/b47e0de50409a41a.jpeg)
+{{< / columns >}}
+
+
 ## 书
 还是一样，书影游的部分几乎都会在[播客]({{< relref "/posts/2023-archive/2023-01-18-podcast-bgm" >}})细聊，喜欢听播客的朋友们可以去订阅不关门播客。
 
