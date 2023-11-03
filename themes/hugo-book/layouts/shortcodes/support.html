@@ -1,0 +1,48 @@
+{{ if (in .Params "en" )}}
+  <a onclick='goToRandomPost()' class="book-btn">
+    Pick the next post for me
+  </a>
+
+  <hr/>
+  <blockquote class="book-hint info">
+    If you find this blog useful and want to support my blog, need my skill for something, or have a coffee chat with me, feel free to:
+  </blockquote>
+  <hr />
+
+
+  <a href="https://www.patreon.com/bePatron?u=46962965" class="book-btn" target="_blank">
+    Become Patreon
+  </a>
+  <a href="https://ko-fi.com/S6S130C16" class="book-btn" target="_blank" style="margin-bottom: 8px">
+    Buy me a boba
+  </a>
+{{ else }}
+  <a onclick='goToRandomPost()' class="book-btn" style="margin-bottom: 8px">
+    继续闲逛一下
+  </a>
+  <hr />
+  <blockquote class="book-hint info">
+    如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，手把手教学我有的技能等，欢迎点击下面按钮成为我的金主：
+  </blockquote>
+
+  <a href="https://www.patreon.com/bePatron?u=46962965" class="book-btn" target="_blank">
+    成为 Patreon 赞助者
+  </a>
+  <a href="https://ko-fi.com/S6S130C16" class="book-btn" target="_blank">
+    在 Kofi 上给我买杯奶茶
+  </a>
+{{ end }}
+<div style="margin-bottom: 8px;"></div>
+
+
+<script>
+  function goToRandomPost() {
+    const pages = [
+      {{ range ((where .Site.RegularPages "Type" "post")) }}
+      "{{ .RelPermalink }}?utm_source=random",
+      {{ end -}}
+    ];
+    const rand = Math.floor(Math.random() * pages.length);
+    window.location.href = pages[rand];
+  }
+</script>

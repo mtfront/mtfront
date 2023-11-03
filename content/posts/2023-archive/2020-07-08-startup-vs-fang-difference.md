@@ -95,9 +95,4 @@ Verdict
 
 在大厂决定辞职之前最后有段时间特别痛苦的时候被人一语道破：好的开端不应该让人的路越走越窄[（更详细的讨论）](../why-i-quit-facebook-part-2-whats-next/)。我这次的职业选择应该就是在践行这一点吧。如果能给哪怕千分之一的读者相似的启发，那这篇文也算没白写了。
 
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}

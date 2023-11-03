@@ -24,9 +24,4 @@ bookToc: false
 
 强调 timeboxed 是因为这个行业业内经验远比业前学习重要，现在隔行瞎猜半天，也不如选个差不太多的（而不是花很多时间找所谓最优，这甚至不是一个零和游戏，至于如何选差不多，上一段那俩方法足矣），先学习先入，行之后再凭借更丰富的资源和自己实际经验和知识的增加随机应变，做更好的选择。
 
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}

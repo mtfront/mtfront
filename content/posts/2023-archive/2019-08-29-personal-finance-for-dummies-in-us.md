@@ -165,12 +165,7 @@ IRA 也是养老账户，不过跟 401K 比起来用户有更直接的控制，�
 
 以上均为个人观点，也是最近才开始研究，从小就对理财/数学没什么天赋，所以如有谬误请多包含，欢迎纠正、分享建议。另外“欢迎分享建议” doesn’t mean comment/自以为是的反问 like “为什么不XXX” is acceptable. 换个讲法“XXX 也很不错，因为 YYY“同样的意思大家都愉快很多。
 
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}
 
 {{< details "Migrated Comments" open >}}
 

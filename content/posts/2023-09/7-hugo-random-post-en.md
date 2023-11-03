@@ -67,10 +67,4 @@ Now that you're here：{{< random "Pick the next post for me" "button" >}}
 
 [Read Chinese version of this post here.]({{< relref "/posts/2023-09/6-hugo-random-post" >}})
 
----
-
-{{< hint info >}}
-If you find this blog useful and want to support my blog or have a coffee chat with me, feel free to:
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}Become Patreon{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}Buy me a boba{{< /button >}}
+{{< support en >}}

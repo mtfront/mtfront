@@ -93,9 +93,4 @@ Early Access 不光是半成品，很多完成度很高的游戏因为开发者�
 因为上述原因，我在去年底已经全面回归了把 PC 作为我的默认游戏平台。我现在的 windows PC 是 2016 年底配的，至今运行良好，throw anything under 1440p at it works fine。就是有点吵，清了几回灰加了油也无济于事。估计晚些时候显卡 CPU 价格回落了会考虑配一台 ITX（本来觉得反正台式机放桌子下面大小不重要，现在这台 medium 感觉还是有点大）。
 
 
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}

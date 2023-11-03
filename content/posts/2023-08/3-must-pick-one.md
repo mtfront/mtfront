@@ -194,10 +194,4 @@ B - 大概人生不同阶段答案也会变化，我整体本来就不是一个�
 皮肤超好但是睡眠质量超差很难入睡经常失眠, or 满脸都是痘痘会留疤那种但是沾床即睡也不容易被意外吵醒
 {{< / hint >}}
 
----
-
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}

@@ -29,9 +29,4 @@ I started to poke around more in the plugin&#8217;s folder, and eventually found
 
 So, that was just a small stupid incident on a random Thursday night 9pm before a trip. 乁། \* ❛ ͟ʖ ❛ \* །ㄏ
 
----
-{{< hint info >}}
-If you find this blog useful and want to support my blog or have a coffee chat with me, feel free to:
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}Become Patreon{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}Buy me a boba{{< /button >}}
+{{< support en >}}

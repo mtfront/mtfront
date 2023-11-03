@@ -79,9 +79,4 @@ d. 广场舞。搪塞理由是社恐。但是教育我“不要那么刺头“�
 
 今天本来提前下班，可以画好画，然后打游戏，看书，早睡的。但是现在实际结果是跟我妈吵架吵得嗓子都哑了挂了（几次）电话之后家属第一反应拿来的都不是水了是喉糖。How to easily ruin a day that could have been great.
 
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}

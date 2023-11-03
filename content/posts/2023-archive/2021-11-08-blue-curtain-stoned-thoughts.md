@@ -104,12 +104,7 @@ tags:
 
 然后家属就开始放 YouTube 上一些奇奇妙妙更胡扯的解读，我俩开始吃牛肉面，然后我就开始失去记忆了.
 
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}
 
 {{< details "Migrated Comments" open >}}
 ### Comment by crossairplane on 2021-11-08 19:52:38 -0800

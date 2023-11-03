@@ -76,9 +76,4 @@ But，当这股初生牛犊不怕虎的 beginner luck wear off 了之后，可�
 
 还是那句话：喜欢就买，不行就分，多喝热水，重启电脑。很多“没有选择”都是人在给自己画地为牢。看看《[Unorthodox](https://movie.douban.com/subject/33418679/)》吧——Those rules are in your imagination. （赞美 Netflix）
 
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}

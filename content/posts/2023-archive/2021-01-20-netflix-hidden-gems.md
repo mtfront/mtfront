@@ -144,9 +144,4 @@ The name itself says it all
 
 本来以为是传记，后来发现是“witness”（证词）形式的对环境变化的见证和呼吁。你说大卫老爷子都 93 岁了，人类自我毁灭八成他也看不到了，不好好退休，抱着对世界和生命的热爱，一直这么苦口婆心鞠躬尽瘁，过的真是梦想中的人生啊。
 
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}

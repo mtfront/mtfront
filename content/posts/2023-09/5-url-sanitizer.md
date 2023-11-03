@@ -64,9 +64,4 @@ YouTube 上的“分享”按钮会生成一个格式为`https://youtu.be/1ING-L
 
 当然像前面说的，UTM 追踪也只是众多追踪手段其中的一种，即便完全规避 UTM 也无法保证个人隐私的绝对安全，scope 太大我也不是网络安全专家，在这里就不展开了。
 
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}

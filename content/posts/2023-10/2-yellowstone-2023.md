@@ -222,11 +222,4 @@ Mammoth 温泉旁边的 visitor center 的餐厅。只有冷饭没厨房，卖�
 ### Jackson - Lexington at Jackson Hole Hotel & Suites
 女朋友定了个巨型总裁 studio，感觉比我家都大，有种躺在 200 平米的床上的感觉。还有小狼毛绒玩偶放在床上欢迎住客。离吃和逛的地方也挺近。
 
-{{< random "继续闲逛一下" "button" >}}
-
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}

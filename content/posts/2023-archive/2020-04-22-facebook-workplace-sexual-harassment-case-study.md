@@ -49,12 +49,7 @@ Written on 2020-4-22
 
 17. 这事最大的槽点是，本来 nobody, literally nobody 扒楼主这事，不是女生新男友，不是楼主老婆，也不是内部同事闲聊泄露了。楼主本来被开了 offer 也不幸碰上疫情被收回重新开始找工作了，这事就翻片了。而是楼主自己没事找事出来想 slut shame 找认同感，结果翻车了还打肿脸充胖子，边各种明示暗示喷女生，边装可怜说“我就是来找骂的”。🙂
 
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}
 
 {{< details "Migrated Comments" open >}}
 

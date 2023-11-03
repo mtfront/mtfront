@@ -131,12 +131,7 @@ Pro 的两个型号，个人觉得 11 寸在便携性和大小上比较平衡，
 
 相关阅读：**[值得花钱/不值得花钱的事物](../worthy-purchases/)**
 
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}
 
 {{< details "Migrated Comments" open >}}
 

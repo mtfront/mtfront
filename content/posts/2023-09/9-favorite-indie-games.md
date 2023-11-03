@@ -152,11 +152,4 @@ VR 游戏风雨飘摇这么五六年，我只认它。唯一一个不是为了�
 
 篇幅所限（这篇即便对话痨我来说也已经很长了），还有许多我也很喜欢的独立游戏没有介绍到，但这篇基本能囊括了我最喜欢的各类独立游戏。也欢迎大家在评论中推荐分享你喜欢的独立游戏！
 
-{{< random "继续闲逛一下" "button" >}}
-
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}

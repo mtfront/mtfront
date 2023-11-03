@@ -122,9 +122,4 @@ Swimming is ... floating meditation? 更没有外界干扰的更纯粹的运动 
 
 此外现场演出也是一个我不大能 get 的艺术形式。从音乐剧到话剧都兴趣寡淡，最喜欢的音乐剧是狮子王大概也是出于对动画的热爱而且音乐剧的改编真的很好听。人生唯一记忆中一次 panic attack 发作就是在一个 live house 现场。唯一喜欢并且主动会去的现场演出分类应该是……电影（逃
 
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}

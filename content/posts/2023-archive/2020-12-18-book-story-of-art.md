@@ -105,12 +105,7 @@ The Nativity, 1504, [Albrecht Dürer](https://www.nga.gov/content/ngaweb/collec
 > 包豪斯所提倡的理论有时候被概括为一句口号“功能主义” [functionalism]. 其宗旨是，只要设计的东西符合它的目的，美的问题就可以随它去，不必操心。p560在建筑中，人们普遍承认大胆的发明和革新的价值，但是很少有人认识到在绘画和雕刻中情况相似。p561不论是好是坏，20 世纪的艺术家都得成为发明家。为了引人注目，他们不得不追求独创性，而不是我们仰慕的往昔大师的高超技艺。—— 27 实验性艺术 20 世纪前叶
 >
 
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}
 
 {{< details "Migrated Comments" open >}}
 ### Comment by 加拿大万峰 on 2020-12-18 04:12:19 -0800

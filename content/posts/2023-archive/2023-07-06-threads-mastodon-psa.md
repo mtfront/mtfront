@@ -51,9 +51,4 @@ Meta 使用 ActivityPub 开发其新平台和 Meta 十几年前在 Messenger 服
 ---
 译者按：上面的链接是 mastodon 官方的，请多多给官方打钱支持！下面的链接是译者和长毛象实例 douchi.space 的请按需选择。文中大多数观点本人（代表 douchi.space 管理者）同意，不会对 Threads 采取全站预屏蔽，想要屏蔽的用户可以在它们联通之时自行屏蔽它们全站（屏蔽的效果可以参考 [o3o 管理员西卡卡这篇嘟文](https://o3o.ca/@jess/110673977015198184)）。如果将来情况有变，再做观察决定。
 
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}

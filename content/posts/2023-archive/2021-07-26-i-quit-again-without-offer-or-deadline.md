@@ -66,12 +66,7 @@ tags:
 
 我的下一份工作也会尝试一些全新的方式（找/选下一份工作的具体情况会单开一文讲）。虽然这几年兜兜转转有点原地打转的感觉，但回过头来发现其实每个阶段都有了新的认知和对职业和生活方向不同的思考。希望这篇文能给在迷茫中摸索的朋友们一点参考，我们都有光明的未来。
 
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}
 
 {{< details "Migrated Comments" open >}}
 

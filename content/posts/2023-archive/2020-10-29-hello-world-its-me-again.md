@@ -50,12 +50,7 @@ Mastodon 是诸多支持 ActivityPub 标准的“Fediverse”联邦宇宙中的�
 
 那既然域名和服务器买都买了，从十数年前就开始颠沛流离的长文发布自留地，也终于可以落脚了。在请了几天假给自己“清修”的周末，开启一个新的“水滴”（我用的云服务供应商的虚拟服务器名称），装上 WordPress，在 customize 界面看着久违的十几年没怎么变过的界面捣鼓了一通，然后写下这片算是个人十几年互联网辗转的一个复盘。
 
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}
 
 {{< details "Migrated Comments" open >}}
 

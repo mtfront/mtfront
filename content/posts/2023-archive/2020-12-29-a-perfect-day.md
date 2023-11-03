@@ -98,9 +98,4 @@ oh that period time of my life got so blur now that I can’t even picture a per
 整体而言就……还蛮无聊的。大概因为想很远会给我很大的压力，所以也挺排斥勾划心目中“完美的一天”，因此已经发生的都是可能发生的，还未发生的也没有多完美多遥远或者多 permanent. 有一种”理想的一天“流派是”你想要每天都这样过吗？“，当然，没有人想要每一天一样，但我这些”愿景“因为比较平实，所以大概如果一定要每天都这样的话……也未尝不可？
 
 
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}

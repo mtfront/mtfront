@@ -25,9 +25,4 @@ bookToc: false
 前几年微博和知乎流行过一个问题，“该不该跟外卖小哥说谢谢？”我看到这个问题简直五雷轰顶，what kind of question is that? 更五雷轰顶的是，下面居然还就该不该说谢谢这个问题激烈争论了起来，论点是”我付了钱享受了该有的服务所以不用说谢谢“。Seriously，本来以为某些美国华人以”反对小费制度“为自己抠门给非常少甚至不给小费的借口就够 cheap 了（反对制度你去改变制度啊，欺软怕硬欺负普通工作者倒是一把好手了？也难怪跟瞎胡闹制度对自己有利就是公正对自己不利就是腐败的川粉高度重合了），this is at another fucking level. 不上网真的不知道大家对”做个人“的标准如此不一样。给小费好歹有金钱损失，说句谢谢会死吗？还是怕浪费您那一点点宝贵的 ATP 来让别人的生活哪怕 slightly better and feeling repected as a human being？
 
 人类真的很糟糕。
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}

@@ -75,9 +75,4 @@ CFU 因为绝大多数都是 1.5% 的返现因此没看 breakdown，但是赚的
 
 说了这么多了，来都来了™，如果动心要申 unlimited 的话，[欢迎使用我的 referral code](https://www.referyourchasecard.com/18j/R6O4CLMBFP)。
 
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}

@@ -139,12 +139,7 @@ Inoreader pro 版可以直接添加 email newsletter，每个 feed 可以生成�
 - [我的书影游剪报](https://rsshub.app/telegram/channel/mtfront)，此处插入一条硬广，之前发的书影游内容比较多，现在大多数我从包括但不限于以上阅读源读到的觉得重要/有意思的内容会总结出来。
 
 以上是大概扫了一眼我的订阅列表选了最近有动静的还算推荐的源，很多最近没发的可能有遗漏只是我订阅源里比较小一部分。此外大家有其他源/newsletter/telegram channel 的话推荐的话欢迎留言！
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}
 
 {{< details "Migrated Comments" open >}}
 ### Comment by Ovler on 2022-08-28 01:33:03 -0700

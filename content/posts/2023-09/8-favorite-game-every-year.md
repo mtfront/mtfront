@@ -51,11 +51,4 @@ bookToc: false
 
 看到这篇博文想要总结自己列表的朋友，也可以参考一下 [Wikipedia 的游戏大事年表](https://en.wikipedia.org/wiki/Category:Video_games_by_year)总结一下自己的，页面右上角可以切换语言，下面那个“pages in category”里的大事年表比较好用，国产游戏则可以参考一下[这个年表](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%8D%95%E6%9C%BA%E6%B8%B8%E6%88%8F/58276391)。
 
-{{< random "继续闲逛一下" "button" >}}
-
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}

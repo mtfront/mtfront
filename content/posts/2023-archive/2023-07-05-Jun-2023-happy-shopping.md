@@ -38,9 +38,4 @@ tags:
 最近的 [road trip](../2023-summer-road-trip/)在附近的德国小镇 Leavenworth 买的。女朋友很爱嗑瓜子之前就说过她很像小仓鼠，在小店看到这个可爱的嗑瓜子小仓鼠就光速下单了。它本身是个解压球能挤到脸（或者任何部位）变白变很大那种，但太可爱了我不忍心挤平时就拿起来薅薅耳朵。放在办公桌上就感觉女朋友在边嗑瓜子边陪我上班和摸鱼看到就想笑。感觉还是很 spark joy 的。
 {{<toot "https://douchi.space/@mtfront/110663437953419237">}}
 
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}

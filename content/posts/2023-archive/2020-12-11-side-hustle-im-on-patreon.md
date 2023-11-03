@@ -32,12 +32,7 @@ Pixel Art（像素画）：2020 年作为 covid skill up 自学的，目前接�
 
 Again，欢迎加入我的 Patreon!
 
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}
 
 {{< details "Migrated Comments" open >}}
 ### Comment by Tianqi on 2020-12-19 22:17:38 -0800

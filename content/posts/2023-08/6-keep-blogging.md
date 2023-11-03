@@ -74,10 +74,4 @@ Growth hacking 有一个简单的原则，想让用户做一件事情（如购�
 ## 建立自己的博客社交圈 -  connection
 与其它习惯一样，身边有人一起做和交流更容易产生正向激励。早年第一波博客热潮有友情链接，现如今有社交网络上默默关注或以博会友的网友。看到别人发有趣有用的博文自己很容易手痒痒一鼓作气也清清自己的 backlog，别人写的题材也可能成为我自己的启发。作为一个现如今已经趋向小众的爱好，写博客的人会惺惺相惜。
 
----
-
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}

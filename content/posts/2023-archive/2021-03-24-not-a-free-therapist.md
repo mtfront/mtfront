@@ -22,9 +22,4 @@ bookToc: false
 
 我跟 BFF 或者在自己的吐槽空间都不一定有脸疯狂倾诉，到底怎么有人好意思跟回过一句私信的陌生人疯狂单向倾诉两千字的，哪来的脸把陌生人当自己的情绪垃圾桶，约个 therapist 干这事你有钱这年代人家都不一定有时间立马约得上好吗，哪来的脸 jesus （这是反问句无需回答我知道人类是有多样性的
 
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}

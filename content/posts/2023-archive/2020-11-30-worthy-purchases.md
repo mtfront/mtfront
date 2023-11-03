@@ -39,12 +39,7 @@ bookToc: false
 - 第三方托管网站提供的建个人网站服务——比如 WIX、squarespace、wordpress.com 等，仔细一看价钱，既比自己买域名和自己的服务器/object storage 等费钱得多，又毫无灵活性，很多时候有在系统里折腾半天的功夫还不如自己建 wordpress 站。这些网站卖点是很多人不愿意研究“技术细节”，所以“花钱买时间”。但其实有看测评对比各个第三方 host 平台优缺点的功夫和后续要改造所造成的麻烦，就会发现只要会用 Google （甚至不用看得懂英文，中文教程就有好多了），现在各种一键安装、plugin 实现功能满天飞，自己建站可能长期来看反而省心很多。要真的想省心且不需要迁移和数据安全感的话不如索性用没有任何定制性的 medium。
 
 相关阅读：**[我的 iPad Pro 从吃灰之王变成使用率仅次于手机的移动电子产品 use case & 购买建议](../ipad-pro-setup/)**
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}
 
 {{< details "Migrated Comments" open >}}
 

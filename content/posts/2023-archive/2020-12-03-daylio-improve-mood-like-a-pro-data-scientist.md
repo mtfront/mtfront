@@ -93,12 +93,7 @@ Habitica 把生活中的任务/habit/todo 游戏化来激励自己，完成任�
 
 ![](https://media.douchi.space/douchi/media_attachments/files/110/455/146/975/999/849/original/eca97dac618dbb11.png)
 
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}
 
 {{< details "Migrated Comments" open >}}
 

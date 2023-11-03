@@ -87,9 +87,4 @@ Oru 内部型号选择的话，官网有一个[横向比较的页面](https://ww
 - [80" x 80" 大午餐毯](https://amzn.to/3JI3qnO)这东西真是早买专用的早享受，别拿毛巾凑合了。又大能两个人躺平随便坐，又有午餐毯的防水垫功能，躺上去还有点厚度的感觉，还轻，还有个挺好用的把手皮套。非常棒。
 - Aer City Pack Pro，我不大爱用 dry bag 反正现在手机都防水，钥匙墨镜帽子毛巾外套什么的通通塞进背包里扔船上，下船午餐直接铺也方便。最近背着毯子去公园 picnic 看书实用场景较多，外加短途 3～4 天旅行实在是好用，本来差点想退了的 City Pack Pro 焕发第二春，晚点写 Aer 全家桶和购物小结给大家安利。
 
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}

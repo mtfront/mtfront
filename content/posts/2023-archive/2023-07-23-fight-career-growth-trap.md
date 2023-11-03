@@ -62,9 +62,4 @@ tags:
 
 我早就反复确认过，自己的 passion 不在全职工作上，全职工作体验尽量优化好让我能最无后顾之忧的去捣鼓其他东西就是我的 low hanging fruit 理想工作状态了。兜了好多个圈子回来还是觉得，老老实实在个感兴趣产品工作氛围友好的公司当个 mediocre senior 摸鱼就好，身边这样成功的同事案例也不少。大概我自己成长的过程就是逐渐更舒服自然地抵抗仿佛不可避免的 career growth trap 吧。
 
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}

@@ -58,9 +58,4 @@ booktoc: true
 ### 物宅空间 Cozy Space
 攻壳为了周转现金链出的家居布置小游戏，目前还没啥游戏性可言，就是单独矩形房间里摆放家具模拟器。这么多年攻壳老粉了，最近看到他们 struggle 也于心不忍，看完[视频更新近况](https://youtu.be/v7wGvPYzHoI)立刻打钱支持。不过说实话他们的主力开发的游戏《方碑之子》美术和类型上也不是特别对我胃口，还是希望周转完毕能多出点测评，阅评无数这些年感觉中文甚至包括英文的测评很少能达到 Gamker 的水准……）
 
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}

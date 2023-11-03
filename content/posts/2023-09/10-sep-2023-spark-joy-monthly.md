@@ -94,11 +94,4 @@ Simon's Cat 主题的泡泡龙。虽然没看过 Simon's Cat，但是浓浓的�
 ### Baba is you（重拾）★★★★☆
 因为要安抚紧张且喜欢动脑的女朋友重新全价购入 steam 版。[独立游戏安利文]({{< relref "/posts/2023-09/9-favorite-indie-games" >}})和之前写的[solo dev indie game]({{< relref "/posts/2023-archive/2022-04-24-solo-indie-game-dev" >}})中都有介绍过，是玩到会 mind blown 成龙表情游戏还能这么做的创意天花板，真的把玩法和逻辑二字玩出了花，让不喜欢解谜的我和不玩游戏的女朋友连连入坑。可能是近年来见过最巧妙的游戏机制，喜欢益智解谜类型的一定不要错过。我从来都不喜欢解谜游戏，高评价的解谜游戏尝试了很多都以“我们都没错只是不适合”惨淡收场，但是 Baba is you 的脑洞大开程度让类型不合适如我也沉迷良久拍案叫绝。简陋的画面和音乐却能让人沉迷其中，这大概就是最原始的优秀游戏机制和关卡设置的魅力。玩几关得歇一下玩点动作游戏缓缓。
 
-{{< random "继续闲逛一下" "button" >}}
-
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}

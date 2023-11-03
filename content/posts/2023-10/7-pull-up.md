@@ -74,11 +74,4 @@ bookToc: true
 ## 心动不如行动
 自从开始做引体向上，居家办公 + 娱乐都是伏案都腰也不酸了背也不痛了（当然跟 covid 初期痛定思痛休整了 [desk setup 使用了争取的器材和坐/站姿]({{< relref "/posts/2023-10/4-home-office-setup" >}})也有关系），大概是我下定决心一鼓作气学过性价比最高的技能之一。前阵子疏于练习也不爬墙了退步到只能拉一个自重了，痛定思痛最近重新开始每天练上，或许过阵子再回来更新成果。本篇安利文诚邀大家跟我一起开启这个好处颇多的小习惯，也欢迎真练出收获的朋友来回访分享。
 
-{{< random "继续闲逛一下" "button" >}}
-
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}

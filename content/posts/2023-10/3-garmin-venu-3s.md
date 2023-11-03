@@ -102,11 +102,4 @@ Garmin 的手机 app UI 没有 Fitbit 和三星 intuitive，基本都是表格�
 读了这么多，如果你也有兴趣购入 Garmin Venu 3(s)，[可以点击这里使用我的 Amazon 链接](https://amzn.to/3EvHQjj)。这不会改变你的购物价格，但我会收到一笔小小的佣金。这能支持本站继续输出无厂商赞助的普通人真实第一手测评。\
 ~~（拉倒吧……讲得好像没钱我自己就不消费主义了似的🤣）~~
 
-{{< random "继续闲逛一下" "button" >}}
-
----
-{{< hint info >}}
-如果您觉得本文对您有帮助，想支持我的博客创作，或者有特定的内容想要看到，或者想约 coffee chat，欢迎点击下面按钮成为我的金主：
-{{< /hint >}}
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
-{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
+{{< support >}}
