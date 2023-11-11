@@ -42,7 +42,8 @@ BookComments: False
 [Songs about turquoise](https://turquoise.one/) \
 [天仙子](https://tianxianzi.me) \
 [Moon in Nowhere](https://innowhere.icu/) \
-[Yelle🦋](https://yelleis.top/)
+[Yelle🦋](https://yelleis.top/) \
+[Liminal Negative Space](https://liminalnegativespace.github.io/blog/)
 <--->
 {{< / columns >}}
 
