@@ -77,6 +77,15 @@ bookToc: true
 
 ![](https://media.douchi.space/douchi/media_attachments/files/110/783/217/416/305/732/original/8b36bf6d2a5d9609.jpeg)
 
+### 10x （超长焦）
+等效 200mm 左右，目前主流市场三星独一家，很多人会觉得 10 倍镜是噱头没啥意思，其实拍个鸟能方便识别或者远处看不清的字拍下来看还是非常实用的。当然，画质就没法讲了，但重在能拍到。
+
+下图为 [S21 Ultra](https://amzn.to/3bUqU7x) 10 倍镜的数字 30x 变焦拍到的秃鹫，出自 [S21 Ultra camera review]({{< relref "/posts/2023-archive/2021-04-09-the-perfect-phone-for-casual-bird-lover-samsung-galaxy-s21-ultra-one-month-later" >}})
+![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/20210316_145740-01-1024x768.jpeg)
+
+下图为 [S23 Ultra](https://amzn.to/47rLreB) 10 倍镜拍的小松鼠，出自 [跋山涉水 summerland]({{< relref "/posts/2023-09/3-summerland-hike">}})
+{{< video "https://media.douchi.space/douchi/media_attachments/files/111/050/099/420/127/302/original/e8ce3781fbc77927.mp4" >}}
+
 ## 构图
 构图是门很深的学问，这里只说一些简单移动容易复制的小技巧。
 
