@@ -18,7 +18,7 @@ Saw the [post on yinji](https://yinji.org/5179.html), originated from this githu
 
 `📨 Mail Client` Phone: Bluemail; Desktop: Mac default mail \
 `📮 Mail Server` Gmail \
-`📝 Notes` Notion, Simpleote, Discord (see [discord productivity]({{< relref "/posts/2023-archive/2023-06-01-discord-social-productivity" >}})) \
+`📝 Notes` Notion, Simplenote, Discord (see [discord productivity]({{< relref "/posts/2023-archive/2023-06-01-discord-social-productivity" >}})) \
 `✅ To-Do` TickTick (see [productivity system]({{< relref "/posts/2023-archive/2023-03-26-productivity-system">}})) \
 `📷 iPhone Photo Shooting` I'm an iPhone hater at least for now \
 `🟦 Photo Management` Google Photos, Snapseed (see [phone photography]({{< relref "/posts/2023-11/3-smartphone-photography-for-beginners" >}})) \
