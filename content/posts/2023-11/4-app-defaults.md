@@ -48,4 +48,4 @@ Following are not in scope of the original Github project and was added by [Bruc
 `🧑‍💻 Code Editor` VS Code \
 `📎 Assistant` Google Assistant
 
-{{< support >}}
+{{< support en >}}
