@@ -21,10 +21,10 @@ Saw the [post on yinji](https://yinji.org/5179.html), surfacing [blogger's app d
 `📝 Notes` Notion, Simpleote, Discord (see [discord productivity]({{< relref "/posts/2023-archive/2023-06-01-discord-social-productivity" >}})) \
 `✅ To-Do` TickTick (see [productivity system]({{< relref "/posts/2023-archive/2023-03-26-productivity-system">}})) \
 `📷 iPhone Photo Shooting` I'm an iPhone hater at least for now \
-`🟦 Photo Management` Google Photos, Snapseed (see [photo photography]({{< relref "/posts/2023-11/3-smartphone-photography-for-beginners" >}})) \
+`🟦 Photo Management` Google Photos, Snapseed (see [phone photography]({{< relref "/posts/2023-11/3-smartphone-photography-for-beginners" >}})) \
 `📆 Calendar` Google Calendar, Mac default Calendar \
 `📁 Cloud File Storage` Dropbox, Google One, Scaleway (S3), DigitalOcean Space (S3) \
-`📖 RSS` Inoreader \
+`📖 RSS` Inoreader (see [rss setup]({{< relref "/posts/2023-archive/2022-08-28-my-rss-setup" >}})) \
 `🙍🏻‍♂️ Contacts` Samsung defaults, synced by google account \
 `🌐 Browser` Chrome \
 `💬 Chat` Discord, Telegram, WeChat \
@@ -36,9 +36,9 @@ Saw the [post on yinji](https://yinji.org/5179.html), surfacing [blogger's app d
 `🛒 Shopping Lists` TickTick \
 `🍴 Meal Planning` I don't cook \
 `💰 Budgeting and Personal Finance` All accounts on Fidelity, [M1 Finance](https://m1.finance/3k2CE5UGXvjS), Chase and Marcus. For tracking recently migrated to Fidelity Full View but rarely use it, previously for a long time [Personal Capital](https://share.personalcapital.com/x/ArGnow). See [personal finance]({{< relref "/posts/2023-archive/2022-09-25-personal-finance-for-dummies-2-0" >}}) \
-`📰 News` [Morning Brew](https://www.morningbrew.com/daily/r?kid=aa5ac021), Robinhood Snacks, TLDR, and all random rss sources \
+`📰 News` [Morning Brew](https://www.morningbrew.com/daily/r?kid=aa5ac021), Robinhood Snacks, TLDR, and all random rss sources. See [my telegram channel](https://t.me/mtfront) \
 `🎵 Music` Spotify, very occasionally Youtube \
-`🎤 Podcasts` Spotify, very occasionally 小宇宙 \
+`🎤 Podcasts` Spotify, very occasionally 小宇宙 (see [podcast]({{< relref "/posts/2023-archive/2023-01-18-podcast-bgm">}})) \
 `🔐 Password Management` Chrome 
 
 Following are not in scope of the original Github project and was added by [Bruce]((https://yinji.org/5179.html)) and [Dayu](https://anotherdayu.com/2023/5452/), I chose some relatable ones:
