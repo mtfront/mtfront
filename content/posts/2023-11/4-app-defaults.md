@@ -3,9 +3,9 @@ title: My App Defaults 2023
 author: 椒盐豆豉
 type: post
 date: 2023-11-12T21:11:00-08:00
-url: /smartphone-photography-for-beginners/
+url: /app-defaults/
 categories:
-  - 喜欢就买
+  - 重启电脑
   - English
 tags:
   - 问卷
