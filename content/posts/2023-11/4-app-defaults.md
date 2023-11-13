@@ -12,7 +12,7 @@ tags:
 bookToc: false
 ---
 
-Saw the [post on yinji](https://yinji.org/5179.html), surfacing [blogger's app defaults](https://defaults.rknight.me/). Loving to fill any sort of writting prompts questionares and also thinking this one is quite useful, so here it goes:
+Saw the [post on yinji](https://yinji.org/5179.html), originated from this github project that surface [blogger's app defaults](https://defaults.rknight.me/). Loving to fill any sort of writting prompts questionares and also thinking this one is quite useful, I immediately wrote my version:
 
 <!--more-->
 
