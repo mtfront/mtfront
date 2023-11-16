@@ -32,3 +32,6 @@ https://blog.douchi.space/index.xml
 [![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/douban.png)](https://www.douban.com/people/mfcndw/) 豆瓣书影游更新，更全无码的在[书影游精神仓库](https://mtfront.notion.site/2485c762efe040b988531aaa3e45ad25) \
 [![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/discord.png)](https://discord.gg/cESS4JpsdG) Discord 站点更新通知 \
 [![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/threads.png)](https://www.threads.net/@mtfront) Threads 摄影和英文内容 
+
+## Footprints
+{{< iframe "https://www.google.com/maps/d/embed?mid=1v4chfysQdXJw9332M9TJOAc4nFeyaac&ehbc=2E312F" "100%" 500 >}}
