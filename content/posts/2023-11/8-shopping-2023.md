@@ -21,8 +21,9 @@ bookToc: true
 <!--more--->
 
 ## 最满意 - [优衣库 x White Mountaineering Hybrid Down Oversized Parka](https://www.uniqlo.com/us/en/products/E442563-000/)
+这个分类颁给从功能到外观到性价比到实用度到个人喜爱程度都喜欢的一件。猛然意识到不是今年买的，但确实今年也开始格外 appreciate 它，鉴于往年没有写过购物总结，就强行加在这儿吧！
 
-这个分类颁给从功能到外观到性价比到实用度到个人喜爱程度都喜欢的一件。当年 79 买的，然后可能是因为跟 white mountaining 合作款现在绝版了，一看倒卖网站上竟然起价都要二百多，现在优衣库有卖的类似款最便宜的也要 159，还没有这么多口袋，版型估计也不大一样。这个款比现在优衣库卖的 hybird down parka 多好多口袋，尤其是揣手那个口袋不但能顶上进还能侧面进，冬天揣手贼好用了，口袋又大又多。然后有点羽绒但外面看起来又不是羽绒服人见人夸（印象中象友[镜泉](https://jingquank.notion.site/)也有件不同色的我俩第一次面基时候不约而同穿了），有一定程度防水性，配合里面穿的衣服加减我每年 PNW 能从 11 月穿到 4 月多。
+当年 79 买的，然后可能是因为跟 white mountaining 合作款现在绝版了，一看倒卖网站上竟然起价都要二百多，现在优衣库有卖的类似款最便宜的也要 159，还没有这么多口袋，版型估计也不大一样。这个款比现在优衣库卖的 hybird down parka 多好多口袋，尤其是揣手那个口袋不但能顶上进还能侧面进，冬天揣手贼好用了，口袋又大又多。然后有点羽绒但外面看起来又不是羽绒服人见人夸（印象中象友[镜泉](https://jingquank.notion.site/)也有件不同色的我俩第一次面基时候不约而同穿了），有一定程度防水性，配合里面穿的衣服加减我每年 PNW 能从 11 月穿到 4 月多。
 
 {{< img "https://media.douchi.space/douchi/media_attachments/files/111/415/865/985/461/036/original/e15dd6c7fc3a4d4e.png" 400 >}} {{< img "https://s3.nl-ams.scw.cloud/mtfront-blog/2023/04/Screen-Shot-2023-04-10-at-10.10.03-PM-546x1024.png" 284 >}}
 
