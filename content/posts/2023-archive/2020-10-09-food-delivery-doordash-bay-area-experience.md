@@ -11,6 +11,7 @@ tags:
   - Bay Area
   - money
   - review
+  - Side Hustle
 
 ---
 作为一个不务正业的码农，一直很想尝试 ondemand 想干就干的工作方式（当然，作为唯一/主要经济来源的话 not necessarily 想干就干 but you got the idea），先前想去当 Uber/Lyft 司机，考虑到社恐 + 看网上各种奇葩乘客视频心有余悸就没有实行过。今年情况特殊，居家办公推动了外卖业的大火，且无接触式送货（no contact delievery）成为了默认形式，于是就注册了 Doordash 在业余时间送了一阵子外卖。前阵子中国外卖业现状的报道还引发了一大波对这个行业的反思，现在趁热度过去没有蹭热度嫌疑（真实原因当然是拖延症），来写写我在湾区用 Doordash 送外卖的体验吧。
