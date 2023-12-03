@@ -46,7 +46,8 @@ BookComments: False
 [Yelle🦋](https://yelleis.top/) \
 [Liminal Negative Space](https://liminalnegativespace.github.io/blog/)
 <--->
-[Shixiaocaia](https://shixiaocaia.fun)
+[Shixiaocaia](https://shixiaocaia.fun) \
+[raye](https://rayepeng.net/)
 {{< / columns >}}
 
 ---
