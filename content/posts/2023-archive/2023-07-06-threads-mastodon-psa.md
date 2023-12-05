@@ -7,7 +7,7 @@ url: /threads-mastodon-psa/
 categories:
   - 重启电脑
 tags:
-  - translation
+  - 导读
   - mastodon
   - news
   - PSA
