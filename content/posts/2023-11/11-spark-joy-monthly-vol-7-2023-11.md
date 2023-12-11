@@ -15,6 +15,7 @@ tags:
   - wellness
 booktoc: true
 image: https://media.douchi.space/douchi/media_attachments/files/111/529/735/360/506/650/original/cd10a610b859eb11.png
+imageDes: "image by MidJourney, prompt: self driving car in a cyberpunk city in 3d game in paper art origami diorama style --ar 3:2"
 ---
 
 本月美国结束了夏令时进入了万人唾骂的冬令时，天黑早了一小时，本多年夜型人也扛不住这 4 点多就开始天黑起来之后只有 4 个多小时的漫长冬季了，于是又开始较为认真地往前调整作息（前两天 [dead hang 那篇]({{< relref "/posts/2023-11/10-dead-hang" >}})刚提过），所以本月的玩物志多了很多养生的成分。冬日长夜漫漫，大家也要多关怀自己的身心健康哦～题头[安利](https://t.me/mtfront/2852)一个我最近特别喜欢的 [ASMR 博主的动画](https://youtu.be/41VBn6pqYW4)吧。

@@ -12,6 +12,7 @@ tags:
   - hugo
 booktoc: true
 image: https://media.douchi.space/douchi/media_attachments/files/111/509/945/675/233/390/original/e0afeee188dea4cf.png
+imageDes: "image by MidJourney, prompt: a gender netural person sitting at a desk using laptop, with some books and legos in shelf in background, sunshine through window --niji 5 --style scenic --ar 3:2"
 ---
 
 半年前，我把从快 20 年前开始用的 Wordpress blog [迁移到了 github pages 上开始用 hugo 做静态博客]({{< relref "/posts/2023-archive/2023-05-31-blog-migrate-wordpress-hugo" >}})。从小学开始写博客在 blogcn 上入了坑，后来[三年前新建现在这个博客时候]({{< relref "/posts/2023-archive/2020-10-29-hello-world-its-me-again" >}})也就按习惯继续用了，其实建站时候未做太多横向对比。三年用下来发现 20 年前用托管站时候不曾想过，现在自建站要处理的问题良多，遂动了迁移静态博客的念头。外加本来就是程序员，技术门槛几乎不存在，也用不到除了博客和评论外的其它 CMS 或电商功能，用 Wordpress + VPS 花钱找罪受，遂在[日本出行]({{< relref "/posts/2023-11/7-japan-2023" >}})最后几天体验 digital nomad 生活的时候一鼓作气把博客给迁移了。

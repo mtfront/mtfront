@@ -83,6 +83,11 @@
     {{ if eq .Type "post"}}
       <h1>{{- .Title -}}</h1>
       {{ partial "docs/post-meta" . }}
+      {{ if .Params.imageDes }}
+        <p style="font-size:small">
+          <i>{{ $.Params.imageDes }}</i>
+        </p>
+      {{ end }}
       <blockquote class="book-hint info">
         本文总计 {{ div .WordCount 1000.0 | lang.FormatNumber 2}}k 字, 阅读约需要 {{ div .WordCount 400}} 分钟
       </blockquote>

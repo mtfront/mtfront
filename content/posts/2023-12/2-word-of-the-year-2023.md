@@ -12,6 +12,7 @@ tags:
   - 2023
 booktoc: true
 image: https://media.douchi.space/douchi/media_attachments/files/111/529/760/748/277/214/original/32a3465b8f01f26c.png
+imageDes: "image by MidJourney, prompt: a book opened as base with words flying out, and 2023 in the background, in 3d game isometric, detailed --ar 3:2"
 ---
 
 在[网中的太阳本周碎碎念（13）](https://wangjiawei.substack.com/p/13?utm_source=blog.douchi.space)中看到了这篇[韦氏字典 2023 年度词汇](https://www.merriam-webster.com/wordplay/word-of-the-year?utm_ource=blog.douchi.space)，顺手写了一篇 TLDR。
