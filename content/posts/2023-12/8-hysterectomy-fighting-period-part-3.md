@@ -1,5 +1,5 @@
 ---
-title: 割以永治 part 3：切除子宫一年以后 FAQ
+title: 割以永治 part 3：切除子宫一周年 FAQ
 author: 椒盐豆豉
 type: post
 date: 2023-12-20T11:00:00-08:00
