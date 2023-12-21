@@ -16,11 +16,11 @@ imageDes:  "To Versailles, an Incident in the French Revolution, by Valentine Ca
 
 去年的今天，我在手术台上进行子宫切除手术 hysterectomy。之前写过[为什么要做这个手术和手术的前期准备工作]({{< relref "/posts/2023-archive/2022-11-06-hysterectomy-fighting-period-part-1">}})，以及[术后一个月的恢复情况]({{< relref "/posts/2023-archive/2023-01-14-hysterectomy-surgery-review-part-2" >}})，现在时隔一年，回来写一篇中期测评，自问自答一些常见问题。读者们如果有别的问题，也欢迎在下方留言。
 
+<!--more-->
+
 {{< hint danger >}}
 各人身体条件和健康情况不同，本文并非医学建议，自身情况请遵医嘱。
 {{< / hint >}}
-
-<!--more-->
 
 ## 手术过程和恢复痛苦吗？
 在[术后一个月的恢复情况]({{< relref "/posts/2023-archive/2023-01-14-hysterectomy-surgery-review-part-2" >}})那篇提到的恢复过程就是跟手术本身有关的全部内容了，简而言之就是眼一闭一睁月经没啦，因为没有体外创口不说的话都不知道自己做了手术。卧床休息了一两天，行动比较小心了大概一周，后面就完全正常没事人一样了，术后一个多月去医院常规 followup 医生做了体外检查和问了一些问题，其后一年也没有任何跟手术相关的问题。
