@@ -20,7 +20,7 @@ imageDes:  "image from Mastodon quick start guide https://blog.joinmastodon.org/
 ## 建站
 当年因为[豆瓣背井离乡事件]({{< relref "/posts/2023-archive/2020-12-23-douban-exodus-14-pixel-avatar" >}})与一大波友邻一起退瓣迁移到了草莓县，随后又因为部分县民排外一怒之下自己建了实例。
 
-当年在气头上外加完全没有 fediverse/mastodon 使用经验，所以也没有做过多调研，就按手头站友写的[小白建站指南](https://pullopen.github.io/%E5%9F%BA%E7%A1%80%E6%90%AD%E5%BB%BA/2020/07/19/How-to-build-a-mastodon-instance.html)照猫画虎全盘照搬，直接在 DigitalOcean 上建了站。
+当年在气头上外加完全没有 fediverse/mastodon 使用经验，所以也没有做过多调研，就按手头站友写的[小白建站指南](https://pullopen.github.io/%E5%9F%BA%E7%A1%80%E6%90%AD%E5%BB%BA/2020/07/19/How-to-build-a-mastodon-instance.html?utm_source=blog.douchi.space)照猫画虎全盘照搬，直接在 DigitalOcean 上建了站。
 
 ## Object Storage 的折腾史
 第一次大的迁移应该是挪 object storage。因为一开始抱着先试试看的心态没挂 object storage 就直接用的服务器 SSD 存储媒体，不停清除缓存还是很快耗尽，于是建站不久就按站友的推荐迁到了 Scaleway。它的前 75G 免费，对于我这种小站来说还蛮划算的。
