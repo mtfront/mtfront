@@ -5,7 +5,7 @@ BookComments: False
 bookToc: false
 ---
 # 老朋友啦？[直接去读博客]({{< relref "/posts/">}}) ｜ {{< random "随便看看" >}}
- RSS 地址更新了哦！点击图标 [![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/rss.png)](https://blog.douchi.space/index.xml) 或复制链接 
+ RSS 地址更新了哦！点击图标 [![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/rss.png)](https://blog.douchi.space/index.xml) 或复制链接([💡什么是 RSS 以及如何用 RSS 订阅你喜欢的内容]({{< relref "/posts/2023-archive/2022-08-28-my-rss-setup">}})) 
 ```
 https://blog.douchi.space/index.xml
 ```
