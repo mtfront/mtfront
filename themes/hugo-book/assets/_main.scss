@@ -78,6 +78,11 @@ ul.pagination {
   }
 }
 
+/* override selection color */
+::selection {
+  background: var(--color-link-light);
+}
+
 .container {
   max-width: $container-max-width;
   margin: 0 auto;
