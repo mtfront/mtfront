@@ -9,7 +9,6 @@ categories:
 tags:
   - tutorial
   - wordpress
-  - code
   - project
   - PSA
   - digital nomad

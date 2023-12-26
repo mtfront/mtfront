@@ -12,7 +12,6 @@ tags:
   - patreon
   - wordpress
   - hugo
-  - code
   - blog
 ---
 
