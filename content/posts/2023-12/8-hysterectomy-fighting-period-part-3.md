@@ -71,8 +71,8 @@ Here's the thing，卵细胞，它虽然很大，但是它是个细胞……人�
 后悔没早点切……
 
 抖机灵归抖机灵，关于生孩子的话要是切了一年就后悔那也太不尊重一年前自己的智商了。祭出经典图收尾:
-![](https://pbs.twimg.com/media/FOfOnl-XoAYiZWC?format=png&name=large)
-(作者：[@Shubbabang](https://twitter.com/Shubbabang/status/1511720401461600261))
+![](https://media.douchi.space/douchi/media_attachments/files/111/651/028/507/284/557/original/e3fad8d93ae998f4.png)
+(授权翻译，原作者：[@Shubbabang](https://twitter.com/Shubbabang/status/1511720401461600261))
 
 
 {{< support >}}

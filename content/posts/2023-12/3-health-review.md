@@ -58,7 +58,7 @@ imageDes: 本来用 AI 试图生成半天题图，换了好些关键词都不是
 ## 生殖系统
 目前为止我动过最大的健康努力和收获是说了无数遍的[割以永治 hysterectomy 子宫切除]({{< relref "/posts/2023-archive/2022-11-06-hysterectomy-fighting-period-part-1" >}})。做之前我最大的健康困扰就是月经，去年被折腾得忍无可忍就去医院咨询试图切子宫，被医生建议尝试 IUD 失败（它竟然能滑出来！）之后去做超声波刚好发现子宫有个小肌瘤（似乎在同龄人中有肌瘤蛮常见的，跟我一样想切子宫的朋友可以去查查，万一有的话作为正当医疗理由保险更有可能覆盖绝大多数费用），顺理成章立马安排切子宫。谁做谁知道相见恨晚后悔没 20 多岁就做了，没有月经困扰的人生真是太棒了，同时也绝了一堆跟子宫、宫颈相关的健康问题后患。最近马上接近手术一周年了，晚点可以写个中期测评。
 
-排除生理变化而言，30+ 跟 20+ 的区别还有，可以更理直气壮地打“你晚点就想要孩子”的脸了。当然，这不排除他们继续说你更晚会后悔，但这不重要，反正已经切了，tell my non existing older self to suck it up 乁། ˵ ◕ – ◕ ˵ །ㄏ (作者：[@Shubbabang](https://twitter.com/Shubbabang/status/1511720401461600261))：
+排除生理变化而言，30+ 跟 20+ 的区别还有，可以更理直气壮地打“你晚点就想要孩子”的脸了。当然，这不排除他们继续说你更晚会后悔，但这不重要，反正已经切了，tell my non existing older self to suck it up 乁། ˵ ◕ – ◕ ˵ །ㄏ (授权翻译，原作者：[@Shubbabang](https://media.douchi.space/douchi/media_attachments/files/111/651/028/507/284/557/original/e3fad8d93ae998f4.png))：
 ![](https://pbs.twimg.com/media/FOfOnl-XoAYiZWC?format=png&name=large)
 
 ## 体检数据指标
