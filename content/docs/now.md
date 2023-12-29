@@ -6,7 +6,7 @@ BookComments: False
 ---
 ## 近况
 {{< img "https://media.douchi.space/douchi/media_attachments/files/111/661/879/122/325/014/original/36d557aec0780087.png" 500 >}}
-- 受了[rexarski.log](https://rexarski.com/now/) 和 [ouroboros](https://blog.pursuitus.com/now)启发也建了这个 now 页面
+- 受了[rexarski.log](https://rexarski.com/now/?utm_source=blog.douchi.space) 和 [ouroboros](https://blog.pursuitus.com/now?utm_source=blog.douchi.space)启发也建了这个 now 页面
 - 年底连摸鱼带公司休假会连休两周
 - [养病](https://douchi.space/@mtfront/111653905919276553)
 - 以为会补很多书和游戏，结果到现在了一部都没开始玩
