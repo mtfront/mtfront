@@ -22,3 +22,4 @@ BookComments: False
 - 恢复健康，多吃水果，多有氧
 - 年终总结不要写太长
 - 把[剁手数据库](https://mtfront.notion.site/mtfront-shopping-reviews-e568ee6ebaa44b5da146cbe4ac4663eb)更新一下，自从开始写[玩物志]({{< relref "/tags/monthly" >}})之后好久没更新了
+- 一些 [2024 的量化 flag]({{< relref "/posts/2023-12/10-2024-flags">}})
