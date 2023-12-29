@@ -251,8 +251,14 @@ body[dir="rtl"] .book-menu {
   .book-toc-content {
     width: $toc-width;
     padding: $padding-16;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
 
     @include fixed;
+  }
+  /* Hide scrollbar for Chrome, Safari and Opera */
+  .book-toc-content::-webkit-scrollbar {
+    display: none;
   }
 
   img {
