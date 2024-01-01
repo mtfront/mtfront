@@ -31,7 +31,7 @@ Covid 期间体重暴增之后才开始健身，近两年又加了一些力量�
 
 ### Hiking
 Hiking is walking meditation. 与此同时还能锻炼身体、呼吸新鲜空气和有可能看到美景和可爱的小动物。不过出于懒和怂，我也一般只爬特别 soft 的 Hard 和以下的 day hike，暂时对 camping 还是兴趣匮乏。
-{{< video "https://media.douchi.space/douchi/media_attachments/files/108/506/244/731/652/837/original/684f6b885c4eea68.mp4" "偶然 hiking 遇熊">}}
+{{< video "https://media.douchi.space/douchi/media_attachments/files/108/506/244/731/652/837/original/684f6b885c4eea68.mp4">}}
 ![](https://media.douchi.space/douchi/media_attachments/files/111/034/033/332/435/177/original/ccb7d95b2f9d3dec.png)
 
 ### 游泳 
