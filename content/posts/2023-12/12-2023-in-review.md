@@ -15,7 +15,7 @@ image: https://media.douchi.space/douchi/media_attachments/files/111/003/556/217
 imageDes:  "9 月玩 Sea of Stars 时的截图，虽然不是今年最喜欢的游戏但配合这个主题感觉很应景"
 ---
 
-年年写年终总结都没什么新意，今年看到了博友白石京的 [DnD 人物属性式年度总结](https://thirdshire.com/annual-review-2023/?utm_source=blog.douchi.space)觉得是看过最有意思的年度总结形式，虽然不是 TRPG 玩家但今年狠狠玩了博得之门三，生涯最爱的游戏里也有很多是 RPG，就来也给自己的 2023 写一张属性升级表啦。
+年年写年终总结都没什么新意，今年看到了博友白石京的 [DnD 人物属性式年度总结](https://thirdshire.com/annual-review-2023/?utm_source=blog.douchi.space)觉得是看过最有意思的年度总结形式，虽然不是 TRPG 玩家但今年狠狠玩了博德之门三，生涯最爱的游戏里也有很多是 RPG，就来也给自己的 2023 写一张属性升级表啦。
 
 <!--more-->
 
