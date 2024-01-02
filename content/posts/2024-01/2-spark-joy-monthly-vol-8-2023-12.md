@@ -112,7 +112,7 @@ a green little cute dinosaur tucked in bed wearing cozy pajamas and blanket read
 
 ## 游
 ### 渔帆暗涌 Dredge ★★★★☆
-没想到一年能玩到两个很喜欢的钓鱼游戏。和[潜水员戴夫]({{< relref "/posts/2023-archive/2022-04-24-solo-indie-game-dev" >}})虽然同时跟摸鱼相关，都有 inventory management 和收集鱼的要素，故事都有点奇幻，但画风和乐趣截然不同。与戴夫轻快阳光的画风相反，Dredge 艰涩晦暗地展现了大海之苦。玩法以背包管理为核心，附以卖钱、手机材料、升级船只的玩法，以 NPC 给的任务为串联探索诡异的海域。除了玩法非常上瘾。之前光看视频觉得画风不对胃口，真玩起来发现有种克制冷静的美。
+没想到一年能玩到两个很喜欢的钓鱼游戏。和[潜水员戴夫]({{< relref "/posts/2023-09/9-favorite-indie-games" >}})虽然同时跟摸鱼相关，都有 inventory management 和收集鱼的要素，故事都有点奇幻，但画风和乐趣截然不同。与戴夫轻快阳光的画风相反，Dredge 艰涩晦暗地展现了大海之苦。玩法以背包管理为核心，附以卖钱、手机材料、升级船只的玩法，以 NPC 给的任务为串联探索诡异的海域。除了玩法非常上瘾。之前光看视频觉得画风不对胃口，真玩起来发现有种克制冷静的美。
 {{< columns >}}
 ![](https://media.douchi.space/douchi/media_attachments/files/111/663/229/621/200/344/original/729c4f18c7811c43.jpg)
 <--->
