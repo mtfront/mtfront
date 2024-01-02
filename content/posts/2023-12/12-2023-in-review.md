@@ -74,11 +74,9 @@ imageDes:  "9 月玩 Sea of Stars 时的截图，虽然不是今年最喜欢的�
 
 {{< columns >}}
 ![](https://media.douchi.space/douchi/media_attachments/files/110/648/105/053/431/067/original/66393d5e17d07c78.png)
-<--->
-![](https://media.douchi.space/douchi/media_attachments/files/110/563/791/202/102/854/original/9babe461f4f9bac9.jpeg)
-<--->
 ![](https://media.douchi.space/douchi/media_attachments/files/110/439/908/887/824/235/original/03466287f79d8b97.jpeg)
 <--->
+![](https://media.douchi.space/douchi/media_attachments/files/110/563/791/202/102/854/original/9babe461f4f9bac9.jpeg)
 ![](https://media.douchi.space/douchi/media_attachments/files/111/191/921/003/339/415/original/d87df2ad2bbe7980.jpeg)
 {{< / columns >}}
 
