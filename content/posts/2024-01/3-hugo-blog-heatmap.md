@@ -18,13 +18,13 @@ image: https://media.douchi.space/douchi/media_attachments/files/111/699/816/751
 imageDes: "热力图成品效果"
 ---
 
-之前一直想给博客添加一个 GitHub/豆瓣 style 的热力图。纯靠 GitHub commit history 的话因为有工作和 side project 的 commit，以及一篇文章可能会有多个 commit 改错字，并不能很好地体现博客实际的产量。但由于~~对用代码画图以及 hugo 语法不熟悉以及我太懒~~Hugo 文档写得太烂，外加搜了几分钟没找到现成好用的插件，就一直拖延掉了。这次终于着手改出来一个跟自己想要版本很接近的东西，希望对想加类似热力图的博主有帮助。（静态博客果然会不可避免地走上装修博主的道路吗……）
+之前一直想给博客添加一个 GitHub/豆瓣风格的热力图。纯靠 GitHub commit history 的话因为有工作和 side project 的 commit，以及一篇文章可能会有多个 commit 改错字，并不能很好地体现博客实际的产量。但由于~~对用代码画图以及 hugo 语法不熟悉以及我太懒~~Hugo 文档写得太烂，外加搜了几分钟没找到现成好用的插件，就一直拖延掉了。这次终于着手改出来一个跟自己想要版本很接近的东西，希望对想加类似热力图的博主有帮助。（静态博客果然会不可避免地走上装修博主的道路吗……）
 
 <!--more-->
 
 为什么这次想起来倒腾呢？起因是看到博友[小球飞鱼的年终总结](https://mantyke.icu/weekly/2024/2023-goodbye/?utm_source=blog.douchi.space)上布袋戏热力图很像我想要的效果，问了之后得到了这篇 [Yibocat 的 hugo 文章热力图](https://yibocat.com/posts/jzrj/jzrj_4/?utm_source=blog.douchi.space)，代码和过程都非常详细，效果也跟我想要的很接近了，遂果断开始动手改造。不想看过程的可以直接跳转到后面的[全部代码](#全部代码)部分。
 
-这个代码的基本逻辑是用 javascript 动态抓去所有文章的字数然后传入 echarts 中，所以每次计算都是在访问有热力图的页面时进行的。考虑到一个博客最多也就几百篇甚至上千篇文章，对于现代浏览器而言不大用考虑性能问题，因此没有去采取 build time 生成静态数据的方法。缺点是每次访问数据都反复计算没有 cache，优点是复制到哪里都能用无需深挖 hugo 的 build 程序。跟我之前写的[给博客添加随机文章入口]({{< relref "/posts/2023-09/6-hugo-random-post" >}})是一个思路。
+这个代码的基本逻辑是用 javascript 动态抓取所有文章的字数然后传入 echarts 中，所以每次计算都是在访问有热力图的页面时进行的。缺点是每次访问数据都反复计算没有 cache，优点是复制到哪里都能用无需深挖 hugo 的 build 程序。跟我之前写的[给博客添加随机文章入口]({{< relref "/posts/2023-09/6-hugo-random-post" >}})是一个思路。考虑到一个博客最多也就几百篇甚至上千篇文章，对于现代浏览器而言不大用考虑性能问题，因此没有去采取 build time 生成静态数据的方法。
 
 ## 修改样式
 大体样式教程中已经写得八九不离十，调整一下 margin 和 padding 等细节让我的热力图跟我的博客风格更搭。echart 的官方文档中给了很多可以定制样式的 option，而且文档是 json 形式的可以一比一直接转换到 option 里很容易看。我调整了 [Calendar](https://echarts.apache.org/en/option.html#calendar?utm_source=blog.douchi.space)、[Heatmap](https://echarts.apache.org/en/option.html#series-heatmap?utm_source=blog.douchi.space) 和 [visualMap](https://echarts.apache.org/en/option.html#visualMap?utm_source=blog.douchi.space) 中的一些参数。教程中没有的一些在官方文档里找到对我比较有用的参数有：
@@ -61,7 +61,7 @@ hugo 会在 parse html 的时候直接把它的 Go 代码数据填充进去。�
 {{ range ((where .Site.RegularPages "Type" "post")) }}
 ```
 
-字数为了简洁，我把单位换成了千字：
+为了简洁，我把字数单位换成了千字：
 ```Go
 {{ div .WordCount 1000.0 | lang.FormatNumber 1 }}
 ```
@@ -77,11 +77,11 @@ hugo 会在 parse html 的时候直接把它的 Go 代码数据填充进去。�
 ```javascript
 myChart.on('click', function(params) {...})
 ```
-通过实验发现 `param` 里有很多有用信息，如 `componentType === 'series'`可以限定到对于数据小块而不是标题、图例等的点击。
+通过实验发现 `params` 里有很多有用信息，如 `componentType === 'series'`可以限定到对于数据小块而不是标题、图例等的点击。
 
-但我发现`params.data`在 heatmp 中直接收二维数组，即一开始 push 进去的`[日期，数值]`.如果超过二维的话图表将无法正常显示。但我们需要拿到的出了字数（放在了数值里）还有文章对应的标题和链接才能实现点击跳转。
+但我发现`params.data`在 heatmp 中直接收二维数组，即一开始 push 进去的`[日期，数值]`。如果超过二维的话图表将无法正常显示。但我们需要拿到的出了字数（放在了数值里）还有文章对应的标题和链接才能实现点击跳转。
 
-因此，此处最后决定一开始提取数据的时候放到一个 `map` 里，把日期、标题、 链接、字数等 metadata 都放进去。然后传入 heatmap 时再单独把数据提取到一个二维数组之中。需要用数据的时候只需用 `data` 的第一个元素（日期）作为 key 从 `map` 中抓去其它的 metadata。
+因此，此处最后决定一开始提取数据的时候放到一个 `dataMap` 里，把日期、标题、 链接、字数等 metadata 都放进去。然后传入 heatmap 时再单独把数据提取到一个二维数组之中。需要用数据的时候只需用 `data` 的第一个元素（日期）作为 key 从 `map` 中抓去其它的 metadata。
 
 最后的提取数据代码如下：
 ```javascript
@@ -110,7 +110,7 @@ for (const [key, value] of dataMap.entries()) {
 }
 ```
 
-又了全局的 `dataMap`，就可以在 `click` event 里从 `params` 取出日期作为 `key`，再从 `dataMap` 里取出需要跳转的链接，然后添加点击跳转的功能了：
+有了全局的 `dataMap`，就可以在 `click` event 里从 `params` 取出日期再从 `dataMap` 里取出需要跳转的链接，然后添加点击跳转的功能了：
 ```javascript
 myChart.on('click', function(params) {
   if (params.componentType === 'series') {
