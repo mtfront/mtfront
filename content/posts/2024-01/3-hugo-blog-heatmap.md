@@ -102,12 +102,23 @@ var dataMap = new Map();
 ```
 其中有个小 edge case：如果一天有多篇文章的话，取字更多的。我一开始设计的时候本来想把多篇文章字数加起来，后来想说反正只能跳转一个，就不把这个数据结构搞得过于复杂了。
 
-然后再传入 echarts 的时候再把日期和字数 从 `dataMap` 中取出来：
+传入 echarts 的时候再把日期和字数 从 `dataMap` 中取出来即可：
 ```javascript
 var data = [];
 for (const [key, value] of dataMap.entries()) {
   data.push([key, value.wordCount]);
 }
+```
+
+又了全局的 `dataMap`，就可以在 `click` event 里从 `params` 取出日期作为 `key`，再从 `dataMap` 里取出需要跳转的链接，然后添加点击跳转的功能了：
+```javascript
+myChart.on('click', function(params) {
+  if (params.componentType === 'series') {
+    const post = dataMap.get(params.data[0]);
+    const link = window.location.origin + post.link;
+    window.open(link, '_blank').focus();
+  }
+});
 ```
 
 ## 调整 tooltip 样式
@@ -242,7 +253,7 @@ tooltip: {
       const link = window.location.origin + post.link;
       window.open(link, '_blank').focus();
     }
-});
+  });
 </script> 
 ```
 {{< / details >}}
