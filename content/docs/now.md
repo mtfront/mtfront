@@ -11,9 +11,9 @@ BookComments: False
 
 ## 近况
 - 受了[rexarski.log](https://rexarski.com/now/?utm_source=blog.douchi.space) 和 [ouroboros](https://blog.pursuitus.com/now?utm_source=blog.douchi.space)启发也建了这个 now 页面
-- 年底连摸鱼带公司休假会连休两周
 - 沉迷本地图书馆
 - 博客评论区迁移到了 [twikoo]({{< relref "/posts/2024-01/1-comments-twikoo" >}})
+- 给博客做了个[动态热力图]({{< relref "/posts/2024-01/3-hugo-blog-heatmap" >}})
 
 ## 近期中意
 - 📚 [`Feathers`](https://amzn.to/48tQ0X3) by Thor Hanson
