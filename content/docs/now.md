@@ -4,8 +4,12 @@ type: docs
 bookToc: false
 BookComments: False
 ---
+
+{{< img "https://media.douchi.space/douchi/media_attachments/files/111/661/879/122/325/014/original/36d557aec0780087.png" 600 >}}
+
+{{< heatmap >}}
+
 ## 近况
-{{< img "https://media.douchi.space/douchi/media_attachments/files/111/661/879/122/325/014/original/36d557aec0780087.png" 500 >}}
 - 受了[rexarski.log](https://rexarski.com/now/?utm_source=blog.douchi.space) 和 [ouroboros](https://blog.pursuitus.com/now?utm_source=blog.douchi.space)启发也建了这个 now 页面
 - 年底连摸鱼带公司休假会连休两周
 - 沉迷本地图书馆
