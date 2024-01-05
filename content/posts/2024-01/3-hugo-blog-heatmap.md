@@ -92,9 +92,9 @@ myChart.on('click', function(params) {...})
 ```
 通过实验发现 `params` 里有很多有用信息，如 `componentType === 'series'`可以限定到对于数据小块而不是标题、图例等的点击。
 
-但我发现`params.data`在 heatmp 中直接收二维数组，即一开始 push 进去的`[日期，数值]`。如果超过二维的话图表将无法正常显示。但我们需要拿到的出了字数（放在了数值里）还有文章对应的标题和链接才能实现点击跳转。
+但我发现`params.data`在 heatmp 中只接收二维数组，即一开始 push 进去的`[日期，数值]`。如果超过二维的话图表将无法正常显示。但我们需要拿到的除了字数（放在了数值里）还有文章对应的标题和链接才能实现点击跳转。
 
-因此，此处最后决定一开始提取数据的时候放到一个 `dataMap` 里，把日期、标题、 链接、字数等 metadata 都放进去。然后传入 heatmap 时再单独把数据提取到一个二维数组之中。需要用数据的时候只需用 `data` 的第一个元素（日期）作为 key 从 `map` 中抓去其它的 metadata。
+因此，此处最后决定一开始提取数据的时候放到一个 `dataMap` 里，把日期、标题、 链接、字数等 metadata 都放进去。然后传入 heatmap 时再单独把数据提取到一个二维数组之中。需要用数据的时候只需用 `data` 的第一个元素（日期）作为 key 从 `dataMap` 中抓去其它的 metadata。
 
 最后的提取数据代码如下：
 ```javascript
@@ -169,10 +169,12 @@ tooltip: {
   };
   var option;
 
+  // echart heatmap data seems to only support two elements tuple
+  // it doesn't render when each item has 3 value
+  // it also only pass first 2 elements when reading event param
+  // so here we build a map to store additional metadata like link and title
+  // map format {date: [wordcount, link, title]}
   // for more information see https://blog.douchi.space/hugo-blog-heatmap
-  // echart heatmap data seems to only support two elements tuple, it doesn't render when each item has 3 value
-  // it also shrink to 2 value when reading event param. so we have an indivisual map to handle the links
-  // map format {date, [wordcount, link, title]}
   var dataMap = new Map();
   {{ range ((where .Site.RegularPages "Type" "post")) }}
     var key = {{ .Date.Format "2006-01-02" }};
@@ -181,8 +183,8 @@ tooltip: {
     var link = {{ .RelPermalink}};
     var title = {{ .Title }};
     
-    // multiple post in same day, chose the longer one to store metadata 
-    // we can also store all post and sum up the value, but seems like an overkill
+    // multiple posts in same day, chose the longer one
+    // can also store all posts and use sum as value, but seems like an overkill
     if (value == null || wordCount > value[0]) {
       dataMap.set(key, {wordCount, link, title});
     }
@@ -202,7 +204,8 @@ tooltip: {
   startDate = echarts.format.formatTime('yyyy-MM-dd', startDate);
   endDate = echarts.format.formatTime('yyyy-MM-dd', endDate);
 
-  function heatmap_width(months){             // change range acorrding to months shown
+  // change date range according to months we want to render
+  function heatmap_width(months){             
     var startDate = new Date();
     var mill = startDate.setMonth((startDate.getMonth() - months));
     var endDate = +new Date();
@@ -249,8 +252,10 @@ tooltip: {
         orient: 'horizontal',
         left: 'center',
         top: 30,
+        
         inRange: {   
-            color: ['#7aa8744c', '#7AA874' ] //From smaller to bigger value ->
+          //  [floor color, ceiling color]
+          color: ['#7aa8744c', '#7AA874' ] 
         },
         splitNumber: 4,
         text: ['千字', ''],
