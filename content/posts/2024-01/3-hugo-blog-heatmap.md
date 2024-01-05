@@ -24,7 +24,7 @@ imageDes: "热力图成品效果"
 
 为什么这次想起来倒腾呢？起因是看到博友[小球飞鱼的年终总结](https://mantyke.icu/weekly/2024/2023-goodbye/?utm_source=blog.douchi.space)上布袋戏热力图很像我想要的效果，问了之后得到了这篇 [Yibocat 的 hugo 文章热力图](https://yibocat.com/posts/jzrj/jzrj_4/?utm_source=blog.douchi.space)，代码和过程都非常详细，效果也跟我想要的很接近了，遂果断开始动手改造。不想看过程的可以直接跳转到后面的[全部代码](#全部代码)部分。
 
-这个代码的基本逻辑是用 javascript 动态抓取所有文章的字数然后传入 echarts 中，所以每次计算都是在访问有热力图的页面时进行的。缺点是每次访问数据都反复计算没有 cache，优点是复制到哪里都能用无需深挖 hugo 的 build 程序。跟我之前写的[给博客添加随机文章入口]({{< relref "/posts/2023-09/6-hugo-random-post" >}})是一个思路。考虑到一个博客最多也就几百篇甚至上千篇文章，对于现代浏览器而言不大用考虑性能问题，因此没有去采取 build time 生成静态数据的方法。
+这个代码的基本逻辑是用 javascript 动态抓取所有文章的字数然后传入 echarts 中，所以每次计算都是在访问有热力图的页面时进行的。缺点是每次 build 都会重新计算整个博客不是按 incremental，而且每次访问都需要 javascript 重新计算数据；优点是复制到哪里都能用无需深挖 hugo 的 build 程序。跟我之前写的[给博客添加随机文章入口]({{< relref "/posts/2023-09/6-hugo-random-post" >}})是一个思路。考虑到一个博客最多也就几百篇甚至上千篇文章，对于现代浏览器而言不大用考虑性能问题，因此没有去采取 build time 生成静态数据的方法。
 
 ## 修改样式
 大体样式教程中已经写得八九不离十，调整一下 margin 和 padding 等细节让我的热力图跟我的博客风格更搭。echart 的官方文档中给了很多可以定制样式的 option，而且文档是 json 形式的可以一比一直接转换到 option 里很容易看。我调整了 [Calendar](https://echarts.apache.org/en/option.html#calendar?utm_source=blog.douchi.space)、[Heatmap](https://echarts.apache.org/en/option.html#series-heatmap?utm_source=blog.douchi.space) 和 [visualMap](https://echarts.apache.org/en/option.html#visualMap?utm_source=blog.douchi.space) 中的一些参数。教程中没有的一些在官方文档里找到对我比较有用的参数有：
