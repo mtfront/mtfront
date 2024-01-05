@@ -45,7 +45,34 @@
   var dayTime = 3600 * 24 * 1000;
   startDate = echarts.format.formatTime('yyyy-MM-dd', startDate);
   endDate = echarts.format.formatTime('yyyy-MM-dd', endDate);
-  var rangeArr = [startDate,endDate];
+
+  function heatmap_width(months){             // change range acorrding to months shown
+    var startDate = new Date();
+    var mill = startDate.setMonth((startDate.getMonth() - months));
+    var endDate = +new Date();
+    startDate = +new Date(mill);
+
+    endDate = echarts.format.formatTime('yyyy-MM-dd', endDate);
+    startDate = echarts.format.formatTime('yyyy-MM-dd', startDate);
+
+    var showmonth = [];
+    showmonth.push([
+        startDate,
+        endDate
+    ]);
+    return showmonth
+  };
+
+  function getRangeArr() {
+    const windowWidth = window.innerWidth;
+    if (windowWidth >= 600) {
+      return heatmap_width(12);
+    } else if (windowWidth >= 400) {
+      return heatmap_width(9);
+    } else {
+      return heatmap_width(6);
+    }
+  }
 
   option = {
     title: {
@@ -79,7 +106,7 @@
         left: 20,
         right: 4,
         cellSize: ['auto', 12],
-        range: rangeArr,
+        range: getRangeArr(),
         itemStyle: {
             color: '#F1F1F1',
             borderWidth: 2.5,

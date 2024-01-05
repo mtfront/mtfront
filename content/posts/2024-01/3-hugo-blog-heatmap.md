@@ -51,6 +51,19 @@ calendar: {
   }
 },
 ```
+此外，根据我的模版和手机测试调整了一下宽度计算。
+```javascript
+function getRangeArr() {
+  const windowWidth = window.innerWidth;
+  if (windowWidth >= 600) {
+    return heatmap_width(12);
+  } else if (windowWidth >= 400) {
+    return heatmap_width(9);
+  } else {
+    return heatmap_width(6);
+  }
+}
+```
 修改完这些，就会大体得到一个跟我的热力图差不多风格的热力图。
 
 ## 获取 hugo 文章数据制作短代码
@@ -156,10 +169,10 @@ tooltip: {
   };
   var option;
 
+  // for more information see https://blog.douchi.space/hugo-blog-heatmap
   // echart heatmap data seems to only support two elements tuple, it doesn't render when each item has 3 value
   // it also shrink to 2 value when reading event param. so we have an indivisual map to handle the links
   // map format {date, [wordcount, link, title]}
-  // for more information see https://blog.douchi.space/hugo-blog-heatmap/
   var dataMap = new Map();
   {{ range ((where .Site.RegularPages "Type" "post")) }}
     var key = {{ .Date.Format "2006-01-02" }};
@@ -188,7 +201,34 @@ tooltip: {
   var dayTime = 3600 * 24 * 1000;
   startDate = echarts.format.formatTime('yyyy-MM-dd', startDate);
   endDate = echarts.format.formatTime('yyyy-MM-dd', endDate);
-  var rangeArr = [startDate,endDate];
+
+  function heatmap_width(months){             // change range acorrding to months shown
+    var startDate = new Date();
+    var mill = startDate.setMonth((startDate.getMonth() - months));
+    var endDate = +new Date();
+    startDate = +new Date(mill);
+
+    endDate = echarts.format.formatTime('yyyy-MM-dd', endDate);
+    startDate = echarts.format.formatTime('yyyy-MM-dd', startDate);
+
+    var showmonth = [];
+    showmonth.push([
+        startDate,
+        endDate
+    ]);
+    return showmonth
+  };
+
+  function getRangeArr() {
+    const windowWidth = window.innerWidth;
+    if (windowWidth >= 600) {
+      return heatmap_width(12);
+    } else if (windowWidth >= 400) {
+      return heatmap_width(9);
+    } else {
+      return heatmap_width(6);
+    }
+  }
 
   option = {
     title: {
@@ -222,7 +262,7 @@ tooltip: {
         left: 20,
         right: 4,
         cellSize: ['auto', 12],
-        range: rangeArr,
+        range: getRangeArr(),
         itemStyle: {
             color: '#F1F1F1',
             borderWidth: 2.5,
@@ -253,7 +293,7 @@ tooltip: {
       const link = window.location.origin + post.link;
       window.open(link, '_blank').focus();
     }
-  });
+});
 </script> 
 ```
 {{< / details >}}
