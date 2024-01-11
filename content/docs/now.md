@@ -24,7 +24,7 @@ BookComments: False
 - ~~年终总结不要写太长~~[失败了]({{< relref "/posts/2023-12/12-2023-in-review" >}})，再把[~~书~~✓]({{< relref "/posts/2024-01/5-2023-book-review" >}})[~~影~~✓]({{< relref "/posts/2024-01/6-2023-movie-review" >}})[~~游~~✓]({{< relref "/posts/2024-01/4-2023-game-review" >}})年度总结都写了！
 - 把[剁手数据库](https://mtfront.notion.site/mtfront-shopping-reviews-e568ee6ebaa44b5da146cbe4ac4663eb)更新一下，自从开始写[玩物志]({{< relref "/tags/monthly" >}})之后好久没更新了
 
-## Changelog
+## What's new
 - `2024-01-10` 添加了前后博文导航 
 - `2024-01-04` 添加了[动态热力图]({{< relref "/posts/2024-01/3-hugo-blog-heatmap" >}}) 
 - `2024-01-01` 评论区迁移到了 [twikoo]({{< relref "/posts/2024-01/1-comments-twikoo" >}}) 
