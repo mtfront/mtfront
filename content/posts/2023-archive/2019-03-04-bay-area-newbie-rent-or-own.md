@@ -37,4 +37,3 @@ bookToc: false
 
 最后祝大家买/租房顺利。
 
-{{< support >}}

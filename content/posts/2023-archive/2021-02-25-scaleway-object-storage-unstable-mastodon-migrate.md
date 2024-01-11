@@ -86,4 +86,3 @@ Object storage 管理媒体文件的服务运行不畅（index or cache slow, ne
 
 这篇算是我写了这么久博客第一次写 COE 吗……果然自己捣鼓比上班用心多了。
 
-{{< support >}}

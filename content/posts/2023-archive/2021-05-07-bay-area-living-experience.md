@@ -118,7 +118,7 @@ tags:
 
 春天吧，不那么热，也到处都是花和鸟，山还是绿的，但又过了雨季阳光充足。
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

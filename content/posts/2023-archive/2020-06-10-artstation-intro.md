@@ -115,4 +115,3 @@ https://www.artstation.com/dropthemike
 
 讲了那么多都不如自己点进去一看： https://www.artstation.com/
 
-{{< support >}}

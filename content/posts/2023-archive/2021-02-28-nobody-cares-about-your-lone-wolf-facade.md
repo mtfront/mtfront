@@ -63,4 +63,3 @@ bookToc: false
 
 人到中年大家都很忙都有各自的生活，哪有功夫给你拧巴和推诿，不主动点真的就散了，与其感怀人生若只如初见，不如主动问一句最近过的怎么样。Seriously, nobody cares about your lone wolf 人设。
 
-{{< support >}}

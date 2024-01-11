@@ -165,7 +165,7 @@ gesture button 这个功能要用的话要下载客户端 logitech option。这�
 - [M720](https://amzn.to/3nA12Sb) – 在换 master 3 之前我的 daily driver，除了比较老旧之外性价比较高
 - [M705](https://amzn.to/2Kbplby) – 基础款，可靠，性价比高
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

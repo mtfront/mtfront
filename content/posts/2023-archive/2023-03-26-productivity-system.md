@@ -130,7 +130,7 @@ Calendar view 并不能完全覆盖所有 time sensitive 的待办事项，比�
   * 下工时候把没干完还需要干的复制到明天
   * 太忙不需要提醒一上工就去干正事，或者太摸的时候完全不想 being productive 根本没整理 list，或者是休息娱乐的一天不需要规划，经常会有 skip 掉，which is totally fine。人是完全不需要所有时候都 focus 的嘛
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 ### Comment by bushituoer on 2023-03-26 08:29:29 -0700

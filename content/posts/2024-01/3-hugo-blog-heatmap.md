@@ -306,4 +306,3 @@ tooltip: {
 ![](https://media.douchi.space/douchi/media_attachments/files/111/699/816/751/626/673/original/4e609362db2eb6ad.png)
 把我的成品仍在 [now 页面了]({{< relref "/docs/now" >}})，感兴趣的朋友可以去看看对不对胃口。如果对代码做了什么优化改进也欢迎在此留言分享。
 
-{{< support >}}

@@ -55,7 +55,7 @@ Campsite 地面上就是典型的湾区大黄山丘、稀树草原的样子。�
 
 我开始有一点点理解为什么有些人会对 vanlife 着迷了，说走就走一直在路上，开累了停下就睡还不 compromise comfort，谁不想要呢。当然，camping 准备的部分我特别怕麻烦，要不是有家属张罗我自己肯定是不会去的。要是我将来自己出去，估计搞个能睡的 van 然后一路方便食品+垃圾食品，也是极好的。
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

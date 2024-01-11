@@ -32,7 +32,7 @@ Pixel Art（像素画）：2020 年作为 covid skill up 自学的，目前接�
 
 Again，欢迎加入我的 Patreon!
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 ### Comment by Tianqi on 2020-12-19 22:17:38 -0800

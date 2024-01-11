@@ -84,4 +84,3 @@ bookToc: false
 {{< / columns >}}
 其实 category 还是想用原来的样式或者稍微明显一点，不过就这样吧懒得改了……
 
-{{< support >}}

@@ -160,4 +160,3 @@ Airpods 2 – $199，在出了 airpods pro 之后除非是苹果死忠粉且一�
 我用的第三方软件是 MaterialPods，目前电量功能在 oneplus 7 pro 上完美运行每次都立刻显示。Pro 版除了去广告之外暂时没有特别吸引的功能（因为语音助手还没有完美实现），不过也是一次性买断的而且自己选金额，最小的才 $1.49，也还是比苹果税及带来的不便（比如控制中心对无线和蓝牙控制的无能）划算的多。
 ![](https://media.douchi.space/douchi/media_attachments/files/110/456/567/739/840/914/original/8d3ed30bb9e0535d.png)
 
-{{< support >}}

@@ -106,4 +106,4 @@ This is the universal RSS icon. Usually pasting this icon with your feed URL sho
 
 ## **Now, enjoy writing!**
 
-{{< support en >}}
+en >}}

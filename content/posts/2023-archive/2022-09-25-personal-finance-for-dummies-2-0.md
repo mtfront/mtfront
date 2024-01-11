@@ -144,4 +144,3 @@ high yield saving 的选择方面各大家都差不多，我比较倾向于选�
 
 希望这篇文章比之前那篇[懒人理财](../personal-finance-for-dummies-in-us/)稍微简单易懂一些，如果没有，我也没办法🤷‍♀️ 
 
-{{< support >}}

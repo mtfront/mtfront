@@ -172,4 +172,3 @@ Switch 版除了偶尔敌人很多的时候轻微掉帧之外，整体表现相�
 
 [上一个让我这么全心全意佩服和自愿安利的游戏还是《巫师3》呢](../game-the-witcher-3-blood-and-sword-poem-and-dream/)。
 
-{{< support >}}

@@ -133,4 +133,4 @@ If you find this helpful and want to support my blog, feel free to drop by my Pa
 
 {{< / details >}}
 
-{{< support en >}}
+en >}}

@@ -134,7 +134,7 @@ link.click();
 - [Kindle Notes Exporter](https://chrome.google.com/webstore/detail/kindle-notes-exporter/ogdkdkhjpdgkaodokpammlabdaohebop)
 - [Original Mastodon Toots Only](https://chrome.google.com/webstore/detail/original-toots-only/jmkgmhecpnacpoilpekodceagbidllnj)
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 ### Comment by 马大头 on 2022-07-19 06:01:06 -0700

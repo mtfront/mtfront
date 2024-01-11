@@ -133,4 +133,3 @@ Ciri 选择成为了一名 Witcher 继承父志， Geralt 分毛必争 just like
 
 生活从未只有苟且，其实诗和远方触手可及。
 
-{{< support >}}

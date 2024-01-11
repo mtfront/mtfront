@@ -104,4 +104,4 @@ tags:
 4. https://www.theguardian.com/technology/2018/may/14/patreon-rise-jordan-peterson-online-membership
 5. [2020 个人 side project 总结](../2020-side-project-recap/)
 
- {{< support >}}
+ 

@@ -496,4 +496,3 @@ tags:
 
 本来以为跟前面提到过的[上海油焖笋](https://www.sayweee.com/zh/product/Chef-Panda-Soy-Sauce-Water-Bamboo/42956?referral_id=5326510&lang=zh)会是差不多口味，又是我爱吃的烤麸（面筋）就买了。结果超！级！甜！不是我不能吃甜嫌太甜，这个连上海人都嫌甜。应该是我在本 list 里吃过最难吃的方便食品……
 
-{{< support >}}

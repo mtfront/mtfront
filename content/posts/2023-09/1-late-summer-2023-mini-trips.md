@@ -87,4 +87,3 @@ bookToc: false
 ![](https://media.douchi.space/douchi/media_attachments/files/110/993/059/296/089/788/original/4cd4b81019963508.jpeg)
 第三次去射箭，偷听了教练给富婆的教学，突然掌握了诀窍，发挥超稳定。
 
-{{< support >}}

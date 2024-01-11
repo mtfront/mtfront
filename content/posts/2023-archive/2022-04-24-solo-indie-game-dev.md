@@ -132,4 +132,4 @@ Iconoclasts 首先抓住我眼球的是它清凉、干净又精致的像素风�
 2. https://en.wikipedia.org/wiki/List_of_best-selling_video_games
 3. [How Stardew Valley Was Made by Only One Person](https://youtu.be/4-k6j9g5Hzk)
 
- {{< support >}}
+ 

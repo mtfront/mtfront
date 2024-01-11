@@ -546,4 +546,3 @@ https://lh3.googleusercontent.com/proxy/I1ylv8gB1Y34Nsr9EAAc-zlkkNmGU9Nirtp7eOkJ
 
 作为 Netflix 推出的一系列“社会实验”，本片跟前两天的《The Circle》真是云泥之别。没两句话就开始爱得死去活来的选手让人格外出戏，像是在看一部九流劣质 cheesy 爱情电影 – 肤浅、刻意、没来由的爱恨情仇充斥着每个分镜，甚至连 drama 都乏味，让观众隔着屏幕尴尬出了一身鸡皮疙瘩。要么是选手太假，要么是剪辑太差。真的难看到连不想看电视放着当背景声都嫌 annoying，实在看不下去。
 
-{{< support >}}

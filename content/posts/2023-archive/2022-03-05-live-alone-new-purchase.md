@@ -198,7 +198,7 @@ Desk setup 之前写过，不再赘述。（[可能会依据 Patreon 投票出 2
 ![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/03/20220120_222245.jpeg)
 {{< /columns >}}
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

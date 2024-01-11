@@ -95,6 +95,9 @@
       
     {{ end }}
     {{- .Content -}}
+    {{ if eq .Type "post"}}
+      {{ partial "docs/support" .}}
+    {{ end }}
   </article>
 {{ end }}
 

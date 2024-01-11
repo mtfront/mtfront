@@ -20,4 +20,3 @@ My math is bad though so my calculation might be wrong, use at your own risk ðŸ¤
 
 {{< iframe "https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/digital-nomad-timezone-converter.html" "100%" "400">}}
 
-{{< support >}}

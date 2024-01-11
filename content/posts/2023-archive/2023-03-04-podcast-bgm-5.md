@@ -42,7 +42,7 @@ bookToc: false
 
 [Spotify][1] | [小宇宙][2] | [Apple][3]
 
-{{< support >}}
+
 
  [1]: https://open.spotify.com/episode/7rbbDBEfnTJlqTRCb0iMBo
  [2]: https://www.xiaoyuzhoufm.com/episode/64026eeb2b769b7327955a4a

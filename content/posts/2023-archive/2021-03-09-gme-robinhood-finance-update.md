@@ -114,7 +114,7 @@ tags:
 - 资产 tracking – Personal Capital。[之前懒人理财介绍过了](../personal-finance-for-dummies-in-us/)不再赘述，算是个我财务状况的总览，平时自己看和整理消费、理财总结都靠它。[点邀请码得 $20](https://share.personalcapital.com/x/ArGnow)。
 
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

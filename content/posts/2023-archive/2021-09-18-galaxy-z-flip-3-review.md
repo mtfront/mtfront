@@ -147,4 +147,3 @@ $999 的价格并非没有折叠屏溢价。溢价之处在于，同样的价钱
 - [Galaxy S21 Ultra 测评](../best-smartphone-yet-samsung-galaxy-s21-ultra-review/)
 - [S21 Ultra as perfect phone for a casual bird lover](../the-perfect-phone-for-casual-bird-lover-samsung-galaxy-s21-ultra-one-month-later/)
 
-{{< support >}}

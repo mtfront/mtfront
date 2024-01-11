@@ -154,7 +154,7 @@ If you’re convinced, here’s my affiliate link, it won’t affect your price 
 - [S21 Ultra 128G](https://amzn.to/3vLNEQ0)（$999）
 - [S21 128G (This one doesn’t have 10x zoom, but everything else is pretty much the same)](https://amzn.to/3cUsvdQ) （$699）
 
-{{< support en >}}
+en >}}
 
 {{< details "Migrated Comments" open >}}
 ### Comment by Cf on 2021-07-18 07:37:20 -0700

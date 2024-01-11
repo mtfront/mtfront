@@ -104,7 +104,7 @@ tags:
 
 然后家属就开始放 YouTube 上一些奇奇妙妙更胡扯的解读，我俩开始吃牛肉面，然后我就开始失去记忆了.
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 ### Comment by crossairplane on 2021-11-08 19:52:38 -0800

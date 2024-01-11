@@ -22,7 +22,7 @@ Let’s make 友情链接 great again！
 
 单方面加了几个最近看到的网友的 blog，还有想要链接的来留言呀。
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

@@ -50,4 +50,3 @@ image: https://media.douchi.space/douchi/media_attachments/files/111/050/061/927
 ![](https://media.douchi.space/douchi/media_attachments/files/111/050/276/512/142/118/original/3617f0d0ded34e77.png)
 
 
-{{< support >}}

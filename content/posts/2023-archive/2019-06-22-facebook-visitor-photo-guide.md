@@ -119,4 +119,3 @@ Google maps 上搜 Facebook building 20，建议从 lobby 4 进去，楼顶走�
 
 员工在各个 campus 之前有 shuttle/tram，自行车，on demand （内部的免费叫车）等几种方式，但是访客不能坐班车不能骑自行车，所以带着访客只能走路或者叫 on demand 了。classic 到 20 走路还行，有太阳也会热出一身汗。所以建议先直接 on demand 去比较远的 24 或者 61。
 
-{{< support >}}

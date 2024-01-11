@@ -180,4 +180,3 @@ XGP 试玩觉得不错就趁 steam 又入了一波，roguelite 该有的不同�
 [六月](https://media.douchi.space/douchi-c/media_attachments/files/106/515/607/530/655/406/original/f207aeec31c749c0.mp4)
 剪这个月视频的时候刚拿到 dream 公司 offer 所以心情十分劲爽，于是配了一个很中二劲爽的 BGM。其实这个月因为一直在连轴转面试所以完全一点都不劲爽……
 
-{{< support >}}

@@ -147,7 +147,7 @@ TickTick 我最喜欢的两个功能都是轻量、快速、get things done：�
 {{< / columns >}}
 
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

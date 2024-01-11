@@ -131,7 +131,7 @@ Pro 的两个型号，个人觉得 11 寸在便携性和大小上比较平衡，
 
 相关阅读：**[值得花钱/不值得花钱的事物](../worthy-purchases/)**
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

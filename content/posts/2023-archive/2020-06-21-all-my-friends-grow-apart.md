@@ -33,4 +33,3 @@ bookToc: false
 
 （看到[良师傅广播](https://www.douban.com/people/zeaglog/status/3003867517/%20)有感而发转发写不下了）
 
-{{< support >}}

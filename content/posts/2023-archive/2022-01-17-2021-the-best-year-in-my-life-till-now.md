@@ -228,7 +228,7 @@ Sorta after covid 终于恢复了出游，拿到护照之后出行也更自在�
 
 一个迟到但比以往更加真心希望传递给诸位的，新年快乐。
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

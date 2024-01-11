@@ -44,4 +44,4 @@ imageDes: "image by MidJourney, prompt: a pixie cut short hair woman wearing tan
 ![](https://media.douchi.space/douchi/media_attachments/files/111/492/535/154/137/228/original/11bbf57793224bd7.png)
 {{< / columns >}}
 
-{{< support >}}
+

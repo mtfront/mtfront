@@ -156,7 +156,7 @@ Doordash 方面，只要有车（在某些城市地区送餐的话自行车、sc
 
 大家还有其他哪些关心的我没提到的问题可以来问我。~~如果想入行 doordash 的话我可以 refer 我们一起拿 bonus！（要 60 天开够 270 个 ride though 所以请保证自己有时间 commit）~~（2021.3 更新：现在已经没有 referral bonus 啦）
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

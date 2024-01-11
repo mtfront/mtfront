@@ -46,7 +46,7 @@ EA游戏公司口碑最差，竟是因为变态的验证码！主播出口成章
  [3]: https://podcasts.apple.com/us/podcast/%E4%B8%8D%E5%85%B3%E9%97%A8/id1666397078
  [4]: https://www.xiaoyuzhoufm.com/episodes/63fd99bb3d8df2f7e9dd94b1
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

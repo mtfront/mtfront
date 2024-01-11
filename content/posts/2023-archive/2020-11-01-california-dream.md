@@ -177,7 +177,7 @@ We know they won't win
 —— Don't dream it's over
 ```
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

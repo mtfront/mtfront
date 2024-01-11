@@ -90,7 +90,7 @@ tags:
 
 另外的好处是精力感觉丰富了很多，少了犯困、心理上被吃饭打断划水的机会。每天也少了一次思考要吃什么的纠结时间，感觉轻松很多。吃东西的时候也更 appreciate 食物了。
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

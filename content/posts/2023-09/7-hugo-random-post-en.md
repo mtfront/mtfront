@@ -67,4 +67,4 @@ Now that you're here：{{< random "Pick the next post for me" "button" >}}
 
 [Read Chinese version of this post here.]({{< relref "/posts/2023-09/6-hugo-random-post" >}})
 
-{{< support en >}}
+en >}}

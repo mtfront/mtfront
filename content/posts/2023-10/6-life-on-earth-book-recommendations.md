@@ -102,4 +102,4 @@ bookToc: true
 ### [The Life and Death of Planet Earth](https://amzn.to/45IBsjK)
 > Ward, Peter, and Brownlee, Donald, The Life and Death of Planet Earth (New York: Henry Holt, 2002) .一本对于我们星球上生命未来的悲观预言。
 
-{{< support >}}
+

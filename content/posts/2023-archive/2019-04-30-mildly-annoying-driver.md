@@ -42,4 +42,3 @@ Mildly annoying 的程度，大概介于右边没车的情况下走限速的 lef
 
 想到再加。欢迎补充。
 
-{{< support >}}

@@ -121,4 +121,3 @@ Google wordpress to hugo 找到了官网上推荐的 [WordPress to Hugo Exporter
 
 以及，大家加我的新 RSS 哇！（声嘶力竭 [![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/rss.png)](https://blog.douchi.space/index.xml)`https://blog.douchi.space/index.xml`
 
-{{< support >}}

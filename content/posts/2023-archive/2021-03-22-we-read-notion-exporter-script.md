@@ -41,4 +41,3 @@ tags:
 10. 如果笔记很少的话 Notion 可能会把你的笔记变成单选类型。点击数据库表头的’Note’部分将 property type 改成’Text’即可
 11. 去掉无用的 Notion 默认生成的列，如 ‘Tags’
 
-{{< support >}}

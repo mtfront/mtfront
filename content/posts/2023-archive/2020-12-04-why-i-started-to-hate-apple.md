@@ -46,7 +46,7 @@ bookToc: false
 
 [toot](https://douchi.space/web/@mtfront/105323301074250595)
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

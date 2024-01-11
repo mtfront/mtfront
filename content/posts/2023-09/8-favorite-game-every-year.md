@@ -51,4 +51,4 @@ bookToc: false
 
 看到这篇博文想要总结自己列表的朋友，也可以参考一下 [Wikipedia 的游戏大事年表](https://en.wikipedia.org/wiki/Category:Video_games_by_year)总结一下自己的，页面右上角可以切换语言，下面那个“pages in category”里的大事年表比较好用，国产游戏则可以参考一下[这个年表](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E5%8D%95%E6%9C%BA%E6%B8%B8%E6%88%8F/58276391)。
 
-{{< support >}}
+

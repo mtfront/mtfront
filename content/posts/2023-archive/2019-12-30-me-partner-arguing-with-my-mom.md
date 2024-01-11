@@ -122,7 +122,7 @@ bookToc: false
 假想中的我：Exactly，社会进步了同性恋不用关监狱电击了，丁克不用被人说有病了啊？\
 假想中的我妈：没有可比性。
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

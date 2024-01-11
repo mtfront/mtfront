@@ -107,7 +107,7 @@ tags:
 
 剩下的就是安心等手术开始了，现在每每计划行程想道以后再也不用为了月经这个劳什子影响行程就笑得合不拢嘴。做完手术恢复的差不多了我会再来写这篇文章的 part 2，估计过一年之后再来个 long term review。
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

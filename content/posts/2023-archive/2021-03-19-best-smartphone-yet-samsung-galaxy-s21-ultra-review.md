@@ -275,7 +275,7 @@ S21u 相机系统的 versatile 还表现在软硬结合的多种功能上，包�
 - [S21 Ultra 128G Amazon 购买链接](https://amzn.to/3vLNEQ0)（$999）
 - [S21 128G Amazon 购买链接](https://amzn.to/3cUsvdQ)（$699）
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

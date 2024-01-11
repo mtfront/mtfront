@@ -175,7 +175,7 @@ Apple notes 虽然满足需求、功能够多也够轻量，但是致命缺点�
 
 非常偶尔没得看了蹲厕所才会去看看。我个人不太喜欢 TG channel 这种既不适合分享长文、信噪比又低、又反馈互动较弱的“广播”形式。
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

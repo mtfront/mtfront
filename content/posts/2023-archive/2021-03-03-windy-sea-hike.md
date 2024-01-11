@@ -54,7 +54,7 @@ YouTube 上常年被推送的视频：”[Hiking 60 miles alone in Hornstrandir 
 
 我为了省钱一直没买过 All trails pro，今天中间走错了一段路，下次再也不敢省钱了，下次去没信号的地方 hiking 前我一定买 pro.
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 ## Comments

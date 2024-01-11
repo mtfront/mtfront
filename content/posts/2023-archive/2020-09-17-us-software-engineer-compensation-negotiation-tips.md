@@ -28,4 +28,4 @@ tags:
 
 （当然，compete/match offer 是底气的根源，也有听说有人无 compete offer negotiate 成功的，但我就没有经验不瞎逼逼了）
 
-{{< support >}}
+

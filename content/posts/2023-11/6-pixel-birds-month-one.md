@@ -37,4 +37,3 @@ image: https://media.douchi.space/douchi/media_attachments/files/111/428/680/896
 [![](https://media.douchi.space/douchi/media_attachments/files/111/428/063/181/461/608/original/56c5de46e9b787a6.png)](https://douchi.space/@mtfront/111428067321699079)
 {{< / columns >}}
 
-{{< support >}}

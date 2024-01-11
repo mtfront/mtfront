@@ -90,4 +90,4 @@ Too bad the other person I cc’d isn’t G’s manager.
 
 At this point I highly doubt if G is a real person. Maybe they’re just training an AI assistant to reply to emails and use me for Turing test? Who knows.
 
-{{< support en >}}
+en >}}

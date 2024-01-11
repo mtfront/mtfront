@@ -34,4 +34,3 @@ bookToc: false
 
 （越想越气决定把我之前写的[小白主机选购指南](../2019-newbie-gamer-platform-guide/)也更新了）
 
-{{< support >}}

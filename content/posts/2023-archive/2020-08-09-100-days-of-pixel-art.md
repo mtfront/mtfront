@@ -222,7 +222,7 @@ Why everyday though? 健身的人都会跟你说，养成了习惯有了 routine
 - ArtStation、Twitter 关注画手 for inspiration and random tutorials.
 - 豆瓣、Twitter 每天发图，IG 发 story，Reddit 满意的作品偶尔发。
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

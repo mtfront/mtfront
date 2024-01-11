@@ -48,4 +48,3 @@ Made for [my reading notes channel](https://t.me/mtfront) because filtering an
 9. Notion may convert your ‘Note’ column to ‘Type’. Simply click on the header and change property type to ‘Text’
 10. Remove default unsed fields like “tags”
 
-{{< support >}}

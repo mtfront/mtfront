@@ -149,4 +149,3 @@ C：面试体验超棒、manager 组员看起来人很好、组的内容还算�
 
 相关阅读：**[我又双叒叕裸辞了，又名Why I quit 你脸，一：Personal experience at Facebook, the good, the bad, and the ugly](../why-i-quit-facebook-part-i-personal-experience/)**
 
-{{< support >}}

@@ -68,7 +68,7 @@ bookToc: false
 
 结果刚修好 workflow 豆瓣就整这一出。以后豆瓣要是完全不能用的话修改一下代码从 NeoDB 自动同步应该也不会太难，暂时就先用豆瓣吧。（不过自己做 side project debug 的时候真是比上班快乐多了
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

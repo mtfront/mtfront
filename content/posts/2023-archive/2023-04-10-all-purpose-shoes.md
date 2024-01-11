@@ -90,6 +90,6 @@ tags:
   * Nike GPS：经典复古设计、做工扎实
   * Allbirds：较为轻便但实用性不高，不推荐
 
-{{< support >}}
+
 
  [1]: https://blog.douchi.space/2022-edc-travel-setup/

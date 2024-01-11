@@ -153,7 +153,7 @@ Hiking 这个词我也喜欢，中文翻成徒步吧，听起来就多了几分�
 
 [toot](https://douchi.space/web/@mtfront/105128460390248235)
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

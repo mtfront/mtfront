@@ -166,4 +166,3 @@ Source: Amazon
 
 从大学穿到现在的靠谱人字拖，比较适合瘦的脚型，而且很 slim 出门旅游随手塞在旅行包的 shoe compartment 几乎不占地方。
 
-{{< support >}}

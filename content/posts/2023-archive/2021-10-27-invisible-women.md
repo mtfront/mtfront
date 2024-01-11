@@ -54,7 +54,7 @@ bookToc: false
 
 结尾想起一个非常让人生气的旧闻：日本某少年漫画家被“曝出”是女的，结果被粉丝网暴的事情。真的东亚三国手牵手，谁先平权谁是狗
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

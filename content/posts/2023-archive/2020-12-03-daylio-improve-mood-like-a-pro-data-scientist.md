@@ -93,7 +93,7 @@ Habitica 把生活中的任务/habit/todo 游戏化来激励自己，完成任�
 
 ![](https://media.douchi.space/douchi/media_attachments/files/110/455/146/975/999/849/original/eca97dac618dbb11.png)
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

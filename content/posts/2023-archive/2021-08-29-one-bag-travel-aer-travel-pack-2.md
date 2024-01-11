@@ -68,7 +68,7 @@ TL;DR 一些亮点：
 
 整体而言，对 one bag travel 相见恨晚，第一次尝试对 aer travel pack 2 也非常满意，已经迫不及待去更多地方玩了！（Delta & work：你当我们不存在是吗）
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

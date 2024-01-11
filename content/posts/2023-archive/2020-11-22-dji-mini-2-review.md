@@ -144,4 +144,3 @@ Size comparison from [youtube](https://youtu.be/NOubSS4BGHI)
 {{< /columns >}}
 
 [toot](https://douchi.space/web/@mtfront/105257912527257504)
-{{< support >}}

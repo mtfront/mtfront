@@ -38,4 +38,3 @@ imageDes:  "image by MidJourney, prompt: a prius driving through los angeless tr
 
 （顺便，我都难得写一篇车的博客了，就给我一个多月前上船了的新车车祈个福快点拿到吧）
 
-{{< support >}}

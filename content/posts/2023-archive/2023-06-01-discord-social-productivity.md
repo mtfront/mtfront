@@ -152,4 +152,3 @@ Discord 的 slogan 是“imagine a place“，想象一个地方。因为其“�
 
 {{< button href="https://discord.gg/ncT4tDWmZP" target="_blank">}}游戏玩家联邦{{< /button >}}
 
-{{< support >}}

@@ -111,7 +111,7 @@ tags:
 {{< / columns >}}
 既然装备都买齐了，夏天也来了，期待以后经常出去 kayak！就算不 camping 去家旁边联合湖 kayak 也是极好的。
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

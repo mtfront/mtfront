@@ -15,4 +15,3 @@ bookToc: false
 [toot](https://douchi.space/@mtfront/105336586286026656)
 [video](https://media.douchi.space/douchi/media_attachments/files/105/336/579/147/137/812/original/3a9e7095eda0776d.mp4)
 
-{{< support >}}

@@ -44,4 +44,3 @@ https://github.com/medcl/elasticsearch-analysis-stconvert/releases/download/v6.8
 8. 在 mastodon doc（https://docs.joinmastodon.org/admin/optional/elasticsearch/ ）里找到当初安装的俩中文 index plugin repo，进入 repo 找到安装方法，Google remove elasticsearch plugin 方法卸载旧 plugin，安装 6.8.14 相对应新版本的俩 plugin。
 9. 重启 ES，查了几次 status 发现运行稳定，sidekiq 里 failed retry queue 稳定下降，在 Mastodon 里随便搜了几个中文出现了过去的嘟文，确认问题解决。
 
-{{< support >}}

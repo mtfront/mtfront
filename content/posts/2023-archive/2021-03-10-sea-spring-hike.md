@@ -69,4 +69,3 @@ Coyote Hills 和南边这片 Wild Life Refuge 真是东湾宝藏。现在春天�
 
 没有按 trail 走，随便瞎走的，就不上链接了。refuge 最近没开门放车进，把车停在 Marshlands Rd 旁边走两步就到了。在两条小河边都有超多水鸟可看。
 
-{{< support >}}

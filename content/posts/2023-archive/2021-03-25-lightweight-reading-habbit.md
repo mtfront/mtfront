@@ -154,7 +154,7 @@ tags:
 - 记录读书习惯，divide and concur，“每天读 20 页”比“七天读完一本书”更容易执行
 - 通过“输出->整理->总结”来内化信息吸收
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

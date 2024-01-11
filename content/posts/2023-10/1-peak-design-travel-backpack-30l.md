@@ -110,4 +110,4 @@ TP2 这里面最小的部分都跟 PD30 一样大了，总容积至少 PD30 的 
 
 （Peak Design 的 [Medium Packing Cube](https://amzn.to/3KjGlrK) 倒是很好用，合起来感觉能把我已经较小的行李压缩得更更小了，30L 两周不是梦，打算留着配其它包用了）
 
-{{< support >}}
+

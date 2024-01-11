@@ -36,4 +36,3 @@ v1.1.0 版本已添加 timeline filter 更新，Chrome store 审核通过后会�
 
 ~~想更无缝/在 Chrome 账户上多器材同步的话就等 chrome store 上架版本吧，到时候我会再来吆喝一声的。~~
 
-{{< support >}}

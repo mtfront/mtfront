@@ -337,6 +337,16 @@ body[dir="rtl"] .book-menu {
   }
 }
 
+.support {
+  gap: 8px;
+}
+
+.post-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 4px;
+}
+
 // Responsive styles
 .book-menu-content,
 .book-toc-content,

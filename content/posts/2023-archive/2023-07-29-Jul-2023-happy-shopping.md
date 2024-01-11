@@ -45,4 +45,3 @@ tags:
 ## One more thing - Dave the Diver
 最近入坑的白天潜水打渔，晚上寿司店跑腿的引爆独立游戏圈的游戏 Dave the diver 潜水员戴夫。除了非常吸引社畜的白天打渔晚上管理餐厅的世外桃源设定之外，它还集鱼类图鉴收集、餐厅跑堂迷你分手厨房、员工技能管、武器食物资源管理、鱼类养殖、种菜等多种要素，总之是个 have it all 的游戏，剧情也轻松幽默，玩法环环相扣总想多玩一天，提前预定年度最佳。在本期的[不关门播客](https://douchi.space/@mtfront/110800212618085412)([Spotify](https://open.spotify.com/episode/3fq552nrsePQJ2Qx7nQJ3O) | [小宇宙](https://www.xiaoyuzhoufm.com/episodes/64c5a75ab3f6c440a8601b8a)| [Apple](https://podcasts.apple.com/us/podcast/10-%E6%8E%A2%E8%AE%A8-%E5%9B%A0%E7%BC%98-%E7%9A%84%E9%9F%A9%E5%9B%BD%E7%88%B1%E6%83%85%E7%94%B5%E5%BD%B1-%E8%AE%A8%E8%AE%BA%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E8%AE%AE%E9%A2%98%E7%9A%84-%E6%8D%A2%E5%A6%BB-%E7%9C%9F%E4%BA%BA%E7%A7%80-%E7%B2%BE%E5%BD%A9%E4%B9%A6%E5%BD%B1%E6%B8%B8%E6%8E%A8%E8%8D%90/id1666397078?i=1000622785149)）中我也有长篇安利欢迎收听。
 
-{{< support >}}

@@ -68,4 +68,3 @@ Elon Musk 收购 twitter 之后不久将其重命名为 X。
 特指跨性别者的（跨性别前）曾用名。今年美国多个州在考虑通过强行要求跨性别学生使用 deadname 的法案（即不允许使用他们的新名字） Parental Rights bills。（保守派清奇的脑回路。职场和生活中无关跨性别的 preferred name 都用了多少年了，一沾上跨性别它们就破防了）
 
 
-{{< support >}}

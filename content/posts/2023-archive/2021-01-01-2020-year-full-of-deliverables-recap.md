@@ -374,7 +374,7 @@ It was all a blur again。跟着好友拼了个转运团开始疯狂购书。豆
 
 Anyways, happy new year and hope everyone have a better year!
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 ### Comment by 山月 on 2021-01-02 03:47:24 -0800

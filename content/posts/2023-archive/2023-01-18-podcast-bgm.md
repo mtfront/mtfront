@@ -32,4 +32,3 @@ bookToc: false
  [1]: https://open.spotify.com/show/3146ubWByIlxIPNNfTBCFZ
  [2]: https://www.xiaoyuzhoufm.com/podcast/63c875fc531dadd2b15641fd
 
-{{< support >}}

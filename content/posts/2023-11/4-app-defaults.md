@@ -10,6 +10,7 @@ categories:
 tags:
   - 问卷
 bookToc: false
+en: true
 ---
 
 Saw the [post on yinji](https://yinji.org/5179.html), originated from this github project that surface [blogger's app defaults](https://defaults.rknight.me/). Loving to fill any sort of writting prompts questionares and also thinking this one is quite useful, I immediately wrote my version:
@@ -48,4 +49,4 @@ Following are not in scope of the original Github project and was added by [Bruc
 `🧑‍💻 Code Editor` VS Code \
 `📎 Assistant` Google Assistant
 
-{{< support en >}}
+en >}}

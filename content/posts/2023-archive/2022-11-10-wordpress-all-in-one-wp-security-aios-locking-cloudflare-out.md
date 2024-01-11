@@ -29,4 +29,4 @@ I started to poke around more in the plugin&#8217;s folder, and eventually found
 
 So, that was just a small stupid incident on a random Thursday night 9pm before a trip. 乁། \* ❛ ͟ʖ ❛ \* །ㄏ
 
-{{< support en >}}
+en >}}

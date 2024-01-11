@@ -232,7 +232,7 @@ Verdict
 - [Pixel 5](https://amzn.to/3shCtNi)
 - [Pixel 4 5G](https://amzn.to/39l61kt) – 性价比选择，大屏，电池较小
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

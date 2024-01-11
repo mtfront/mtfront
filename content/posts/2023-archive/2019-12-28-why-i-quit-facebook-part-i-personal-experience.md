@@ -157,4 +157,3 @@ adhoc 地帮助别人最多获得几个 thanksbot，对个人 PSC 帮助甚微�
 
 相关阅读：**[What’s next：我又双叒叕裸辞了，又名 Why I quit 你脸【下】](../why-i-quit-facebook-part-2-whats-next/)**
 
-{{< support >}}

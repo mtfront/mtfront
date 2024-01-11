@@ -18,4 +18,3 @@ bookToc: false
 
 {{< iframe "https://www.google.com/maps/d/embed?mid=1v4chfysQdXJw9332M9TJOAc4nFeyaac&ehbc=2E312F" "100%" 500 >}}
 
-{{< support >}}

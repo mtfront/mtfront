@@ -51,7 +51,7 @@ tags:
 
 ## **[点击进入数据库](https://www.notion.so/mtfront-shopping-reviews-e568ee6ebaa44b5da146cbe4ac4663eb)**
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 ### Comment by 青山 on 2021-02-05 04:27:14 -0800

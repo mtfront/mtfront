@@ -156,7 +156,7 @@ tags:
 决定既然视频做都做了只发社交平台不发博客感觉有点“亏”。这个月虽然 hiking 少了很多但去了两次 road trip、面了几次基和难得打通了款游戏，也开始刷题了，还算充实
 [1SE](https://media.douchi.space/douchi/media_attachments/files/106/162/112/397/247/028/original/d2449068eaab1429.mp4)
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

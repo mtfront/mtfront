@@ -118,7 +118,7 @@ Cons：
 
 觉得合适的话 [Get 50 USD/EUR off of Oura Ring](https://ouraring.com/discount/97b322fdf4)
 
-{{< support >}}
+
 
 {{< details "Migrated Comments" open >}}
 

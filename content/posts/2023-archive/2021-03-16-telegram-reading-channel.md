@@ -29,4 +29,3 @@ bookToc: false
 
 欢迎提供意见、建议。
 
-{{< support >}}
