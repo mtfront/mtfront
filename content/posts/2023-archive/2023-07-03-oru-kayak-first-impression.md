@@ -24,7 +24,7 @@ bookToc: True
 ---
 
 上周末 pride 完在湖边 picnic 看书看到一位大哥有个极酷的折叠 kayak，扭捏了一下克服了社恐上前询问了，大哥给我展示了一下像折纸一样能折叠起来个小盒子，也比充气橡胶 kayak 轻多了。拍了照记下来之后谢过大哥，想说这么好的东西怎么还没推广，回去赶紧下单一个趁季度结束前 wellness reimbursement 羊毛先薅上。
-{{< video "https://media.douchi.space/douchi/media_attachments/files/110/613/315/830/296/122/original/f689b34024942078.mp4" "official">}}
+{{< video "https://media.douchi.space/douchi/media_attachments/files/110/613/315/830/296/122/original/f689b34024942078.mp4">}}
 
 TLDR：如果这一次体验能代表长期体验的话那完全是 game changer，这钱花得太值了。本文大概介绍了下便携性、稳定性等，还给了个同类产品的横向对比和选购指南，顺便附上我自己的整套行头作业。
 
@@ -52,7 +52,7 @@ TLDR：如果这一次体验能代表长期体验的话那完全是 game changer
 - 硬塑料材质相对于充气船来说更好擦干晾干
 
 第一次装拆的时候确实有个上手门槛，但看了官方视频之后第二次我在湖边直接拆装就非常顺滑地几分钟完成。感觉以后下班 weekday 去划个船真的不是梦。
-{{< video "https://media.douchi.space/douchi/media_attachments/files/110/654/067/036/333/164/original/f63f84f848704eb6.mp4" "unpack">}}
+{{< video "https://media.douchi.space/douchi/media_attachments/files/110/654/067/036/333/164/original/f63f84f848704eb6.mp4">}}
 
 不过略微尴尬的一点是它折起来的宽度比我的 sub compact sedan 后备箱容量宽一些，所以只能放倒或扔后座，倒也问题不大本来带两个乘客装个一人船的场景大概也不会出现。
 
