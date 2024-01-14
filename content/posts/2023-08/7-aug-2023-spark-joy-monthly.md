@@ -9,7 +9,7 @@ categories:
 tags:
   - review
   - 消费主义陷阱
-  - monthly
+  - 玩物志
   - reading 
   - gaming
 booktoc: true

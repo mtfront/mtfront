@@ -1,7 +1,7 @@
 <nav>
   {{ range $term, $_ := .Site.Taxonomies }}
     {{ with $.Site.GetPage (printf "/%s" $term | urlize) }}
-      <strong>{{ .Title | title }}</strong></br></br>
+      <label style="font-size: 20px;">{{ .Title | title }}</label></br><br/>
       {{ range .Pages }}
         <!-- experimenting with a bunch of different styles of tag-cloud -->
         <!-- <a class="tag-cloud" href="{{ .RelPermalink }}" target="_blank">{{ .Title }}「{{ len .Pages }}」</a> -->

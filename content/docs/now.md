@@ -22,7 +22,7 @@ BookComments: False
 
 ## 近期目标
 - 一些 [2024 的量化 flag]({{< relref "/posts/2023-12/10-2024-flags">}})
-- 把[剁手数据库](https://mtfront.notion.site/mtfront-shopping-reviews-e568ee6ebaa44b5da146cbe4ac4663eb)更新一下，自从开始写[玩物志]({{< relref "/tags/monthly" >}})之后好久没更新了
+- 把[剁手数据库](https://mtfront.notion.site/mtfront-shopping-reviews-e568ee6ebaa44b5da146cbe4ac4663eb)更新一下，自从开始写[玩物志]({{< relref "/tags/玩物志" >}})之后好久没更新了
 - 利用不上班的时间探索一下新的创作形式
 
 ## What's new

@@ -26,7 +26,7 @@ tags:
 最早也是 covid 期间开始[学习像素画]({{< relref "/posts/2023-archive/2020-08-09-100-days-of-pixel-art">}})，外加运营长毛象实例，终于觉得有“内容”好意思拿出来赛博乞讨了。后来醒悟到其实写了这么多年的博客才是核心价值所在。当然，其实更多的赞助者也不是为了 Patreon 上提供的福利（如[博客选题投票]({{< relref "/tags/patreon" >}})、Pixel art 头像、职业 coffee chat 等等）而来的，更多只是表示支持。
 
 ## [![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/notion.png) 消费主义剁手安利数据库](https://mtfront.notion.site/mtfront-shopping-reviews-e568ee6ebaa44b5da146cbe4ac4663eb) 
-也是 covid 期间开发的被动收入项目之一，想说反正我本身已经在各处自来水写产品测评了，不妨开一个 [Amazon Affiliate]({{< relref "/posts/2023-archive/2023-01-28-amazon-affiliate-program-2-year-review">}})顺便赚点安利费，以 Notion 数据库的形式方便搜索分类。近期又开启了[月度幸福购物总结]({{< relref "/tags/monthly">}})，算是一个线性形式对剁手安利数据库的补充。
+也是 covid 期间开发的被动收入项目之一，想说反正我本身已经在各处自来水写产品测评了，不妨开一个 [Amazon Affiliate]({{< relref "/posts/2023-archive/2023-01-28-amazon-affiliate-program-2-year-review">}})顺便赚点安利费，以 Notion 数据库的形式方便搜索分类。近期又开启了[月度幸福购物总结]({{< relref "/tags/玩物志">}})，算是一个线性形式对剁手安利数据库的补充。
 
 ## [![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/telegram.png) Telegram - 有趣文章和工具剪报](https://t.me/mtfront)
 其实这个 telegram 频道要发的东西 pivot 了很多次，从一开始的和长毛象定位有些重合会发一些我的零散观点，到转成主要书摘辅以文摘，到现在基本定型的网上看到有趣的文章、工具的推荐 + 值得推荐的书影游等，彻底贯彻了“剪报”这个定位，基本维持在一天一两篇更新，信噪比较高力求“有用”和去日常化。

@@ -7,7 +7,6 @@
 
 {{ partial "docs/inject/menu-before" . }}
 {{ partial "docs/menu-hugo" .Site.Menus.before }}
-{{ partial "docs/random" .}}
 {{ if .Site.Params.BookMenuBundle }}
   {{ partial "docs/menu-bundle" . }}
 {{ else }}
@@ -15,6 +14,7 @@
 {{ end }}
 {{ partial "docs/menu-hugo" .Site.Menus.after }}
 {{ partial "docs/inject/menu-after" . }}
+{{ partial "docs/random" .}}
 </nav>
 
 <!-- Restore menu position as soon as possible to avoid flickering -->

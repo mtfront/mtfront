@@ -330,6 +330,7 @@ body[dir="rtl"] .book-menu {
   margin: 0;
 
   &:hover {
+    cursor: pointer;
     text-decoration: none;
     transform: scale(1.5, 1.5);
     transform-origin: left;
