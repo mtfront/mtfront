@@ -5,7 +5,7 @@ type: post
 date: 2023-08-30T20:11:00+00:00
 url: /csr-vs-csp/
 categories:
-  - 喜欢就买
+  - 重启电脑
 tags:
   - money
   - review
