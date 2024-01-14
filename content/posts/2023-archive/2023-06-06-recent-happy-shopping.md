@@ -9,7 +9,7 @@ categories:
 tags:
   - review
   - 消费主义陷阱
-  - monthly
+  - 玩物志
 ---
 
 也有大概 2 年没写过之前写了有一段时间的[消费理财购物总结了](../2021-q3-money-recap)，上一次写类似文章还是[恢复独居新家置办的一些新物件](../live-alone-new-purchase/)。之前的消费总结感觉事无巨细写得特别 tedious 变成了一个 chore，所以后来生活有了变化比较忙就没写下去。最近重启这个系列的是因为前阵子在象上看到象友豚骨拉面的一篇 [4 月满意购物](https://ignativssss.com/best-to-buy-april-2023/)，一句“最近买的东西提升了幸福感“唤起了我的~~购物~~写作欲。
