@@ -73,5 +73,5 @@ CFU 因为绝大多数都是 1.5% 的返现因此没看 breakdown，但是赚的
 
 算了半天，怎么感觉是一个 chase 全家桶安利文呢……TLDR 我觉得对不爱玩点数的人来说，一张 CSR/CSP（视自己情况决定） + 一张 CFU （1.5 * 1.5 = 2.25 返利 everything 无上限）足以 cover 大多数 case，amazon 重度用户再加一张 prime 卡基本就齐活儿了，最大的优点是返利不错，点数好用，不用费心捣鼓 benefit，在美国用了这么多年信用卡了成功没有掉入不断开卡的黑洞里。
 
-说了这么多了，来都来了™，如果动心要申 unlimited 的话，[欢迎使用我的 referral code](https://www.referyourchasecard.com/18j/R6O4CLMBFP)。
+说了这么多了，来都来了™，如果动心要申 unlimited 的话，[欢迎使用我的 referral code](https://www.referyourchasecard.com/19l/1E6VV6FYLG)。
 
