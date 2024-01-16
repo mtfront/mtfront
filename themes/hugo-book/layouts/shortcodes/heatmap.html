@@ -17,26 +17,32 @@
   // it doesn't render when each item has 3 value
   // it also only pass first 2 elements when reading event param
   // so here we build a map to store additional metadata like link and title
-  // map format {date: [wordcount, link, title]}
+  // map format {date: [{wordcount, link, title}]}
   // for more information see https://blog.douchi.space/hugo-blog-heatmap
   var dataMap = new Map();
   {{ range ((where .Site.RegularPages "Type" "post")) }}
     var key = {{ .Date.Format "2006-01-02" }};
     var value = dataMap.get(key);
-    var wordCount = {{ div .WordCount 1000.0 | lang.FormatNumber 1 }};
+    var wordCount = {{ .WordCount }};
     var link = {{ .RelPermalink}};
     var title = {{ .Title }};
     
-    // multiple posts in same day, chose the longer one
-    // can also store all posts and use sum as value, but seems like an overkill
-    if (value == null || wordCount > value[0]) {
-      dataMap.set(key, {wordCount, link, title});
+    // multiple posts in same day
+    if (value == null) {
+      dataMap.set(key, [{wordCount, link, title}]);
+    } else {
+      value.push({wordCount, link, title});
     }
   {{- end -}}
 
   var data = [];
+  // sum up the word count
   for (const [key, value] of dataMap.entries()) {
-    data.push([key, value.wordCount]);
+    var sum = 0;
+    for (const v of value) {
+      sum += v.wordCount;
+    }
+    data.push([key, (sum / 1000).toFixed(1)]);
   }
   
   var startDate = new Date();
@@ -84,9 +90,20 @@
         text: '博客废话产量'
     },
     tooltip: {
+      hideDelay: 1000,
+      enterable: true,
       formatter: function (p) {
-        const post = dataMap.get(p.data[0]);
-        return post.title + ' | ' + post.wordCount + ' 千字';
+        const date = p.data[0];
+        const posts = dataMap.get(date);
+        var content = `${date}`;
+        for (const [i, post] of posts.entries()) {
+            content += "<br>";
+            var link = post.link;
+            var title = post.title;
+            var wordCount = (post.wordCount / 1000).toFixed(1);
+            content += `<a href="${link}" target="_blank">${title} | ${wordCount} 千字</a>`
+        }
+        return content;
       }
     },
     visualMap: {
@@ -138,7 +155,8 @@
   myChart.setOption(option);
   myChart.on('click', function(params) {
     if (params.componentType === 'series') {
-      const post = dataMap.get(params.data[0]);
+      // open the first post on the day
+      const post = dataMap.get(params.data[0])[0];
       const link = window.location.origin + post.link;
       window.open(link, '_blank').focus();
     }

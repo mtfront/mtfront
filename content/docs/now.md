@@ -26,6 +26,7 @@ BookComments: False
 - 利用不上班的时间探索一下新的创作形式
 
 ## What's new
+- `2024-10-15` 热力图更新了每天多篇文章显示
 - `2024-01-10` 添加了前后博文导航 
 - `2024-01-04` 添加了[动态热力图]({{< relref "/posts/2024-01/3-hugo-blog-heatmap" >}}) 
 - `2024-01-01` 评论区迁移到了 [twikoo]({{< relref "/posts/2024-01/1-comments-twikoo" >}}) 
