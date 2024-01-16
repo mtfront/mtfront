@@ -8,7 +8,6 @@ categories:
   - 重启电脑
 tags:
   - career
-  - internet
   - software engineer
 
 ---

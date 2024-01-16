@@ -8,6 +8,7 @@ categories:
   - 喜欢就买
 tags:
   - watching
+  - LGBTQ
 booktoc: false
 bookComments: true
 image: https://thecosmiccircus.com/wp-content/uploads/2023/12/Untitled-design-35.jpg

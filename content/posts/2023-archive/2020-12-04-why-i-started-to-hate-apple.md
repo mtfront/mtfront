@@ -9,7 +9,6 @@ categories:
 tags:
   - rant
   - tech
-  - 墙
   - 消费主义陷阱
 bookToc: false
 ---

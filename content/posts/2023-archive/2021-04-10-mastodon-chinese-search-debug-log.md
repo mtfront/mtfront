@@ -8,7 +8,6 @@ categories:
   - 重启电脑
 tags:
   - debug
-  - elasticsearch
   - mastodon
 bookToc: false
 ---

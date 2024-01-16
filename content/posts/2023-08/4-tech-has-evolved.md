@@ -10,7 +10,6 @@ tags:
   - brain dump
   - random
   - tech
-  - Apple
   - 消费主义陷阱
 booktoc: false
 ---

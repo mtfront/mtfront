@@ -7,8 +7,6 @@ url: /airpods-pro-for-android-best-apple-products-in-years/
 categories:
   - 喜欢就买
 tags:
-  - Apple
-  - headphone
   - review
   - tech
   - 消费主义陷阱

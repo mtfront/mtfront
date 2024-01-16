@@ -9,11 +9,9 @@ categories:
 tags:
   - Bay Area
   - camping
-  - drone
   - hiking
   - photography
   - travel
-  - vanlife
   - 消费主义陷阱
 bookToc: false
 ---

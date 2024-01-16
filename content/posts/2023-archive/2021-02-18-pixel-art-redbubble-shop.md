@@ -9,8 +9,6 @@ categories:
   - 喜欢就买
   - 重启电脑
 tags:
-  - digitalart
-  - merch
   - pixelart
   - PSA
   - 消费主义陷阱

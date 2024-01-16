@@ -9,7 +9,6 @@ categories:
 tags:
   - review
   - tech
-  - vehicle
   - 消费主义陷阱
 
 ---

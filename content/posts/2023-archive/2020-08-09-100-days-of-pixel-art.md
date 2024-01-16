@@ -7,8 +7,6 @@ url: /100-days-of-pixel-art/
 categories:
   - 重启电脑
 tags:
-  - digitalart
-  - gamedev
   - pixelart
   - project
 

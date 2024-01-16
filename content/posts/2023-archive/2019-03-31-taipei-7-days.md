@@ -7,9 +7,8 @@ url: /taipei-7-days/
 categories:
   - 多喝热水
 tags:
-  - asia
+  - Asia
   - photography
-  - taiwan
   - travel
 
 ---

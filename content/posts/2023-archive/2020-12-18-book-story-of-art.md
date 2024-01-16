@@ -7,8 +7,6 @@ url: /book-story-of-art/
 categories:
   - 喜欢就买
 tags:
-  - art
-  - history
   - reading
 bookToc: false
 ---

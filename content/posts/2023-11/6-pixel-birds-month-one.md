@@ -8,6 +8,7 @@ categories:
   - 重启电脑
 tags:
   - pixelart
+  - birds
 bookToc: false
 image: https://media.douchi.space/douchi/media_attachments/files/111/428/680/896/891/063/original/d91c1fdb8680e763.png
 ---

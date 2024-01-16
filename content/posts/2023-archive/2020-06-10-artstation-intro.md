@@ -7,8 +7,7 @@ url: /artstation-intro/
 categories:
   - 喜欢就买
 tags:
-  - digitalart
-  - internet
+  - random
 
 ---
 因为最近才刚刚接触 digital art 圈子，后知后觉的我[昨天才发现 Artstation](https://www.douban.com/people/mfcndw/status/2986922377/) 这个网站，我从昨天到现在光点推荐进去就被震撼了一整天了，简直是原画设计、人物设计、3D 建模、环境设计乃至各种普通游戏迷的天堂，再次感谢互联网！一面觉得人类的创造力怎么可以这么伟大沉浸在幻想世界无法自拔世界太美好了，一方面又有点气馁自己年轻时候为啥没坚持下来现在天天学估计更年期了还没有成为小触觉得有十万光年的距离。

@@ -14,10 +14,8 @@ enclosure:
 categories:
   - 多喝热水
 tags:
-  - drone
   - photography
   - travel
-  - video
 bookToc: false
 ---
  今天心血来潮想出去兜兜风，宅如我经过一年的被迫宅和去年一次 road trip 感到特别 refreshing 之后也深刻认识到了换换环境的重要性。

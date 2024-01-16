@@ -9,7 +9,6 @@ ig_es_is_post_notified:
 categories:
   - 重启电脑
 tags:
-  - data
   - news
   - 导读
 bookToc: false

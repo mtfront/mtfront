@@ -15,7 +15,7 @@ categories:
   - 多喝热水
 tags:
   - Bay Area
-  - bird
+  - birds
   - hiking
   - photography
   - travel

@@ -8,7 +8,6 @@ categories:
   - 喜欢就买
 tags:
   - gaming
-  - PC
   - tech
 
 ---

@@ -57,10 +57,10 @@ categories:
   - English
   - 喜欢就买
 tags:
-  - English
   - photography
   - review
   - tech
+  - birds
 
 ---
 It’s been more than a month since I’ve been using Samsung Galaxy S21 Ultra, and I’m still constantly shocked at how good the 10x zoom is. In short it’s the best phone money can buy for almost all people. But I’m also surprised at the lack of reviews and appreciation for the zoom lens I’ve seen on youtube. So this review will focus on the zoom capability from a bird lover’s perspective. I’ve already done a full review, if you read Chinese [click here check it out](../best-smartphone-yet-samsung-galaxy-s21-ultra-review/).

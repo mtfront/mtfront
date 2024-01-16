@@ -9,6 +9,7 @@ categories:
 tags:
   - wellness
   - patreon
+  - LPT
 booktoc: false
 bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/111/753/042/859/227/347/original/c21a6acf6027ef0e.png

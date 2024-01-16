@@ -8,8 +8,6 @@ categories:
   - 喜欢就买
 tags:
   - reading
-  - 生物
-  - 科普
 bookToc: true
 ---
 

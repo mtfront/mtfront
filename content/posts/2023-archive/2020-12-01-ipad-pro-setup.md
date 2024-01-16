@@ -7,13 +7,11 @@ url: /ipad-pro-setup/
 categories:
   - 喜欢就买
 tags:
-  - digitalart
   - LPT
   - pixelart
   - tech
   - tutorial
   - 消费主义陷阱
-  - Apple
 
 ---
 作为一个电子产品爱好者，在买现在这台 iPad Pro 之前还有过两个：一个早起忘了第几代的没有 touch ID 的那种大边框 home 键的经典设计的 iPad，早期沦为大家还在对触屏游戏新鲜期（水果忍者那个年代）的游戏机，新鲜期过了之后吃灰了一阵就拿回家给爸妈了（应该也在吃灰）；一个第一代 Retina 的 iPad Mini，想说体积小一点使用场景变大，结果并没有，依旧吃灰。因此平板电脑这个门类被我打入了“看上去很美，实际上很鸡肋”的电子产品门类。

@@ -7,7 +7,6 @@ url: /dji-mini-2-review/
 categories:
   - 喜欢就买
 tags:
-  - drone
   - photography
   - review
   - tech

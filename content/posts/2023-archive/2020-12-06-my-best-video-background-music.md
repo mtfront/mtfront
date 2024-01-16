@@ -7,8 +7,7 @@ url: /my-best-video-background-music/
 categories:
   - 不行就分
 tags:
-  - cat
-  - video
+  - random
 bookToc: false
 ---
 必须全平台滚动播放才能表达我的骄傲之情（不是
