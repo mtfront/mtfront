@@ -9,7 +9,7 @@ categories:
 tags:
   - review
   - 消费主义陷阱
-  - 玩物志
+  - 关我辟事
   - reading 
   - gaming
   - wellness
