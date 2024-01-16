@@ -2,7 +2,7 @@
 title: 关我辟事 Vol.9：强制重启
 author: 椒盐豆豉
 type: post
-date: 2024-01-16T12:41:00-08:00
+date: 2024-01-16T15:00:00-08:00
 url: /spark-joy-digest-vol-9-2024-1a/
 categories:
   - 喜欢就买
@@ -13,7 +13,7 @@ tags:
   - reading 
   - watching
 booktoc: true
-bookComments: false
+bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/111/767/554/788/216/481/original/8c8a486cf882a482.png
 imageDes: "MidJourney prompt: a power button, game isometric 2D style --ar 16:9"
 ---
