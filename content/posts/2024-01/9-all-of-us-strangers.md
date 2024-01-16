@@ -43,8 +43,6 @@ image: https://thecosmiccircus.com/wp-content/uploads/2023/12/Untitled-design-35
 
 9. 片名点题：现实中两人没有发生连结，只是陌生人而已。
 
-{{< / details >}}
-
 我只在电影院没字幕的情况下看了一遍，因此可能还有遗漏的地方。将来出资源了可以再补全。
 
 虽然影片本身非常致郁，但也非常有警醒作用——失去了人与人之间真诚连结的世界有多么令人绝望和可怕，世界上充满了只剩最后一根稻草的绝望的人，但也非常轻易地就会错过。看了之后反而让我更珍惜现在的生活了。
@@ -54,3 +52,5 @@ image: https://thecosmiccircus.com/wp-content/uploads/2023/12/Untitled-design-35
 side note 也有些遗憾这只能是个男男故事，要是独居女性半夜有醉汉（甚至醉的陌生女人） stalk 敲门搭讪直接就是恐怖片了。
 
 本文原载于[豆瓣](https://movie.douban.com/review/15686837/)，因为大多数影评没提甚至没看懂着急得我都重新上豆瓣写东西了……博客上备个份。
+
+{{< / details >}}
