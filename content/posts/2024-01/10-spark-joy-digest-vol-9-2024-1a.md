@@ -63,6 +63,13 @@ imageDes: "MidJourney prompt: a power button, game isometric 2D style --ar 16:9"
 不过最近发现它最近算法抖动风格化出了很大问题，比如 [2023 读书总结]({{< relref "/posts/2024-01/5-2023-book-review" >}})虽然效果调出来也很好看，但并不是我一开始想要的风格。希望只是暂时的问题吧。
 
 ## 事
+### 初雪
+![](https://media.douchi.space/douchi/media_attachments/files/111/734/298/632/035/517/original/6a032ed6731a7495.png)
+本周西雅图大降温，应该是我搬来之后体验过最冷的几天，白天出门温度也有 -8 度。雪后也晴了几天，不过马上又要持续阴雨了。本向日葵 can take 干冷 over 温湿 anyday。
+
+{{< toot "https://douchi.space/@mtfront/111740661687252351" >}}
+
+
 ### 桌游
 {{< columns >}}
 ![](https://media.douchi.space/douchi/media_attachments/files/111/767/965/844/120/893/original/ce7b14b56d1b9ddf.png)
