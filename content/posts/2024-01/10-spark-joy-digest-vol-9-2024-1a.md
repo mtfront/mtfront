@@ -84,6 +84,9 @@ imageDes: "MidJourney prompt: a power button, game isometric 2D style --ar 16:9"
 
 前面提到的[爆炸猫](https://amzn.to/47Bznar)最近玩了不少，两人和多人玩都各有欢乐点。算是最近新欢。[Kingdomino](https://amzn.to/3IO38dq)当初非常喜欢其精美画风。
 
+![](https://media.douchi.space/douchi/media_attachments/files/111/712/473/429/654/078/original/b08c3afe2e96e5d1.jpg)
+倒是请朋友来玩用上了多年不用的楼顶 lounge，然后恰巧开始下雨，手机怼玻璃拍下了这张非常喜欢的图。
+
 ### 科学馆
 去本地科学馆看一个海狮纪录片的时候顺便去逛了馆内的蝴蝶博物馆。蝴蝶好大好虫，本恐虫者瑟瑟发抖。不过第一次看到了悬挂整齐的蝴蝶蛹，觉得还挺神奇的。
 {{< details "大量蝴蝶蛹，密恐和恐虫慎点" >}}
