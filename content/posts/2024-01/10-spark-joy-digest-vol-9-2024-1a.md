@@ -35,7 +35,7 @@ imageDes: "MidJourney prompt: a power button, game isometric 2D style --ar 16:9"
 
 {{< toot "https://douchi.space/@mtfront/105077521491223912" >}}
 
-不料后来大概是这个名字传播开来也与一些博友共鸣，最近已经看到两三位博主开始用这个名字。一开始号召大家参与的 tag 公用无可厚非，但要写月刊的话还是有点个人辨识度的好。
+不料后来大概是这个名字传播开来也与一些博友共鸣，最近已经看到两三位博主开始用这个名字。一开始号召大家参与的 tag 公用无可厚非，但要写月刊的话还是有点个人辨识度的好。遂一拍脑门起了这个更有个人风格的名字。
 
 ## 物
 前阵子终于把开始写月刊之后疏忽更新了的[剁手安利数据库](https://mtfront.notion.site/mtfront-shopping-reviews-e568ee6ebaa44b5da146cbe4ac4663eb)给一口气更新了！现在月刊改双周刊，更新工作量减小，不知道能不能成功保持及时更新。
