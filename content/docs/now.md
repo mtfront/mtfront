@@ -18,7 +18,7 @@ BookComments: False
 ## 近期中意
 - 📚 [`Feathers`](https://amzn.to/48tQ0X3) by Thor Hanson
 - 📚 [`Chip war`](https://amzn.to/48qMsEA) by Chris Miller
-- 🎮 [`Dredge`](https://neodb.social/game/20slbMvBANRjuFHdSjNjDW)
+- 🎮 [`Dredge`](https://douchi.space/@mtfront/111773440391080211)
 - 📷 [`Insta360 Go 3`](https://amzn.to/3vkYL76)
 - 🎲 [`爆炸猫`](https://amzn.to/47Bznar)
 - 🧘 [`Geologie Co-Wash`](https://amzn.to/3tM9O8Z)
@@ -29,10 +29,10 @@ BookComments: False
 - 搞个游戏的 backlog 减小每次开玩的阻力
 
 ## What's new
-- `2024-10-15` 热力图更新了每天多篇文章显示
+- `2024-01-17` 添加了 neodb 卡片，更新了一篇[装修小记]({{< relref "/posts/2024-01/11-blog-decoration-2" >}})
+- `2024-01-15` 热力图更新了每天多篇文章显示
 - `2024-01-10` 添加了前后博文导航 
 - `2024-01-04` 添加了[动态热力图]({{< relref "/posts/2024-01/3-hugo-blog-heatmap" >}}) 
 - `2024-01-01` 评论区迁移到了 [twikoo]({{< relref "/posts/2024-01/1-comments-twikoo" >}}) 
-- `2023-12-28` 受了 [rexarski.log](https://rexarski.com/now/?utm_source=blog.douchi.space) 和 [ouroboros](https://blog.pursuitus.com/now?utm_source=blog.douchi.space) 启发也建了这个 now 页面 
 
 

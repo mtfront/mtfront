@@ -28,7 +28,7 @@ bookToc: false
 
 在模版本身的 partial 和 shortcode 里突击了一下凑合出来下列代码。
 
-```
+```javascript
 // themes/{我的主题}/layouts/partials/docs/random.html
 <script>
   function goToRandomPost() {
@@ -47,7 +47,7 @@ bookToc: false
 
 Shortcode 版 script 完全一样，显示部分加了两个参数方便在文章里 customize，第一个参数控制要现实什么文字，第二个参数控制是链接形式还是按钮形式。
 
-```
+```go
 // themes/{我的主题}/layouts/shortcodes/random.html
 {{- if eq (index .Params 1) "button"}}
   <a onclick='goToRandomPost()' class="book-btn">{{ index .Params 0}}</a>
