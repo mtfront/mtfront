@@ -6,12 +6,12 @@ bookToc: false
 ---
 <!-- ![](dino.gif) -->
 ## About
-- 女｜弯
+- 女的，弯的 `本来觉得不重要但实在被“原来你是{女的/男的/直的/弯的/gay/les}，我一直以为你是{男的/女的/弯的/直的/les/gay}！”排列组合（通常是错的）感叹句搞烦了，last time I checked 我不写黄文啊这真的那么重要吗……`
 - 曾用名：黄信滚、孟飞升
 - 现居美国西雅图粗糙码农
 - 单机游戏玩家，PC 厨，电影、电子产品爱好者
-- 果黑，索黑，讨厌滑雪、密室逃脱、客服电话
-- 写了二十年博客，前两年入坑 pixel art，2023 开始做[播客]({{< relref "/posts/2023-archive/2023-01-18-podcast-bgm" >}})，持续寻找新创作媒介中
+- 果黑，索黑，讨厌小孩、滑雪、密室逃脱、客服电话
+- 写了二十年博客，前两年入坑 [pixel art]({{< relref "/posts/2023-archive/2020-08-09-100-days-of-pixel-art" >}})，2023 开始做[播客](https://blog.douchi.space/podcast-bgm)，持续寻找新创作媒介中
 
 ## 支持我的博客创作并且获得一些金主福利
 {{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
@@ -25,7 +25,7 @@ bookToc: false
 [![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/telegram.png)](https://t.me/mtfront) Telegram 日常看到有意思的东西剪报 \
 [![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/mastodon.png)](https://douchi.space/@mtfront) 长毛象日常碎碎念 \
 [![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/douban.png)](https://www.douban.com/people/mfcndw/) 豆瓣书影游更新，更全无码的在[书影游精神仓库](https://mtfront.notion.site/2485c762efe040b988531aaa3e45ad25) \
-[![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/discord.png)](https://discord.gg/cESS4JpsdG) Discord 站点更新通知 
+[![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/discord.png)](https://discord.gg/cESS4JpsdG) Discord 社群实时交流
 
 ## Footprints
 {{< iframe "https://www.google.com/maps/d/embed?mid=1v4chfysQdXJw9332M9TJOAc4nFeyaac&ehbc=2E312F" "100%" 500 >}}
