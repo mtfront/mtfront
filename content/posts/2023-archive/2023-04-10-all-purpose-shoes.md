@@ -50,7 +50,7 @@ tags:
 加拿大新晋网红鞋，主打普通鞋的样子（而不是雨靴样）但透气防水。之前在我的 [2022 EDC & Travel Setup][1] 中有提到过，也在长毛象上安利多次了。我买的是 weekend sneaker，就是正常板鞋的样子，它家也有跑鞋运动鞋等别的款式，共同点都是防水。
 
 {{< columns >}} <!-- begin columns block -->
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2023/04/Screen-Shot-2023-04-10-at-10.10.03-PM-546x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2023/04/Screen-Shot-2023-04-10-at-10.10.03-PM-546x1024.png)
 听有人说过觉得 weekend 头太宽，我一开始拿回来自己看也觉得是，但是从别人的角度看就不宽……而且穿久了觉得脚趾空间大比别的细头鞋舒服。
 
 <---> <!-- magic separator, between columns -->
@@ -70,7 +70,7 @@ tags:
 
 去年 Tom Sachs 和 Nike Craft 联名出的一款走 vanilla、复古风的 sneaker，目前应该总公出过白、黄、棕三批颜色，原价 $110 按它远超 nike 近年来偷工减料 sneaker 质量，更接近 boots 的制作工艺来说非常良心了。其中白色个人觉得最 versatile 也是最先出的一批，买的时候加价到 $200 左右，也不算太贵。<figure class="wp-block-image size-large">
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2023/04/Screen-Shot-2023-04-10-at-10.01.57-PM-1024x887.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2023/04/Screen-Shot-2023-04-10-at-10.01.57-PM-1024x887.png)
 
 喜欢的地方
 
@@ -79,7 +79,7 @@ tags:
   * 也是打个死结一脚蹬不用系鞋带
   * 非常扎实的橡胶底，抓地力挺强，刚买回来没多久去了次 Joshua Tree（下图），四脚着地爬石头还蛮有信心的<figure class="wp-block-image size-large">
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2023/04/MTXX_MH20230410_214232806-1024x768.jpeg "危险的边缘试探.jpg")
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2023/04/MTXX_MH20230410_214232806-1024x768.jpeg "危险的边缘试探.jpg")
 危险的边缘试探.jpg
 
 缺点是不怎么防水（本来卖点也不是这个），而且会比 vessi 和 allbirds 闷一些，之前去夏威夷的时候穿它有感受到脚闷。

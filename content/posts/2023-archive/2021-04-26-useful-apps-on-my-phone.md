@@ -42,9 +42,9 @@ tags:
 {{< columns >}}
 再比如我通过一年的记录发现睡眠时间长（我的标准是 fitbit 统计睡 7h15m 以上）跟情绪并无相关性（左图1）。发现这点之后，我就把我的“good sleep“和”long sleep“分开了，然后分别 track 睡眠时间和睡眠质量。过去的一个月中，果然发现“long sleep”并不一定跟情绪相关，反倒是“good sleep“倒是有轻微地加成。这下我可以更放心的调整睡眠计划，而不是一味地追求“早睡”或者“睡得多”了。
 <--->
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/04/Screenshot_20210426-162926_Daylio-554x1024.jpg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/04/Screenshot_20210426-162926_Daylio-554x1024.jpg)
 <--->
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/04/Screenshot_20210426-163026_Daylio-588x1024.jpg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/04/Screenshot_20210426-163026_Daylio-588x1024.jpg)
 {{< / columns >}}
 
 此外，还有 Year in Pixels （一开始让我入坑的功能）方便加到年终总结、可爱的表情包、可调的多种好看配色，以及比很多专门用来 track goal/habit 的 app 都好用得多的 goal tracking 功能。
@@ -77,9 +77,9 @@ tags:
 
 壁纸同类 App 很多了，我没有横向对比过太多，用到 Walli 觉得质量非常高就立刻买 premium 了。此外 premium 有 playlist 的功能，可以自己定义时间自动更换 playlist 里的壁纸，杜绝看腻。当然有特别喜欢的也可以随时暂停。上面不同画风的 artist 也很多，从浮夸的到极简的都有，各种口味的人应该都能找到喜欢的风格。此外还能订阅喜欢的 artist。
 {{< columns >}}
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/04/Screenshot_20210426-171144_Walli-4K-476x1024.jpg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/04/Screenshot_20210426-171144_Walli-4K-476x1024.jpg)
 <--->
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/04/Screenshot_20210426-171354_Walli-4K-476x1024.jpg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/04/Screenshot_20210426-171354_Walli-4K-476x1024.jpg)
 {{< / columns >}}
 
 ## **掌中鸟类图鉴 – Merlin**
@@ -89,11 +89,11 @@ tags:
 [开始手机观鸟生涯之后](../the-perfect-phone-for-casual-bird-lover-samsung-galaxy-s21-ultra-one-month-later/)就离不开这个 app 了，比起以前的鸟类爱好者看到鸟要拿出一大本厚书来查找方便太多了。
 
 {{< columns >}}
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/04/Screenshot_20210426-171753_Merlin-Bird-ID-476x1024.jpg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/04/Screenshot_20210426-171753_Merlin-Bird-ID-476x1024.jpg)
 <--->
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/04/Screenshot_20210426-171746_Merlin-Bird-ID-476x1024.jpg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/04/Screenshot_20210426-171746_Merlin-Bird-ID-476x1024.jpg)
 <--->    
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/04/Screenshot_20210426-171848_Merlin-Bird-ID-476x1024.jpg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/04/Screenshot_20210426-171848_Merlin-Bird-ID-476x1024.jpg)
 {{< / columns >}} 
 
 ## **每天一秒记录生活 – 1SE**
@@ -109,13 +109,13 @@ One Second Everyday，name says it all，就是每天加一个 1 秒的视频，
 我不是 GTD 爱好者也没有过多对比过 todo list 产品，用过的只有 apple reminders, wunderlist, any.do 和 TickTick。之前探索 alternative 的时候短暂试过 microsoft todo 和一些其他 App 似乎也没有比 ticktick 更满意的。跨平台是刚需，所以排除掉了一大堆 apple only app。wunderlist 以前用过很长一段时间，但 UI 老旧外加功能也普普通通就放弃了。
 
 {{< columns >}}
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/04/Screenshot_20210426-172705_One-UI-Home-1024x499.jpg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/04/Screenshot_20210426-172705_One-UI-Home-1024x499.jpg)
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/04/Screenshot_20210426-172723_TickTick-1024x638.jpg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/04/Screenshot_20210426-172723_TickTick-1024x638.jpg)
 
 TickTick 我最喜欢的两个功能都是轻量、快速、get things done：安卓的通知栏快捷添加任务，和 Mac 的通知栏快速打开。其他的诸如 subtask、list、自动识别日期、widget 等都是其他竞品也有的就不多说了。而且我能用到的功能全是免费的，
 <--->
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/04/Screen-Shot-2021-04-26-at-5.26.02-PM-605x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/04/Screen-Shot-2021-04-26-at-5.26.02-PM-605x1024.png)
 {{< / columns >}}
 
 ## **Fasting Tracker**
@@ -127,9 +127,9 @@ TickTick 我最喜欢的两个功能都是轻量、快速、get things done：�
 这个 app literally 就是我随便在 play store 里搜 fasting tracker 出现的，UI 还算舒服，免费功能也够用，就一直用下去了。其实这么简单的功能你手动记也可以还做数据可视化方便，但是有个 app 随时 track 还能在通知栏提醒时间的话成功率我感觉高一点，有种“再坚持几十分钟就成功了”的督促感。
 
 {{< columns >}}
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/04/Screenshot_20210426-173351_Fasting-Tracker-476x1024.jpg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/04/Screenshot_20210426-173351_Fasting-Tracker-476x1024.jpg)
 <--->    
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/04/Screenshot_20210426-173357_Fasting-Tracker-476x1024.jpg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/04/Screenshot_20210426-173357_Fasting-Tracker-476x1024.jpg)
 {{< / columns >}}
 
 ## **空气质量监控 – AirVisual**
@@ -139,11 +139,11 @@ TickTick 我最喜欢的两个功能都是轻量、快速、get things done：�
 有两个功能我比较喜欢，一是常驻通知栏（当然可以关），比 widget 用起来方便（当然喜欢 widget 的话也有多种 widget 可选）。二是 IQAir 的可以随便 zoom in 的地图很方便，可以看看污染源从哪来的。当然还有空气质量预报什么的，可以作为出行计划参考。
 
 {{< columns >}}
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/04/Screenshot_20210426-173934_One-UI-Home2-1024x178.jpg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/04/Screenshot_20210426-173934_One-UI-Home2-1024x178.jpg)
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/04/Screenshot_20210426-174046_AirVisual-550x1024.jpg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/04/Screenshot_20210426-174046_AirVisual-550x1024.jpg)
 <--->
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/04/Screenshot_20210426-174003_AirVisual-476x1024.jpg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/04/Screenshot_20210426-174003_AirVisual-476x1024.jpg)
 {{< / columns >}}
 
 

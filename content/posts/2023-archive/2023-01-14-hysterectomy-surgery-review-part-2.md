@@ -4,7 +4,7 @@ author: 椒盐豆豉
 type: post
 date: 2023-01-14T08:22:41+00:00
 url: /hysterectomy-surgery-review-part-2/
-image: https://s3.nl-ams.scw.cloud/mtfront-blog/2023/01/Liberty-Leading-the-People-oil-canvas-Eugene-1830.webp
+image: https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2023/01/Liberty-Leading-the-People-oil-canvas-Eugene-1830.webp
 ig_es_is_post_notified:
   - 1
 categories:
@@ -58,7 +58,7 @@ tags:
 ### 手术 prep
 
 手术区就只有我本人和医护人员可以进去了。里面有很多个三面有墙一面是帘子的恢复室，里面放着一张有轮子直接可以推去手术的担架床、心电图、血压等各种检测设备，还自带厕所，我出来之后才想起来拍一张：
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2023/01/image-1-2048x1536.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2023/01/image-1-2048x1536.png)
 
 护士大叔给了我几个大塑料袋子把我自己的衣物放进去，换上了那种屁股开口的病号服之后就乖乖躺在床上。床上还会有个充热气的塑料垫子给我盖着，确保腿部血液循环。让我自己收集点尿来尿检，我拿着小量杯进厕所一蹲下就尿了完全忘了要收集这事……想起来为时已晚，死憋活憋别出来两滴。不过尿检主要目的应该是看有没有怀孕，我百分之 8000% 知道自己没怀所以没有太担心。
 
@@ -84,7 +84,7 @@ tags:
 
 回家之后就基本一直在床上躺着，照顾我的朋友们煮好了鸡汤晚上成功吃了一点。还是痛经的感觉，一直在用暖宝宝小鳄鱼暖着（说到这个小鳄鱼，之前去奥兰多玩感觉很有当地特色又能当痛经暖宝宝就顺手买了，然后意识到不对啊我马上就不用痛经了，但没想到做手术还是用上了哈哈哈）。瞌睡还是特别多，醒来几次都又睡回去了。期间大概三小时交替吃一次泰诺和布洛芬，没有疼到觉得要吃 oxycodone 的程度就没吃。到下午基本上就能比较稳地自己起床、上厕所、走来走去了。<figure class="wp-block-image size-large">
 
-![小鳄鱼暖宝宝](https://s3.nl-ams.scw.cloud/mtfront-blog/2023/01/image-2-2048x1536.png)
+![小鳄鱼暖宝宝](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2023/01/image-2-2048x1536.png)
 
 ## 短期恢复（Day 1～Day 7）
 
@@ -125,7 +125,7 @@ Spotting 停止了。
 开车完全正常了，这篇文章就是在从西雅图到加州的 road trip 里在 motel 里写的。甚至今天开了 8 小时没觉得累考虑了一下要不要一下开去湾区，最后觉得要住朋友家有点社恐需要自己的空间而作罢。出远门不用计算月经时间和要带多少棉条卫生巾纸尿裤真是太爽了！！！！！！！！比我干过所有的女权活动都 liberating！！！！
 
 锻炼方面，不失去锻炼能力都不知道我这么爱锻炼……不能锻炼好难受。已经在克制不提 10 磅以上的物品了，但是帮朋友 cat sit 猫跑了被迫抱过几次。另外手贱还引体向上过两次，好像也还好，但引体向上和俯卧撑的正式训练没敢恢复。在家用哑铃的 plates 小重量举了几次铁。hiking 还没敢走 medium 的，easy 的已经随便走了几个了。kayak 还没敢去。前两天刚去爬最简单的墙复健了一下，没敢爬用 core 的 overhang，用手的简单的爬得挺正常也没觉得累。
-![应猫主人和粉丝要求加入猫照](https://s3.nl-ams.scw.cloud/mtfront-blog/2023/01/image-3-1536x2048.png)
+![应猫主人和粉丝要求加入猫照](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2023/01/image-3-1536x2048.png)
 
 还在尊医嘱 6 周之内不能泡澡游泳。好想泡澡！
 

@@ -33,11 +33,11 @@ bookToc: false
 大体长这个样子：
 <!--more-->
 {{< columns >}}
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/04/Screen-Shot-2022-04-27-at-9.12.19-PM.png)
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/04/Screen-Shot-2022-04-27-at-9.20.38-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/04/Screen-Shot-2022-04-27-at-9.12.19-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/04/Screen-Shot-2022-04-27-at-9.20.38-PM.png)
 <--->
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/04/Screen-Shot-2022-04-27-at-9.20.17-PM.png)
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/04/Screen-Shot-2022-04-27-at-9.21.12-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/04/Screen-Shot-2022-04-27-at-9.20.17-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/04/Screen-Shot-2022-04-27-at-9.21.12-PM.png)
 {{< / columns >}}
 
 在之前无数次的豆瓣逐步收紧审查之中已经无数次考虑过备选方案，但最后都没有实施。其中包括但不限于如下选项：

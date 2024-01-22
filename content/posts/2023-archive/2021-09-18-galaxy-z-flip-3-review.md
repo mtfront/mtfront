@@ -7,7 +7,7 @@ url: /galaxy-z-flip-3-review/
 enclosure:
   - |
     |
-        https://s3.nl-ams.scw.cloud/mtfront-blog/2021/09/20210827_210644_1.mp4
+        https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/09/20210827_210644_1.mp4
         2031888
         video/mp4
         
@@ -34,7 +34,7 @@ tags:
 ## **What worked**
 
 ### **开屏时相对熟悉的“正常”手机体验**
-[点击此处查看视频我迁移懒得转成 gif 了 orz](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/09/20210827_210644_1.mp4)
+[点击此处查看视频我迁移懒得转成 gif 了 orz](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/09/20210827_210644_1.mp4)
 
 我毫不犹豫选了 Z flip 而丝毫没考虑过 Z fold 的原因是，平板在我的日常中本来就是一个特别少的使用场景，只有在家锻炼看视频和躺在床上看书的时候会用到。而 Z fold 的牺牲（厚、重、大）换来的更大的屏幕面积也没有大到可以当移动办公平板的程度，对我而言得不偿失。
 
@@ -46,11 +46,11 @@ tags:
 
 ### **合上时的便携小巧**
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/09/20210904_141425-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/09/20210904_141425-1024x768.jpeg)
 
 这也是我买折叠屏手机最看重的一点。出门很少带包，手机揣裤兜里的我在旗舰手机越来越大，坐下或者蹲下捡东西系鞋带时候都得调整位置，活动不便。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/09/20210904_141110-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/09/20210904_141110-1024x768.jpeg)
 
 上下折叠屏解决了这个问题，轻松塞进任何正常 size 的裤兜而不影响行动。各片的厚度比正常手机薄一些，因此合起来即便超过两倍厚度也不会觉得过于 chunky。小小一个拿在手上把玩了一周也没腻。
 
@@ -61,9 +61,9 @@ tags:
 这个外屏现在能显示三星内置的六个 widget，包括 notification、闹钟、天气、日历、音乐控制（我用的 spotify 完美支持）等。平时合上的时候敲敲屏幕可以唤醒，快速看标记推送已读等。
 
 {{< columns >}} 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/09/20210827_222038-1024x1024.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/09/20210827_222038-1024x1024.jpeg)
 <--->
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/09/20210827_222044-scaled-e1632013000571-1024x1024.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/09/20210827_222044-scaled-e1632013000571-1024x1024.jpeg)
 {{< / columns >}} 
 
 当然，最炫技的应用还是用小屏幕当 view finder 然后用后摄自拍。后摄的画质自然也比软绵绵的前摄强不少。
@@ -111,7 +111,7 @@ Z flip 3 只能 pin 一个 App 就算了，后台杀 App 非常激进，导致�
 
 但由奢入俭难，当只能选两颗镜头的时候，我肯定 chose 超广角 over 长焦。但，在[已经被 S21 Ultra 四颗超长焦惯坏了](../best-smartphone-yet-samsung-galaxy-s21-ultra-review/)之后，Z flip 3 的摄像系统就成了一个不能忽略的大短板。优质的长焦这种东西是你有的时候觉得没用，但失去了之后追悔莫及的东西。少了颗长焦，保证画质的情况下构图就算了，拍动物、拍鸟什么的完全别妄想。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/09/20210905_155316-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/09/20210905_155316-1024x768.jpeg)
 
 这是 z flip 3 数字变焦 zoom 到最大幅度（似乎是 5x）的图。几年前这个糊度或许还能勉强接受，但出门左传[去看看我 S21 Ultra 那篇观鸟大爷测评（30x 差不多这个画质）](../the-perfect-phone-for-casual-bird-lover-samsung-galaxy-s21-ultra-one-month-later/)之后，就很难再接受这种程度的 zoom 了。
 

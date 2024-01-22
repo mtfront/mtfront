@@ -34,7 +34,7 @@ tags:
 
 在我去年上一份工作还没有辞掉的去年底，我终于醒觉 pandemic 以来被破坏掉的作息时间实在是不 sustainable。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/09/Screenshot_20210922-225304_Oura-1024x432.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/09/Screenshot_20210922-225304_Oura-1024x432.jpeg)
 
 这是我今年来的月平均睡眠时间。纵轴越高代表睡得越晚。可以看到在去年底我的平均睡眠时间已经接近凌晨 3 点。这是包括工作日的睡眠时间，也就是说在早上 9:30 要起来 standup 的情况下我还是大多数时间接近 3 点才睡的，不厌班才怪。
 
@@ -99,9 +99,9 @@ Water Fasting 先前被家属安利过，不上班在家没事干的时候试图
 一开始基本上 IF 三四天就会休息一两天（休息的那天照常吃午饭和晚饭），过了几周之后基本就忘了要休息这回事，经常连续 IF 一两周。
 
 {{< columns >}}
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/09/Screenshot_20210922-225527_Fitbit-476x1024.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/09/Screenshot_20210922-225527_Fitbit-476x1024.jpeg)
 <--->
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/09/Screenshot_20210922-225556_Fitbit-476x1024.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/09/Screenshot_20210922-225556_Fitbit-476x1024.jpeg)
 <--->
 左图分别是我一年来的体重和体脂率趋势。效果立竿见影。
 

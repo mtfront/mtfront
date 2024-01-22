@@ -103,7 +103,7 @@ The shot you can get with a “real” camera definitely is worth it, for the pr
 
 From this:
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/DSC03231-01-1024x683.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/DSC03231-01-1024x683.jpeg)
 
 Compared to this:
 
@@ -140,7 +140,7 @@ I also appreciate the high quality 3x lens that unlock me to take that 50mm equi
 
 Any previous phone I use that has a 2x or 3x zoom lens sacrifice a lot of quality or stabilization, not this one. Now I don’t need to think about the trade off of perspective and quality. Since the 3x lens have pretty decent quality I can simply choose based on subject’s best perspective.
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/20210311_185148-01-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210311_185148-01-1024x768.jpeg)
 
 ![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210311_185200.jpg)
 

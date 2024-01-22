@@ -70,7 +70,7 @@ Kindle notes 导出是我的第一个 chrome 插件，当时刚刚开始[构建�
 
 此外，简单明了的 icon 也不能少，不然看着默认的灰色 icon 我都不想点开它测试。因为我的插件是导出 Kindle notes 到 CSV（以便导入 notion）， 我就拿来 Kindle 的 icon 和 notion 的 icon P 了这么一个 图标，竟然还挺满意的（icon 只需要 128 x 128 因此没做高清版）：
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/07/1-1024x236.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/07/1-1024x236.png)
 
 写好 `popup.html` 之后，在 `manifest.json` 里，将图标和其点击动作指向刚刚写好的界面和 logo：
 
@@ -85,7 +85,7 @@ Kindle notes 导出是我的第一个 chrome 插件，当时刚刚开始[构建�
 
 刷新 app，刚刚写好的页面正确显示，再进行一些 style 微调，保存所见即所得测试起来很方便，界面部分基本就写完了：
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/07/Screen-Shot-2022-07-19-at-12.08.10-AM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/07/Screen-Shot-2022-07-19-at-12.08.10-AM.png)
 
 ## **添加逻辑**
 

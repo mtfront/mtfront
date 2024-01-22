@@ -64,7 +64,7 @@ tags:
 
 双人的 papasan chair 更为 versatile —— 因为还能横着躺。因为 papasan chair 底座和上面的“碗”是分开的，因此还能调整碗的角度变成一个床。因为本身是弧形的所以往哪个方向靠着都有 back & neck support。瓜片认证俩人窝在上面很舒服。和豆袋配合使用如下图：
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/03/20220305_012623-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/03/20220305_012623-1024x768.jpeg)
 
 需要注意的是，这种沙发一般 cushion 和下面的架子是分开卖的，注意不要买错。我买的时候亚麻上只看到双人的垫子没有架子，最后好不容易在 wayfair 上找到。（另外不知道为啥只过了一个多月现在比我买的时候涨价了一倍）
 
@@ -193,9 +193,9 @@ Desk setup 之前写过，不再赘述。（[可能会依据 Patreon 投票出 2
 （下图左外套）天气热了老穿羽绒那件有点热，遂买了差不多风格一件单的。
 
 {{< columns >}} 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/03/20220305_023946-2048x2048.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/03/20220305_023946-2048x2048.jpeg)
 <---> 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/03/20220120_222245.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/03/20220120_222245.jpeg)
 {{< /columns >}}
 
 

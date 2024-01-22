@@ -4,7 +4,7 @@ author: 椒盐豆豉
 type: post
 date: 2022-11-07T05:40:09+00:00
 url: /hysterectomy-fighting-period-part-1/
-image: https://s3.nl-ams.scw.cloud/mtfront-blog/2022/11/800px-Judith_Beheading_Holofernes_-_Caravaggio.jpeg
+image: https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/11/800px-Judith_Beheading_Holofernes_-_Caravaggio.jpeg
 ig_es_is_post_notified:
   - 1
 categories:

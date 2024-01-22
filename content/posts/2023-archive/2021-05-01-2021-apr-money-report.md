@@ -61,7 +61,7 @@ tags:
 
 哇这个月支出真的少得可怜，没比平时多多少的餐厅支出都能排到第三。另外这个月也贡献出了我自疫情以来第一次堂食，感觉全世界只有我在疫情状态了，雪场真的一切如常……
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/05/20210419_180707-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/05/20210419_180707-1024x768.jpeg)
 
 ### 旅行 – 2.0%
 
@@ -107,7 +107,7 @@ tags:
 ![](https://media.douchi.space/douchi/media_attachments/files/106/138/771/940/971/231/original/c3eaacc4ad6ddce0.png)
 
 ### 食物
-![weee 上新发现了一款甜品不错，成了我除了抹茶千层之外的新欢。](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/05/20210430_150656-scaled-e1619910285560-1024x768.jpeg)
+![weee 上新发现了一款甜品不错，成了我除了抹茶千层之外的新欢。](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/05/20210430_150656-scaled-e1619910285560-1024x768.jpeg)
 
 ### 书
 

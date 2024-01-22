@@ -40,15 +40,15 @@ tags:
 - 多个小卫星城 + suburb 的城市布局使得喜欢城市生活和喜欢乡村生活的人都 compromise 比较小（比如我就住在湾区大农村，喜欢平时清净、开车方便、停车免费、地方大等农村生活，要享受城市生活也可以比较短的时间内开车、打车、轻轨、坐船等方式进城），因为城市也比较小（SF downtown 跟比如曼哈顿、芝加哥等比非常小）所以进出也较为方便
 - 气候宜人四季如春，阳光足，非常适合我这种向阳生物。（补后院蹭柠檬花香听鸟叫晒太阳图一张)
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/05/20210331_151909-scaled-e1620433164890-768x1024.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/05/20210331_151909-scaled-e1620433164890-768x1024.jpeg)
 
 - 邻里可以散步的小公园蛮多的，这是我家旁边步行去的小公园
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/05/PXL_20201225_000305680-01-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/05/PXL_20201225_000305680-01-1024x768.jpeg)
 
 - 有海（虽然很冷且没什么沙滩，1 号公路也真的很好看）、有湿地、有森林（世界驰名商标红木本地就有，开车 day trip 也能去真正的巨大红木林）、有荒漠、有草原，4 小时车程内有滑雪和水上运动的大湖、世界级的旅游景点（Yosemite, Sequoia，红木等）。我本来以为大农村会 trail 更多但是上次被人科普湾区有很多世界级的 trails 很适合户外爱好者（前面也说了大城市的好处所以宅的人也非常适合）。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/05/Photo_6553669_DJI_69_jpg_4085988_0_202122416114_photo_original-01-1024x576.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/05/Photo_6553669_DJI_69_jpg_4085988_0_202122416114_photo_original-01-1024x576.jpeg)
 
 - 去 Oregon 买免税东西、去 LA 吃亚洲菜、去 Vegas/Reno 赌、去夏威夷度假等都相对方便。
 - Last but not least，我！不！鼻！炎！可以自由呼吸！二十多年 literally 窒息睡不着太难受了。当然这条对中国之外的地方似乎都适用。而且也有很多人来美国/湾区几年之后 develop 了花粉过敏，经历过那种难受二十多年的我深表同情，所以大家还是机动性大一点不要在一个地方绑死，鼻炎/过敏这东西惹不起躲得起。
@@ -112,7 +112,7 @@ tags:
 
 这是家附近开车十几分钟到的 trail：
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/05/IMG_20201024_133036-01-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/05/IMG_20201024_133036-01-1024x768.jpeg)
 
 ## **一年四季你会有特别喜欢的季节吗？**
 

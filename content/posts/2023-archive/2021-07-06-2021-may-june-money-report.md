@@ -74,7 +74,7 @@ tags:
 
 另外说到体重，这是三个月 intermittent fasting 还是整体上有效的，体重居然来到了两年来最低。右图是过去一年的体重 trend。
 <--->
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/07/Screenshot_20210705-233241_Fitbit-852x1024.jpg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/07/Screenshot_20210705-233241_Fitbit-852x1024.jpg)
 {{< / columns >}}
 ### 玩具 – 2.4%
 
@@ -102,19 +102,19 @@ Despite the horrible name，这一代的降噪豆这的 check a lot of boxes。�
 
 这件一在长毛象上被安利就人手一件不是没原因的。除了本身设计就结实好看之外，每个按键都是能按下去的，而且还会有传纸带来模拟打字时候纸的位移，实在是打字爱好者和机械类乐高爱好者的 dream set。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/07/Screen-Shot-2021-07-06-at-12.15.45-AM-1024x910.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/07/Screen-Shot-2021-07-06-at-12.15.45-AM-1024x910.png)
 
 ### [Lego 盆栽](https://amzn.to/3jS8Ssh)
 
 先前没货一起买的。这种小型的乐高又适合送礼，拼好了又能当个不错的装饰，太会赚钱了。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/07/Screen-Shot-2021-07-06-at-12.13.14-AM-976x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/07/Screen-Shot-2021-07-06-at-12.13.14-AM-976x1024.png)
 
 ### 零食 – [Snowbits Sweet](https://snowbitssweet.com/)
 
 Discord 群安利的甜品，买的时候还觉得买够包邮 40 块好像有点太多，回来一吃发现根本停不下来。肯定回购
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/07/image-1024x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/07/image-1024x1024.png)
 
 ### 书
 

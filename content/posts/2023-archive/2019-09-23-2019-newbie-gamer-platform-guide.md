@@ -100,7 +100,7 @@ VR 游戏起步了几年，至今只有《节奏光剑》（Beat Saber）一款�
 
 随便玩玩（只想买一台游戏机试试看）(Google slides 渣格式对不齐急死我了）
 
-![1.1 版选择树：1. 增加碎片时间选项；2. 减少 VR 权重](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/04/Screen-Shot-2021-04-14-at-1.12.06-PM-1024x895.png)
+![1.1 版选择树：1. 增加碎片时间选项；2. 减少 VR 权重](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/04/Screen-Shot-2021-04-14-at-1.12.06-PM-1024x895.png)
 
 ## FAQ
 

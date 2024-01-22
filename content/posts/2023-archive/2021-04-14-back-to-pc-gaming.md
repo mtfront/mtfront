@@ -15,7 +15,7 @@ tags:
 
 在此”默认游戏平台“指，**如果一个游戏是跨我拥有的其他平台的话，我会优先选择购买的版本。**
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/04/IMG_0963-2048x1366.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/04/IMG_0963-2048x1366.jpeg)
 
 ## **数量最多、种类最丰富的游戏**
 
@@ -25,10 +25,10 @@ tags:
 
 而实际上，PC game 和 console game 的市场份额在世界范围内其实一直不相伯仲。因此即便有毫无必要的从众心理，也大可不必担心 PC 游戏不够玩。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/04/image.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/04/image.jpeg)
 [Source:](../back-to-pc-gaming/) [50 years of game history, by revenue stream (1970 – 2020)](https://www.visualcapitalist.com/50-years-gaming-history-revenue-stream/)
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/04/Screen-Shot-2021-04-14-at-1.00.21-PM-1024x753.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/04/Screen-Shot-2021-04-14-at-1.00.21-PM-1024x753.png)
 source: [wepc video game statistic](https://www.wepc.com/news/video-game-statistics)
 
 ### **键鼠天然优势适用游戏更多**

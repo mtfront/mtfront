@@ -19,7 +19,7 @@ bookToc: false
 
 目前暂时想法是做成读书、游戏、电子产品、互联网摘录型的内容摘录剪报，不会再发非分享性质的个人观点（那些会发到 either twitter or 长毛象，可以在本博客的 “Where to find me” 边栏找到）。试运行一段时间再考虑要不要搞成真正的 newsletter。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/Screen-Shot-2021-03-15-at-11.59.19-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/Screen-Shot-2021-03-15-at-11.59.19-PM.png)
 
 这是我的第一条 post，形式还在探索中，有视频有图有分享链接也会加入，大体形式是原文摘录 + 中文翻译 + 我的评论 + 相关链接、图像、视频 + 分类 tag。
 

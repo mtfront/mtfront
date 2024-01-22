@@ -76,7 +76,7 @@ Productivity 圈有个很流行的方法就是把 focus time，aka 自己想干�
 
 此外可以活用子 calendar（这个东西应该就叫“calendar”，但为了不和整个 service 弄混我就叫它子 calendar 了）来管理不同类型的 event（我基本不用 event color）。客户端上可能不会有，网页版也埋在 setting 里。但是基本上 calendar 就是那个添加了之后可以灵活勾选 hide/unhide 这个 calendar 里所有东西。可以是自己创建的也可以 subscribe 别人的 calendar（美国工作的话应该经常用到，比如 engineer group 和各种 local 组织可能有自己的 calendar）。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2023/03/Screen-Shot-2023-03-26-at-1.12.15-AM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2023/03/Screen-Shot-2023-03-26-at-1.12.15-AM.png)
 
 上面提到的我自己的各类型的约都在一个 calendar 里，此外一些需要一目了然知道时间但不一定那些时间全被占用的我会新开 calendar。比如上图里 visitors 就是朋友们约好的要来我的城市访问的日期，这样给自己安排出游的时候不会发生朋友约了到访时间但还没约具体的局以至于在 calendar 上显现不出而忘掉结果冲突了的情况。之前我还来月经的时候还会有个生理期 calendar 现在用不掉了就 hide 了。下面那个 Pool schedule 则是我们 local pool 开放 lap swim 的时间过于迂回曲折，每次查时间太心累了，就花了一些时间把 schedule 整理到 calendar 上。但平时绝大多数时间不用看这个信息，因此用整个 calendar toggle untoggle 很方便。
 
@@ -95,9 +95,9 @@ Calendar view 并不能完全覆盖所有 time sensitive 的待办事项，比�
 ### 多个 entry point，随时随地超快输入
 
 安卓控制中心按钮（因为控制中心无论何时何地都能打开而无需回到桌面因此最快最顺手，iOS 可能只能用桌面 widget），直接开个悬浮框输入
-![安卓通知栏快捷键](https://s3.nl-ams.scw.cloud/mtfront-blog/2023/03/Screenshot_20230326_015236_One-UI-Home-1024x323.jpeg)
+![安卓通知栏快捷键](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2023/03/Screenshot_20230326_015236_One-UI-Home-1024x323.jpeg)
 
-![Mac 通知栏 widget](https://s3.nl-ams.scw.cloud/mtfront-blog/2023/03/Screen-Shot-2023-03-26-at-1.49.08-AM.png) 
+![Mac 通知栏 widget](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2023/03/Screen-Shot-2023-03-26-at-1.49.08-AM.png) 
 
 ### Deadline focused view
 
@@ -119,7 +119,7 @@ Calendar view 并不能完全覆盖所有 time sensitive 的待办事项，比�
 
 其实这个 focus list 也能集中在 todo list 里，但为了 backtrack 更方便（比如“过去一周我工作上干了啥”）以及不把没有真 deadline 的事项混入 todo list 稀释 todo list 的 today，就另选了媒介。其实一开始试过纸质版和 e-ink，但发现本真·字烂人士（就，完全不会对手帐、手写日记和明显片之类的产生任何要写的欲望，不是写了谦虚不好意思发的那种字烂，其实这么说来字烂是不爱写的因还是果都很难说），发现手写只有 friction 没有仪式感，于是就专电子版在 notion 里开了个 page 写了。形式大致如此：<figure class="wp-block-image size-full">
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2023/03/Screen-Shot-2023-03-26-at-2.49.22-AM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2023/03/Screen-Shot-2023-03-26-at-2.49.22-AM.png)
 
 这个 daily focus 其实是一个消除虚度光阴借口的软性 list。很多时候时间都是在一件事被 block 或者等一件事的时候随手刷刷 SNS 消耗掉的。如果不想 being productivy 就想摸鱼一天的话这样 perfectly fine，但往往更多情况是自己明明想 get things done 但没进入 flow 在 context switching 的 overhead 里消耗掉的，一天下来感觉啥也没干还很焦急。这个 list 的作用大致就是达成“想 being productive 但无处下手“的时候瞅一眼然后立刻开始干，而不是从脑海里或者公司 task board 的一堆乱麻里翻半天翻到都不想干了，的状态。
 

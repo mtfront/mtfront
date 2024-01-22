@@ -37,7 +37,7 @@ Needs Improvement 的：
 - 内容创作/side project 方面全军覆没，只写了一个[迷你 side project](https://github.com/mtfront/mastodon-og-only)，个人网站和游戏都没开始做，pixel art 也只做了一点点，blender 没学，新的输出形式也没探索（倒是今年初突然灵光一现了希望今年有成果）。最大的 side project 应该是 [automate 了豆瓣同步](../douban-notion-backup/)并[加了一些功能做了 notion 精神仓库](https://www.notion.so/2485c762efe040b988531aaa3e45ad25)。今年的 twitter 事件让 mastodon 再次出圈，让我意识到运营一个长毛象实例应该也可以算在我现在 identity 的一部分了。
 - 对 public speaking/presentation 只做了一点点完全不够的努力，并且不知道如何/不想 proceed，慢慢来吧
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2023/01/image.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2023/01/image.png)
 
 前两天 down 的时候觉得今年一事无成，现在冷静下来觉得多是 recency bias 自己不能拿 best year 去年来 calibrate。其实已经过得很好了，遇事 Taylor Tomlinson: You can’t have it all. 朋友说的异曲同工：你不能 expect 自己所有时候都很 productive。
 

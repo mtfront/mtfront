@@ -62,38 +62,38 @@ tags:
 
 去的地方是 [Dash Point State Park](https://www.notion.so/6395996f66104004a2871b0049ce5f63)，西雅图开过去半个多小时，园区很 cozy 的小树林像是后院 camping 不是特别野也有手机信号，小树林里有很多鸟鸣，camp site well shaded 很多房车，临海有片小沙滩是可以下去 kayak 的地方。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/05/20220430_143942_2-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/05/20220430_143942_2-1024x768.jpeg)
 
 到了营地熟悉了下环境，这个营地各个点之间还挺密集的，不是特别 private，但是 car camping 把车屁股朝里倒进去的话觉得完全没问题，也基本听不见什么吵闹声。
 {{< columns >}}
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/05/20220430_144414-scaled.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/05/20220430_144414-scaled.jpeg)
 
 <--->
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/05/20220430_145416-scaled.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/05/20220430_145416-scaled.jpeg)
 {{< /columns >}}
 在完全不怕人随便从我身边路过的小动物们注视下，吃掉了路上买的麦当劳（没错，讨厌做饭星人自己露营放开了吃快餐和方便食品）.
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/05/20220430_162556-2048x1536.jpeg)
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/05/20220430_173949-2048x1536.jpeg)
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/05/20220430_164552-2048x1536.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/05/20220430_162556-2048x1536.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/05/20220430_173949-2048x1536.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/05/20220430_164552-2048x1536.jpeg)
 
 {{< columns >}}
 下海的海滩上有很多人，飞速充好之后我就出发了。虽然天气预报只有 17 度，但是阳光晒着并不冷，下午的水也温度宜人，穿着短袖或者薄外套就很舒服。沿岸找到很多不通路只能船上的无人小海滩。
 
 沿岸还有很多 bald eagle。这应该是我开始分辨鸟了之后第一次见到 bald eagle（湾区我只见过 red tail hawk 和 turkey vulture）。我在水上漂着的时候竟然还看到疑似一只 bald eagle 在追捕一只海鸥。我本来以为是两只同类的鸟在飞最后定睛一看不对。它们盘旋了半天最后 bald eagle 似乎还来了只榜首，不过水上漂着外加很远的 30 倍变焦没拍清楚大家凑合看。
 <--->
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/05/20220430_161013-scaled-e1651443313370-1536x2048.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/05/20220430_161013-scaled-e1651443313370-1536x2048.jpeg)
 {{< / columns >}}
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/05/Screen-Shot-2022-05-01-at-3.19.44-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/05/Screen-Shot-2022-05-01-at-3.19.44-PM.png)
   
 {{< columns >}}
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/05/20220430_192120-scaled-e1651443299484-768x1024.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/05/20220430_192120-scaled-e1651443299484-768x1024.jpeg)
 划了三个多小时船之后天色渐晚，收拾东西回回到营地，用烧水壶烧了水泡了火锅冒菜，铺好床跟瓜片打了会儿电话吃了颗大麻糖就美美地一觉睡到天亮了。
 <--->
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/05/20220430_192025-2048x1536.jpeg)
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/05/20220430_194007-2048x1536.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/05/20220430_192025-2048x1536.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/05/20220430_194007-2048x1536.jpeg)
 
 {{< / columns >}}
 
@@ -102,7 +102,7 @@ tags:
 
 ## Verdict
 {{< columns >}}
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/05/20220430_133425-scaled-e1651442935324-768x1024.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/05/20220430_133425-scaled-e1651442935324-768x1024.jpeg)
 <--->
 没想到我的小车车 car camping 还挺舒服的，虽然没什么空间干别的，但是睡觉和靠着看书看电影还是可以的。加上船和所有东西也下楼两次就全部拿上了（主要是大垫子要单拿一次）。以及，我下次一定不偷懒不带小手推车了，这个 kayak 30 磅提着还是挺重的。
 

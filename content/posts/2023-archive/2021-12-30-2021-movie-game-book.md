@@ -25,13 +25,13 @@ tags:
 
 ## **年度电影五佳**
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/04/Screen-Shot-2021-04-21-at-11.39.24-PM-771x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/04/Screen-Shot-2021-04-21-at-11.39.24-PM-771x1024.png)
 
 ### **莫西 My Days of Mercy**
 
 故事走向和亲情感情法律线都特别棒。凯特玛拉的《纸牌屋》Zoey 给我的印象太深，整个人都是稳准狠，搭上这部 RV camp 隔着立场的鸿沟萍水相逢的邻家活泼主动姐姐角色特别诱人，跟楚楚可怜腼腆内敛的 Ellen 也很搭。Eliot 还是 Ellen 的时候就真的 man 到炸裂了，配凯特玛拉这种钢铁直女的小插曲对手戏太搭了。但我不太喜欢结尾的走向。直到姐姐拿出地图让大家选地方的时候还是有着 rv camp 和公路片那种野，监狱外的谢谢你来也不负沉重的剧情。但最后的重逢没把整部戏撑起来，有点失落。大概也就把房车那场戏重复看了几十遍吧，结尾瑕不掩瑜怒改 5 星，是我近年来看过最喜欢的姬佬片了可以跟《指匠情挑》在我心目中的地位相媲美。[我甚至专门为了它写了一篇个人 bias 极重的姬片安利总结。](../lesbian-movies-i-watched/)
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/12/p2755684064-691x1024.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/12/p2755684064-691x1024.jpeg)
 
 ### **最后的决斗 The Last Duel**
 
@@ -49,13 +49,13 @@ tags:
 
 全片弥漫着拉美 salsa 般热情的快乐，美食，公路，初心，quit bullshit job，food truck，说走就走到天涯的好兄弟，赢得敌人尊重，相敬如宾的红颜知己，神似 Margot Robbie 知情达理的前妻，没看卡司惊喜发现复联助阵亲友团居然不止寡姐，甚至现在看还有点 when social network is still cool 的时代的眼泪感。理想化到像个白日梦。加上毫不含糊的 food porn 和紧凑的节奏，虽然忙于工作疏于跟老婆孩子 bounding 工作也中年危机的破镜重圆剧情老套到不行，但无疑本片可能是我看过最好的一部，看完几个小时我脑内还在单曲循环刘欢老师“心若在，梦就在，只不过是重头再来”。Netflix 瞎逛到的惊喜。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/12/p2681650590-683x1024.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/12/p2681650590-683x1024.jpeg)
 
 ## **年度纪录片 – The Alpinist**
 
 也不是说这部不好，就只是在另一个方向上更纯粹更极致的《Free Solo》、《Meru》与《The Dawn Wall》，不过今年确实没有看到太多好纪录片。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/12/p2628036511-692x1024.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/12/p2628036511-692x1024.jpeg)
 
 ## **年度剧集 – WandaVision**
 
@@ -67,7 +67,7 @@ tags:
 
 优平淡波澜不惊的演绎讲了一个千回百转的优秀故事，但又特别贴近生活，尤其是 Mare 这个角色查案之外的个人生活（下班之后的约会、和前夫的斗争、和母亲女儿的互动等）细节带来了个活生生的人，而不只是个为了剧情服务的 NPC。Angourie Rice 大概是全片唯一一个我不知道存在目的的角色，不过真是长大了这个 stereotype lesbian 的造型比蜘蛛侠里乖乖女辣多了嘛。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/12/p2661874547-692x1024.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/12/p2661874547-692x1024.jpeg)
 
 ## **年度真人秀- Clarkson’s Farm**
 

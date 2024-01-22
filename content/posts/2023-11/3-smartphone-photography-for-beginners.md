@@ -68,7 +68,7 @@ bookToc: true
 
 如下图，虽然光线较暗主摄画质更好（图二），但因为要尽量还原人眼效果的透视，因此最后选去了长焦拍摄的图一。（图出自我的英文版 [S21 Ultra camera review]({{< relref "/posts/2023-archive/2021-04-09-the-perfect-phone-for-casual-bird-lover-samsung-galaxy-s21-ultra-one-month-later" >}})，图中为[乐高路虎](https://amzn.to/39mAmPM)算是我拼过最喜欢的乐高之一）
 {{< columns >}}
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/20210311_185148-01-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210311_185148-01-1024x768.jpeg)
 <--->
 ![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210311_185200.jpg)
 {{< / columns >}}
@@ -81,7 +81,7 @@ bookToc: true
 等效 200mm 左右，目前主流市场三星独一家，很多人会觉得 10 倍镜是噱头没啥意思，其实拍个鸟能方便识别或者远处看不清的字拍下来看还是非常实用的。当然，画质就没法讲了，但重在能拍到。
 
 下图为 [S21 Ultra](https://amzn.to/3bUqU7x) 10 倍镜的数字 30x 变焦拍到的秃鹫，出自 [S21 Ultra camera review]({{< relref "/posts/2023-archive/2021-04-09-the-perfect-phone-for-casual-bird-lover-samsung-galaxy-s21-ultra-one-month-later" >}})
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/20210316_145740-01-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210316_145740-01-1024x768.jpeg)
 
 下图为 [S23 Ultra](https://amzn.to/47rLreB) 10 倍镜拍的小松鼠，出自 [跋山涉水 summerland]({{< relref "/posts/2023-09/3-summerland-hike">}})
 {{< video "https://media.douchi.space/douchi/media_attachments/files/111/050/099/420/127/302/original/e8ce3781fbc77927.mp4" >}}

@@ -27,45 +27,45 @@ bookToc: false
 
 Coyote Hills 和南边这片 Wild Life Refuge 真是东湾宝藏。现在春天山翠绿，鸟多，又不晒，平时沼泽里还经常看见 coyote 和鹿，前两天还有人在盐田拍到了火烈鸟，大家抓紧时间来玩。夏天草黄了就只有天空之境可以看了，风景大打折扣。（周末可能人会有点多）
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/20210310_143525-01-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210310_143525-01-1024x768.jpeg)
 
 在 84 桥南边的 wild life refuge 而没有去北边的 coyote hills，这边的好处是有大片紧贴水面的路，观鸟非常方便。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/20210310_142345-01-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210310_142345-01-1024x768.jpeg)
 
 一度被我们怀疑是园区雇员用来 greet 游客的 California Scrub-Jay，去的时候在回来的时候还在，也可以离比较近拍照（当然其实也没有那么近，主要功劳是望远镜手机，review incoming）。回家一对比 merlin bird 上的示例图，好家伙这只可真胖啊。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/20210310_141355-01-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210310_141355-01-1024x768.jpeg)
 
 在山顶遥望 coyote hills，那边的山也绿了。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/20210310_141021-01-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210310_141021-01-1024x768.jpeg)
 
 刚下完雨，手脚并用爬了一条看起来很简单的小路一手泥，到山顶迅速被 view 和小黄花们治愈了。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/20210310_142605-01-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210310_142605-01-1024x768.jpeg)
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/20210310_142655-01-768x1024.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210310_142655-01-768x1024.jpeg)
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/20210310_142851-01-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210310_142851-01-1024x768.jpeg)
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/20210310_145738-01-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210310_145738-01-1024x768.jpeg)
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/20210310_150349-01-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210310_150349-01-1024x768.jpeg)
 
 [video](https://media.douchi.space/douchi/media_attachments/files/105/868/825/272/691/599/original/fc148bfdb82ae61f.mp4)
 
 刚下完雨回去的路上还发现了好多小蜗牛。把手机怼过去后来被这个刀锐奶化的微距效果给震惊了。（[微距效果系列](https://t.me/mtfront/1611)，review incoming[，但是 Amazon 现在 $250 off，加上省的税和如果有 prime 5% cashback 的话总共省 $350，真的不买不是人](https://amzn.to/3bUqU7x)。我真没收三星钱，它还欠了我一周多的 affiliate commission 没给我呢）
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/Screenshot_20210310-182107_Merlin-Bird-ID-615x1024.jpg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/Screenshot_20210310-182107_Merlin-Bird-ID-615x1024.jpg)
 
 不愧是大园区，今天光识别出来的新鸟就有七种，比平时在人口聚居区的几个人工小湖看到的常见绿头鸭、加鹅以及少数几只 egret 和鹈鹕种类多多了。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/20210310_153853-01-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210310_153853-01-1024x768.jpeg)
 
 回家路上发现东边似乎还在下雨，幸亏没去。倒是看到了一条特别粗的彩虹。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/Screenshot_20210310-191748_Strava-998x1024.jpg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/Screenshot_20210310-191748_Strava-998x1024.jpg)
 
 没有按 trail 走，随便瞎走的，就不上链接了。refuge 最近没开门放车进，把车停在 Marshlands Rd 旁边走两步就到了。在两条小河边都有超多水鸟可看。
 

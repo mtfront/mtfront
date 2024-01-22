@@ -62,9 +62,9 @@ Most of the steps should be prefilled, but here’s a step by step walkthrough:
     2. Notice that this workflow triggers the moment notion got saved, if you put anything that can be empty on the “Content” field in zapier, it may result workflow failure. So instead of putting the whole blog post content, which you maybe still writing when the entry got saved and triggered in zapier, I would just either finish writing on another page and copy & paste at once, or just put some field you’ll surely fill in the moment you create the entry in notion, for example in my case, the affiliate link to the product I’m reviewing.
 
 {{< columns >}}
-![Notion database](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/03/Screen-Shot-2022-03-28-at-1.07.58-AM-707x1024.png)
+![Notion database](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/03/Screen-Shot-2022-03-28-at-1.07.58-AM-707x1024.png)
 <--->
-![Zapier setting](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/03/Screen-Shot-2022-03-28-at-1.06.31-AM-1332x1300.png)
+![Zapier setting](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/03/Screen-Shot-2022-03-28-at-1.06.31-AM-1332x1300.png)
 {{< / columns >}}
 ## **Test your RSS engine**
 

@@ -21,7 +21,7 @@ bookToc: false
 
 最初被推荐的是 [Bellroy Transit Backpack Plus (38L)](https://amzn.to/2WALJAY), 最后看了一些测评（[尤其是这个](https://youtu.be/_8Dzx-sgQjU)）之后在两个包之间犹豫了一阵子根据自己的需求入手了 [Aer Travel Pack 2 (33L)](https://www.aersf.com/travel-pack-2-gray) （现在居然断货了 10 月才会重新发货……幸亏我赶上了）。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/08/Screen-Shot-2021-08-29-at-2.54.56-PM-940x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/08/Screen-Shot-2021-08-29-at-2.54.56-PM-940x1024.png)
 
 外形上没什么特别出挑的地方，就是一个看起来很普通的背包。横向对比我看中它两点：
 
@@ -53,7 +53,7 @@ TL;DR 一些亮点：
 
 我 165 中等体型，大家可以参考一下我背着的大小。有朋友调侃说这张图像课业过重的中学生，我觉得十分贴切（装嫩得意）。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/08/20210811_100658-scaled-e1630273525874-768x1024.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/08/20210811_100658-scaled-e1630273525874-768x1024.jpeg)
 
 实际使用后的几个感受：
 

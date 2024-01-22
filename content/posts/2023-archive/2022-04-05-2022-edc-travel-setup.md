@@ -18,11 +18,11 @@ tags:
 
 作为一个没事基本不出门，不带电脑或者攀岩鞋的话出门绝对不带包的人，其实我没什么好 EDC 的。仔细检查了一下今年的 EDC，发现跟去年的也基本没有变化，[那我就偷个懒把 2021 EDC 放在这](../2021-edc)。短途旅行的部分倒是增加了不少设备：
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/04/IMG_0243-1024x683.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/04/IMG_0243-1024x683.jpeg)
 
 与去年的 EDC & travel setup 相比变化最大的是 Day Trip & Travel Setup（下图）。下图里除了运动鞋之外所有东西都是过去不到一年之内新买的。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/04/IMG_0245-1024x683.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/04/IMG_0245-1024x683.jpeg)
 
 这是现充过度没空写的 [2、3 月 Patreon 二合一投票](https://www.patreon.com/posts/63399522)票选结果其中之一。[欢迎金主们去四月的投票选出接下来的命题帮助我重新 get back on track:](https://www.patreon.com/posts/63989710)
 
@@ -47,13 +47,13 @@ tags:
 
 是今年唯一有变化的 EDC。去年用的 mighty wallet 还是有点 clunky & flappy，遂今年换到更加 slim 的 Bellroy 小钱包。七八张卡和少量 cash 装进去还是很精干，暂时比较满意。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/04/DSC03293-01-1024x683.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/04/DSC03293-01-1024x683.jpeg)
 
 ### **[Pocket Knife – Civivi Baby Banter](https://amzn.to/3qZmZyI)**
 
 严格意义上不能算 EDC，因为这东西几乎从来不会跟着我出门（唯一出门的一次是 road trip 想说开车方便就带上了，后来果然开包装的时候用上了）。放在 EDC 这部分是因为毕竟 pocket knife 传统意义上是 EDC，而且在家几乎每天也都能用到。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/04/DSC03294-01-1024x683.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/04/DSC03294-01-1024x683.jpeg)
 
 不 handy 的 city girl 如我，自然用不上 hardcore 中年男人 pocket knife community 那种 hardcore 大刀，于是选了非常小的一款 baby banter。这东西不买觉得用不到，一买发现哪怕只是裁信开快递还是比裁纸刀好用很多的。而且应急时候当螺丝刀也帮了刚搬家时候装各种家具的大忙。而且小巧精致厚重的金属质感经常到现在也拿在手里把玩，算是比较满意的消费主义陷阱。
 
@@ -61,7 +61,7 @@ tags:
 
 这个图里白框 EDC 以外的东西基本就是出行必备的行头。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/04/IMG_0243-1024x683.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/04/IMG_0243-1024x683.jpeg)
 
 ### **[耳机 – Sony WF-1000XM4](https://amzn.to/3dgNlp1) & [Airpods Pro](https://amzn.to/3sjAaJG)**
 
@@ -99,7 +99,7 @@ amazon 产品示意图
 
 ## **What’s carrying my everyday carry**
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/04/IMG_0245-1024x683.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/04/IMG_0245-1024x683.jpeg)
 
 如上图所示，今年突然掉入了旅行包这个坑里买了很多包，所以就顺势介绍一下这一年入手的这些包。
 
@@ -111,7 +111,7 @@ amazon 产品示意图
 
 Source: Aer
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/08/Screen-Shot-2021-08-29-at-2.54.56-PM-940x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/08/Screen-Shot-2021-08-29-at-2.54.56-PM-940x1024.png)
 
 ### **Everyday Sling – [Aer Travel Sling 2](https://www.aersf.com/travel-sling-2-black)**
 
@@ -125,7 +125,7 @@ Source: Aer
 
 因为攀岩需要一个包所以在之前 Travel Pack 2 和 Travel Sling 2 的基础上又买了这个。有单独的 shoe compartment 可以放攀岩鞋，侧面有放水壶的地方，主要区域可以塞衣服，有电脑层，非常适合上班 – gym 的使用场景。虽然我不去上班但是去攀岩大小刚好，18.7L 的大小平时 weekend trip 带这个也很方便。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/04/DSC03289-01-1024x684.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/04/DSC03289-01-1024x684.jpeg)
 
 ### **Wash Pouch – [Peak Design Small Wash Pouch](https://amzn.to/37mySYA)**
 
@@ -139,7 +139,7 @@ Source: Amazon
 
 从加州搬家的时候一堆旧鞋没拿只拿了少数几双，即便如此大多数时间它们还是在吃灰（尤其是最近得宠又飞速失宠的 all birds），最常穿的还是如下几双
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/04/IMG_0245-1024x683.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/04/IMG_0245-1024x683.jpeg)
 
 ### **Boots – [Dr Martens 1460 Nappa](https://amzn.to/3p4ro23)**
 

@@ -39,7 +39,7 @@ tags:
 - 不是传统“背包客”那种背着巨型登山包一出出去半年那种。其一暂时没有时间也一般不适应玩那么久；其二我不喜欢特别野的户外，撑死 day hike，不想在 urban environment 看起来过于 hardcore；其三，那种包很多时候小飞机塞不进去得 check in。
 
 {{< columns >}}
-![平时 one bag travel 的行头](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/08/20210811_100658-scaled-e1630273525874-768x1024.jpeg)
+![平时 one bag travel 的行头](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/08/20210811_100658-scaled-e1630273525874-768x1024.jpeg)
 <--->
 ![偶尔买了东西 overflow 成 two bags travel](https://media.douchi.space/douchi/media_attachments/files/110/467/995/392/146/739/original/403a04e8c25e84f5.jpeg)
 {{< / columns >}}

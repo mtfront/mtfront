@@ -34,9 +34,9 @@ tags:
 
 解决上述原生平台收藏系统弊端的方法自然是用第三方的、专门用来收藏整合信息的 app 了。我目前使用的 Pocket，没有做过横向对比不知道优缺点，但暂时觉得它还算好用。
 {{< columns >}}
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/01/uri_mh1611363816220-473x1024.jpg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/01/uri_mh1611363816220-473x1024.jpg)
 <--->
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/01/Screenshot_20210122-170007-473x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/01/Screenshot_20210122-170007-473x1024.png)
 {{< / columns >}}
 整个环节中最关键的一点是，加连接方便。在手机端，装了 pocket app 之后在系统层面的 share 选框就可以 add to pocket 了。开了剪切板权限的话，如果剪切板里复制了连接，打开 pocket app 还会询问是否将剪切板里连接也加入收藏。加入之后还可以简单编辑 tag 等。在电脑端我没有装 app，chrome 插件可以方便实现类似操作，点击将当前网页加入收藏，右键单击可选择打开 pocket 主页面进行浏览。
 
@@ -66,12 +66,12 @@ tags:
 
 读书笔记散落在各平台的话其实跟没记一样，将来写读后感的时候也很难快速找到。在去年底启用 notion 整理个人项目比较成功之后又拿 notion 做了一个读书笔记 tracker。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/01/Screen-Shot-2021-01-22-at-6.19.01-PM-1024x830.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/01/Screen-Shot-2021-01-22-at-6.19.01-PM-1024x830.png)
 
 {{< columns >}}
 
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/01/Screen-Shot-2021-01-22-at-6.22.14-PM-751x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/01/Screen-Shot-2021-01-22-at-6.22.14-PM-751x1024.png)
 <--->
 大体框架的结构放在一个 DB 里，以书为单位，大致按阅读状态（在读和读完分类）分类，并加了一个 calendar view。首页显示类型、我的评分、平台和我的阅读时间这些我认为比较重要的内容。
 
@@ -103,11 +103,11 @@ tags:
 
 话说，toggle list 这么简单、好用、极度提高生产力的东西为啥还没有被所有笔记软件推广，费解。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/01/Screen-Shot-2021-01-22-at-6.43.46-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/01/Screen-Shot-2021-01-22-at-6.43.46-PM.png)
 
 另外，其实刚才的读书笔记那一页除了读书笔记之外，我还有结构类似的“视频”笔记，觉得有价值的视频也会以相似的结构记录下来，当然单页的结构比较简单没有评分、阅读时间之类的栏目。善用 toggle list 不至于过目即忘当作消遣。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/01/Screen-Shot-2021-01-22-at-7.01.57-PM-861x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/01/Screen-Shot-2021-01-22-at-7.01.57-PM-861x1024.png)
 
 ### **简单文字速记 – Simplenote**
 

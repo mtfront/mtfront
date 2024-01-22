@@ -86,7 +86,7 @@ tags:
 
 你别说，收拾好书架摆在书房，想看的时候随手拿下来的感觉还是很棒的，也算减小 friction 的一个重要组成部分。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/PXL_20210111_003653250-scaled-e1616709871459-768x1024.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/PXL_20210111_003653250-scaled-e1616709871459-768x1024.jpeg)
 
 另外，surprisingly Amazon 上也有很多中文版书，虽然售价感人但是有些急着看的直接买也很方便，直接搜中文可能有惊喜。
 
@@ -120,11 +120,11 @@ tags:
 
 这是最接近前面说的”上课做笔记“的形式——again，不一定以后再看，但记录本身就是有效吸收的过程。我的大致笔记方法在[信息摄入 workflow](../information-consumption-reading-tracking-workflow/#reading) 那篇中有详细讲到，此处不再赘述。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/01/Screen-Shot-2021-01-22-at-6.19.01-PM-1024x830.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/01/Screen-Shot-2021-01-22-at-6.19.01-PM-1024x830.png)
 
 比之前有所更新的是，因为我做了[读书笔记剪报 channel](https://t.me/mtfront)，因此除了靠记录本身内化之外，还需要能快速分类、提取 channel 的备选剪报，因此把笔记整理成能 filter 的数据库除了好看之外又多了一层实用意义。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/Screen-Shot-2021-03-25-at-4.06.12-PM-1024x351.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/Screen-Shot-2021-03-25-at-4.06.12-PM-1024x351.png)
 
 我的 notion 读书笔记内表格形式（为了截图方便关闭了 wrap cells，自己看的时候自然是自动换行打开的）
 
@@ -132,7 +132,7 @@ tags:
 
 另外利用 notion 的数据库 view 功能，我也把读书笔记分为了几个大类，诸如“有可以发到剪报 channel 的书库”、“在读”、”calendar 时间轴浏览”等形式。将来如果想要按照平台、内容类型分类，也就是加一个 view 的事。
 
-![读书笔记 Calendar view，比线性的“在读”更直观](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/Screen-Shot-2021-03-25-at-4.26.34-PM-634x1024.png)
+![读书笔记 Calendar view，比线性的“在读”更直观](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/Screen-Shot-2021-03-25-at-4.26.34-PM-634x1024.png)
 
 计划过两天有空再做个 Chrome 插件，把[网页版可以浏览的 Kindle 高亮笔记](https://read.amazon.com/notebook)导出成类似的 csv 各式方便导入 notion。目前市面上常用的读书笔记软件如 readwise 也有类似功能，但撑死就是整理了下各式，导出的还是 free text 形式，不方便我整理排序。而且我看 Kindle 可能一个月都看不了一本，用这么个鸡肋功能再添加一个 subscription 感觉不是特别划算。
 

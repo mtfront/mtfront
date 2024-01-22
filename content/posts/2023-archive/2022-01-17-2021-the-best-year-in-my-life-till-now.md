@@ -141,78 +141,78 @@ Sorta after covid 终于恢复了出游，拿到护照之后出行也更自在�
 
 我像年前计划好的一样，follow my heart 辞职了，打算先花几个月做项目和游戏，再等疫苗推广身份解决半工半游周游世界在各个想居住的城市住 2~4 周。辞职了之后走了好几个 trail，还跟家属拼了好几个乐高/木制玩具，也做了很多 side project 相关的东西，还因为 meme stock 事件中对 robinhood 的彻底失望换了券商，是挺充实的一个月。
 
-![辞职后第一场 mini road trip 自己去了北边的海边](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/01/Photo_6553657_DJI_57_jpg)_4629869_0_202119152516_photo_original-01-1024x576.jpeg)
+![辞职后第一场 mini road trip 自己去了北边的海边](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/01/Photo_6553657_DJI_57_jpg)_4629869_0_202119152516_photo_original-01-1024x576.jpeg)
 
 ### **二月**
 
 还是出去走了很多 trail，拼了很多乐高，尤其是拼完了有生之年系列的奔驰大卡车。这个乐高是我和家属买的第一个乐高，中间因为缺件重新 request 和我对这台车本身兴趣缺缺，从 2016 年 9 月一直拼到现在，终于拼完了，也算是一个 closure。开始了 100 天引体向上项目。开始写 side project。可能是有更多时间 reflect，社恐如我主动 reach out 了几个老朋友，聊得很开心。
 
-![拼了四年半的乐高奔驰大卡车](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/01/PXL_20210207_023746484-1024x768.jpeg)
+![拼了四年半的乐高奔驰大卡车](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/01/PXL_20210207_023746484-1024x768.jpeg)
 
 ### **三月**
 
 继续 hiking，继续拼很多乐高，大概是换了[新手机，开始有了新的 casually 观鸟大爷这个爱好，](../the-perfect-phone-for-casual-bird-lover-samsung-galaxy-s21-ultra-one-month-later/)觉得像收集 pokemon 一样很有趣。卖了一些家里闲置的东西。主动约了很久没见的同学一起散步。意识到自己不想再这么放纵胖下去，在已经开始的锻炼同时开始了 [20/4 Intermittent Fasting](../3-healthy-routines/)。心血来潮写的[小 script](../we-read-notion-exporter-script/) 比真正计划了半天要做的 side project 写起来带感多了。开始恢复玩游戏，最惊喜的当然还是我个人的 [GOTY It takes two](../2021-movie-game-book/)。有 recruiter reach out 第一次动了具体的想搬去西雅图的心。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/01/20210316_145740-01-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/01/20210316_145740-01-1024x768.jpeg)
 [S21 Ultra](../the-perfect-phone-for-casual-bird-lover-samsung-galaxy-s21-ultra-one-month-later/) 在 Coyote Hills 拍到的 Turkey Vulture
 
 ### **四月**
 
 随着疫情开始好转和大家逐渐打上了疫苗，时隔多年我终于开始出去跟朋友吃饭了。介绍了两位网友认识，还跟朋友去了 Tahoe 他滑雪我自己走了好几个 trail（本来想随便走一下结果某天就顺手从 squaw valley 直接走到 tahoe city 了）。报了税。写了第一个 [Chrome 插件](../kindle-notes-notion-exporter-chrome-extension/)。月底时候怀疑人生和没现金流恐慌达到高峰，一时半会儿身份也下不来，于是开始正式刷题和准备找工作。
 
-![Tahoe 朋友滑雪我走路的 road trip](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/01/20210420_141217-1024x768.jpeg)
+![Tahoe 朋友滑雪我走路的 road trip](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/01/20210420_141217-1024x768.jpeg)
 
 ### **五月**
 
 以我的执行力，基本每天都在准备找工作中度过。加入了她乡非官方 ReConnect server，没想到后来成为今年最重要的人生转折点。月底开始了一些面试，基本在焦虑和咒骂 USCIS 中度过。
 
-![没错，找工作的日子太繁忙一张有特色的照片都找不出，只能去家旁边的湖看小鹅](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/01/20210504_173343-1024x768.jpeg)
+![没错，找工作的日子太繁忙一张有特色的照片都找不出，只能去家旁边的湖看小鹅](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/01/20210504_173343-1024x768.jpeg)
 
 ### **六月**
 
 随着面试开始心情也从 window shopping 公司和对新生活的期待，变成了没有好消息的焦虑，变成了 offer 终于开始来的膨胀。整个六月基本 calendar 都是满的，最忙的一周我有 onsite * 4 + recruiter/HM chat/feedback * 10，甚至还会给 Onsite 中间的 lunch break 插一个 chat。以及，万年不动的 USCIS 终于动了。好运真的是一起来，整个生活都感觉拨云见日了。
 
 {{< columns >}}
-![六月蔚为壮观的 calendar](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/08/Screen-Shot-2021-08-01-at-12.43.16-AM-821x1024.png)
+![六月蔚为壮观的 calendar](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/08/Screen-Shot-2021-08-01-at-12.43.16-AM-821x1024.png)
 <--->
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/08/Screen-Shot-2021-08-01-at-12.48.27-AM-634x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/08/Screen-Shot-2021-08-01-at-12.48.27-AM-634x1024.png)
 {{< / columns >}}
 
 ### **七月**
 
 拿下了 dream 公司 offer，不想去的公司为了挽留给了我没想过的 offer 让我在工作这件事上膨胀了一下。时隔 9 年又剃了个圆寸，光速开始出去浪，约了老友们吃饭，说走就走开去 LA 跟新朋友们面姬，工作时间上考虑开车环游美国的计划有点赶，就改成了飞去东海岸然后南下开一小段面姬（结果买完机票公司就明年才 return to office 了……）。入籍面试顺利拿下，拖了这么些年的最后一件“人生大事”终于解决了。
 
-![时隔 9 年之后再一次圆寸，是完全不一样的心情](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/01/20210705_213937-1-1024x1024.jpeg)
+![时隔 9 年之后再一次圆寸，是完全不一样的心情](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/01/20210705_213937-1-1024x1024.jpeg)
 
 ### **八月**
 
 到处浪的一个月，在本地和飞去东岸见了好几位网友相谈甚欢。有一只叫呼噜的猫非常有先见之明且机警地保护妈妈把我咬成重伤，疤现在还没退。浪回来入籍 ceremony，这个事总算尘埃落定。八月底入职了新公司。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/01/20210813_220616-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/01/20210813_220616-1024x768.jpeg)
 
 ### **九月**
 
 劳动节湾区网友面姬，去了 Monterey 水族馆。跟新老朋友们认真相聚了好几次。约了接下来几个月去波特兰、芝加哥和荷兰的 trip，工作什么的不存在的。
 
-![我在湾区住这么多年居然第一次去 Monterey 水族馆](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/01/20210905_161321-1024x768.jpeg)
+![我在湾区住这么多年居然第一次去 Monterey 水族馆](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/01/20210905_161321-1024x768.jpeg)
 
 ### **十月**
 
 在 dream company 上班走上正轨久违开心，在工作上 follow my heart 敢作敢当，对后来的决定很满意。跟朋友相聚很多次，光长途就连轴转去了西雅图波特兰和芝加哥周边，社恐如我也不得不承认 covid 之后才发现跟朋友相聚真的非常快乐。在西雅图看好了房。跟家属商量好了之前一直在逃避的分家事宜，结果远比我想象中圆满得多地解决了。对生活的一时兴起跟朋友去爬墙（之前拒绝了很多次）结果今年算是 pick up 了这个新兴趣。工作上 relocate 顺利地不像话，竟然还刚好碰上从湾区到西雅图不调薪（不交州税相当于涨薪了）。还帮家属解决了车的问题，一瞬间觉得自己 deserve 今年的好运气。
 
-![说走就走背靠背全美巡回面姬我都有点佩服我自己](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/01/2021-10-lake-2-1024x576.jpeg)
+![说走就走背靠背全美巡回面姬我都有点佩服我自己](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/01/2021-10-lake-2-1024x576.jpeg)
 
 ### **十一月**
 
 跟湾区的老朋友们紧锣密鼓地送别宴和秉烛夜谈，甚至让我有点重返大四时候面基巅峰的光辉岁月。加班匆忙中在家属的帮忙下也顺利收好了东西，开着我的小车一路向北到了西雅图，虽然一路上都在乡愁加州，但是到了西雅图有朋友接风即便家徒四壁也立刻开始了快乐新生活，还意想不到促成一段后来成为我牵红线史上最速案例的关系。
 
-![送别宴也有很多照片，但是这张又是接风新生活，又有新爱好，大家又都这么可爱，就这张赢了吧](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/01/original_34c5f84c-12ee-4b3d-ba34-a90b832c8f02_20211128_124303-1024x768.jpeg)
+![送别宴也有很多照片，但是这张又是接风新生活，又有新爱好，大家又都这么可爱，就这张赢了吧](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/01/original_34c5f84c-12ee-4b3d-ba34-a90b832c8f02_20211128_124303-1024x768.jpeg)
 
 ### **十二月**
 
 在疯狂通宵加班、跨州加班但是有点心甘情愿和拿到新护照去欧洲玩跟新老朋友相聚的快乐中交织，后来还喜获瓜片，很久都没有这么快乐了。这一年里事业、友情、身份、生活、感情全都以最完美的故事展开了，以至于最后几天回到湾区在阴冷的冬天 emo 的时候还是反复觉得这一切 too good to be true。（当然，这两天瓜片反复 reassure 我这一切都是真的，这是后话啦）
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/01/20211224_105248-scaled-e1642287161657-768x1024.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/01/20211224_105248-scaled-e1642287161657-768x1024.jpeg)
 
 ## **2022 Resolution**
 

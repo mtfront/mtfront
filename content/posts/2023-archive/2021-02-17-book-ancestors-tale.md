@@ -36,7 +36,7 @@ tags:
 > 大约在6万年前确实发生过一次走出非洲的大迁徙，但它可能不是一劳永逸的。在最初的分离之后，出走的人群和其他非洲族群之间依然存在有限的通婚，可能持续了数万年。
 > 
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-14-at-11.43.26-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-14-at-11.43.26-PM.png)
 
 > 第一个发现是关于欧洲人和亚洲人的（特别是中国人和墨西哥原住民）。从图上可以看出，欧洲人和亚洲人分离的时间较晚，大概是在2万年前。但图上没有显示的是，谢弗尔斯和德宾发现，这些基因组中大约有十分之一早在10万年前就已经表现出了欧亚分离。这个时间意味着，早在近期走出非洲的大迁徙前，就存在着某种早期迁徙.第二个发现是，北欧基因组与尼日利亚基因组的差异之中有一小部分甚至来自20万年以前。这跟接下来那个故事里的证据是一致的。大多数欧亚人都会有百分之几的DNA来自尼安德特人或者别的某种古人。
 > 
@@ -56,7 +56,7 @@ tags:
 
 *人类大脑的膨胀。对四种原始人类头骨的比较，可以明显看出能人脑容量的增长。图中各头骨分别是多件化石的平均，且被调整到相同高度。*
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-14-at-11.50.12-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-14-at-11.50.12-PM.png)
 
 ### **猿人**
 
@@ -77,7 +77,7 @@ tags:
 
 ## **第 1 汇合点**
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-14-at-11.56.52-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-14-at-11.56.52-PM.png)
 
 这一章终于脱离人族/现存人类物种，来到了第一个跟其他物种的“汇合点”，朝圣之旅正式开始，颇为令人激动。
 
@@ -94,14 +94,14 @@ tags:
 
 ## **第 2 汇合点**
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-14-at-11.57.35-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-14-at-11.57.35-PM.png)
 
 > 大猩猩加入。跟前一个会合点的分形图案比起来，我们这里的视野放大了一些。我们仍然能从图中找到黑猩猩和人类的位置，尽管黑猩猩不再有剪影标志。同时，我们还能看到下一组朝圣者即大猩猩在第2会合点加入我们的朝圣。
 > 
 
 ## **第 3 汇合点**
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-14-at-11.58.25-PM-712x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-14-at-11.58.25-PM-712x1024.png)
 
 > 猩猩加入。一般认为，来自亚洲的两种猩猩在第3会合点加入我们的朝圣之旅，它们分别是婆罗洲猩猩（Pongo pygmaeus）和苏门答腊猩猩（Pongo abelii）
 > 
@@ -127,7 +127,7 @@ tags:
 
 长臂猿加入
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-15-at-12.00.54-AM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-15-at-12.00.54-AM.png)
 
 ### **长臂猿**
 
@@ -148,15 +148,15 @@ tags:
 
 基于形态的长臂猿有根分支图
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-15-at-12.04.18-AM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-15-at-12.04.18-AM.png)
 
 基于完整的线粒体DNA序列构建的长臂猿系统发生树
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-15-at-12.04.56-AM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-15-at-12.04.56-AM.png)
 
 ## **第 5 汇合点**
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-15-at-12.06.13-AM-768x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-15-at-12.06.13-AM-768x1024.png)
 
 旧世界猴加入
 
@@ -177,7 +177,7 @@ tags:
 
 ## **第 6 汇合点**
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-15-at-12.08.48-AM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-15-at-12.08.48-AM.png)
 
 新世界猴加入
 
@@ -211,7 +211,7 @@ tags:
 
 ## **第 7 汇合点**
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-15-at-12.16.09-AM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-15-at-12.16.09-AM.png)
 
 眼镜猴加入
 
@@ -225,7 +225,7 @@ tags:
 
 ### **第8会合点**
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-15-at-12.18.42-AM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-15-at-12.18.42-AM.png)
 
 狐猴及其亲属加入
 
@@ -281,7 +281,7 @@ tags:
 
 ## **第9和第10会合点**
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-15-at-12.31.32-AM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-15-at-12.31.32-AM.png)
 
 树鼩和鼯猴加入
 
@@ -297,7 +297,7 @@ tags:
 
 啮齿类和兔类加入
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-15-at-12.32.53-AM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-15-at-12.32.53-AM.png)
 
 > 兔形目包括大概90种穴兔、野兔和鼠兔，连同2 300种啮齿目动物（其中三分之二属于鼠类），共同构成“啮齿总目”。如今有令人信服的分子证据表明，它们是灵长类、鼯猴和树鼩的近亲。我们一起构成胎盘类哺乳动物4个总目之中的一个，即灵长总目。
 > 
@@ -319,7 +319,7 @@ tags:
 
 劳亚兽加入。分子研究一致发现灵长类和啮齿类最近的亲属属于同一个主要的哺乳动物类群，即劳亚兽总目
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-6.23.12-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-6.23.12-PM.png)
 
 > 8 500万年前，在晚白垩世（Upper Cretaceous）的温室世界里，我们遇见了12号共祖，它大概是我们在2 500万代前的远祖。在这里，另一群朝圣者加入了我们的队伍。之前在第11会合点，啮齿类和兔类的加入使我们的队伍突然壮大。但跟啮齿类和兔类比起来，这些新加入的朝圣者种类更加多样。热心的分类学家给它们起了一个共同的名字，劳亚兽总目，以表明它们共享的祖先源流，但实际上人们很少用这个名字，因为它包含的分支实在太过混杂了。啮齿类都长着突出的牙齿，在同样的身体设计基础上繁衍分化，大概是因为这种设计太好用了。所以“啮齿类”这个名字确实有着明确的意义，它将那些拥有许多共同点的动物联系起来。但“劳亚兽”这个名字用起来跟听起来一样别扭。它把很多不相干的哺乳动物归在一起，而这些动物唯一的共同点就是：在朝圣之路上它们彼此相遇的时间先于它们和我们相遇的时间，而且它们最初都是来自那片古老的北方大陆，即劳亚古陆。这些来自劳亚古陆的朝圣者是多么不同啊！它们有的会飞，有的会游，还有许多会奔跑，其中一半总是探着头紧张地张望，担心会被另一半吃掉。它们属于7个不同的目，包括鳞甲目（Pholidota，如穿山甲）、食肉目（如狗、猫、猎狗、熊、鼬、海豹等）、奇蹄目（Perissodactyla，如马、貘和犀牛）、鲸偶蹄目（Cetartiodactyla，如羚羊、鹿、牛、骆驼、猪、河马以及……哦，我们稍后再介绍这组动物当中那位让人惊讶的成员）、小翼手亚目（Microchiroptera，如小蝙蝠）和大翼手亚目（Megachiroptera，大蝙蝠）以及食虫目（如鼹鼠、刺猬和鼩鼱，但不包括象鼩或马岛猬，我们要等到第13会合点才会遇见它们）。
 > 
@@ -347,7 +347,7 @@ tags:
 
 异关节动物和非洲兽加入
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-6.30.26-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-6.30.26-PM.png)
 
 ### **异关节总目和非洲兽总目**
 
@@ -359,7 +359,7 @@ tags:
 
 [冈瓦纳古陆的分裂](http://www.gplates.org/)
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-6.33.46-PM-1.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-6.33.46-PM-1.png)
 
 > 这时剑齿虎（真正的猫科动物）则正生活在北美洲。伴随着大迁徙，北美洲也有了地懒以及犰狳（包括巨型的雕齿兽）。另一方面，美洲驼（llama）、羊驼（alpaca）、原驼（guanaco）和小羊驼（vicuña）这些如今南美洲特有的生物都属于骆驼科，而且都来自北美洲，因为骆驼最早就是在北美洲进化而来的。它们后来很晚才扩散到了亚洲、阿拉伯地区和非洲，很可能途径阿拉斯加，一路上进化出蒙古草原上的双峰驼（Bactrian camel）和热带沙漠上的单峰驼（dromedary）。马科的进化同样主要发生在北美洲，但它们后来却在北美洲走向灭绝。当臭名昭著的征服者重新将马匹从欧亚大陆引入北美洲时，美洲原住民竟对马匹惊惑不已。
 > 
@@ -368,7 +368,7 @@ tags:
 
 有袋类加入
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-6.35.46-PM-1.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-6.35.46-PM-1.png)
 
 > 根据繁殖方式的不同，现存哺乳动物可以分成3个主要支系：产卵的哺乳动物（单孔目动物）、有育儿袋的哺乳动物（有袋类动物）和胎盘类哺乳动物（包括我们自己）。形态学研究以及大多数DNA研究都支持将有袋类和胎盘类归在一组，也就意味着第14会合点是大概340种有袋类动物和大约5 000种胎盘类哺乳动物分歧的地点。
 > 
@@ -387,7 +387,7 @@ tags:
 
 单孔目加入
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-6.38.46-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-6.38.46-PM.png)
 
 > 迄今为止，我们遇见的那些哺乳动物，无论是胎盘类还是有袋类，据信全都起源于侏罗纪时期的北半球。还有另一个起源于南半球的哺乳动物家系，曾经也丰富多彩，如今仅有的幸存者便是5个单孔目物种，它们仍然保留着产卵的习性。
 > 
@@ -420,7 +420,7 @@ tags:
 
 爬行动物（包括鸟类）加入
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-6.48.55-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-6.48.55-PM.png)
 
 > 陆生脊椎动物进化的一大突破是羊膜的出现，这是一种防水又透气的卵膜。这些羊膜动物有两个很早就分道扬镳的支系存活至今，分别是哺乳动物所代表的合弓纲（Synapsida），以及由2万种“爬行动物”和鸟类组成的蜥形纲。
 > 
@@ -447,13 +447,13 @@ tags:
 
 “若是世界各地的平胸鸟各自独立进化出不会飞翔的性状……这应该会让我感到满足。”这个梦想也许成真了。通过对古DNA的分析得到了如图所示的平胸鸟和䳍鸟的进化树。冈瓦纳古陆在1.6亿年前到8 000万年前的分崩离析不能解释这些鸟的地理分布。空心棒代表各分支分子钟测年的误差范围。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-6.57.56-PM-969x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-6.57.56-PM-969x1024.png)
 
 ## **第17会合点**
 
 两栖类加入
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-11.20.45-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-11.20.45-PM.png)
 
 ### **两栖动物**
 
@@ -478,7 +478,7 @@ tags:
 
 肺鱼加入
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-11.24.38-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-11.24.38-PM.png)
 
 > 人类和其他“四足动物”可以说也是肉鳍鱼，我们的胳膊、翅膀或者腿都是改造后的肉质鳍。另外两个现存的肉鳍鱼支系分别是腔棘鱼和肺鱼。这三个支系的分离发生在志留纪（Silurian）末期，据信这一分异过程发生得很迅速，我们即使利用遗传数据也很难理出分支的次序。不管怎样，遗传研究和化石证据都开始达成一致，认为6个肺鱼物种是四足动物现存最近的亲属
 > 
@@ -497,20 +497,20 @@ tags:
 
 腔棘鱼加入。这越来越成为大家的共识：腔棘鱼是肉鳍鱼类最早分离出来的分支。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-11.29.49-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-11.29.49-PM.png)
 
 ### **腔棘鱼**
 
 分子进化家族赛。包括两种“活化石”在内的各种脊椎动物蛋白质的进化速率。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-11.30.49-PM-1024x698.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-11.30.49-PM-1024x698.png)
 
 > 遗传变化的总体速率与形态的进化无关
 > 
 
 ## **第20会合点**
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-11.32.01-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-11.32.01-PM.png)
 
 辐鳍鱼加入
 
@@ -526,7 +526,7 @@ tags:
 
 鲨鱼和它们的近亲加入。在这时候加入我们朝圣大军的软骨鱼类，包括鲨鱼和鳐鱼。化石证据毫无疑问地表明颌类脊椎动物早期分化成硬骨鱼和软骨鱼类
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-11.33.37-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-11.33.37-PM.png)
 
 ### **鲨鱼及其亲属**
 
@@ -537,7 +537,7 @@ tags:
 
 无颌类鱼加入
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-11.34.55-PM-1.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-11.34.55-PM-1.png)
 
 ### **七鳃鳗和盲鳗**
 
@@ -549,7 +549,7 @@ tags:
 
 ## **第23会合点**
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-11.36.45-PM-1-719x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-11.36.45-PM-1-719x1024.png)
 
 > 有坚硬软骨“脊索”的动物被归类为“脊索动物”（在人类中，这条脊索的残余痕迹就是我们椎骨之间的椎间盘）。自2006年以来，对大量基因甚至整个基因组的研究越来越支持这个理论，即海鞘及类似的物种（大约有3 000种）远比我们将在第24会合点遇到的文昌鱼等脊索动物与我们人类的关系更紧密。
 > 
@@ -558,7 +558,7 @@ tags:
 
 文昌鱼加入。像鱼一样的文昌鱼有32个物种，是最后加入我们的朝圣之旅的脊索动物种群。注意，会合点的日期从现在开始向后更具有争议
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-11.37.40-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-11.37.40-PM.png)
 
 此处再次澄清现存的生物没有更”原始“之分，也没有”主线进化”和相对地“侧枝”。一切只是人类的观察视角。
 
@@ -575,7 +575,7 @@ tags:
 
 海星和它们的亲属加入
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-11.40.02-PM-1.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-11.40.02-PM-1.png)
 
 > 我们脊索动物属于后口动物的主要分支。最近的分子生物学研究表明其他后口动物类群组成一个属于脊索动物门的姊妹团。这个种群称为步带动物，这个团体包括含有大约7 000种描述过的物种的棘皮动物、半索动物门（这个门类约有120种襄舌虫和羽鳃类），也包括异涡虫以及上面说到的两个物种（最近发现了更多的深海物种）。
 > 
@@ -593,7 +593,7 @@ tags:
 
 ## **第26会合点**
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-11.42.01-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-11.42.01-PM.png)
 
 原口动物加入
 
@@ -637,20 +637,20 @@ tags:
 
 无腔扁虫加入
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-11.50.35-PM-1.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-11.50.35-PM-1.png)
 
 > 绝大多数两侧对称动物都属于原口动物或者后口动物。但最近分子生物学证据认为，有两个扁形动物类群既不属于后口动物，也不属于原口动物，而是一类早期分化出来的类群。这就是无肠纲（约320个种）和纽皮纲（10个种），统称为无腔扁虫。
 > 
 
 ## **第28会合点**
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-11.51.22-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-11.51.22-PM.png)
 
 刺胞动物加入
 
 ## **第29会合点**
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-11.51.59-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-11.51.59-PM.png)
 
 栉水母加入
 
@@ -661,13 +661,13 @@ tags:
 
 扁盘动物加入。与第28和第29会合点一样，第30和第31会合点的顺序也没有得到很好的确认。在第30会合点与我们会合的可以是扁盘动物（目前丝盘虫被当成一个单一物种的代表），也可以是海绵。目前这个顺序是随意的。如果第30和第31会合点需要交换或合并也完全不足为奇。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-11.52.44-PM-1.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-11.52.44-PM-1.png)
 
 ## **第31会合点**
 
 海绵加入
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-11.53.31-PM-1.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-11.53.31-PM-1.png)
 
 > 从林奈时代开始，“后生动物”就被划分出一个界（动物界）。目前通常认为，包含大约1万个物种的海绵在很早以前就与其他动物分道扬镳了，该观点得到分子生物学证据的佐证。但是少数分子分类学者认为海绵可被分为两个家系，其中一个家系与其他后生动物的关系比另一个家系更近。这表明最早的后生动物看起来真的很像海绵，也应该被归入海绵。
 > 
@@ -684,25 +684,25 @@ tags:
 
 领鞭毛虫加入。约120种领鞭毛虫被认为是动物的近亲，该进化地位得到了形态学与分子生物学证据的强力支持。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-11.54.56-PM-1.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-11.54.56-PM-1.png)
 
 ## **第33会合点**
 
 蜷丝球虫加入。直到2008年这个会合点才为人所知，而人们对这两个物种的认识也早不了多少。图中的剪影显示的是一只小球虫用细丝抓住了两个细菌。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-11.55.29-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-11.55.29-PM.png)
 
 ## **第34会合点**
 
 DRIPs加入。这个群体主要是单细胞寄生虫，也称鱼孢菌，早已被确认是我们遇见真菌之前最后加入的动物群体。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-11.55.56-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-11.55.56-PM.png)
 
 ## **第35会合点**
 
 真菌加入。真菌更接近动物，分类学家将其与我们共同归为一个巨大的群体，后鞭毛生物。这里我们所说的是广义的“真菌”，包括真正的真菌和它的姊妹群（几种单细胞变形虫以及黏菌），它们统称为“菌物总界”（Holomycota）。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-11.56.32-PM-723x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-11.56.32-PM-723x1024.png)
 
 ### **真菌**
 
@@ -714,19 +714,19 @@ DRIPs加入。这个群体主要是单细胞寄生虫，也称鱼孢菌，早已
 
 ## **第36会合点**
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-11.57.50-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-11.57.50-PM.png)
 
 不确定的会合点。人类对这里显示的三组原生生物所知甚少，它们可能并不是作为一个单独的群体加入我们的朝圣队伍的，因此这里使用的是虚线。
 
 ## **第37会合点**
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-11.58.31-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-11.58.31-PM.png)
 
 变形虫加入。“变形虫”这个词应该算是一种描述，而不是一个严格的分类，因为许多不相干的真核生物也表现出变形模式。
 
 ## **第38会合点**
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-16-at-11.59.10-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-16-at-11.59.10-PM.png)
 
 余下的真核生物（包括植物）加入朝圣队伍
 
@@ -737,21 +737,21 @@ DRIPs加入。这个群体主要是单细胞寄生虫，也称鱼孢菌，早已
 
 真核生物的生命树.黑色的分支代表捕光者。……黑色的分支代表捕光者……虚线代表不确定性关系，三角形代表根的位置。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-17-at-12.00.28-AM-1-999x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-17-at-12.00.28-AM-1-999x1024.png)
 
 覆盖20多个数量级的法则
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-17-at-12.02.45-AM-1.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-17-at-12.02.45-AM-1.png)
 
 ## **第39会合点**
 
 古菌加入
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-17-at-12.03.08-AM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-17-at-12.03.08-AM.png)
 
 ## **第40会合点**
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-17-at-12.03.44-AM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-17-at-12.03.44-AM.png)
 
 真细菌加入
 

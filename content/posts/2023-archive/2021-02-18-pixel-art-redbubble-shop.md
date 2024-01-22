@@ -26,21 +26,21 @@ tags:
 
 简而言之，每一幅你看到的商品都是 Redbubble 这个平台在我上传作品之后生成的各类商品的随机展示。也就是说，这个页面里每一幅样例，几乎点进去都能看到适合该作品的各类其他商品，而不仅限于首页所展示的那一款：
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-18-at-6.32.54-PM-730x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-18-at-6.32.54-PM-730x1024.png)
 
 比方说随手点进首页上第一个商品 [Wasting life bean bag Pullover Sweatshirt](https://www.redbubble.com/i/sweatshirt/Wasting-life-bean-bag-by-Mt-Front/71202691.WY6W4)，虽然首页只有长袖套头衫，但在”Also available on…“中你可以看到这个图样各种各样的商品，包括但不限于：背包、口罩、手提袋、手机壳、笔记本、冰箱贴、sticker 等等。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-18-at-6.34.04-PM-786x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-18-at-6.34.04-PM-786x1024.png)
 
 那开业剪彩这一期，先推一下当初让我产生开店念头的这两件。
 
 ## **Lucky and Galaxy**
 
 {{< columns >}}
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-18-at-6.46.34-PM-447x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-18-at-6.46.34-PM-447x1024.png)
 [点击购买 Lucky](https://www.redbubble.com/i/t-shirt/Lucky-the-Dog-by-Mt-Front/70387406.M4A2N)
 <--->
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-18-at-6.46.53-PM-481x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-18-at-6.46.53-PM-481x1024.png)
 [点击购买 Galaxy](https://www.redbubble.com/i/t-shirt/Galaxy-the-Dog-by-Mt-Front/70388938.M4A2N)
 {{< / columns >}}
 
@@ -49,22 +49,22 @@ tags:
 俩狗合影的购物袋、口罩、电脑包、拼图、笔记本、抱枕什么的，想想拿出去也是蛮拉风的。（点击图片进入商品页面）
 
 {{< columns >}}
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-18-at-6.52.47-PM.png)
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-18-at-6.53.32-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-18-at-6.52.47-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-18-at-6.53.32-PM.png)
 <--->
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-18-at-6.52.57-PM.png)
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-18-at-6.53.49-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-18-at-6.52.57-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-18-at-6.53.49-PM.png)
 <--->
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-18-at-6.53.14-PM.png)
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-18-at-6.54.30-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-18-at-6.53.14-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-18-at-6.54.30-PM.png)
 {{< / columns >}}
 
 ## **你是我的奶茶**
 {{< columns >}}
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-18-at-7.07.35-PM-476x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-18-at-7.07.35-PM-476x1024.png)
 [点击购买黑糖珍奶](https://www.redbubble.com/i/t-shirt/You-re-my-icecream-by-Mt-Front/70717644.QUQES)
 <--->
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-18-at-7.07.09-PM-515x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-18-at-7.07.09-PM-515x1024.png)
 [点击购买珍珠奶茶](https://www.redbubble.com/i/t-shirt/You-re-my-tea-by-Mt-Front/70718109.QUQES)
 {{< / columns >}}
 
@@ -75,13 +75,13 @@ tags:
 
 
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-18-at-7.17.11-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-18-at-7.17.11-PM.png)
 <--->
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-18-at-7.15.55-PM.png)
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-18-at-7.17.46-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-18-at-7.15.55-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-18-at-7.17.46-PM.png)
 <--->
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-18-at-7.16.24-PM.png)
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/Screen-Shot-2021-02-18-at-7.15.31-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-18-at-7.16.24-PM.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/Screen-Shot-2021-02-18-at-7.15.31-PM.png)
 {{< / columns >}}
 
 平台自动生成排列组合会有成百上千件商品难免眼花，本次开业一一介绍意义也不大。目前我打算定期介绍一些我手动精调过最适合作品的商品，试运行一段时间看看玩不玩得起来。

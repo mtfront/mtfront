@@ -44,7 +44,7 @@ tags:
 
 我建了一个 notion boar 记录每天锻炼的情况：最大数值、组数、做了什么训练、用了什么辅助带。记录下来，我一开始无辅助拉不起来，最后无辅助能拉 7 个。每条带子大概间隔 15~20 天左右能换下一条。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/07/Screen-Shot-2021-07-09-at-12.56.56-AM-1024x987.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/07/Screen-Shot-2021-07-09-at-12.56.56-AM-1024x987.png)
 
 这个计划的核心是每天的工作量非常小，因为核心是懒，高强度训练效率再高根本坚持下来也一点用都没有。基本上执行下来就是每天去 1~4 次 gym room 进行引体向上相关活动，每次都是拉到拉不起来（基本就个位数）为止外加一些其他训练（dipping, push up, dead hang, negative pull-up, dip knee raise 等等），总时间一组不会超过 5 分钟。有以下几个道具。
 

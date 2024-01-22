@@ -14,7 +14,7 @@ bookToc: false
 ---
 平时在社交网络上关注我，甚至看过博客评论区的人也知道，尊重对方时间真诚问和交流的我回的不少，我主动写的也不少，that’s totally normal。但就是会出那么个别伸手党问你比问亲妈还不当外人，这就忍不了了。于是我怒做了这个 poster 来模板回复伸手党：
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/Me-vs-Other-Rate-1024x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/Me-vs-Other-Rate-1024x1024.png)
 
 （注：在“真的想靠这个赚钱”和“足以吓退伸手党”和“温和地让不傻逼但不 considerate 的人能认识到错误以后改掉“之间有个 subtle 的分界线，待我摸索一阵到底这个线在哪）（现在这个版本我想做成明显偏向于最后一个目的，但不了解行情数字随便写的不一定合理欢迎提供 feedback 和行业参考）
 

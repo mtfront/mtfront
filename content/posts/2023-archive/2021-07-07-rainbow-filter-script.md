@@ -20,5 +20,5 @@ bookToc: false
 
 效果：
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/07/Screen-Shot-2021-07-07-at-2.43.10-PM-1024x386.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/07/Screen-Shot-2021-07-07-at-2.43.10-PM-1024x386.png)
 

@@ -24,7 +24,7 @@ bookToc: false
 
 回到正题，很遗憾我还没有看过标题里这本其实内容我很感兴趣的书，但作为一个在 tech industry 工作，工种 male dominant，有电子产品、单机游戏、车这类传统意义上的男性兴趣爱好，性取向是女的，并且外型更像传统意义上男的（[比如 aer travel pack 2 测评以及评论可见一斑](../one-bag-travel-aer-travel-pack-2/)）以至于会被二元论而不自知的顺直人反复排列组合评论“原来楼主是男的/女的/直男/直女/gay/les”，的 self identified as 顺女，的一个女的，我对这个话题感触颇深。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/10/Screen-Shot-2021-10-17-at-11.59.51-PM-1024x874.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/10/Screen-Shot-2021-10-17-at-11.59.51-PM-1024x874.png)
 
 然而最近（其实也拖延了一个多月了）想写这篇文的导火索是，参加了一次不大注重 diversity 的公司的 eng lead meeting，不开摄像头没这么明显，被新来的 principal eng hijack 别人 meeting 要求大家开摄像头自我介绍，结果发现整个 org 下面所有 eng leads 只有我一个（不像女的的）女的，剩下全是（白印中）男。出于别人隐私考虑我就不贴图了，但当时场面让我大受震撼，virtual meeting 的大眼瞪小眼比司空见惯的现实中“全组唯一一个女 eng”场面更为冲击，更何况这是 cross team meeting。
 

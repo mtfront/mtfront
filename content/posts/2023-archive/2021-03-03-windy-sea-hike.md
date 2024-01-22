@@ -26,29 +26,29 @@ bookToc: false
 
 甚至还没看到后面的 Devil Slide 刚上山走到这里就觉得一号公路真是宝藏。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/PXL_20210303_213059669-01-scaled.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/PXL_20210303_213059669-01-scaled.jpeg)
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/PXL_20210303_231004841-01-scaled.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/PXL_20210303_231004841-01-scaled.jpeg)
 
 走的时候在地图上提前看到了 Devil Slide 这个名字，还心想说魔鬼滑坡，起这么中二的名字。结果走过一小段山路它突然出现在我眼前的时候我被惊呆了：这不就冰岛 Hornstrandir （下图）在我心中的形象吗？（当然，迷你了很多）
 
 YouTube 上常年被推送的视频：”[Hiking 60 miles alone in Hornstrandir Iceland](https://youtu.be/6A5HY7hDeQA)”
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/PXL_20210303_231309862-01-scaled.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/PXL_20210303_231309862-01-scaled.jpeg)
 
 正面来一张，居然上面还有条阶梯小路能上去，也太好玩了吧。下次有机会要去爬爬这个。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/PXL_20210303_231729602-01-scaled.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/PXL_20210303_231729602-01-scaled.jpeg)
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/PXL_20210303_232308138-01-scaled.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/PXL_20210303_232308138-01-scaled.jpeg)
 
 这条 Trail 还有个有趣的 feature：直接从隧道顶上走过一段。我跟着地图一看要跨一号公路了才意识到刚才路上来的隧道居然就在这个 trail 下面。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/PXL_20210303_232453952-01-scaled.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/PXL_20210303_232453952-01-scaled.jpeg)
 
 另一个有趣的小半岛上有个土质凸起上面有座悬空的画满涂鸦的房子也很瞩目。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/PXL_20210303_233537309-01-scaled.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/PXL_20210303_233537309-01-scaled.jpeg)
 
 快到结尾穿过一片小树林，居然还看到了这个十分喜感的“小桥”，本来有点可怕的氛围突然可爱了起来。
 

@@ -25,7 +25,7 @@ bookToc: true
 
 当年 79 买的，然后可能是因为跟 white mountaining 合作款现在绝版了，一看倒卖网站上竟然起价都要二百多，现在优衣库有卖的类似款最便宜的也要 159，还没有这么多口袋，版型估计也不大一样。这个款比现在优衣库卖的 hybird down parka 多好多口袋，尤其是揣手那个口袋不但能顶上进还能侧面进，冬天揣手贼好用了，口袋又大又多。然后有点羽绒但外面看起来又不是羽绒服人见人夸（印象中象友[镜泉](https://jingquank.notion.site/)也有件不同色的我俩第一次面基时候不约而同穿了），有一定程度防水性，配合里面穿的衣服加减我每年 PNW 能从 11 月穿到 4 月多。
 
-{{< img "https://media.douchi.space/douchi/media_attachments/files/111/415/865/985/461/036/original/e15dd6c7fc3a4d4e.png" 400 >}} {{< img "https://s3.nl-ams.scw.cloud/mtfront-blog/2023/04/Screen-Shot-2023-04-10-at-10.10.03-PM-546x1024.png" 284 >}}
+{{< img "https://media.douchi.space/douchi/media_attachments/files/111/415/865/985/461/036/original/e15dd6c7fc3a4d4e.png" 400 >}} {{< img "https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2023/04/Screen-Shot-2023-04-10-at-10.10.03-PM-546x1024.png" 284 >}}
 
 ### Runner up - [Tula 麦克风](https://amzn.to/3WNIRvD)
 想买麦克风很久了，甚至想为了买麦克风做播客。结果买了之后就真的连续做了一年播客，现在已经出了 15 期。看上这个主要是因为小巧 compact 的 design 在家和出门用都很合适，甚至自带 8GB 存储可以当录音笔用，听测评音质也很不错，非常 versatile 了。播客新一期换了话筒录被网友盲听夸了音质好戴耳机像在耳朵旁边说话，感觉钱没白花！它倒不是说绝对音质多出众，而是体积超级小巧颜值也比大黑话筒高，外加内置电池硬盘可以在外面直接当录音笔用，还送了个可以折叠在机上s的小架子不买麦克风架也可以立桌子上用。平时在家放在架子上开会也很方便。居家旅行上班播客好伴侣！外加平时上班也用上了，再也不用担心 air pods pro 连各种开会软件会遇到的奇奇怪怪的采音问题。算是难得烧器材烧得利用率很高的一个成功案例了。

@@ -43,7 +43,7 @@ tags:
 
 [像是我上次找工作一样](../why-i-quit-facebook-part-2-whats-next/)，这次我也用 notion 来管理找工作进程。不同之处是除了对上次的 kanban board 做了小规模修改更符合这次的需求之外，我另加了一个 page 专门记录每天的找工 log，包含每天的文字总结、量化分类的这天干了什么等，方便复盘。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/07/Screen-Shot-2021-07-31-at-4.54.24-PM-1024x449.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/07/Screen-Shot-2021-07-31-at-4.54.24-PM-1024x449.png)
 
 这是我这次的找工作 kanban board，跟上次的区别不大，几个关键点：
 
@@ -67,11 +67,11 @@ tags:
 - Comments：用来记录时间线和做简洁笔记，比如一条“HR asked for availability on monday”，”sent availability to hr” 之类的，因为 comment 自带日期所以 track 起来比较方便
 - 页面细节，如下图，基本上是电话/面试中记的笔记，bullets point + toggle 折叠避免 information overflow。code 做完当然要顺手 copy 过去，日后也可以当面经用。后期发来的 interview prep & benefit brochure 我基本上也会扔到里面
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/09/Screen-Shot-2021-09-22-at-4.57.59-PM-935x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/09/Screen-Shot-2021-09-22-at-4.57.59-PM-935x1024.png)
 
 再就业日记找工作 log 基本上就是一个简单 table ，一天一个 entry，有一个 multi select field 作为 tag 表示今天做了什么。正文的部分就是文字总结 bullets point 今天干了什么，并且同步发到长毛象的 [#大龄人口再就业日记](https://douchi.space/web/timelines/tag/%E5%A4%A7%E9%BE%84%E4%BA%BA%E5%8F%A3%E5%86%8D%E5%B0%B1%E4%B8%9A%E6%97%A5%E8%AE%B0) tag 下。后来还有好几个朋友跟我说这个找工日记能看到别人的 struggle 和进步还挺有帮助的，欣慰
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/07/Screen-Shot-2021-07-31-at-6.01.50-PM-1024x867.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/07/Screen-Shot-2021-07-31-at-6.01.50-PM-1024x867.png)
 
 ## 面试过程
 
@@ -135,11 +135,11 @@ tags:
 
 从 5 月底开始有面试。因为不上班所以可以面试最大化，面试的工作量比全职上班大多了。最猛的一周我有 onsite * 4 + recruiter/HM chat/feedback * 10，甚至还会给 Onsite 中间的 lunch break 插一个 chat：
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/08/Screen-Shot-2021-08-01-at-12.43.16-AM-821x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/08/Screen-Shot-2021-08-01-at-12.43.16-AM-821x1024.png)
 
 然后总共有五周 calendar 是这样的，看起来时间很紧，但因为 window shopping 的快乐和一直在干实事所以其实比上班开心多了。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/08/Screen-Shot-2021-08-01-at-12.48.27-AM-634x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/08/Screen-Shot-2021-08-01-at-12.48.27-AM-634x1024.png)
 
 最后的决定跟我一开始想象的完全不同，有几个出乎意料的转折，去了完全没想到会去的公司，钱与情怀算是都到最优，非常满意。
 
@@ -226,7 +226,7 @@ FANG 的八股虽然无聊但好歹（除了个别奇葩以外）面试官大部
 
 整个面试过程的心境完全符合[云五老师](https://yukieyun.net/)做的这张图：
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/08/Screen-Shot-2021-08-01-at-12.56.35-AM-1001x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/08/Screen-Shot-2021-08-01-at-12.56.35-AM-1001x1024.png)
 
 我一开始因为不知道能不能拿到 offer 所以 say yes 了几个组并不 match 的机会，后来拿了 offer 兴趣缺缺，现在想来，一开始就 push back 直接让 recruiter 换组的话或许不会这么浪费了几家公司。
 

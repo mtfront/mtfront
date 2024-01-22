@@ -30,7 +30,7 @@ For a zoom lens bird lover review one month later, see:
 
 加上神奇的三星定价，我在官网上买的一个月还没发货，而 [Amazon 上已经开始 $250 off](https://amzn.to/3bUqU7x)（更神奇的是 256G 和 128G 版本一个价？）长达数周之久，而且说是没货其实直接发货，最后反倒比我官网的早到货。加上 Prime card 5% cashback，和原价少了 $250 少的税，我比官网活活赚了 324 刀到手，这才发售没几周跟官网预购同时到货，同时跟 Oneplus 和 iPhone 12 pro 基本款一个价甚至更便宜拿到顶级配置，简直不买不是人。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/DSC03231-01-1024x683.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/DSC03231-01-1024x683.jpeg)
 
 
 ## 硬件
@@ -41,7 +41,7 @@ Let’s just say, this thing screams of premium in every way. 作为一个几个
 
 而哑光还有个好处，对油渍包容性较高。上图是我用了两周，甚至边吃薯片边用过，然后又加了 HDR 拉了曲线加了饱和度的图，还是比 fingerprint magnent 似的光滑玻璃背板显得干净多了。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/DSC03234-01-1024x683.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/DSC03234-01-1024x683.jpeg)
 
 而既然高质量的相机凸起不能避免，与其搞成 iPhone 那样能开啤酒瓶盖能削土豆式地突兀，S21u 这种 embrace 式地与机身融合设计深得我心，比去年的煤气灶强太多了，放在桌面上也更稳。超广角（兼微距）、广角、3 倍长焦，10 倍超长焦 + laser focus 的组合也非常 versatile 没有牺牲。相机的部分后面会详细提到，[点此直接跳转](../best-smartphone-yet-samsung-galaxy-s21-ultra-review/#相机)。
 
@@ -61,7 +61,7 @@ Let’s just say, this thing screams of premium in every way. 作为一个几个
 
 当然，我也理解现在的屏幕尺寸通货膨胀的趋势下，大屏纯平面不曲面手感真的差（体会一下 iPhone 12 系列那个看上去很美实际上割手的如同 Macbook pro belly top 体验之差的手感），同样的尺寸纯平面屏拿起来感觉更“宽”，更不容易单手操作，所以厂商也不是一味为了炫技和哄抬屏占比才选择曲面的。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/DSC03233-01-1024x683.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/DSC03233-01-1024x683.jpeg)
 
 今年三星似乎在手感、观感和防误触上找到了平衡。不知道是减小了屏幕曲面半径，还是软件优化的缘故，之前在我用过所有曲面屏上多少会出现的误触，尤其是拍照和打字时非常干扰正常使用的那种，在 S21u 上不复存在。这大概是第一块让我忘记它存在的曲面屏。
 
@@ -92,9 +92,9 @@ Pixel 说好听点算法为王说难听点偷工减料，一家独大的时代�
 主镜头和广角在光线充足的情况下不用说，这年头基本上出哪个旗舰都不会有太大问题，s21u 自然也不例外。锐利、明艳、好修、靠谱，拍了基本不会失望。再加了新的 laser focus senor 对焦 lightning fast。
 
 {{< columns >}}
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/20210313_141538-01-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210313_141538-01-1024x768.jpeg)
 <--->
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/20210310_143525-01-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210310_143525-01-1024x768.jpeg)
 {{< / columns >}}
 
 ### 微距，不再是充数的噱头，效果好到瞠目结舌
@@ -109,7 +109,7 @@ Pixel 说好听点算法为王说难听点偷工减料，一家独大的时代�
 
 足够说明问题。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/20210308_154315-scaled-e1616141707786-768x1024.jpg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210308_154315-scaled-e1616141707786-768x1024.jpg)
 
 图放在这儿，话无需多说。如果觉得画质没什么了不起的话大可拿手头的手机试试拍不拍得到这么近。简而言之这不是素质好不好的问题，是拍不拍得到的问题，网上跟其他手机的对比图很多了。
 
@@ -121,20 +121,20 @@ Pixel 说好听点算法为王说难听点偷工减料，一家独大的时代�
 
 而如果长焦镜头画质牺牲尽可能小，~50mm 等效焦距带来的透视优势就让这颗镜头变得实用多了，更何况很多时候你确实想拍到更远的物体。
 {{< columns >}}
-![oneplus 8 pro 3x](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/IMG_20200326_234556-01-768x1024.jpeg)
+![oneplus 8 pro 3x](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/IMG_20200326_234556-01-768x1024.jpeg)
 <--->
-![S21 ultra 3x](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/20210305_225746-01-768x1024.jpeg)
+![S21 ultra 3x](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210305_225746-01-768x1024.jpeg)
 {{< / columns >}} 
 
 这两张是我在同样光照情况下分别用号称旗舰画质的 Oneplus 8 pro（左）的 3x 长焦和 S21u 3x 用自动模式（非人像、无手动对焦）拍的图，虽然拍摄对象与我的距离不同对景深影响较大，但大致在新窗口打开大图体验一下画质差距。
 
 {{<  columns >}} 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/20210310_141355-01-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210310_141355-01-1024x768.jpeg)
 <--->
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/20210312_170931-01-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210312_170931-01-1024x768.jpeg)
 {{< / columns >}} 
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/20210311_185148-01-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210311_185148-01-1024x768.jpeg)
     
 
 更多 S21u 3X 镜头。画质和防抖与以往手机长焦相比的显著提升让我更愿意用它，在购图和 actually getting the shot 上灵活性大了很多。下图是我能自由控制距离，但因为物体本身更适合等效 50mm 所表现的更自然的透视而选择了使用 3x。右图则是 getting the shot 的例子，不敢跟大鹅走得太近怕被啄，3X 能 get the job done. 左图则是不在步行能控制距离的范围内，为了构图而取了 3x。
@@ -145,14 +145,14 @@ Pixel 说好听点算法为王说难听点偷工减料，一家独大的时代�
 
 在换 S21u 之前我在用根本没有长焦的 pixel 5，假 2x 拍风景头吃力更别说拍鸟了。这大概也是促成我这么快下单 S21u 的原因——因为它有 10x 物理变焦，加上上至 30x 的光学变焦据说效果都可以接受，更不用说极限情况下 100x 了。非专业摄影师的普通摄影爱好者，最重要的是“方便”，“拍得到”，aka accessibility。相机再好也总有懒得那出门的时候，这时候一套非常 capable and versatile 的手机相机系统就如同雪中送炭了。
 
-![S21 Ultra ~30x digital zoom](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/20210316_145740-01-1024x768.jpeg)
+![S21 Ultra ~30x digital zoom](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210316_145740-01-1024x768.jpeg)
 
 I mean just look at this。以前觉得头顶上盘旋的都是鹰，哪想到随手拿手机拉近 30x 一看，居然满天的 Turkey Vulture。literally 肉眼里就是在盘旋的天空上一个小黑影，居然能拍到这种程度，大概是继上面的蜗牛微距视频之后我最被 S21u 相机震惊的一张图了。
 
 {{< columns >}}
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/20210310_142345-01-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210310_142345-01-1024x768.jpeg)
 <--->
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/20210316_134900-01-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210316_134900-01-1024x768.jpeg)
 {{< / columns >}}
 S21 Ultra 10x zoom lens
 
@@ -162,9 +162,9 @@ S21 Ultra 10x zoom lens
 
 即便是这两年人老珠黄（不是）不怎么自拍了的我，大概是受了 Pixel 5 的摧残，也不得不 appreciate 这个质量差距。想到当年 Pixel 2 一骑绝尘的自拍质量，不得不感叹这两年手机摄影进步之快不比不知道，不进则退：
 {{< columns >}}
-![S21 Ultra selfie cam](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/20210306_104926-1024x1024.jpg)
+![S21 Ultra selfie cam](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210306_104926-1024x1024.jpg)
 <--->
-![Pixel 5 selfie cam](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/PXL_20210302_192552167-1024x920.jpg)
+![Pixel 5 selfie cam](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/PXL_20210302_192552167-1024x920.jpg)
 {{< / columns >}}
 
 另外，这枚前置镜头是广角，默认状态下是 crop in 到常见的自拍镜头等效范围，自拍有多个人的时候可以自动识别或者手动切换回广角。
@@ -200,9 +200,9 @@ S21u 相机系统的 versatile 还表现在软硬结合的多种功能上，包�
 ### Pros
 
 {{< columns >}}
-![快捷分屏](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/Screenshot_20210306-202554_Photos-476x1024.jpg)
+![快捷分屏](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/Screenshot_20210306-202554_Photos-476x1024.jpg)
 <--->
-![Edge panel 设置界面](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/Screenshot_20210319-203623_Apps-476x1024.jpg)
+![Edge panel 设置界面](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/Screenshot_20210319-203623_Apps-476x1024.jpg)
 {{< / columns >}}
 
 - Edge panel 的快捷打开分屏真香。比如我设置了常用的鉴鸟 App Merlin + Google photo 的分屏快捷键（如左图），可以一键打开对着图识别，再也不用来回切换。另外，Edge panel 用来快捷启动一些 App 也很方便，在右图的设置中选好自己想快捷启动的 App 或组合，之后在任何页面从选好的位置滑动呼出这个快捷菜单。这个功能在 S8 上就相当喜欢，但在 S21u 的大屏和性能保证下随叫随到更加顺滑、方便。
@@ -219,7 +219,7 @@ S21u 相机系统的 versatile 还表现在软硬结合的多种功能上，包�
 - 系统自带图片编辑（比如截图完直接去编辑）裁剪的时候会自动吸附色块边缘，非常贴心。
 - DEX 功能：三星也推了几代了，但我第一次试用。手机连接屏幕或者 PC 当作桌面操作系统使用，甚至可以无线连接，只需要设备支持 miracast，很多电视都支持。我虽然暂时没有对这个功能的需求，但是相比对经常开会、presentation 的人非常方便：无需拿电脑直接连手机 presentation 或者接上 workstation 的屏幕当作桌面系统写文档连远程 dev box 写码，想想就觉得很科幻：
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/03/20210319_210505-scaled-e1616213443906-1024x768.jpg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210319_210505-scaled-e1616213443906-1024x768.jpg)
 
 ### Cons
 

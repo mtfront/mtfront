@@ -22,7 +22,7 @@ tags:
 
 （如果人在海外不方便转运的话，或许也可以考虑[直接买英文实体版](https://amzn.to/2YpCelP)，比图便宜在微信读书上看电子纯文字版强太多了）
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/image.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/image.png)
 
 我小时候就喜欢读科普和百科，成年之后重拾读书习惯之后也延续了下来。就算是读主要受众是青少年的科普书，也往往能在小细节里学到新的知识。更何况这一本的编排精美和笔触宏大，且内容更新较新，我觉得更适合成人科普爱好者阅读。
 
@@ -36,29 +36,29 @@ tags:
 
 ### **适当条件**
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/PXL_20210205_014732273-1024x768.jpg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/PXL_20210205_014732273-1024x768.jpg)
 
 这个部分一般由几个主要因素的出现->“发生了什么变化”->产生了什么结果->进而造成了进一步后果这个逻辑链条铺开，抽象、精炼地概括了当前临界点的如何发生、发生了什么、发生之后的后果之间的联系。
 
 ### **大概念**
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/PXL_20210205_015705663-1024x768.jpg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/PXL_20210205_015705663-1024x768.jpg)
 
 这个部分一般讲述人类对所在章节历史的认知，或那一时段产生的对人类文明产生重要影响的抽象理念，不动声色的帮读者把“观念”“理论”与“已知世界的事实”区分开来。
 
 ### **确凿证据**
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/PXL_20210205_015959767-1024x768.jpg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/PXL_20210205_015959767-1024x768.jpg)
 
 ### **大事年表**
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/image-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/image-1024x768.jpeg)
 
 虽然名字是叫年表，但其实更像是 timeline view 而不是 table view。用可视化细节表现各个节点之间的时间与共存关系之外，当然还图文补充了很多时间点的细节亮点。 因为是 timeline view 展示不同历史事件分支更清晰，而不是像传统“年表”的形式容易给人造成几件事是先后发生的错觉，这一点在人族的不同物种进化路线的表现上尤为明显。
 
 ### **大事件 dive deep**
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/image-1-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/image-1-1024x768.jpeg)
 
 最后也是占正文最多的部分是各大事件的 dive deep，通常一个条目横幅两页，语言简练地描述了该临界点之后的历史大事件。这些事件非常宏观，诸如”太阳开始发光“、”动物有了脊柱“、“猿类开始直立行走”、“东西方相遇”等，而不会聚焦在具体的历史事件上，诸如“哥伦布发现美洲”、”第二次世界大战“这类虽然当时看来对世界格局影响重大，但其实具有历史必然性，且在宏观纬度上无足轻重的事情。
 
@@ -115,7 +115,7 @@ tags:
 
 寒武纪如科幻生物式的”塑造身体的试验阶段“听起来就很激动人心：
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/image-2-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/image-2-1024x768.jpeg)
 
 以及，有很多小时候划分为”恐龙”的生物其实根本不是恐龙，只是“大型爬行动物”而已。（不过我还是没搞清恐龙的定义到底是什么）
 
@@ -129,7 +129,7 @@ tags:
 
 翅膀形成这一张解释了动物相似性与共同祖先并不是充分必要条件。独立进化了四次的翅膀这个结构——节肢动物（昆虫），爬行动物（翼龙），鸟类，哺乳类（蝙蝠）——各有不同，以前隐约知道这个概念，但有了本书的图示一下就把这个只是具体化好懂了。（翼龙的小手指兰花指在翅膀上突然可爱起来了（不是
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/image-3-scaled-e1612495523827-768x1024.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/image-3-scaled-e1612495523827-768x1024.jpeg)
 
 上学时候一直模模糊糊两栖动物和爬行动物的区别，毕竟不是考点也就没多追究。读了这段突然意识到有硬壳的卵（以及平行替换到植物界，有种子能在陆地上繁殖的植物）如此重要：
 
@@ -152,7 +152,7 @@ tags:
 
 另外，这幅 Chauvet Cave 3.2 万年前的壁画画的也太好了吧秒杀我的画画水平：
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/02/image-4-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/02/image-4-1024x768.jpeg)
 
 临界点 6 人类进化：大事年表
 

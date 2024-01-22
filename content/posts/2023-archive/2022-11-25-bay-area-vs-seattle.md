@@ -41,9 +41,9 @@ covid 以来 remote working 登上 mainstream，很多公司都可以完全远�
 搬家之前很难意识到湾区到底有多大，搬过来之后日常感叹西雅图开车去哪都好近。西雅图的朋友经常觉得开车二三十分钟的地方很远（比如从市区到 Bellevue），在湾区简直就是从 Fremont 到 San Jose——家门口好吗。下面是同等比例尺下湾区和西雅图的大小对比：湾区刚刚能囊括，甚至都没算上 greater bay area 的 Walnut Creek 之类。而西雅图别说市区、东亚图了，下到 Kent 上到 Everett，都快能盖到 Olympic national park 了，就，夸张。地方小说明什么呢？同样的通勤条件下，你可以住到很“偏远”便宜的房子，aka 同样的价钱下你可以住到更中心的房子。更何况最贵的比最贵的也是西雅图比湾区便宜。
 
 {{< columns >}}
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/11/Screen-Shot-2022-11-25-at-2.26.11-AM-1024x978.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/11/Screen-Shot-2022-11-25-at-2.26.11-AM-1024x978.png)
 <--->
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/11/Screen-Shot-2022-11-25-at-2.25.38-AM-1024x977.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/11/Screen-Shot-2022-11-25-at-2.25.38-AM-1024x977.png)
 {{< / columns >}}
 
 ## 生活便利性 – 西雅图 +1
@@ -102,21 +102,21 @@ Side note，不知道是不是我社交圈的问题，西雅图 lesbian 浓度�
 
 离湾区最近的国家公园 Pinnacles 虽然开车只要不到两个小时，但存在感较低。大家常去的大地方还是 Yosemite、Lake Tahoe，Sequoia 等，开车四小时起。当然，本地的游客打卡景点不少（金门大桥、九曲花街等），但对于本地人来说打一次卡即可，长期的可玩性稍差。一号公路（本博客的顶部 banner，没想到吧）周边景色是不错，但其实也就是个普通的海边公路，反复可玩性有限，去 LA 的路上打卡一次，[偶尔去 hiking 一下足矣](../windy-sea-hike/)。
 
-![一号公路](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/11/image-1-1024x576.png)
+![一号公路](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/11/image-1-1024x576.png)
 
 Yosemite 不多说了，景色确实不错，人也是真的多，我在湾区住了七年总共也就去过一次。Sequoia 除了地貌略有不同我觉得体验大同小异。Lake Tahoe 如果不滑雪的话就是个普通的湖，夏天有一些水上运动可玩，[hiking 会比湾区附近的山更像森林一些](../between-mountain-and-lake/)，但讲道理要不是故意为了 getaway 的话没有必要跑这么远。
 
-![Lake Tahoe 附近的 trail](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/11/image-3-1024x768.png)
+![Lake Tahoe 附近的 trail](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/11/image-3-1024x768.png)
 
 西雅图则是我来的第一年就被[周边开车两个多小时内的两个国家公园](../late-summer-seattle-national-parks)震撼到了，放到四小时的话还有 Olympic 这种很 diverse 的巨型公园，[Netflix 甚至有一整个纪录片来讲它里面的动物](../2022-10-monthly-digest/#span-classez-toc-section-ide6b5b7e78bbce4b98be5b29b_island_of_the_sea_wolves_e29885e29885e29885e29885e29886span%e6%b5%b7%e7%8b%bc%e4%b9%8b%e5%b2%9b-island-of-the-sea-wolves-span-classez-toc-section-endspan)。
 
 首先，Mt. Rainier 不但平时在市区看的的时候好看，真的到上面[爬爆款 trail 我也是同一季去了两次都被震撼](../late-summer-seattle-national-parks/)。时刻就在眼前的巨大雪山总是让我想到当年在河口镇转角被富士山怼脸的震撼，而且 Skyline 的设置真的非常合理，雪山、野花、山泉、岩石、土拨鼠、瀑布，按快门按到手软，从临场体验到社交网络 ready，唯一一个我去过一次立刻想再去的国家公园。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/09/20220909_181849-scaled-e1664437451487-1536x2048.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/09/20220909_181849-scaled-e1664437451487-1536x2048.jpeg)
 
 North Cascades 我还没正经去过，去了次 Lake Diablo 拍照打卡和划船，但路过过好几次雪山和黄叶都非常漂亮，有机会肯定也还会再去，甚至讨厌 camping 如我都有点想去 car capming 划船 hiking 一条龙了。
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2022/09/20220904_144812-2048x1536.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/09/20220904_144812-2048x1536.jpeg)
 
 另外本来在西雅图呆久了加上冬天的 depressing 有点怀念加州的大荒漠，结果一心血来潮打开 Google maps satellite 发现开车两个小时之外还真有大沙漠。临时搞了个 day trip 没有认真玩，以后也可以再去。
 

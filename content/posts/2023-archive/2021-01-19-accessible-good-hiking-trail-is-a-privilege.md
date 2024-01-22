@@ -33,13 +33,13 @@ bookToc: false
 
 结果比想象中走得快~难度适中上下坡结合也不太抖的 trail，路和路牌都 well maintained 不大容易迷路或者滑倒，人和 mountain bike 都适合，小溪也有了点水，开去的山路（84）挺有意思但也不太 intimidating。唯一不完美的点是景观比较单一都是绿色的森林。
 <--->
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/01/Screenshot_20210118-143250-473x1024.png)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/01/Screenshot_20210118-143250-473x1024.png)
 {{< /columns >}}
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/01/PXL_20210118_203306251-01-768x1024.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/01/PXL_20210118_203306251-01-768x1024.jpeg)
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/01/PXL_20210118_202907673-01-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/01/PXL_20210118_202907673-01-1024x768.jpeg)
 
-![](https://s3.nl-ams.scw.cloud/mtfront-blog/2021/01/PXL_20210118_201024612-01-1024x768.jpeg)
+![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/01/PXL_20210118_201024612-01-1024x768.jpeg)
 
 另外，象友安利的登山靴真的香！我基本没怎么 break in，之前只穿着走过一个 2 mile 的平地，今天直接上山也感觉很舒服，而且明显感觉自己比平时穿球鞋更敢走，不怕滑不怕划不怕崴脚了，轻松许多。
 
