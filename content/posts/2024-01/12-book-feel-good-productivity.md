@@ -10,7 +10,7 @@ tags:
   - reading
   - productivity
 booktoc: false
-bookComments: false
+bookComments: true
 image: https://media.licdn.com/dms/image/D4E22AQESEQan62OZbw/feedshare-shrink_2048_1536/0/1689937725771?e=1709164800&v=beta&t=xOj3TQonvI9xIxliVXWJxUt6qirpvbUv6kzUJC0lJP4
 imageDes: "图源 Ali Abdaal Linkedin"
 ---
