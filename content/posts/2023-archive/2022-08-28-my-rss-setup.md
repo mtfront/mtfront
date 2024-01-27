@@ -140,6 +140,8 @@ Inoreader pro 版可以直接添加 email newsletter，每个 feed 可以生成�
 
 以上是大概扫了一眼我的订阅列表选了最近有动静的还算推荐的源，很多最近没发的可能有遗漏只是我订阅源里比较小一部分。此外大家有其他源/newsletter/telegram channel 的话推荐的话欢迎留言！
 
+最后，当然附上我自己博客的 RSS：`https://blog.douchi.space/index.xml` 从我做起消灭 email only newletter。
+
 
 {{< details "Migrated Comments" open >}}
 ### Comment by Ovler on 2022-08-28 01:33:03 -0700
