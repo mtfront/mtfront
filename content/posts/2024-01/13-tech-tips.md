@@ -9,6 +9,7 @@ categories:
 tags:
   - tech
   - tutorial
+  - productivity
 booktoc: true
 bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/111/826/639/640/007/687/original/d2cd82313a084ec4.png
