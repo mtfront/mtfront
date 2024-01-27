@@ -4,8 +4,8 @@ type: docs
 bookToc: false
 BookComments: False
 ---
-{{< img "https://media.douchi.space/douchi/media_attachments/files/111/712/473/429/654/078/original/b08c3afe2e96e5d1.jpg" 600 >}} \
-*2024-1-6 在楼顶玩桌游外面突然开始下雨，手机怼着玻璃拍了这张。*
+{{< img "https://media.douchi.space/douchi/media_attachments/files/111/803/643/180/374/087/original/fda4ae17ddcfd173.jpg" 600 >}} \
+*2024-1-22 Long time no [lego]((https://amzn.to/49t1zhh))! 还能按快门出照片颜值功能性双赞！*
 
 {{< heatmap >}}
 
@@ -16,10 +16,9 @@ BookComments: False
 - `玩物志`月刊更名[`关我辟事`]({{< relref "/tags/关我辟事" >}})双周刊啦！
 
 ## 近期中意
-- 📚 [`Feathers`](https://amzn.to/48tQ0X3) by Thor Hanson
 - 📚 [`Chip war`](https://amzn.to/48qMsEA) by Chris Miller
-- 🎮 [`Dredge`](https://douchi.space/@mtfront/111773440391080211)
-- 📷 [`Insta360 Go 3`](https://amzn.to/3vkYL76)
+- 🎮 [`Enshrouded `](https://douchi.space/@mtfront/111819675910087678)
+- 🧱 [`Lego Polaroid`](https://amzn.to/49t1zhh)
 - 🎲 [`爆炸猫`](https://amzn.to/47Bznar)
 - 🧘 [`Geologie Co-Wash`](https://amzn.to/3tM9O8Z)
 
