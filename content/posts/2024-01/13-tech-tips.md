@@ -23,7 +23,7 @@ imageDes: "MidJourney prompt: a laptop and bunch of tools, game isometric 2D sty
 <!--more-->
 
 ## 浏览器定制多个搜索引擎
-绝大多数浏览器在地址框直接输入文字都会用默认的搜索引擎搜索，但如果想要在特定站内搜索内容，需要从默认搜索引擎的搜索结果页面里点击，还要忍受可能误点广告、内容过信搜索引擎没有 index 的可能。去对应的网站在站内搜索又多了一个步骤。其实很多浏览器都提供了定制搜索引擎的功能，可以在地址框快速切换搜索引擎。以 chrome 为例，在 `settings -> search engine -> Manage search engines and site search` 里可以添加自定义的搜索引擎，在地址栏打对应 shortcake + 空格 + 关键字就能直接站内搜索。我比较常用的有：
+绝大多数浏览器在地址框直接输入文字都会用默认的搜索引擎搜索，但如果想要在特定站内搜索内容，需要从默认搜索引擎的搜索结果页面里点击，还要忍受可能误点广告、内容过信搜索引擎没有 index 的可能。去对应的网站在站内搜索又多了一个步骤。其实很多浏览器都提供了定制搜索引擎的功能，可以在地址框快速切换搜索引擎。以 chrome 为例，在 `settings -> search engine -> Manage search engines and site search` 里可以添加自定义的搜索引擎，在地址栏打对应 shortcut + 空格 + 关键字就能直接站内搜索。我比较常用的有：
 - `maps`: `https://www.google.com/maps/search/%s?hl=en&source=opensearch` 
 - `amzn`: `http://www.amazon.com/exec/obidos/external-search/?field-keywords=%s&mode=blended&tag=mtfront0f-20` 这里加入了我的 affiliate link，当然你可以自己定制
 - `ytb`: `https://www.youtube.com/results?search_query=%s`
@@ -32,6 +32,9 @@ imageDes: "MidJourney prompt: a laptop and bunch of tools, game isometric 2D sty
 
 ## 免费的 photoshop 网页版平替
 Adobe 换成现在这个收费模式前大家还能用用盗版 photoshop，换了 subscription base 之后干脆就彻底抛弃 photoshop 了。非专业图像处理人员用网页版平替完全能应付日常偶尔改个图的小需求，不允许还有人不知道 https://www.photopea.com/ 这个网站。此外 photoshop 水很深不假，但熟练掌握曲线、魔棒、液化、印章等常用工具对普通人日常生活应个急还是很有用的。虽然现在各家都开始流行手机 AI 修图，但总有一些小细节还是得手动修的。
+
+## 去除链接里的追踪数据
+之前写过一个完全版的[什么是 UTM 追踪]({{< relref "/posts/2023-09/5-url-sanitizer" >}})和提供了一些去除追踪的方法和工具了，这里不再赘述。
 
 ## 使用 RSS 订阅博客和新闻网站
 作为一个从第一波博客兴起把 RSS 当作默认订阅方式的人看到博客没落后 RSS 逐渐成为一个 niche，最差情况网站干脆不提供 RSS 只允许用邮件这种低效方式订阅，最好也得新读者去“学习“痛心疾首。而最遗憾的是，其实 RSS 根本不是 geek 才能玩的什么高端技能，是个人随便进个 app store 搜个 RSS 阅读器出来甭管好坏都能用，根本没有使用门槛。但因为它变成了 niche，网上充斥着自建 RSS 服务等“高端玩法”，甚至很多 app 测评都抛出一大堆对新人无用的名词让人望而却步，也劝退了一大波稍感兴趣的人。

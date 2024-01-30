@@ -129,7 +129,7 @@ Discord 的 slogan 是“imagine a place“，想象一个地方。因为其“�
 
 - 中英文搜索都很好用，还能加各种 filter（有没有媒体，谁发的等）
 - 消息关系管理。因为 discord 又有普通 reply 又有 thread 又有 channel，可以方便灵活的组织信息。比如 reply 可以做笔记之间的电梯（当然也可以直接 copy message 链接），thread 可以作为一个话题聚合多条消息，channel 则是固定、长期的不同消息分类。
-- 文件传输。discord （即便免费用户）传文件限制也比 notion 小很多（25Mb），有 Nitro 更是可以上传 500MB 的文件，视频预览也比 notion 方便，图片甚至可以外链和预览。
+- 文件传输。discord （即便免费用户）传文件限制也比 notion 大很多（25Mb），有 Nitro 更是可以上传 500MB 的文件，视频预览也比 notion 方便，图片甚至可以外链和预览。
 - Notes & Brain dump。一些 text channel 随手写笔记。
 - AI bot。Discord 官方支持的用 openAI 的 bot，可以直接 @ Clyde 聊天。
 - Test。我的各种测试消息。
