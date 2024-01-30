@@ -2,7 +2,7 @@
 title: 送别小白
 author: 椒盐豆豉
 type: post
-date: 2024-01-28T22:37:00-08:00
+date: 2024-01-30T11:17:00-08:00
 url: /bye-s3/
 categories:
   - 喜欢就买
