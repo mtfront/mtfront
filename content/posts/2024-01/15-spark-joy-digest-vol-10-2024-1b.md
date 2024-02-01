@@ -162,3 +162,7 @@ Survivor without the physical challenge part，连有点 tribal 的音乐都学�
 ### Jenny Tian: Picture This ★★☆
 {{< neodb "https://neodb.social/movie/2gkQsJDLcTioCUdjqadrjn" >}}
 开头还蛮好笑的，后面越讲越散，感觉还有待磨练。
+
+### 重温：婚姻故事 | Marriage Story ★★★★★
+{{< neodb "https://neodb.social/movie/3cH3bmEXyDm4f7o5krAJHK" >}}
+这些年愈发觉得是我的 all time favorite 了，甚至犹豫要不要加之一。最近给富婆安利终于找到机会一起重看了一遍。可惜当年还没有认真开始写影评，就不复制粘贴了，总之还没看过的快去看！（不喜欢千万不要告诉我不然会友尽那种）
