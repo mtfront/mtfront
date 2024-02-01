@@ -223,3 +223,11 @@
 	}
 }
 /* db-card -------- end */
+
+.spoiler {
+  filter: blur(4px);
+  display: inline;
+  &:hover {
+    filter: blur(0);
+  }
+}

@@ -138,10 +138,7 @@ Youtube 效率网红 Ali Abdaal 的新书。Ali 还是挺真诚的，少了很�
 
 ### 美国梦魇 | American Nightmare ★★★★
 {{< neodb "https://neodb.social/tv/season/4nofgGEQBWEqJgHr29QrUj" >}}
-片名非常恰如其分，this is a total fucking American nightmare，体制全方位地辜负甚至加害其要保护的公民给人扣上现实版《消失的爱人》帽子，女性的声音被一再忽视，可以预防的犯罪被司法部门的渎职姑息成为现实，全程看得都非常憋屈。
-{{< details "以下剧透" >}}
-如片中的受害人自己所说，他们不幸中的万幸机缘巧合遇到了最后一位尽职甚至 go beyond her job 不放过蛛丝马迹调查的 lesbian 探员才得以沉冤昭雪，他们也足够 privileged 有家人、律师和彼此的支持，可以度过难关可以告翻市政府可以 happily ever after 给这个故事一个 happy ending，但整个系统性的失败还是看得人背脊发凉。
-{{< / details >}}
+片名非常恰如其分，this is a total fucking American nightmare，体制全方位地辜负甚至加害其要保护的公民给人扣上现实版《消失的爱人》帽子，女性的声音被一再忽视，可以预防的犯罪被司法部门的渎职姑息成为现实，全程看得都非常憋屈。（剧透预警）{{< spoiler "如片中的受害人自己所说，他们不幸中的万幸机缘巧合遇到了最后一位尽职甚至 go beyond her job 不放过蛛丝马迹调查的 lesbian 探员才得以沉冤昭雪，他们也足够 privileged 有家人、律师和彼此的支持，可以度过难关可以告翻市政府可以 happily ever after 给这个故事一个 happy ending，但整个系统性的失败还是看得人背脊发凉。" >}}
 
 ### Is this it? ★★★★
 {{< neodb "https://neodb.social/movie/0o2k2xid2ezFYykwTwwgaC" >}}
