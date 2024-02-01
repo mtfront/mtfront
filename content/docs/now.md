@@ -4,16 +4,16 @@ type: docs
 bookToc: false
 BookComments: False
 ---
-{{< img "https://media.douchi.space/douchi/media_attachments/files/111/803/643/180/374/087/original/fda4ae17ddcfd173.jpg" 600 >}} \
-*2024-1-22 Long time no [lego]((https://amzn.to/49t1zhh))! 还能按快门出照片颜值功能性双赞！*
+{{< img "https://media.douchi.space/douchi/media_attachments/files/111/843/320/287/477/707/original/5b297f716a420991.jpg" 600 >}} \
+*2024-1-29 新车小霾*
 
 {{< heatmap >}}
 
 ## 近况
-- 恢复了健康，多吃了水果，坚持有氧中
-- [年终总结]({{< relref "/posts/2023-12/12-2023-in-review" >}})和[书]({{< relref "/posts/2024-01/5-2023-book-review" >}})[影]({{< relref "/posts/2024-01/6-2023-movie-review" >}})[游]({{< relref "/posts/2024-01/4-2023-game-review" >}})总结都写完了！彻底翻篇进入 2024！
 - [喜提中年人第一次被裁](https://t.me/mtfront/2983)，厌班期待外力 reset 也有一阵子了，准备躺平几个月思索一下想干什么了
 - `玩物志`月刊更名[`关我辟事`]({{< relref "/tags/关我辟事" >}})双周刊啦！
+- 告别开了 5 年半的[小白]({{< relref "/posts/2024-01/14-bye-s3" >}})买了新车[小霾]({{< relref "/posts/2024-01/15-spark-joy-digest-vol-10-2024-1b" >}}#小霾)
+- 拔了智齿，恢复中
 
 ## 近期中意
 - 📚 [`Chip war`](https://amzn.to/48qMsEA) by Chris Miller
@@ -24,8 +24,7 @@ BookComments: False
 
 ## 近期目标
 - 一些 [2024 的量化 flag]({{< relref "/posts/2023-12/10-2024-flags">}})
-- 利用不上班的时间探索一下新的创作形式
-- 搞个游戏的 backlog 减小每次开玩的阻力
+- 多开[小霾]({{< relref "/posts/2024-01/15-spark-joy-digest-vol-10-2024-1b" >}}#小霾)出去逛
 
 ## What's new
 - `2024-01-17` 添加了 neodb 卡片，更新了一篇[装修小记]({{< relref "/posts/2024-01/11-blog-decoration-2" >}})
