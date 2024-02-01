@@ -2,12 +2,13 @@
 title: 关我辟事 Vol.10：辞旧迎新
 author: 椒盐豆豉
 type: post
-date: 2024-01-31T15:57:00-08:00
+date: 2024-01-31T21:17:00-08:00
 url: /spark-joy-digest-vol-10-2024-1b/
 categories:
   - 喜欢就买
 tags:
   - 关我辟事
+  - car
   - review
   - 消费主义陷阱
   - reading 
