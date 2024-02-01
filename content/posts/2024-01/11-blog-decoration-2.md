@@ -122,7 +122,7 @@ imageDes: "MidJourney prompt: person decorating home, game isometric pixel art s
 ```
 
 ### 博客题图说明
-之前提到最近[用 AI 给博客生成题图]({{< relref "/posts/2024-01/10-spark-joy-digest-vol-9-2024-1a copy" >}})，除了要添加 prompt 之外有时候也会有自己的照片，需要提供一些 context。我的模版只提供了`image`参数添加题图，于是我自己加了个`imageDes`加行小字给自己自定义说明用。当然也可以用作是副标题。
+之前提到最近[用 AI 给博客生成题图]({{< relref "/posts/2024-01/10-spark-joy-digest-vol-9-2024-1a" >}})，除了要添加 prompt 之外有时候也会有自己的照片，需要提供一些 context。我的模版只提供了`image`参数添加题图，于是我自己加了个`imageDes`加行小字给自己自定义说明用。当然也可以用作是副标题。
 ```go
 {{ if .Params.imageDes }}
   <p style="font-size:small">
