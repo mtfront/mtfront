@@ -53,7 +53,7 @@ imageDes: "喜提等了一年多的新车小霾"
 ### 羊毛(限美国)
 我一直在用的定投账户 M1 finance 现在把开户 referral bonus 提到 $250 刀了，也是拼了（之前用的几年里一直是 $10 - $30 刀，前阵子提到 $100 已经很震惊了）。referral code https://m1.finance/3k2CE5UGXvjS
 
-一直在用的高盛旗下的 high yeild saving Marcus 的三个月 +1.00% APY referral bonus 也还在 https://www.marcus.com/share/FAN-NS4-YMS9 ，加完 5.5% APY 也是一万存三个月就有 $300 了
+一直在用的高盛旗下的 high yeild saving Marcus 的三个月 +1.00% APY referral bonus 也还在（我今年的额度已 refer 满了去掉了这里的 referral code） ，加完 5.5% APY 也是一万存三个月就有 $300 了
 
 顺便附送[新年理财待办事项保姆清单]({{< relref "/posts/2024-01/7-new-year-investment-checklist-deals" >}})。
 
