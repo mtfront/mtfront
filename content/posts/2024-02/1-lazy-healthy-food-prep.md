@@ -22,7 +22,7 @@ imageDes: "MidJourney prompt: a kitchen, 2d game isometric style --ar 16:9"
 
 <!--more-->
 
-本文是我 [2024 年 2 月 Patreon 的月度选题](https://www.patreon.com/posts/2024-nian-2-yue-96458213)。所人均可在第一时间免费阅读我的 patreon 文章，每月我会提前发起投票提供二至四个下个月可能会写的博客题材，因为兴趣比较杂内容可能会涵盖职业、科技、消费、理财、健康、效率等不同的话题，[加入 patreon 可以跟其它赞助者一起选出下个月你想看的博客文章](https://www.patreon.com/posts/2024-nian-3-yue-97913966)，并且支持本博客的持续创作。下个月春暖花开，涵盖科技消费、效率和健康选题各一个：
+本文是我 [2024 年 2 月 Patreon 的月度选题](https://www.patreon.com/posts/2024-nian-2-yue-96458213)。所有人均可在第一时间免费阅读我的 patreon 文章，每月我会提前发起投票提供二至四个下个月可能会写的博客题材，因为兴趣比较杂内容可能会涵盖职业、科技、消费、理财、健康、效率等不同的话题，[加入 patreon 可以跟其它赞助者一起选出下个月你想看的博客文章](https://www.patreon.com/posts/2024-nian-3-yue-97913966)，并且支持本博客的持续创作。下个月春暖花开，涵盖科技消费、效率和健康选题各一个：
 - 我的一些科技相关小怪癖
 - 用 Notion Calendar 打造高效 daily quest 系统
 - 居家健身 101
