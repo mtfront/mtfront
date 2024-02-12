@@ -8,7 +8,6 @@ categories:
   - 多喝热水
 tags:
   - wellness
-  - random
 bookToc: false
 image: https://media.douchi.space/douchi/media_attachments/files/111/492/354/613/202/527/original/2b65eb14b8bf92f2.png
 imageDes: "image by MidJourney, prompt: a pixie cut short hair woman wearing tank top dead hang, using both hands with arms straight at a pull up bar, full body shot from back --niji 5 --style scenic --ar 3:2"
