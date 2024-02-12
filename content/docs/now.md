@@ -4,8 +4,8 @@ type: docs
 bookToc: false
 BookComments: False
 ---
-{{< img "https://media.douchi.space/douchi/media_attachments/files/111/843/320/287/477/707/original/5b297f716a420991.jpg" 600 >}} \
-*2024-1-29 新车小霾*
+{{< img "https://media.douchi.space/douchi/media_attachments/files/111/916/394/934/032/290/original/58e2b9e6be88dbcb.jpg" 600 >}} \
+*2024-2-11 一个雨夜的天窗*
 
 {{< heatmap >}}
 
