@@ -69,7 +69,7 @@ image: https://media.douchi.space/douchi/media_attachments/files/111/767/969/671
 ## 合
 然而该来的总会来，从去年底就开始开始不断冒出。比如年末圣诞 + 新年全司放假前的最后一个 all hands 被临时推后到了节前最后一个周二才开，然后出人意料地宣布了第二年公司大方向的再次 pivot，之前年底做的来年 planing 基本全部作废。比如往年 performance review 会在放假前早早宣布时间和流程，今年直到开年正常工作了两周也只字未提。当然，最后的最明显的苗头是有人发现所有 director 及以上 level 的管理层突然临时在一起开会。到了当天早上，迹象已再明显不过了。8 点多通过各种内部渠道所有人收到了 10 点全公司要开一个 30 分钟的 all hands 的消息，并且鼓励所有员工今天不要去办公室在家办公。此时 blind 上自然已经炸开了锅，裁员已成定局没什么悬念了。
 
-到了会上，高层们苦瓜脸进来，然后模板"we made difficult decision…"，宣布了要裁员的数量，以及开完会所有人会收到 email 关于自己的结果，会给 5 个月的 severance package。会后我们 org 所有人一起沉默连入了一个语音频道（有一个同事开着 cat cam），文字消息里大家更新自己的结果，人们开始交换 linkedin 和其它社交账号。收到 email 之后十几分钟被裁的人逐渐被踢出了员工群。我组挂掉了一小半人，新至刚来两个月的 PM（他好赚，上两个月班拿七个月工资），老至算是公司元老的我们 org 一把手我 skip。
+到了会上，高层们苦瓜脸进来，然后模板"we made a difficult decision…"，宣布了要裁员的数量，以及开完会所有人会收到 email 关于自己的结果，会给 5 个月的 severance package。会后我们 org 所有人一起沉默连入了一个语音频道（有一个同事开着 cat cam），文字消息里大家更新自己的结果，人们开始交换 linkedin 和其它社交账号。收到 email 之后十几分钟被裁的人逐渐被踢出了员工群。我组挂掉了一小半人，新至刚来两个月的 PM（他好赚，上两个月班拿七个月工资），老至算是公司元老的我们 org 一把手我 skip。
 
 个人觉得虽然有些轻微管理混乱但整体而言公司给的 outplacement 支持和 severance package 还是很人性化的。不像很多当场 cut access 的科技公司，我们留了十几分钟跟同事道别，公司电脑 access 也给了一整天方便大家转移个人文件。所有被裁的人被拉到一个 transition 群里，后续的一周里也举办了一些 info session 讲解答疑（虽然讲得不是很清楚吧）。除了 0.5N + 5 的 severance package 和常规 PTO cash out 之外，甚至还给 cover 了 5 个月的 cobra cost（医保），报销之类的福利也有相应延期，on visa 的员工可以 opt in 延期三个月找工作。
 
