@@ -9,11 +9,9 @@ ig_es_is_post_notified:
 categories:
   - 重启电脑
 tags:
-  - career
-  - patreon
-  - software engineer
+  - code
   - tutorial
-
+  - patreon
 ---
 短短几年时间，Chrome 作为一款在主流桌面操作系统（Windows，Mac）不内置的第三方浏览器，短短几年时间击败了所有竞争对手，以压倒性优势 [67% 的市场份额](https://gs.statcounter.com/browser-market-share/desktop/worldwide/)稳居桌面端浏览器头把交椅。虽然近年来对其隐私方面顾虑层出不穷，一些 power user 也会试图寻找替代品（Brave，Duckduckgo 之类），但对于绝大多数网民来说还是浏览器的默认选择。
 
