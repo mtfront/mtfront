@@ -27,7 +27,7 @@ image: https://media.douchi.space/douchi/media_attachments/files/111/767/969/671
 
 第三次离职，算是花钱买经历。小公司干活儿快成就感确实比大厂拧螺丝爽多了，但好巧不巧刚入职没多久 pandemic 就来了，憋在家里厌班和厌生活情绪很快达到高峰，疫苗出来想当然想出去当 digital nomad 就辞职了（当然最后也没去）。
 
-休整了几个月之后有了“反正不喜欢上班，不如找个钱多的”，大厂太多 bullshit 螺丝钉，不想干。小厂钱太少纸钱看不到头，不想干。于是锁定了 pre-IPO 或者刚 IPO 的中厂。这第四次找到的工作算是 greatly exceeds expectation：面试过程聊得非常愉快，做的产品当时非常感兴趣，公司前景当时看起来也非常 promising，还能纯远程工作。合意如此，不假思索走过场 negotiate 了几毛钱 sign on bonus 就立刻签了。
+休整了几个月之后有了“反正不喜欢上班，不如找个钱多的的心态。大厂太多 bullshit 螺丝钉，不想干；小厂钱太少纸钱看不到头，不想干。于是锁定了 pre-IPO 或者刚 IPO 的中厂。这第四次找到的工作算是 greatly exceeds expectation：面试过程聊得非常愉快，做的产品当时非常感兴趣，公司前景当时看起来也非常 promising，还能纯远程工作。合意如此，不假思索走过场 negotiate 了几毛钱 sign on bonus 就立刻签了。
 
 ## 承
 入职之后也发现工作体验也佳，甚至还写了篇 [dream job 半年回顾]({{< relref "/posts/2023-archive/2022-03-19-2022-dream-job" >}})。说是 Dream job 一点都不后悔，既有了大厂好用的工具，内部支持，福利和更大的 user impact，又有了小厂 move fast 和更灵活高质量的代码，甚至还碰上了很喜欢的轻松活泼 delightful 公司文化。
