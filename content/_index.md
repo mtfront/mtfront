@@ -27,7 +27,7 @@ https://blog.douchi.space/index.xml
 - 写了二十年博客，前两年入坑 [pixel art]({{< relref "/posts/2023-archive/2020-08-09-100-days-of-pixel-art" >}})，2023 开始做[播客](https://blog.douchi.space/podcast-bgm)，持续寻找新创作媒介中
 
 ## 支持我的博客创作并且获得一些金主福利
-{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}成为 Patreon 金主{{< /button >}}
+{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}订阅 Patreon 参与博客选题和定制服务{{< /button >}}
 {{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
 
 ## Where to find me

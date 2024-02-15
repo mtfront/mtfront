@@ -10,7 +10,7 @@ BookComments: False
 {{< heatmap >}}
 
 ## 近况
-- [喜提中年人第一次被裁](https://t.me/mtfront/2983)，厌班期待外力 reset 也有一阵子了，准备躺平几个月思索一下想干什么了
+- [喜提中年人第一次被裁]({{< relref "/posts/2024-02/3-layoff" >}})
 - `玩物志`月刊更名[`关我辟事`]({{< relref "/tags/关我辟事" >}})双周刊啦！
 - 告别开了 5 年半的[小白]({{< relref "/posts/2024-01/14-bye-s3" >}})买了新车[小霾]({{< relref "/posts/2024-01/15-spark-joy-digest-vol-10-2024-1b" >}}#小霾)
 - 拔了智齿，恢复良好
