@@ -25,7 +25,7 @@ imageDes: "MidJourney prompt: a power button, game isometric 2D style --ar 16:9"
 读者们更喜欢月刊一次看大部头的形式还是双周刊 bite size 更及时易读呢？此外，月刊里的不同板块（物、逛、书影游等）大家最喜欢哪个？欢迎留言。
 
 {{< hint "warning" "rss" >}}
-如果想单独订阅本双周刊的 RSS，可以使用单独的地址:
+如果想单独订阅本半月刊的 RSS，可以使用单独的地址:
 `https://blog.douchi.space/tags/关我辟事/index.xml`
 {{< / hint >}}
 
