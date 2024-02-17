@@ -25,7 +25,7 @@ BookComments: False
 
 ## 近期目标
 - 一些 [2024 的量化 flag]({{< relref "/posts/2023-12/10-2024-flags">}})
-- 多开[小霾]({{< relref "/posts/2024-01/15-spark-joy-digest-vol-10-2024-1b" >}}#小霾)出去逛
+- 多开[小霾]({{< relref "/posts/2024-01/15-spark-joy-digest-vol-10-2024-1b" >}}#小霾)出去逛，去年的西海岸大环线或许终能成行
 
 ## What's new
 - `2024-01-17` 添加了 neodb 卡片，更新了一篇[装修小记]({{< relref "/posts/2024-01/11-blog-decoration-2" >}})
