@@ -10,9 +10,9 @@ categories:
   - 关我屁事
   - 喜欢就买
 tags:
+  - PSA
   - gaming
   - podcast
-  - PSA
   - reading
   - watching
 bookToc: false
