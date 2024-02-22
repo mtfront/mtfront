@@ -3,8 +3,9 @@
 {{- else -}}
   <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title }}title="{{ . }}"{{ end }}/>
   {{- if .Text}}
-    <br />
-    {{ .Text}}
+    <p style="font-size:small;margin-top: 2px; color: gray; text-align: center;">
+      <i>{{ .Text}}</i>
+    </p>
   {{- end -}}
 {{- end -}}
 
