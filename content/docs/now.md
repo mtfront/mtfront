@@ -11,14 +11,15 @@ BookComments: False
 
 ## 近况
 - [喜提中年人第一次被裁]({{< relref "/posts/2024-02/3-layoff" >}})
-- `玩物志`月刊更名[`关我辟事`]({{< relref "/tags/关我辟事" >}})双周刊啦！
+- `玩物志`月刊更名[`关我辟事`]({{< relref "/tags/关我辟事" >}})半月刊啦！
 - 告别开了 5 年半的[小白]({{< relref "/posts/2024-01/14-bye-s3" >}})买了新车[小霾]({{< relref "/posts/2024-01/15-spark-joy-digest-vol-10-2024-1b" >}}#小霾)
 - 拔了智齿，恢复良好
 
 ## 近期中意
-- 📚 [`Chip war`](https://amzn.to/48qMsEA) by Chris Miller
+- 📚 [`Immune`](https://amzn.to/49IxrhQ) by Philipp Dettmer
 - 🎬 [`年会不能停`](https://t.me/mtfront/3047)
 - 🎮 [`ROG Loki SFX-L 850W Platinum`](https://amzn.to/49fBZwj)
+- 🎮 [`Pacific Drive`](https://neodb.social/game/55WQA9lPSEtD4PYHY69bs2)
 - 🧱 [`Lego Polaroid`](https://amzn.to/49t1zhh)
 - 🎲 [`爆炸猫`](https://amzn.to/47Bznar)
 - 🧘 [`Geologie Co-Wash`](https://amzn.to/3tM9O8Z)

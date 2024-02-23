@@ -8,6 +8,7 @@ categories:
   - 多喝热水
 tags:
   - wellness
+  - food
   - patreon
   - LPT
 booktoc: true
