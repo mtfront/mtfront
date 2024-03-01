@@ -106,6 +106,7 @@ tags:
 不过我偶尔发现 4 天以下的短途旅行背 33L 的 travel pack 2 稍有些大，外加 go pack 背电脑不舒服，消费主义陷阱如我又买了个 24L 的 Aer City Pack Pro。晚点试用几次加上我买过的 Travel Sling 2, Gym Pack 3, Go Pack 2 和 Travel Pack 2 可以写个 Aer 全家桶安利。
 
 ## 相关阅读：
-- [one bag travel 短期体验文](../one-bag-travel-aer-travel-pack-2/)
-- [我的包里有什么｜2022 EDC & Travel Setup](../2022-edc-travel-setup)
+- [one bag travel 短期体验文]({{< relref "/posts/2023-archive/2021-08-29-one-bag-travel-aer-travel-pack-2" >}})
+- [我的包里有什么｜2022 EDC & Travel Setup]({{< relref "/posts/2023-archive/2022-04-05-2022-edc-travel-setup" >}})
+- [Urban 遇上 Travel, 全方位提升出行体验的 Aer 背包全家桶]({{< relref "/posts/2023-09/4-aer-bag-collection" >}})
 
