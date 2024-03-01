@@ -18,7 +18,7 @@ imageDes: "2024-2-29 小霾的第一次长途旅行 @ Red Canyon Arch"
 
 我常说 hiking 是 walking meditation，游泳是 floating meditation，那 road trip 对我而言就像是 driving meditation 了。说来好笑，正经坐着躺着的冥想本身对我倒没有太大吸引力，但这几种（我自封的）动起来的附带冥想效果的活动却都很喜欢。
 
-写下这篇博客的时候我正在进行本想去年（[手术]({{< relref "/posts/2023-12/8-hysterectomy-fighting-period-part-3.md" >}})后的病假进行后来因为得知恢复期不能抬重物舟车劳顿不便）没能成行的美西大环线。现在是行程的第四天，开了一千英里出头，刚过总行程的 1/3，在 Bryce Canyon 国家公园的门口住下，拍了题图中这张照片，hiking 了个漂亮的小 trail，早早回到酒店开始写下这篇算旅途中的 brain dump，也算想写已久的 road trip 安利。
+写下这篇博客的时候我正在进行本想去年（[手术]({{< relref "/posts/2023-12/8-hysterectomy-fighting-period-part-3.md" >}})后的病假进行后来因为得知恢复期不能抬重物舟车劳顿不便）没能成行的美西大环线。现在是行程的第四天，开了一千英里出头，刚过总行程的 1/3，在 Bryce Canyon hike 了个漂亮的小 trail，早早回到酒店开始写下这篇算旅途中的 brain dump，也算想写已久的 road trip 安利。
 
 <!--more-->
 
