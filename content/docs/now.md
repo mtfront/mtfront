@@ -18,7 +18,7 @@ BookComments: False
 
 ## 近期中意
 - 📚 [`Immune`](https://amzn.to/49IxrhQ) by Philipp Dettmer
-- 📚 [`Entangled Life`](https://amzn.to/4bTZQU1) by Merlin Sheldrake 
+- 📚 [`Entangled Life`](https://amzn.to/4bTZQU1) by Merlin Sheldrake，[读书笔记]({{< relref "/posts/2024-03/2-book-entangled-life" >}})
 - 🎬 [`年会不能停`](https://t.me/mtfront/3047)
 - 🎮 [`ROG Loki SFX-L 850W Platinum`](https://amzn.to/49fBZwj)
 - 🎮 [`Pacific Drive`](https://neodb.social/game/55WQA9lPSEtD4PYHY69bs2)
@@ -28,7 +28,8 @@ BookComments: False
 
 ## 近期目标
 - 一些 [2024 的量化 flag]({{< relref "/posts/2023-12/10-2024-flags">}})
-- 多开[小霾]({{< relref "/posts/2024-01/15-spark-joy-digest-vol-10-2024-1b" >}}#小霾)出去逛，去年的西海岸大环线或许终能成行
+- 🍄 mushroom foraging
+- 探寻新的本地社交形式（西雅图的博友欢迎参与！）
 
 ## What's new
 - `2024-01-17` 添加了 neodb 卡片，更新了一篇[装修小记]({{< relref "/posts/2024-01/11-blog-decoration-2" >}})
