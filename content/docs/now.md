@@ -14,12 +14,12 @@ BookComments: False
 - `玩物志`月刊更名[`关我辟事`]({{< relref "/tags/关我辟事" >}})半月刊啦！
 - 告别开了 5 年半的[小白]({{< relref "/posts/2024-01/14-bye-s3" >}})买了新车[小霾]({{< relref "/posts/2024-01/15-spark-joy-digest-vol-10-2024-1b" >}}#小霾)
 - 拔了智齿，恢复良好
-- 美西大环线 [road trip]({{< relref "/posts/2024-02/7-road-trip" >}}) 火热进行中
+- 美西大环线 [road trip]({{< relref "/posts/2024-02/7-road-trip" >}}) 火热进行完毕，回家补补课和 adulting 中
 
 ## 近期中意
 - 📚 [`Immune`](https://amzn.to/49IxrhQ) by Philipp Dettmer
 - 📚 [`Entangled Life`](https://amzn.to/4bTZQU1) by Merlin Sheldrake，[读书笔记]({{< relref "/posts/2024-03/2-book-entangled-life" >}})
-- 🎬 [`年会不能停`](https://t.me/mtfront/3047)
+- 🎬 [`热辣滚烫`](https://t.me/mtfront/3125?utm_source=blog)
 - 🎮 [`ROG Loki SFX-L 850W Platinum`](https://amzn.to/49fBZwj)
 - 🎮 [`Pacific Drive`](https://neodb.social/game/55WQA9lPSEtD4PYHY69bs2)
 - 🧱 [`Lego Polaroid`](https://amzn.to/49t1zhh)
