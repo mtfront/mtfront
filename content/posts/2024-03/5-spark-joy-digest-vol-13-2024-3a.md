@@ -48,6 +48,7 @@ imageDes: "2024-3-3 摄于 Valley of Fire"
 本来没想要去什么 hardcore 的 hiking，结果在 Valley of Fire 和 Red Rock Canyon 的时候意外手脚并用爬了几次石头。前者还好，后者一个挺红的 trail 不知道谁 rate 的 moderate，虽然距离只有 2.4 mile 但有一半都是要爬石头的，下山时候一直手脚并用。我被 rating 骗了没带包，还提着我的[小水壶](https://amzn.to/477opdH)行动受阻连连骂这 trail 误导。不过鞋倒是 handle 得不错，抓地力不错。不过我觉得比传统登山靴信心还是稍低一些，主要源自它跟跟脚面的落差体感有点大，下陡坡的时候感觉脚趾比我另一双登山靴更费劲。但胜在舒适方便，样子也没登山靴那么出挑，爬点难的 moderate 然后再直接穿进城也没什么问题。再加上之前在 Bryce Canyon 疯狂踩泥，这次可真是把它好好用了一番值回票价了。以后出门 hiking 也可以放心穿它了。
 
 ![2024-3-3 Valley of Fire 的红土](https://media.douchi.space/douchi/media_attachments/files/112/035/297/368/925/582/original/a35eaaabc253ae92.png)
+![踩完 Bryce Canyon 的泥](https://media.douchi.space/douchi/media_attachments/files/112/023/287/123/644/872/original/9732a856603aab51.png)
 
 ## 事
 ### 食物中毒
