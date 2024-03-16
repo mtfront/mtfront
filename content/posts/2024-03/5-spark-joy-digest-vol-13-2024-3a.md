@@ -22,11 +22,6 @@ imageDes: "2024-3-3 摄于 Valley of Fire"
 
 虽然上一期还不到半个月前，但经历了个 road trip 又回到家这期感觉间隔好久了。我结束了为期半个多月，行程 3200 多英里（约 5000 公里）的 solo road trip。行程中的见闻思绪不少，不过咱们游记晚点再见。
 
-{{< hint "warning" "rss" >}}
-如果想单独订阅本半月刊的 RSS，可以使用单独的地址:
-`https://blog.douchi.space/tags/关我辟事/index.xml`
-{{< / hint >}}
-
 本期亮点：
 - 登山靴的性能，sneaker 的舒适？
 - 食物中毒之后，单驹日行千里回家，Road trip 后半程精彩集锦
@@ -35,6 +30,10 @@ imageDes: "2024-3-3 摄于 Valley of Fire"
 - 连看四部近期大热影片，部部都有槽点
 
 <!--more-->
+{{< hint "warning" "rss" >}}
+如果想单独订阅本半月刊的 RSS，可以使用单独的地址:
+`https://blog.douchi.space/tags/关我辟事/index.xml`
+{{< / hint >}}
 
 ## 物
 ### [加拿大冰葡萄酒茶包](https://amzn.to/49SAEfm)
