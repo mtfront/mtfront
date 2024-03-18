@@ -8,8 +8,8 @@ categories:
   - 喜欢就买
 tags:
   - travel
-  - photography
   - birds
+  - photography
 booktoc: true
 bookComments: false
 image: https://media.douchi.space/douchi/media_attachments/files/112/007/461/055/639/002/original/e9afeab1911da412.png
@@ -18,7 +18,7 @@ imageDes: "Idaho 和 Utah 的旷野"
 
 作为一个坚定的[公路旅行爱好者]({{< relref "/posts/2024-02/7-road-trip" >}})和一个还算爱开车的人，仔细想来我却还没去过什么长途的 road trip。此前开最长的是去年的 [Oregon 环线]({{< relref "/posts/2023-archive/2023-07-02-2023-summer-road-trip" >}})，距离虽长（接近 2000 英里）但时间只有三天。去年本想趁手术[手术]({{< relref "/posts/2023-12/8-hysterectomy-fighting-period-part-3.md" >}})后病假来个美西大环线：从西雅图出发绕道盐湖城，南下去 Utah、Nevada 和加州几个国家公园绕一圈回来。后来得知术后不能提重物提行李不便就没能成行。这 road trip 和开车爱好者的名头也未经检验一直底气不足。
 
-今年刚好[被裁了]({{< relref "/posts/2024-02/3-layoff" >}})，空出大把时间；又时逢[告别开了 6 年的小白]({{< relref "/posts/2024-01/14-bye-s3" >}})，新车小霾到手无处释放手痒也想出门；找个由头约上了湾区的朋友聚会，遂毅然重启这个历时 16 天，行驶 3000 多英里的行程。
+今年刚好[被裁了]({{< relref "/posts/2024-02/3-layoff" >}})，空出大把时间；又时逢[告别开了 6 年的小白]({{< relref "/posts/2024-01/14-bye-s3" >}})，新车小霾到手无处释放手痒也想出门；找个由头约了朋友们在湾区聚会，遂毅然重启这个历时 16 天，行驶 3000 多英里的 solo road trip。
 
 <!--more-->
 
