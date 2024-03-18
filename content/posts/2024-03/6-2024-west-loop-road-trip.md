@@ -107,7 +107,7 @@ imageDes: "Idaho 和 Utah 的旷野"
 ![会展中心正门](https://media.douchi.space/douchi/media_attachments/files/112/010/956/433/778/391/original/ae28a1c8b42c4a99.jpg)
 {{< /columns >}}
 
-P 人第二天在酒店睡得太舒服差点懒得出门，墨迹到中午出门，在 temple square 溜达结果刚好就看到它到处都是 sign 招揽游客进去听免费管风琴，于是我就踩着点进去听了半小时免费管风琴演奏。虽然可能比仔细安排行程错过得更多但偶然撞上了就感觉很惊喜，每天只有半小时没看 schedule 居然就能撞上（supposedly 不能拍照但是大家都在拍我就趁演出间隙捏了一张）
+P 人第二天在酒店睡得太舒服差点懒得出门，墨迹到中午出门。在 temple square 溜达结果刚好就看到它到处都是 sign 招揽游客进去听免费管风琴，于是我就踩着点进去听了半小时免费管风琴演奏。虽然可能比仔细安排行程错过得更多但偶然撞上了就感觉很惊喜，每天只有半小时没看 schedule 居然就能撞上。
 
 ![会展中心的大楼梯眺望昨晚开进来时候震撼景色的雪山山谷](https://media.douchi.space/douchi/media_attachments/files/112/113/678/326/067/917/original/c29c404ef37d5704.png)
 ![从会展中心顶部眺望，当时还不知道这个圆的是音乐厅](https://media.douchi.space/douchi/media_attachments/files/112/010/939/831/557/699/original/3652be7514887f21.jpg)
