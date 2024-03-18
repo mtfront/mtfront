@@ -11,8 +11,8 @@ tags:
   - productivity
 booktoc: false
 bookComments: true
-image: https://media.licdn.com/dms/image/D4E22AQESEQan62OZbw/feedshare-shrink_2048_1536/0/1689937725771?e=1709164800&v=beta&t=xOj3TQonvI9xIxliVXWJxUt6qirpvbUv6kzUJC0lJP4
-imageDes: "图源 Ali Abdaal Linkedin"
+image: https://miro.medium.com/v2/resize:fit:1400/format:webp/1*A6mjuwlXYX_q_9jDygd12g.png
+imageDes: "图源 https://indishmarketer.medium.com/feel-good-productivity-how-to-do-more-of-what-matters-to-you-by-ali-adbaal-39b2d6858d1"
 ---
 
 好久没写读书笔记了，在 [2023 读书总结]({{< relref "/posts/2024-01/5-2023-book-review" >}}) 里提到希望除了认真写短评之外还想多写几篇读书笔记。并非 Ali Abdaal 的铁粉，平时也不常看 productivity 类书，赶巧他的书去年底发售前在图书馆排了队比较早拿到了这本 [Feel Good Productivity](https://amzn.to/42ahFd2)，今年第一本读完的文字书（之前读完几本图册）刚好是它，算是帮大家提前试毒了。
