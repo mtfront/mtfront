@@ -358,6 +358,13 @@ body[dir="rtl"] .book-menu {
   gap: 4px;
 }
 
+.image-desc {
+  font-size:small;
+  margin-top: 2px; 
+  color: gray; 
+  text-align: center;
+}
+
 // Responsive styles
 .book-menu-content,
 .book-toc-content,

@@ -79,10 +79,9 @@ imageDes: "2024-3-3 摄于 Valley of Fire"
 
 ### Pacific Drive
 {{< neodb "https://neodb.social/game/55WQA9lPSEtD4PYHY69bs2" >}}
-上个月介绍过的在 PNW 开着 station wagon 边捡垃圾边修车对我题材杀的游戏。在 road trip 途中白天路上开车晚上 steam deck 开车修车非常沉迷，。还是晚点打完再评。
+上个月介绍过的在 PNW 开着 station wagon 边捡垃圾边修车对我题材杀的游戏。在 road trip 途中白天路上开车晚上 steam deck 开车修车非常沉迷。还是晚点打完再评。
 
-我的大车车终于有点酷炫涂装啦：
-![](https://media.douchi.space/douchi/media_attachments/files/112/047/282/076/070/583/original/5d72c0c9dc8073f5.jpeg)
+![我的大车车终于有点酷炫涂装啦](https://media.douchi.space/douchi/media_attachments/files/112/047/282/076/070/583/original/5d72c0c9dc8073f5.jpeg)
 
 ### 龙之信条 2 角色编辑器
 {{< neodb "https://neodb.social/game/6CvqhZ1up5ntPqyvxHueRm" >}}
