@@ -1,5 +1,5 @@
 ---
-title: "美西大环线 road trip | Part 1: 旷野之息"
+title: "美西大环线 Road Trip - Part 1: 旷野之息"
 author: 椒盐豆豉
 type: post
 date: 2024-03-17T17:09:00-07:00
@@ -12,8 +12,8 @@ tags:
   - birds
 booktoc: true
 bookComments: false
-image: https://media.douchi.space/douchi/media_attachments/files/112/018/796/289/402/689/original/eac0cf68a17cc19d.png
-imageDes: "MidJourney 还原进盐湖城时所建景象"
+image: https://media.douchi.space/douchi/media_attachments/files/112/007/461/055/639/002/original/e9afeab1911da412.png
+imageDes: "Idaho 和 Utah 的旷野"
 ---
 
 作为一个坚定的[公路旅行爱好者]({{< relref "/posts/2024-02/7-road-trip" >}})和一个还算爱开车的人，仔细想来我却还没去过什么长途的 road trip。此前开最长的是去年的 [Oregon 环线]({{< relref "/posts/2023-archive/2023-07-02-2023-summer-road-trip" >}})，距离虽长（接近 2000 英里）但时间只有三天。去年本想趁手术[手术]({{< relref "/posts/2023-12/8-hysterectomy-fighting-period-part-3.md" >}})后病假来个美西大环线：从西雅图出发绕道盐湖城，南下去 Utah、Nevada 和加州几个国家公园绕一圈回来。后来得知术后不能提重物提行李不便就没能成行。这 road trip 和开车爱好者的名头也未经检验一直底气不足。
