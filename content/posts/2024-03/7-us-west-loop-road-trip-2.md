@@ -159,6 +159,7 @@ Vegas 到 Death Valley 同样也是距离颇近，跟前一天一样继续在中
 
 ![](https://media.douchi.space/douchi/media_attachments/files/112/040/337/582/893/041/original/f01966bf1290b1b7.jpg)
 ![](https://media.douchi.space/douchi/media_attachments/files/112/040/339/207/098/285/original/8170189fd77a7642.jpg)
+![这种有石阶的已经算好爬的了](https://media.douchi.space/douchi/media_attachments/files/112/120/993/969/284/714/original/8c3980a5e45392af.png)
 前几天连续 hike 了很多今天就不想太累，选了一条不长的 moderate rating 的 Calico Tanks Trail，结果发现完完全全被骗了。它虽然不长爬升也没有那么大，但有一半的路都要手脚甚至屁股并用在石头上爬，感觉完全比之前爬过的一些软 hard 难。被骗没背包只提着小水壶单手爬都有些吃力，同行还有很多显然也是被 moderate rating 骗来的登山靴都没穿的各类游客垫着屁股慢慢挪。景色其实也不错，但刚从珠玉在前的 Valley of Fire 过来就感觉还好了，性价比不高，胜在离 Vegas 就十几分钟的车程。
 
 爬完 trail 筋疲力竭，驱车赶往 Death Valley。
