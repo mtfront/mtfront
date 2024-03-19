@@ -175,7 +175,7 @@ Vegas 到 Death Valley 同样也是距离颇近，跟前一天一样继续在中
 ![artist drive](https://media.douchi.space/douchi/media_attachments/files/112/046/326/376/017/836/original/39d6c7bb84100e6a.png)
 我最喜欢的景点应该是 artist drive 那条路的后半段。Zabriskie Point 倒还好，前几天看过更花花绿绿的了没有很 impressed，但是那条路后半段两边都是岩石压迫感很强（上图路两边的石头全推到路贴着线这样），路细又弯又是单行不怕对面有傻屌冲出来，配上远处花花绿绿的尽情快乐开车感觉很爽。而且这条路上开车的人 surprisingly 遵守交通规则，我一般跟慢车也不会离太近，但是一条路上连着碰了三个都光速 turnabout 让道了，非常舒爽。
 
-飞速游览完 Death Valley 行程不多，就稍往前开了些到了小镇 Ridgecrest，以便第二天直接开往湾区不至于太远。此处疯狂吐槽 Google Maps，离线地图蠢到飞天不会左转，非要让我
+飞速游览完 Death Valley 行程不多，就稍往前开了些到了小镇 Ridgecrest，以便第二天直接开往湾区不至于太远。此处疯狂吐槽 Google Maps，离线地图蠢到飞天不会左转，非要让我多开一倍时间从来的路绕回去，无语凝噎。幸亏前一天晚上看了路线大概知道方向，往前开了一俩小时有信号导航才恢复正常。
 
 ## Day 10 - Ridgecrest - Bay Area
 Mojave 大沙漠可真是个沙漠，一路上开得好荒啊。但一到加州就油价飙升，比 Nevada 感觉贵了快两刀。路过 Mojave 沙漠里的巨型太阳能田，可能开了十几分钟才到头，然后一进小山包就接上了风田。产这么多可持续能源油贵就贵点吧。
