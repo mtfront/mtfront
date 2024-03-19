@@ -11,7 +11,7 @@ tags:
   - birds
   - photography
 booktoc: true
-bookComments: false
+bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/112/007/461/055/639/002/original/e9afeab1911da412.png
 imageDes: "Idaho 和 Utah 的旷野"
 ---
