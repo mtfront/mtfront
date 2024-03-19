@@ -63,7 +63,7 @@ imageDes: "Bryce Canyon National Park，摄于 2024-03-01"
 ![下到 trail 里逐渐走在山石之间](https://media.douchi.space/douchi/media_attachments/files/112/023/241/507/149/123/original/95f30efab5d32955.png)
 ![这个 trail 有不少钻洞洞的体验](https://media.douchi.space/douchi/media_attachments/files/112/023/270/811/793/966/original/1fe57afa6669bb91.png)
 
-这个 trail 的过人之处在于，它陡的地方是穿梭在山间和悬崖上的，但却一点没有给人危险的感觉。想起了我[前阵子强推过]({{< relref "/posts/2023-11/11-spark-joy-monthly-vol-7-2023-11" >}}#极限国度-riders-republic-)的游戏 `Rider's Republic` 就有在这个在这个公园的山脊中骑山地车的地图，真实走起来人走的 trail 却少了游戏中的千钧一发多了无数倍的 breathtaking。
+这个 trail 的过人之处在于，它陡的地方是穿梭在山间和悬崖上的，但却一点没有给人危险的感觉。想起了我[前阵子强推过]({{< relref "/posts/2023-11/11-spark-joy-monthly-vol-7-2023-11" >}}#极限国度-riders-republic-)的游戏 `Rider's Republic` 就有在这个在这个公园的山脊中骑山地车的地图，真实走起来人走的 trail 却少了游戏中的千钧一发多了无数倍的 breathtaking。比起去意大利时`刺客信条`铁粉的“这个我爬过！”，这里的美景太震撼以至于“这路我骑过！”已经不是最强烈的情感。
 
 沉浸式美景中不知不觉就走到了末尾的大上坡。刚才跑路得非常明智，这个坡从下面往上看比刚才见到的还要陡，基本上就是 zigzag 走楼梯式的在爬大悬崖，Google  maps 上看看被挤成麻花了的 trail 就能知道拍成平面的图并不能 do it justice，亲临其境比图 intimidating 多了。我在下面就看到山上不断有穿着 microspikes 拿着登山杖仍然在冰雪山打着滑小心翼翼往下走的 hiker。
 
