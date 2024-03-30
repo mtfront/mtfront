@@ -5,7 +5,7 @@ type: post
 date: 2024-03-17T17:09:00-07:00
 url: /us-west-loop-road-trip-1/
 categories:
-  - 喜欢就买
+  - 多喝热水
 tags:
   - travel
   - birds
@@ -147,4 +147,5 @@ P 人第二天在酒店睡得太舒服差点懒得出门，墨迹到中午出门
 
 接下来要去看 Utah 几个国家公园和 Nevada 的奇山异石，大量大自然鬼斧神工图量爆炸，刚好画风不同博客在这里分个篇好了。
 
-下篇：[美西大环线 Road Trip - Part 2: 我看过了许多美景]({{< relref "/posts/2024-03/7-us-west-loop-road-trip-2" >}})
+中篇：[美西大环线 Road Trip - Part 2: 我看过了许多美景]({{< relref "/posts/2024-03/7-us-west-loop-road-trip-2" >}})
+下篇：[美西大环线 Road Trip - Part 3: 旅途之外]({{< relref "/posts/2024-03/8-us-west-loop-road-trip-3" >}})

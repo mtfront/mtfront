@@ -13,8 +13,8 @@ BookComments: False
 - [喜提中年人第一次被裁]({{< relref "/posts/2024-02/3-layoff" >}})
 - `玩物志`月刊更名[`关我辟事`]({{< relref "/tags/关我辟事" >}})半月刊啦！
 - 告别开了 5 年半的[小白]({{< relref "/posts/2024-01/14-bye-s3" >}})买了新车[小霾]({{< relref "/posts/2024-01/15-spark-joy-digest-vol-10-2024-1b" >}}#小霾)
-- 拔了智齿，恢复良好
-- 美西大环线 [road trip]({{< relref "/posts/2024-02/7-road-trip" >}}) 火热进行完毕，回家补补课和 adulting 中
+- 美西大环线 road trip 进行完毕，补游记（[鸟]({{< relref "/posts/2024-03/6-us-west-loop-road-trip-1" >}}) ｜ [美景]({{< relref "/posts/2024-03/7-us-west-loop-road-trip-2" >}})）中
+- 夏威夷度假中
 
 ## 近期中意
 - 📚 [`Immune`](https://amzn.to/49IxrhQ) by Philipp Dettmer
