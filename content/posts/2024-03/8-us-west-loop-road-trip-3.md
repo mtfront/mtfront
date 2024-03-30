@@ -115,6 +115,8 @@ Road trip 收尾的这篇其实没正经玩什么景点，但因为写完中篇�
 点了 Burger & wrap。就正常，没有太大记忆点。花了 $12.11。
 
 ## Wrapping up
+这次出行感觉声称 30L 的 able carry max 两三周行程还是有点挤，放了一个中号一个小号 packing cube 再塞 steam deck 之后包塞特紧，水壶和拖鞋根本塞不进侧包，电脑那个格子放东西也不顺滑。这还是这次是 road trip 所以overflow 了几件东西到另外一个包里的情况下。感觉我又要给自己找借口要不还是[回归 Aer 怀抱]({{<relref "/posts/2023-09/4-aer-bag-collection" >}})买个 travel pack 3 吧……（对最近出的 tech pack 3 也很感兴趣可惜不上班的我实在是暂时没有 use case）
+
 能有时间和精力和喜欢开车的心去十几天的 solo road trip 还是挺幸运的，也更加 validate 了我自己喜欢 road trip。不过时间长了还是会有点想家的，但就像 [intermittent fasting]({{< relref "/posts/2023-archive/2021-09-23-3-healthy-routines" >}}#intermittent-fasting-if) 会在带来其它便利的同时让人更 appreciate 食物一样，旅途虽好也能让人更 appreciate 家的舒适安心，真棒呀。
 
 ![刚回家的周末就碰上大好天气，感觉整个城市都活了起来](https://media.douchi.space/douchi/media_attachments/files/112/108/253/338/067/301/original/a735a5d867bad8d6.jpg)
