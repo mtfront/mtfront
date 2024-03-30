@@ -4,8 +4,8 @@ type: docs
 bookToc: false
 BookComments: False
 ---
-{{< img "https://media.douchi.space/douchi/media_attachments/files/112/017/500/195/052/080/original/7feaeafa97515c74.jpg" 600 >}} \
-*2024-2-29 小霾的第一次长途旅行 @ Red Canyon Arch*
+{{< img "https://media.douchi.space/douchi/media_attachments/files/112/182/846/531/581/690/original/f8cefe50fb559933.jpg" 600 >}} \
+*2024-3-30 郁金香节 @Roozengaarde*
 
 {{< heatmap >}}
 
@@ -13,8 +13,8 @@ BookComments: False
 - [喜提中年人第一次被裁]({{< relref "/posts/2024-02/3-layoff" >}})
 - `玩物志`月刊更名[`关我辟事`]({{< relref "/tags/关我辟事" >}})半月刊啦！
 - 告别开了 5 年半的[小白]({{< relref "/posts/2024-01/14-bye-s3" >}})买了新车[小霾]({{< relref "/posts/2024-01/15-spark-joy-digest-vol-10-2024-1b" >}}#小霾)
-- 美西大环线 road trip 进行完毕，补游记（[鸟]({{< relref "/posts/2024-03/6-us-west-loop-road-trip-1" >}}) ｜ [美景]({{< relref "/posts/2024-03/7-us-west-loop-road-trip-2" >}})）中
-- 夏威夷度假中
+- 美西大环线 road trip 进行完毕，游记补完！（[鸟]({{< relref "/posts/2024-03/6-us-west-loop-road-trip-1" >}}) | [美景]({{< relref "/posts/2024-03/7-us-west-loop-road-trip-2" >}}) | [回家]({{< relref "/posts/2024-03/8-us-west-loop-road-trip-3" >}})）
+- 夏威夷度假回来，晚点补游记
 
 ## 近期中意
 - 📚 [`Immune`](https://amzn.to/49IxrhQ) by Philipp Dettmer
