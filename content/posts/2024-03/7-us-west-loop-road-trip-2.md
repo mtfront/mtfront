@@ -19,7 +19,7 @@ imageDes: "Bryce Canyon National Park，摄于 2024-03-01"
 
 去之前当然就久闻 Utah 的 Mighty 5 五大国家公园盛名，也多少看过些照片，但没想到身临其境还是被美到语塞。外加被 AI 推荐到 Nevada 也有惊喜的火焰山，这篇应该是本次 road trip 系列里影像记录最为耀眼的一篇，甚至名列我见过的所有最美景色前茅。
 
-上篇：[美西大环线 Road Trip - Part 1: 旷野之息]({{< relref "/posts/2024-03/6-us-west-loop-road-trip-1" >}})
+上篇：[美西大环线 Road Trip - Part 1: 旷野之息]({{< relref "/posts/2024-03/6-us-west-loop-road-trip-1" >}})\
 下篇：[美西大环线 Road Trip - Part 3: 旅途之外]({{< relref "/posts/2024-03/8-us-west-loop-road-trip-3" >}})
 
 <!--more-->

@@ -18,7 +18,7 @@ imageDes: "摄于湾区以前常去的某小公园"
 
 Road trip 收尾的这篇其实没正经玩什么景点，但因为写完中篇第二天就又去夏威夷度假了，也就一直拖着没更。风景都集中在前两篇尤其是中篇了，这篇来收个尾，顺便说说旅途本身之外的趣事吧。
 
-上篇：[美西大环线 Road Trip - Part 1: 旷野之息]({{< relref "/posts/2024-03/6-us-west-loop-road-trip-1" >}})
+上篇：[美西大环线 Road Trip - Part 1: 旷野之息]({{< relref "/posts/2024-03/6-us-west-loop-road-trip-1" >}}) \
 中篇：[美西大环线 Road Trip - Part 2: 我看过了许多美景]({{< relref "/posts/2024-03/7-us-west-loop-road-trip-2" >}})
 
 <!--more-->
