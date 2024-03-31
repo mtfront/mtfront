@@ -33,7 +33,7 @@ Road trip 收尾的这篇其实没正经玩什么景点，但因为写完中篇�
 ![](https://media.douchi.space/douchi/media_attachments/files/112/102/374/961/171/896/original/a7cda31c55fe31d8.png)
 ![](https://media.douchi.space/douchi/media_attachments/files/112/102/350/827/594/463/original/2b9a81d7dff2fcb7.png)
 
-不见朋友的时间里基本不实在打游戏就是在出去吃饭然后小公园躺躺。[在西雅图呆久了之后]({{< relref "/posts/2023-archive/2022-11-25-bay-area-vs-seattle" >}})我也不再适应湾区的开车距离了，出门吃饭开二三十分钟觉得好远，总觉得出一趟门了想把几件事情 bundle 起来。说来也奇怪，在旅途中特意去住酒店就还好，但一旦一个地方不是家了之后没有目的的呆着就感觉格外 unsettled 和空虚。是时间回家了。
+不见朋友的时间里基本不实在打游戏就是在出去吃饭然后小公园躺躺，去了次大保健缓解一下长期连续开车的肩颈酸痛（结果搬家之前去的很喜欢的一家捏的超烂，世风日下），太无聊了甚至还去看了我并不感兴趣的`沙丘2`（结果还行）。[在西雅图呆久了之后]({{< relref "/posts/2023-archive/2022-11-25-bay-area-vs-seattle" >}})我也不再适应湾区的开车距离了，出门吃饭开二三十分钟觉得好远，总觉得出一趟门了想把几件事情 bundle 起来。说来也奇怪，在旅途中特意去住酒店就还好，但一旦一个地方不是家了之后没有目的的呆着就感觉格外 unsettled 和空虚。是时间回家了。
 
 ![](https://media.douchi.space/douchi/media_attachments/files/112/059/418/832/602/477/original/635e1b87ee356d86.jpg)
 
