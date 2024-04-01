@@ -22,7 +22,7 @@ imageDes: "图源 https://www.fullsail.edu/about/full-sail-stories/over-150-grad
 
 <!--more-->
 
-整体个人评分：★★★
+整体个人评分：★★★ {{< button href="https://amzn.to/4cDcCXm" >}}购买链接{{< /button >}}
 
 {{< neodb "https://neodb.social/book/1dhvdi3Ezdhh7BGQAYIaCS" >}}
 

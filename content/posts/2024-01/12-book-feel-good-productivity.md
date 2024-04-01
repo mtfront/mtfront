@@ -18,7 +18,7 @@ imageDes: "图源 https://indishmarketer.medium.com/feel-good-productivity-how-t
 好久没写读书笔记了，在 [2023 读书总结]({{< relref "/posts/2024-01/5-2023-book-review" >}}) 里提到希望除了认真写短评之外还想多写几篇读书笔记。并非 Ali Abdaal 的铁粉，平时也不常看 productivity 类书，赶巧他的书去年底发售前在图书馆排了队比较早拿到了这本 [Feel Good Productivity](https://amzn.to/42ahFd2)，今年第一本读完的文字书（之前读完几本图册）刚好是它，算是帮大家提前试毒了。
 
 <!--more-->
-
+整体个人评分：★★★☆ {{< button href="https://amzn.to/4cAzCX5" >}}购买链接{{< /button >}}
 {{< neodb "https://neodb.social/book/0GnoCYpgrWXEyAEO0Iy9TU" >}}
 
 Ali 还是挺真诚的，少了很多其它男 self-help 作者的 ego（说的就是他推荐过的[被我点名批评过]({{< relref "/posts/2024-01/2-spark-joy-monthly-vol-8-2023-12" >}}#someday-is-todayhttpsamznto3tclvvm-)憋着气看完的 [Someday Is Today](https://amzn.to/3tClVVM)），以及有些小 tips 肯定还是有用的，也比零散看几百个视频效率高。

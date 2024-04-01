@@ -23,6 +23,7 @@ imageDes: "图源 https://www.seattletimes.com/explore/special-sections/books-an
 <!--more-->
 
 整体个人评分：★★
+{{< button href="https://amzn.to/4ayleNd" >}}购买链接{{< /button >}}
 
 {{< neodb "https://neodb.social/book/1vRJ6UbW5hJeP02MD4wN0f" >}}
 

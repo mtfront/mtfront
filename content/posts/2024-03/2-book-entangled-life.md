@@ -21,7 +21,7 @@ imageDes: "图源 https://www.youtube.com/watch?v=7Y7OiCE9-E4"
 
 <!--more-->
 
-整体个人评分：★★★★
+整体个人评分：★★★★ {{< button href="https://amzn.to/4cBBsqG" >}}购买链接{{< /button >}}
 
 {{< neodb "https://neodb.social/book/1aRoSyqGn9LjvQ55UJKk9c" >}}
 
