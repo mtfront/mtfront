@@ -15,7 +15,7 @@ image: "https://media.douchi.space/douchi/media_attachments/files/112/203/340/12
 imageDes: "Midjourney Prompt: a single family house nearby highrise apartment building --ar 16:9"
 ---
 
-2019 年我写过一篇[`湾区新农（不）买房误区`]({{< relref "/posts/2023-archive/2019-03-04-bay-area-newbie-rent-or-own" >}})，那篇的中心思想是“可以买”。时隔短短四年，市场和我的个人态度都来了个 180 度大转弯（市场转的远小于我个人的），我的买房哲学变成了“非必要不买”，而且这个“必要”的 bar 抬高了很多。外加这些年也分别长住过了 single family house，低层公寓和高层公寓，租和买也都有了一定的经验，刚好就来更新一篇我这些年租公寓和买 house 之后的体验和买房观吧。
+2019 年我写过一篇[`（不）买房误区`]({{< relref "/posts/2023-archive/2019-03-04-bay-area-newbie-rent-or-own" >}})，那篇的中心思想是“可以买”。时隔短短四年，市场和我的个人态度都来了个 180 度大转弯（市场转的远小于我个人的），我的买房哲学变成了“非必要不买”，而且这个“必要”的 bar 抬高了很多。外加这些年也分别长住过了 single family house，低层公寓和高层公寓，租和买也都有了一定的经验，刚好就来更新一篇我这些年租公寓和买 house 之后的体验和买房观吧。
 
 <!--more-->
 
