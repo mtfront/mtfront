@@ -10,7 +10,7 @@ tags:
   - travel
   - photography
 booktoc: true
-bookComments: false
+bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/112/228/562/226/570/530/original/d117f586e501df9b.png
 imageDes: "摄于 Pu'uhonua O Honaunau National Historical Park"
 ---
