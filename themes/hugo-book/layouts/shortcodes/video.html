@@ -1,3 +1,3 @@
-<video controls width="{{ if .Get 1}}{{ .Get 1}}{{ else }}100%{{ end }}" autoplay muted loop>
+<video controls width="100%" {{ if .Get 1}}{{else}}autoplay muted loop{{end}} >
   <source src="{{ .Get 0 }}" type="video/mp4" />
 </video>
