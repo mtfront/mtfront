@@ -1,6 +1,6 @@
 <div id="heatmap" style="
   max-width: 600px;
-  height: 180px;
+  height: 140px;
   padding: 2px;
   text-align: center;"
 ></div>
@@ -108,23 +108,21 @@
     },
     visualMap: {
         min: 0,
-        max: 12,
+        max: 13,
         type: 'piecewise',
         orient: 'horizontal',
         left: 'center',
-        top: 30,
-        
         inRange: {   
           //  [floor color, ceiling color]
           color: ['#7aa8744c', '#7AA874' ] 
         },
-        splitNumber: 4,
+        splitNumber: 5,
+        show: false,
         text: ['千字', ''],
-        showLabel: true,
-        itemGap: 20,
+        itemSymbol: 'none',
     },
     calendar: {
-        top: 80,
+        top: 50,
         left: 20,
         right: 4,
         cellSize: ['auto', 12],
