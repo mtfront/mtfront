@@ -34,7 +34,7 @@ imageDes: "MidJourney prompt: electronics war --ar 16:9. 如果直接 prompt chi
 
 > Selling R&D to the government was like taking your venture capital and putting it into a savings account,” Noyce declared. “Venturing is venturing; you want to take the risk.”
 
-把研发卖给政府就像是把风头的钱放进存款账户，风投是喜欢冒险的。—— Noyce（Fairchild 及 Intel 的创始人之一）
+把研发卖给政府就像是把风投的钱放进存款账户，风投是喜欢冒险的。—— Noyce（Fairchild 及 Intel 的创始人之一）
 
 > Defense contractors thought about chips mostly as a product that could replace older electronics in all the military’s systems. At Fairchild, Noyce and Moore were already dreaming of personal computers and mobile phones
 
@@ -134,7 +134,7 @@ Intel 开始追求短期利益而不是长期的技术领先。权力从工程�
 
 > If the mirrors in an EUV system were scaled to the size of Germany, the company said, their biggest irregularities would be a tenth of a millimeter. To direct EUV light with precision, they must be held perfectly still, requiring mechanics and sensors so exact that Zeiss boasted they could be used to aim a laser to hit a golf ball as far away as the moon
 
-如果 EUV（极紫外光刻）设备里的镜子放大成德国的大小，其中最大的 irregularities（不懂芯片制造翻译不出了凑合看吧……）也只有 1/10 毫米大。要精确控制机紫外光光线，它们必须完全静止，所需要的机制和传感器是如此精确以至于蔡司声称该设备可以从地球行射出一道精确击中月球上高尔夫球的激光。
+如果 EUV（极紫外光刻）设备里的镜子放大成德国的大小，其中最大的误差也只有 1/10 毫米大。要精确控制机紫外光光线，它们必须完全静止，所需要的机制和传感器是如此精确以至于蔡司声称该设备可以从地球行射出一道精确击中月球上高尔夫球的激光。
 
 > There are no moving parts in a chip, unless you count the electrons zipping around inside.
 
@@ -142,7 +142,7 @@ Intel 开始追求短期利益而不是长期的技术领先。权力从工程�
 
 > ASML’s EUV tools weren’t really Dutch, though they were largely assembled in the Netherlands. Crucial components came from Cymer in California and Zeiss and Trumpf in Germany. And even these German firms relied on critical pieces of U.S.-produced equipment. The point is that, rather than a single country being able to claim pride of ownership regarding these miraculous tools, they are the product of many countries. A tool with hundreds of thousands of parts has many fathers.
 
-ASML（荷兰阿斯麦公司）的 EUV 工具并不是荷兰生产，但大多数是在荷兰组装的。关键部件来自加州的 Cymer，德国的蔡司以及 Trumpf。即使这些德国公司也依赖美国生产的关键部件。总而言之，并不是单一国家能声称拥有这种伟大的工具，它其实是多国产物。一个拥有成败上千部件的工具拥有成败上千的父亲。
+ASML（荷兰阿斯麦公司）的 EUV 工具并不是荷兰生产，但大多数是在荷兰组装的。关键部件来自加州的 Cymer，德国的蔡司以及 Trumpf。即使这些德国公司也依赖美国生产的关键部件。总而言之，并不是单一国家能声称拥有这种伟大的工具，它其实是多国产物。一个拥有成百上千部件的工具拥有成百上千的父亲。
 
 > Because manufacturing tools account for much of the cost of an advanced fab, keeping the equipment operating is crucial for profitability. In the U.S., Chiang said, if something broke at 1 a.m., the engineer would fix it the next morning. At TSMC, they’d fix it by 2 a.m.
 
