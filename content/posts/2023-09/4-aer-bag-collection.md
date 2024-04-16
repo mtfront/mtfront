@@ -7,9 +7,9 @@ url: /aer-bag-collection/
 categories:
   - 喜欢就买
 tags:
+  - Many Bagger
   - 消费主义陷阱
   - review
-  - digital nomad
 bookToc: true
 
 ---

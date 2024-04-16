@@ -7,6 +7,7 @@ url: /one-bag-travel-aer-travel-pack-2/
 categories:
   - 喜欢就买
 tags:
+  - Many Bagger
   - review
   - tech
   - travel

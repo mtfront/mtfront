@@ -18,7 +18,7 @@ imageDes: "MidJourney prompt: electronics war --ar 16:9. 如果直接 prompt chi
 
 此书简中版（`芯片战争`）几乎是跟英文原版同步发行的（差了半年），本来我对此类话题不感兴趣，但是看到象友吐槽难以想象简中版要怎么删便引起了兴趣，遂去年底开始读，断断续续几个月前阵子终于在旅途中的飞机上读完了。作为一本芯片业的流水史，能摘出来的干货还是不少的，没记笔记等于没读，这里也整理一下笔记吧。
 
-{{< neodb "https://neodb.social/book/2Q9qj6JlefSqkF2xamwGAu" 8 "断断续续读了三个月终于读完了，全程想法是“这书简中版得删成啥德行啊”。读更古早一点的芯片科技史还挺有波澜壮阔的感觉，具体技术和工程上的突破过程也很有意思，再更当代就感觉随着科技进步变成 incremental & iteration 少了很多上古大神神仙打架高魔（？）的感觉。" "https://amzn.to/43SfkUR">}}
+{{< neodb "https://neodb.social/book/2Q9qj6JlefSqkF2xamwGAu" 8 "https://amzn.to/43SfkUR" "断断续续读了三个月终于读完了，全程想法是“这书简中版得删成啥德行啊”。读更古早一点的芯片科技史还挺有波澜壮阔的感觉，具体技术和工程上的突破过程也很有意思，再更当代就感觉随着科技进步变成 incremental & iteration 少了很多上古大神神仙打架高魔（？）的感觉。" >}}
 
 <!--more-->
 

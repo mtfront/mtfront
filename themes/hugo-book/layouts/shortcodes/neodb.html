@@ -20,15 +20,15 @@
       <div class="db-card-content">
         <div class="db-card-title">
           <a href="{{ $dbUrl }}" class="cute" target="_blank" rel="noreferrer">「{{ $dbFetch.title }}」</a>  
-          {{ if .Get 3 }}| <a href="{{ .Get 3 }}" class="cute" target="_blank"> 点击购买 </a>{{ end }}
+          {{ if .Get 2 }}| <a href="{{ .Get 2 }}" class="cute" target="_blank"> 点击购买 </a>{{ end }}
         </div>
         {{ if .Get 1}}
           {{ $itemRating :=  .Get 1 }}
           <div class="rating"> 个人评分：<span class="allstardark"><span class="allstarlight" style="width:{{mul 10 $itemRating }}%"></span></div>
         {{ end }}
         <div class="db-card-abstract">
-          {{ if .Get 2 }}
-            {{ .Get 2 }}
+          {{ if .Get 3 }}
+            个人短评：{{ .Get 3 }}
           {{ else }}
             {{ $dbFetch.brief }}
           {{ end }}
