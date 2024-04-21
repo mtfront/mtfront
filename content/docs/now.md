@@ -15,14 +15,14 @@ BookComments: False
 - 告别开了 5 年半的[小白]({{< relref "/posts/2024-01/14-bye-s3" >}})买了新车[小霾]({{< relref "/posts/2024-01/15-spark-joy-digest-vol-10-2024-1b" >}}#小霾)
 - 美西大环线 road trip 进行完毕，游记补完！（[鸟]({{< relref "/posts/2024-03/6-us-west-loop-road-trip-1" >}}) | [美景]({{< relref "/posts/2024-03/7-us-west-loop-road-trip-2" >}}) | [回家]({{< relref "/posts/2024-03/8-us-west-loop-road-trip-3" >}})）
 - 夏威夷度假回来，[补完鸿篇巨著游记]({{< relref "/posts/2024-04/2-island-of-hawaii-2024" >}})
-- 纽约呆了一周，又生病了……
+- 纽约呆了一周，又生病了……回家养病中
 
 ## 近期中意
 - 📚 [`Immune`](https://amzn.to/49IxrhQ) by Philipp Dettmer
 - 📚 [`Entangled Life`](https://amzn.to/4bTZQU1) by Merlin Sheldrake，[读书笔记]({{< relref "/posts/2024-03/2-book-entangled-life" >}})
 - 🎬 [`热辣滚烫`](https://t.me/mtfront/3125?utm_source=blog)
 - 🎮 [`ROG Loki SFX-L 850W Platinum`](https://amzn.to/49fBZwj)
-- 🎮 [`Pacific Drive`](https://neodb.social/game/55WQA9lPSEtD4PYHY69bs2)
+- 🎮 [`小丑牌`](https://neodb.social/game/3ptorNahFU4Dd11d8584ga)
 - 🧱 [`Lego Polaroid`](https://amzn.to/49t1zhh)
 - 🎲 [`爆炸猫`](https://amzn.to/47Bznar)
 - 🧘 [`Geologie Co-Wash`](https://amzn.to/3tM9O8Z)

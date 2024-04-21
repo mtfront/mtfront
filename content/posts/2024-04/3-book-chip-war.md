@@ -134,7 +134,7 @@ Intel 开始追求短期利益而不是长期的技术领先。权力从工程�
 
 > If the mirrors in an EUV system were scaled to the size of Germany, the company said, their biggest irregularities would be a tenth of a millimeter. To direct EUV light with precision, they must be held perfectly still, requiring mechanics and sensors so exact that Zeiss boasted they could be used to aim a laser to hit a golf ball as far away as the moon
 
-如果 EUV（极紫外光刻）设备里的镜子放大成德国的大小，其中最大的误差也只有 1/10 毫米大。要精确控制机紫外光光线，它们必须完全静止，所需要的机制和传感器是如此精确以至于蔡司声称该设备可以从地球行射出一道精确击中月球上高尔夫球的激光。
+如果 EUV（极紫外光刻）设备里的镜子放大成德国的大小，其中最大的误差也只有 1/10 毫米大。要精确控制机紫外光光线，它们必须完全静止，所需要的机制和传感器是如此精确以至于蔡司声称该设备可以从地球上射出一道精确击中月球上高尔夫球的激光。
 
 > There are no moving parts in a chip, unless you count the electrons zipping around inside.
 
@@ -262,7 +262,7 @@ AI 计算通常需要用不同的数据进行同样的运算多次，因此定�
 
 > A blockade is an act of war, but no one would want to shoot first. If the U.S. did nothing, the impact on Taiwan’s will to fight could be devastating. If China then demanded that TSMC restart chip fabrication for Huawei and other Chinese companies, or even to transfer critical personnel and know-how to the mainland, would Taiwan be able to say no
 
-封锁是引战行为，但没人愿意开第一枪。如果美国什么也不错，台湾的继续斗争意愿将会受到致命打击。如果中国随后要求 TSMC 重新为华为和其它中国公司制造芯片，或者转移关键技术人员和经验到大陆，台湾能说不吗？
+封锁是引战行为，但没人愿意开第一枪。如果美国什么也不做，台湾的继续斗争意愿将会受到致命打击。如果中国随后要求 TSMC 重新为华为和其它中国公司制造芯片，或者转移关键技术人员和经验到大陆，台湾能说不吗？
 
 > Analysts uniformly agree that the military balance in the Strait has shifted decisively in China’s direction. Long gone are the days, as during the 1996 Taiwan Strait crisis, that the U.S. could simply sail an entire aircraft carrier battlegroup through the Strait to force Beijing to stand down. Now such an operation would be fraught with risk for the U.S. warships. Today Chinese missiles threaten not only U.S. ships around Taiwan but also bases as far away as Guam and Japan. The stronger the PLA gets, the less likely the U.S. is to risk war to defend Taiwan. If China were to try a campaign of limited military pressure on Taiwan, it’s more likely than ever that the U.S. might look at the correlation of forces and conclude that pushing back isn’t worth the risk
 
