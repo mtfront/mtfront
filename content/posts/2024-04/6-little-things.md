@@ -10,7 +10,7 @@ tags:
   - 问卷
   - wellness
 booktoc: false
-bookComments: false
+bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/112/312/888/567/475/699/original/fd0b4cbc3f397d8e.png
 imageDes: "MidJourney prompt: clean up an apartment building with city skyline outside of window in pixel art style --ar 16:9"
 ---
@@ -38,5 +38,3 @@ imageDes: "MidJourney prompt: clean up an apartment building with city skyline o
 - **`拖后腿的身体部件`** 从“后悔了，后悔没早割“的[割以永治子宫切除]({{< relref "/posts/2023-12/8-hysterectomy-fighting-period-part-3" >}})，到刚好趁被裁拔了的智齿，过去一年真是集中给身体做减法了。
 - **`熬夜`** 从小是个夜猫子的我被西雅图的冬天教做人了，去年底开始把[作息时间往前调了两个小时]({{< relref "/posts/2024-01/8-how-night-owl-sleep-earlier" >}})。
 - **`有毒关系`** 快 4 年没和我爸妈说话了，不用每周比厌班还强烈的厌跟他们视频无比畅快，不理久了这些年也没有他们能把我刺激到像鸵鸟一样钻被子都不想看手机的夺命连环 cold call 和消息了。我虽然火气不小但至少近年来很少 lose temper，跟我妈的最后一次吵架整个人气到发抖嗓子吵哑无法控制情绪只想拿头撞墙还是记忆中唯一一次，I'm glad that I don't have to deal with all that bullshit anymore.
-
-<!-- 恢复评论 -->
