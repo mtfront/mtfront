@@ -42,7 +42,7 @@
     for (const v of value) {
       sum += v.wordCount;
     }
-    data.push([key, (sum / 1000).toFixed(1)]);
+    data.push([key, Math.min(10, (sum / 1000).toFixed(1))]);
   }
   
   var startDate = new Date();
@@ -108,7 +108,7 @@
     },
     visualMap: {
         min: 0,
-        max: 13,
+        max: 10,    // auto capped at 10K, if higher, use 10k
         type: 'piecewise',
         orient: 'horizontal',
         left: 'center',

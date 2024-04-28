@@ -18,7 +18,7 @@ BookComments: False
 - 纽约呆了一周，又生病了……回家养病中
 
 ## 近期中意
-- 📚 [`Immune`](https://amzn.to/49IxrhQ) by Philipp Dettmer
+- 📚 [`Immune`](https://amzn.to/49IxrhQ) by Philipp Dettmer，[读书笔记]({{< relref "/posts/2024-04/7-book-immune" >}})
 - 📚 [`Entangled Life`](https://amzn.to/4bTZQU1) by Merlin Sheldrake，[读书笔记]({{< relref "/posts/2024-03/2-book-entangled-life" >}})
 - 🎬 [`热辣滚烫`](https://t.me/mtfront/3125?utm_source=blog)
 - 🎮 [`ROG Loki SFX-L 850W Platinum`](https://amzn.to/49fBZwj)
