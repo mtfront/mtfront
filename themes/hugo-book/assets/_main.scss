@@ -371,6 +371,21 @@ body[dir="rtl"] .book-menu {
   color: gray;
 }
 
+.archive {
+  display: inline;
+  color: var(--gray-500);
+  font-size: 0.8em;
+}
+
+.tag {
+  display: inline;
+  padding: 0 $padding-4;
+  background: var(--gray-100);
+  border-radius: $border-radius;
+  font-size: 0.8em;
+  color: var(--gray-500);
+}
+
 // Responsive styles
 .book-menu-content,
 .book-toc-content,
