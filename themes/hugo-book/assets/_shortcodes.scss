@@ -237,3 +237,19 @@
     filter: blur(0);
   }
 }
+
+.wrap {
+  img {
+    float: right;
+    max-width: 400px;
+    padding-left:  $padding-16;
+  }
+}
+
+.wrap-left {
+  img {
+    float: left;
+    max-width: 400px;
+    padding-right:  $padding-16;
+  }
+}

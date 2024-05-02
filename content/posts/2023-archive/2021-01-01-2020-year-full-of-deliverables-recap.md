@@ -7,7 +7,7 @@ url: /2020-year-full-of-deliverables-recap/
 enclosure:
   - |
     |
-        https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/org_tlp_6553796_1588544066000.mp4
+        https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/org_tlp_6553796_1588544066000.mp4
         145783435
         video/mp4
         
@@ -179,11 +179,11 @@ tags:
 
 倒是前一年的年终总结一点没拖延，年初把 [2019 年终总结](../2019-recap/)，[辞职总结](../why-i-quit-facebook-part-2-whats-next/)，[消费总结](../2019-money-recap/)，[电影总结](https://www.douban.com/note/748102934/)，[游戏总结](../2019-games-recap/)，[Airpods Pro](../airpods-pro-for-android-best-apple-products-in-years/) 测评一口气全写了。
 
-![1 月底还在入职之前去了新公司的 boat party](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/IMG_20200124_224105.jpg))
+![1 月底还在入职之前去了新公司的 boat party](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/IMG_20200124_224105.jpg))
 
-![1 月底还跟十几年的网友去了 SF MOMA](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/mmexport1579914198771.jpg)
+![1 月底还跟十几年的网友去了 SF MOMA](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/mmexport1579914198771.jpg)
 
-![闲在家拼的玩具，讲真这东西虽然好看，但比乐高难拼太多了，手指都要废了](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/DSC02925-01.jpeg)
+![闲在家拼的玩具，讲真这东西虽然好看，但比乐高难拼太多了，手指都要废了](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/DSC02925-01.jpeg)
 
 ### **2 月**
 
@@ -193,17 +193,17 @@ tags:
 
 随着疫情愈演愈烈和李文亮医生去世，CCP 和豆瓣删帖也逐渐进入疯狂状态。整个人都在政治抑郁状态之中。唯一短暂的光明大概是在中国领事馆门口大家磕磕绊绊合唱起 Do you hear people sing 的瞬间，然而走了之后海报和招贴也被迅雷不及掩耳之势收走了，这种泥牛入海的感觉让人非常绝望。
 
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/DSC06263.jpg)
+![](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/DSC06263.jpg)
 
 ### **3 月**
 
 第一天就成功滑滑板的时候把膝盖扭了，比全美国提前半个月正式进入 WFH 状态。工作出师不顺算是抓耳挠腮的一个月，觉得很大的锅在我入职前被 re-org 进的这个不怎么样的 manager 上。
 
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/IMG_20200303_135257_599_mh1583272485299.jpg)
+![](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/IMG_20200303_135257_599_mh1583272485299.jpg)
 
 中旬股市崩溃的时候加仓倒是没停过，大家跟风囤货的时候我既没有去囤口罩也没有去囤厕纸，算是测试了自己的 risk tolerance 和生活态度在经济和物质上都禁住了考验。
 
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/IMG_20200319_172736.jpg)
+![](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/IMG_20200319_172736.jpg)
 
 发现 WFH 似乎要变长期状态之后，倒是三月中旬就一口气购置了 WFH 三件套（standing desk，屏幕，椅子）。放在单独小书房之后上班体验比之前在客厅用本来的媒体/游戏桌上班体验好太多了，不知道今年没有独立办公室的人们都是怎么熬下来的。
 
@@ -223,14 +223,14 @@ tags:
 
 工作生活双不顺，depression 日益加深，最大的救赎也就是 Pixel Art 和社恐如我也终于忍不住去跟 BFF 们非法聚集了。
 
-[Pixel Art 渐入佳境，这是我 100 天里留下的唯一一个 timelapse](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/org_tlp_6553796_1588544066000.mp4)
+[Pixel Art 渐入佳境，这是我 100 天里留下的唯一一个 timelapse](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/org_tlp_6553796_1588544066000.mp4)
 
-![这个月应该是 Pixel art 进步最大的一个月了](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/IMG_20200522_030026.jpg)
+![这个月应该是 Pixel art 进步最大的一个月了](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/IMG_20200522_030026.jpg)
 
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/DSC02985.JPG)
+![](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/DSC02985.JPG)
 [新买的 e-ink reader Boox Nova 2 很大程度上重新激发了我的读书习惯， 钱花得真值。](../oynx-boox-nova-2-in-between-kindle-and-ipad/)
 
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/DSC02985.jpg)
+![](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/DSC02985.jpg)
 
 这个月我只写了 [Boox Nova 2 测评](../oynx-boox-nova-2-in-between-kindle-and-ipad/)。
 
@@ -244,7 +244,7 @@ tags:
 
 此外，还[跟我妈激烈地大吵了一架](..my-mother-issue/)然后中止了以前的定时视频，如释重负。
 
-![另外手一滑就没有纠结入手了 Xbox one x（注意不是 series x）Cyberpunk 限定主机。](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/DSC03048-01.jpeg)
+![另外手一滑就没有纠结入手了 Xbox one x（注意不是 series x）Cyberpunk 限定主机。](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/DSC03048-01.jpeg)
 
 这个月，我写了[从良到忏悔](../regrets/)，[ArtStation 介绍](../artstation-intro/)，[Growth mindset](../growth-mindset-aka-i-literally-spent-1-hour-ranting-youtube/), [童年好友 grow apart](../all-my-friends-grow-apart/)，[我的 mother issue](../my-mother-issue/)。
 
@@ -269,11 +269,11 @@ tags:
 
 ![接近 100 天尾声的 pixel art](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/96.Dogs-and-Truck-2.gif)
 
-![实用技能，还在美国要 ban 微信的时候用上了](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/Witcher-telegram-QR-channel.png)
+![实用技能，还在美国要 ban 微信的时候用上了](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/Witcher-telegram-QR-channel.png)
 
 ![Procreate 我练习的几天为数不多能看的产出](https://media.douchi.space/douchi/media_attachments/files/110/453/060/626/408/240/original/5f4348597048e23f.png))
 
-![家属的菜园进入了大丰收阶段](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/IMG_20200829_181351.jpg))
+![家属的菜园进入了大丰收阶段](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/IMG_20200829_181351.jpg))
 
 ### **9 月**
 
@@ -281,9 +281,9 @@ It was all a blur again。跟着好友拼了个转运团开始疯狂购书。豆
 
 这个月我写了：[2020 加州山火消防机实录](../2020-california-fire-fighting-planes/)，[美国码农 compensation negotiation 套路](../us-software-engineer-compensation-negotiation-tips/)，[如果人类是卵生的](../if-human-were-ovipara/)。
 
-![有了 Pixel art 技能甚至可以随手给宿舍做一个纪念画](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/426.png)
+![有了 Pixel art 技能甚至可以随手给宿舍做一个纪念画](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/426.png)
 
-![Literally no filter. 山火造成的史无前例的 blade runner 画风的黄色天空](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/IMG_20200909_135320.jpg)
+![Literally no filter. 山火造成的史无前例的 blade runner 画风的黄色天空](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/IMG_20200909_135320.jpg)
 
 ### **10 月**
 
@@ -301,14 +301,14 @@ It was all a blur again。跟着好友拼了个转运团开始疯狂购书。豆
 
 这个月我写了：[转码 FAQ：我该选择那个技术栈](../getting-into-software-development-faq-which-language-should-i-choose/)，[Q2-Q3 居家办公消费总结](https://www.douban.com/note/779821918/)，[送外卖体验](../food-delivery-doordash-bay-area-experience/)，[2010 年代游戏十佳](../my-best-10-games-2010s/)，[iPad 从吃灰之王到生产力工具](../ipad-pro-setup/)，[在废掉的一年里步入三十](../entering-my-30s/)，[博客开篇](../hello-world-its-me-again/)，[山与湖之间](../between-mountain-and-lake/)，[California Dream](../california-dream/)。
 
-![多年之后回来打卡 mission peak，年轻时候轻轻松松三个小时上下山，现在四个半小时还死去活来，老了老了](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/Screenshot_20201011-184306.jpg)
+![多年之后回来打卡 mission peak，年轻时候轻轻松松三个小时上下山，现在四个半小时还死去活来，老了老了](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/Screenshot_20201011-184306.jpg)
 
-![真要出去探索宝藏 trail 还是很多的](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/IMG_20201024_133036-01.jpeg)
+![真要出去探索宝藏 trail 还是很多的](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/IMG_20201024_133036-01.jpeg)
 
 
 ![Tahoe 山与湖之间](https://media.douchi.space/douchi/media_attachments/files/110/453/061/272/529/201/original/1dde73970319288b.png))
 
-![一个人 road trip 真是太棒了](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/IMG_20201031_154946.jpg)
+![一个人 road trip 真是太棒了](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/IMG_20201031_154946.jpg)
 
 ### **11 月**
 
@@ -316,13 +316,13 @@ It was all a blur again。跟着好友拼了个转运团开始疯狂购书。豆
 
 好巧不巧延续了去年的传统，进行了一次小型豆瓣网友面基。友邻的巨型金毛太乖了，可能是我自从上次的惨痛经历之后第一次有“好像养狗也没那么糟糕”这种想法。（当然，理智上近 10 年内应该还是坚决不会养狗的）
 
-![大吗！](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/uri_mh1605418926852.jpg)
+![大吗！](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/uri_mh1605418926852.jpg)
 
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/IMG_20201114_214356_289.jpg)
+![](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/IMG_20201114_214356_289.jpg)
 
 家属造好了床车，带出去看了一次 drive in（也是 pandemic 开始之后第一次去电影院）去了一次 camping，mini van 大法好。
 
-![开后备箱看 drive in 电影的 setup](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/PXL_20201108_234757664.jpg)
+![开后备箱看 drive in 电影的 setup](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/PXL_20201108_234757664.jpg)
 
 ![床车内部](https://media.douchi.space/douchi/media_attachments/files/110/453/062/462/670/627/original/f304daab7ece770a.png))
 
@@ -342,21 +342,21 @@ It was all a blur again。跟着好友拼了个转运团开始疯狂购书。豆
 
 这个月在补之前从淘宝转运过来的书，用上了 tracking app（read more） + 督促实体书突然读书效率和动力大增。另外[屏幕灯 screen bar](https://amzn.to/39p4XMu) 这个东西体验真的是太好了，相见恨晚，无论是桌上看书还是黑夜工作不喜欢看房间的灯都很适合，还兼容 webcam。
 
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/PXL_20201207_013655783.jpg)
+![](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/PXL_20201207_013655783.jpg)
 
 剩下的时间，自然就在玩 cyberpunk 了。讲真的我倒是没有多失望，虽然有点内容砍太多的遗憾，但整体上还是好玩的。当然图里只是收藏的，我是一个索黑，玩的是体验最好的 PC 版（幸亏）。这游戏我总共买了四份：最早预购的 PS4 典藏版（下图），后来决定还是在 PC 上玩好又在第三方买了 PC 典藏版（发售之后砍单了）、早先 6 月的 xbox 限定版送了一份、以及 12 月 10 日发售没忍住等不及又 steam 买了份电子版（最后玩的版本）。
 
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/PXL_20201210_225920530.jpg)
+![](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/PXL_20201210_225920530.jpg)
 
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/koi-cat.png)
+![](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/koi-cat.png)
 参与 WomenOverseas 认领的锦鲤主题，[完全版见论坛](https://womenoverseas.com/t/topic/10844)（别人都好大触！），注册码 WomenSupportWomen
 
 ![](https://media.douchi.space/douchi/media_attachments/files/110/453/066/770/256/171/original/1e31df113fa33609.png)
 [完成了给之前背井离乡迁移到长毛象的友邻们的头像](../douban-exodus-14-pixel-avatar/)
 
-![仿佛是知道了有新的飞机，我的旧飞机，也是第一台无人机就自杀了](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/PXL_20201208_235458999.jpg)
+![仿佛是知道了有新的飞机，我的旧飞机，也是第一台无人机就自杀了](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/PXL_20201208_235458999.jpg)
 
-![一张 2020 特色的跨年](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/DSC03197-01.jpeg)
+![一张 2020 特色的跨年](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/DSC03197-01.jpeg)
 
 这个月我写了：[值得花钱/不值得花钱的事物](../worthy-purchases/)，[改善心情 like a pro data scientist](../daylio-improve-mood-like-a-pro-data-scientist/)，[我为什么变了果黑](../why-i-started-to-hate-apple/)，[放弃噱头返璞归真 Pixel 5 体验](../back-to-the-basics-pixel-5-review-one-month/)，[Patreon announcement](../side-hustle-im-on-patreon/)，[醍醐灌顶穿越时间的人类美术史之旅——读艺术的故事](../book-story-of-art/)，[背井离乡头像完结](../douban-exodus-14-pixel-avatar/)，[2020 个人 side project 总结](../2020-side-project-recap/)，[2020 个人游戏总结](../2020-game-recap/)，[互联网时代的平民文艺复兴—— Patreon 模式二三事](../renaissance-at-era-of-internet-patreon/)，[理想的一天](../a-perfect-day/)。有了项目管理果然高产了很多…… （也有可能是 12 月太闲）
 

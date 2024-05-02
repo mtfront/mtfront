@@ -70,7 +70,7 @@ bookToc: true
 {{< columns >}}
 ![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210311_185148-01-1024x768.jpeg)
 <--->
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210311_185200.jpg)
+![](https://media.douchi.space/douchi/blog-scw/upload/2021-Bird-S21U/20210311_185200.jpg)
 {{< / columns >}}
 
 还有，按理来说浅景深背景虚化效果应该需要大光圈（主摄占优），但因为焦距长也会造成浅景深背景虚化的效果，因此拍人像需要虚化效果时也可使用长焦（甚至有很多手机的人像模式会自动切换到长焦镜头，当然暗光下就会牺牲画质，需要手动调整）。博主不怎么拍人像，拿动物举个例子：（图出自我的[夏末西雅图附近小游]({{< relref "/posts/2023-09/1-late-summer-2023-mini-trips" >}})）

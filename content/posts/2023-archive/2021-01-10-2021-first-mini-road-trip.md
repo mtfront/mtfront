@@ -7,7 +7,7 @@ url: /2021-first-mini-road-trip/
 enclosure:
   - |
     |
-        https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Point-Reyes/2021.1_Point_Reyes.mp4
+        https://media.douchi.space/douchi/blog-scw/upload/2021-Point-Reyes/2021.1_Point_Reyes.mp4
         510769850
         video/mp4
         
@@ -26,7 +26,7 @@ bookToc: false
 
 结果去了北边开山路穿森林的海滩，还路过了个景色不错的湖，把我说的选项都给占全了。[剪了个小小的 vlog：（先找配乐再剪图像果然容易好多。）](https://youtu.be/7oVbblfb4vI)
 
-[墙内的朋友观看通道（显然会比 YouTube 慢一些）](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Point-Reyes/2021.1_Point_Reyes.mp4)
+[墙内的朋友观看通道（显然会比 YouTube 慢一些）](https://media.douchi.space/douchi/blog-scw/upload/2021-Point-Reyes/2021.1_Point_Reyes.mp4)
 
 我是从东湾经 Richmond bridge （580）过去的，历时俩小时。 880 上自然是很无聊，过了桥就有趣多了，是我最喜欢的丘陵、稀树、草原的样子，有奶牛、黄牛和马在悠闲地吃草。甚至还穿过一小片红树林，在眼前铺开的时候还蛮震撼的（当然，行车记录仪的渣画质就表现不出来了）。
 
@@ -38,31 +38,31 @@ bookToc: false
 
 目的地的 Drakes Beach 是海象聚居区，春季可能是因为繁殖季节所以看一半的海滩封了给海象们不受游客打扰。海边都是裸露出的层岩悬崖，非常上相。
 
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Point-Reyes/PXL_20210109_230915883-01.jpg)
+![](https://media.douchi.space/douchi/blog-scw/upload/2021-Point-Reyes/PXL_20210109_230915883-01.jpg)
 
 虽然说 [DJI Mini 2](../dji-mini-2-review/) 的抗风能力不错，但今天海边确实没什么风一点压力都无。
 
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Point-Reyes/Photo_6553640_DJI_40_jpg_4976912_0_202119151538_photo_original-01.jpg)
+![](https://media.douchi.space/douchi/blog-scw/upload/2021-Point-Reyes/Photo_6553640_DJI_40_jpg_4976912_0_202119151538_photo_original-01.jpg)
 
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Point-Reyes/Photo_6553642_DJI_42_jpg_4334121_0_202119151630_photo_original-01.jpg)
+![](https://media.douchi.space/douchi/blog-scw/upload/2021-Point-Reyes/Photo_6553642_DJI_42_jpg_4334121_0_202119151630_photo_original-01.jpg)
 
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Point-Reyes/Photo_6553656_DJI_56_jpg_4635385_0_202119152336_photo_original-01.jpg)
+![](https://media.douchi.space/douchi/blog-scw/upload/2021-Point-Reyes/Photo_6553656_DJI_56_jpg_4635385_0_202119152336_photo_original-01.jpg)
 
 
 
-![Seriously 我头发都这么长了去厕所的时候还是会被人当男的……](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Point-Reyes/Photo_6553657_DJI_57_jpg_4629869_0_202119152516_photo_original-01.jpg)
+![Seriously 我头发都这么长了去厕所的时候还是会被人当男的……](https://media.douchi.space/douchi/blog-scw/upload/2021-Point-Reyes/Photo_6553657_DJI_57_jpg_4629869_0_202119152516_photo_original-01.jpg)
 
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Point-Reyes/Photo_6553659_DJI_59_jpg_5097118_0_202119152638_photo_original-01.jpg)
+![](https://media.douchi.space/douchi/blog-scw/upload/2021-Point-Reyes/Photo_6553659_DJI_59_jpg_5097118_0_202119152638_photo_original-01.jpg)
 
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Point-Reyes/PXL_20210109_233144511-01.jpg)
+![](https://media.douchi.space/douchi/blog-scw/upload/2021-Point-Reyes/PXL_20210109_233144511-01.jpg)
 
 但是一下海滩就有一只孤零零的新鲜海象尸体，估计刚在这里没几天。
 
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Point-Reyes/PXL_20210109_230908113.jpg)
+![](https://media.douchi.space/douchi/blog-scw/upload/2021-Point-Reyes/PXL_20210109_230908113.jpg)
 
-![不知道是工作人员还是游客在海象尸体周边画了个大圈，游客们都十分自觉地没有过去骚扰，远远地拍照。](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Point-Reyes/PXL_20210109_230942925-01.jpg)
+![不知道是工作人员还是游客在海象尸体周边画了个大圈，游客们都十分自觉地没有过去骚扰，远远地拍照。](https://media.douchi.space/douchi/blog-scw/upload/2021-Point-Reyes/PXL_20210109_230942925-01.jpg)
 
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Point-Reyes/Photo_6553650_DJI_50_jpg_4196515_0_202119152052_photo_original-01.jpg)
+![](https://media.douchi.space/douchi/blog-scw/upload/2021-Point-Reyes/Photo_6553650_DJI_50_jpg_4196515_0_202119152052_photo_original-01.jpg)
 
 回程途中本来想走金门桥和 280，无奈 Google map 非常执拗估计 280 太堵，只好走了金门桥 + 三番中间堵一段（但是每次还是会被上 Bay bridge 铺在眼前的三番天际线震撼）+ Bay Bridge 湾区最漂亮的两座桥，又开无聊的 880 回家吃麻辣烫。
 

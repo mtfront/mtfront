@@ -7,49 +7,49 @@ url: /the-perfect-phone-for-casual-bird-lover-samsung-galaxy-s21-ultra-one-month
 enclosure:
   - |
     |
-        https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210316_150304.mp4
+        https://media.douchi.space/douchi/blog-scw/upload/2021-Bird-S21U/20210316_150304.mp4
         18039006
         video/mp4
         
   - |
     |
-        https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210407_174718_1920x1080.mp4
+        https://media.douchi.space/douchi/blog-scw/upload/2021-Bird-S21U/20210407_174718_1920x1080.mp4
         32330725
         video/mp4
         
   - |
     |
-        https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210320_170244~2.mp4
+        https://media.douchi.space/douchi/blog-scw/upload/2021-Bird-S21U/20210320_170244~2.mp4
         28366024
         video/mp4
         
   - |
     |
-        https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210409_120032.mp4
+        https://media.douchi.space/douchi/blog-scw/upload/2021-Bird-S21U/20210409_120032.mp4
         27545487
         video/mp4
         
   - |
     |
-        https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210403_164515~3.mp4
+        https://media.douchi.space/douchi/blog-scw/upload/2021-Bird-S21U/20210403_164515~3.mp4
         65294112
         video/mp4
         
   - |
     |
-        https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210315_121115.mp4
+        https://media.douchi.space/douchi/blog-scw/upload/2021-Bird-S21U/20210315_121115.mp4
         14365544
         video/mp4
         
   - |
     |
-        https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210408_175424_1.mp4
+        https://media.douchi.space/douchi/blog-scw/upload/2021-Bird-S21U/20210408_175424_1.mp4
         9558480
         video/mp4
         
   - |
     |
-        https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210310_151718.mp4
+        https://media.douchi.space/douchi/blog-scw/upload/2021-Bird-S21U/20210310_151718.mp4
         29511855
         video/mp4
         
@@ -73,19 +73,19 @@ It sounds less impressive thank it actually looks. This review is full of video 
 
 First, look at this shot. With naked eye or any other smartphone’s 2~3 times zoom, I wouldn’t even be able to tell it’s a Turkey Vulture (without zooming in this close to see the colors, my newbie casual bird lover’s default guess when I saw large predator bird is Red-tailed hawk) . Let alone have good enough stabilization to catch such shot.
 
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210316_145740.jpg)
+![](https://media.douchi.space/douchi/blog-scw/upload/2021-Bird-S21U/20210316_145740.jpg)
 
-And you’ll be more impressed by looking at actually how far the vulture is and how fast it moves:[video](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210316_150304.mp4)
+And you’ll be more impressed by looking at actually how far the vulture is and how fast it moves:[video](https://media.douchi.space/douchi/blog-scw/upload/2021-Bird-S21U/20210316_150304.mp4)
 
-Speaking of stabilization, let’s look at another 10x zoom handheld video of this Pelican. Notice that it’s soaring fast. I doubt most of amateur photographers with a $2000+ 400mm DSLR lens + $1000 camera can capture this in motion smoothly, handheld. [video](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210407_174718_1920x1080.mp4)
+Speaking of stabilization, let’s look at another 10x zoom handheld video of this Pelican. Notice that it’s soaring fast. I doubt most of amateur photographers with a $2000+ 400mm DSLR lens + $1000 camera can capture this in motion smoothly, handheld. [video](https://media.douchi.space/douchi/blog-scw/upload/2021-Bird-S21U/20210407_174718_1920x1080.mp4)
 
-And take a look at this a still shot of this elegant Great Blue Heron. I personally don’t own any telescope DSLR lens, but I doubt in handheld they can beat the stabilization of this without spending couple of minutes stabilizing in post then export. Meanwhile with a S21 Ultra, I’ll just point and shot, then spend 30s post it on Instagram. [video](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210320_170244~2.mp4)
+And take a look at this a still shot of this elegant Great Blue Heron. I personally don’t own any telescope DSLR lens, but I doubt in handheld they can beat the stabilization of this without spending couple of minutes stabilizing in post then export. Meanwhile with a S21 Ultra, I’ll just point and shot, then spend 30s post it on Instagram. [video](https://media.douchi.space/douchi/blog-scw/upload/2021-Bird-S21U/20210320_170244~2.mp4)
 
 And it’s easier to appreciate the zoom capability when you see how’s it like in 1x:
 
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210320_170332.jpg)
+![](https://media.douchi.space/douchi/blog-scw/upload/2021-Bird-S21U/20210320_170332.jpg)
 
-Here’s a backyard scene of a wren singing on my neighbor’s tree: [video](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210409_120032.mp4)
+Here’s a backyard scene of a wren singing on my neighbor’s tree: [video](https://media.douchi.space/douchi/blog-scw/upload/2021-Bird-S21U/20210409_120032.mp4)
 
 The wren was pretty loud so not sure if directional audio enhancement was also applied
 
@@ -112,29 +112,29 @@ Source: [Interview with Megh Roy Choudhury](https://www.naturephotographysimpli
 
 I mean, let the pros do their job. Or, if you’re already a pro, you don’t need me rambling about the pros and cons of a camera and phones. You can certainly have both. This can as well be a daily scene cheat for you.
 
-Let alone, some of the daily scene may not worth your trouble or simply wait for you to setup the gear, but still is pretty funny to watch and share. Take a look at this failed pigeon courtship at some random park. [video](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210403_164515~3.mp4)
+Let alone, some of the daily scene may not worth your trouble or simply wait for you to setup the gear, but still is pretty funny to watch and share. Take a look at this failed pigeon courtship at some random park. [video](https://media.douchi.space/douchi/blog-scw/upload/2021-Bird-S21U/20210403_164515~3.mp4)
 
-Or this backyard warbler I run across through the window. It was there in a windy day for 10 seconds and gone. I don’t think any other phone or camera would have be able to capture this scene. [video](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210315_121115.mp4)
+Or this backyard warbler I run across through the window. It was there in a windy day for 10 seconds and gone. I don’t think any other phone or camera would have be able to capture this scene. [video](https://media.douchi.space/douchi/blog-scw/upload/2021-Bird-S21U/20210315_121115.mp4)
 
-![1x where I took the warbler video. Notice there’s also a window screen between me and the tree.](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210409_134714.jpg)
+![1x where I took the warbler video. Notice there’s also a window screen between me and the tree.](https://media.douchi.space/douchi/blog-scw/upload/2021-Bird-S21U/20210409_134714.jpg)
 
 Or, these random cute birds and squirrel I came across at random parks:
 
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210403_164149-01.jpeg)
+![](https://media.douchi.space/douchi/blog-scw/upload/2021-Bird-S21U/20210403_164149-01.jpeg)
 
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210310_142410.jpg)
+![](https://media.douchi.space/douchi/blog-scw/upload/2021-Bird-S21U/20210310_142410.jpg)
 
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210316_134900-01.jpeg)
+![](https://media.douchi.space/douchi/blog-scw/upload/2021-Bird-S21U/20210316_134900-01.jpeg)
 
-And when is the last time you’ve seen pulling out a 400m to capture a common crow calling? [video](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210408_175424_1.mp4)
+And when is the last time you’ve seen pulling out a 400m to capture a common crow calling? [video](https://media.douchi.space/douchi/blog-scw/upload/2021-Bird-S21U/20210408_175424_1.mp4)
 
 And if you think this looks like a scene that any phone can take, think again. Below is the 1x photo at where I took the shot. I heard the calling at my study room and shot the video through the window. Would you get out close to get the same shot for just a common crow? And would the crow see you coming still stand there casually and keep calling? It’s such little moment where you’re not buying a specific camera or phone for that makes such capability so valuable and useful.
 
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210409_150048.jpg)
+![](https://media.douchi.space/douchi/blog-scw/upload/2021-Bird-S21U/20210409_150048.jpg)
 
 Speaking of capturing random but beautiful scene, look at this snail shot. Any other phone wouldn’t have the macro capability or quality, and probably fewer people would change their 400mm to a macro then change it back at a bird viewing park just for a little common snail.
 
-Yes, S21 Ultra have both excellent zoom and macro capability, which makes it such a versatile and unique experience that no other phone or camera can beat. [video](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210310_151718.mp4)
+Yes, S21 Ultra have both excellent zoom and macro capability, which makes it such a versatile and unique experience that no other phone or camera can beat. [video](https://media.douchi.space/douchi/blog-scw/upload/2021-Bird-S21U/20210310_151718.mp4)
 
 I also appreciate the high quality 3x lens that unlock me to take that 50mm equivalent closer to human eye’s perspective. Look at the following pictures which I took at same distance of this [Lego Land Rover Defender](https://amzn.to/39mAmPM). Ignore the filter and just look at the perspective. Second photo is shot on 1x which has pretty similar focal length as any other main camera on a phone. Probably not that much difference from average consumer but any amateur photographer with a preference between ~50mm and ~24mm for different subjects would appreciate the options.
 
@@ -142,7 +142,7 @@ Any previous phone I use that has a 2x or 3x zoom lens sacrifice a lot of qualit
 
 ![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/03/20210311_185148-01-1024x768.jpeg)
 
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2021-Bird-S21U/20210311_185200.jpg)
+![](https://media.douchi.space/douchi/blog-scw/upload/2021-Bird-S21U/20210311_185200.jpg)
 
 With all that said, if you’re an Android user and want the best overall phone and most versatile phone camera period, this is the winner by a long shot. If you’re an iPhone user but open to switch, or just want that daily bird shot so bad, this is worth considering.
 

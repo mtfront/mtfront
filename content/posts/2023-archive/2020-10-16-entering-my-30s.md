@@ -35,7 +35,7 @@ tags:
 
 当然，这几年来变化也不是没有：
 
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/DSC02693-01.)
+![](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/DSC02693-01.)
 
 - 多了套房贷
 - 多了俩猫
@@ -50,7 +50,7 @@ tags:
 
 ## **好的起点不应该让路越走越窄**
 
-![](https://mtfront-blog.s3.nl-ams.scw.cloud/upload/2020-year-summary/Me-vs-Other.png)
+![](https://media.douchi.space/douchi/blog-scw/upload/2020-year-summary/Me-vs-Other.png)
 
 虽然我之前就是个没有野心的人，但二十多年的内卷教育还是形成了一些思维定势。比如几乎被默认是跳槽最大障碍之一的刷题。想跳槽自然是原来的工作干的不开心（要么内容不喜欢，要么环境不喜欢，要么钱不喜欢），但包括我在内的很多人明知道在已经很痛苦的情况下改变可能是最好的出路，也因为刷题这个需要一定时间和意志力的活动而在原岗位上一拖再拖。我 2019 年底就经历了这样一种情况（[更长的絮叨在这里](why-i-quit-facebook-part-2-whats-next/)），burnout 程度严重到两个月一行代码都没写过，每天在厌班和如何交差中纠结。
 
