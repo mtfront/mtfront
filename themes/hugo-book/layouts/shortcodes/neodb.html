@@ -20,7 +20,7 @@
       <div class="db-card-content">
         <div class="db-card-title">
           <a href="{{ $dbUrl }}" class="cute" target="_blank" rel="noreferrer">「{{ $dbFetch.title }}」</a>  
-          {{ if .Get 2 }}| <a href="{{ .Get 2 }}" class="cute" target="_blank"> 点击购买 </a>{{ end }}
+          {{ if and (.Get 2) (gt (len (.Get 2)) 0) }}| <a href="{{ .Get 2 }}" class="cute" target="_blank"> 点击购买 </a>{{ end }}
         </div>
         {{ if .Get 1}}
           {{ $itemRating :=  .Get 1 }}
