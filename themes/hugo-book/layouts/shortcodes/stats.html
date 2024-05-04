@@ -3,4 +3,4 @@
     {{$scratch.Add "total" .WordCount}}
 {{ end }}
 
-本博客共 {{ len (where .Site.RegularPages "Section" "posts") }} 篇文章，总计 {{div ($scratch.Get "total") 10000.0 | lang.FormatNumber 1 }} 万字
+博文数量： {{ len (where .Site.RegularPages "Section" "posts") }} 篇 | 累计字数： {{div ($scratch.Get "total") 10000.0 | lang.FormatNumber 1 }} 万字

@@ -7,8 +7,6 @@ BookComments: False
 {{< img "https://media.douchi.space/douchi/media_attachments/files/112/182/846/531/581/690/original/f8cefe50fb559933.jpg" 600 >}} \
 *2024-3-30 郁金香节 @Roozengaarde*
 
-{{< heatmap >}}
-
 ## 近况
 - [喜提中年人第一次被裁]({{< relref "/posts/2024-02/3-layoff" >}})
 - `玩物志`月刊更名[`关我辟事`]({{< relref "/tags/关我辟事" >}})半月刊啦！
@@ -20,7 +18,7 @@ BookComments: False
 - 📚 [`Entangled Life`](https://amzn.to/4bTZQU1) by Merlin Sheldrake，[读书笔记]({{< relref "/posts/2024-03/2-book-entangled-life" >}})
 - 🎬 [`热辣滚烫`](https://t.me/mtfront/3125?utm_source=blog)
 - 🎮 [`ROG Loki SFX-L 850W Platinum`](https://amzn.to/49fBZwj)
-- 🎮 [`小丑牌`](https://neodb.social/game/3ptorNahFU4Dd11d8584ga)
+- 🎮 [`The Last Spell`](https://neodb.social/game/5OpyAnV6YJxgsqGSWLmPkt)
 - 🧱 [`Lego Polaroid`](https://amzn.to/49t1zhh)
 - 🎲 [`爆炸猫`](https://amzn.to/47Bznar)
 - 🧘 [`Geologie Co-Wash`](https://amzn.to/3tM9O8Z)
