@@ -239,17 +239,15 @@
 }
 
 .wrap {
-  img {
-    float: right;
-    max-width: 400px;
-    padding-left:  $padding-16;
-  }
+  float: right;
+  max-width: calc(min(100%, 400px)) !important;
+  padding-left:  $padding-8;
+  padding-top: $padding-8;
 }
 
 .wrap-left {
-  img {
-    float: left;
-    max-width: 400px;
-    padding-right:  $padding-16;
-  }
+  float: left;
+  max-width: calc(min(100%, 400px)) !important;
+  padding-right:  $padding-8;
+  padding-top: $padding-8;
 }
