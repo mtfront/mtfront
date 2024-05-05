@@ -10,7 +10,7 @@ tags:
   - reading
   - patreon
 bookToc: false
-bookComment: false
+bookComments: true
 image: "https://media.douchi.space/douchi/media_attachments/files/112/373/236/812/992/580/original/d6a9ea8bd666c53b.png"
 imageDes: "Midjourney Prompt: top down view of a few books and magazines and a kindle on top a study room desk --ar 16:9"
 ---
