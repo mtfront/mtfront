@@ -69,4 +69,6 @@ imageDes: "MidJourney prompt: a person with backpack walking across city to moun
 
 ![横过来就是个公文包](https://media.douchi.space/douchi/media_attachments/files/112/415/270/875/343/948/original/8ba8a468eed900bb.png)
 
-以上就是我的 three bag collection 了，当然，晚点如果真要通勤或者生活习惯变了可能这个名单又要变了。本来以为会是几百字的 bullet points 列三个包就完了，怎么又废话了三千字的消费主义陷阱……我写了这么多没钱的 EDC & Travel pack “软文”，不知道博客读者里有多少入坑了的或者本来就有的同好，不同生活方式的 3 bag collection 也应该非常不同吧。
+以上就是我的 three bag collection 了。看到这个选题的时候完全没想到我会全选 Aer，毕竟这两年也试了很多其它家的包了，结果精挑细选了半天竟然还是个 [aer 全家桶]({{< relref "/posts/2023-09/4-aer-bag-collection" >}})。当然，晚点如果真要通勤或者生活习惯变了可能这个名单又要变了。
+
+本来以为会是几百字的 bullet points 列三个包就完了，怎么又废话了三千字的消费主义陷阱……我写了这么多没钱的 EDC & Travel pack “软文”，不知道博客读者里有多少入坑了的或者本来就有的同好，不同生活方式的 3 bag collection 也应该非常不同吧。
