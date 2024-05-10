@@ -113,7 +113,7 @@ Source: Aer
 
 ![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/08/Screen-Shot-2021-08-29-at-2.54.56-PM-940x1024.png)
 
-### **Everyday Sling – [Aer Travel Sling 2](https://www.aersf.com/travel-sling-2-black)**
+### **Everyday Sling – [Aer Travel Sling 2](https://www.aersf.com/travel-sling-2-black?utm_source=blog.douchi.space)**
 
 成为 Aer 的脑残粉之后我又入手了一款 EDC，想要 sling 是因为觉得 20 多 L 的 backpack 对于城市 EDC overkill 而且取东西拿下来不方便，那种小腰包 sling 又太小装不了电脑和外套不实用。这个 12L 的 sling 完美符合我的所有需求，大小刚好能装下电脑 + membottle + 一件外套，斜跨随时可以滑到身前开口都在侧面直接取东西特别方便，肩带可以一键打开或者拉长拉短，而且 aer 传统艺能特别舒服，另外还可以侧过来当公文包提，还能跨行李箱上。背上也有中 watchdog 的 vibe。
 
@@ -121,7 +121,7 @@ Source: Aer
 
 ![](https://images.squarespace-cdn.com/content/v1/5362a66ee4b05f0813543305/1617697718391-OR289137C0NLIMZ42YL5/Aer_travelsling2_lifestyle_7.jpg?format=2500w)
 
-### **Gym Bag – [Aer Fit Pack 3](https://www.aersf.com/fit-pack-3-black)**
+### **Gym Bag – [Aer Fit Pack 3](https://www.aersf.com/fit-pack-3-black?utm_source=blog.douchi.space)**
 
 因为攀岩需要一个包所以在之前 Travel Pack 2 和 Travel Sling 2 的基础上又买了这个。有单独的 shoe compartment 可以放攀岩鞋，侧面有放水壶的地方，主要区域可以塞衣服，有电脑层，非常适合上班 – gym 的使用场景。虽然我不去上班但是去攀岩大小刚好，18.7L 的大小平时 weekend trip 带这个也很方便。
 

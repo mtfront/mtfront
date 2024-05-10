@@ -20,7 +20,7 @@ bookToc: false
 
 因此在有了工作有了钱但是又 remote 所以计划多出去浪的这半年伊始的两个 trip 之间，我做了点 research 果断入了 one bag travel 这个坑。在此赞美一下长毛象象亲给我安利了包我去搜关键词才打开新世界大门，以及 reddit 和 youtube 真是什么 niche 都有 community 和很多宝贵经验/测评可以参考。
 
-最初被推荐的是 [Bellroy Transit Backpack Plus (38L)](https://amzn.to/2WALJAY), 最后看了一些测评（[尤其是这个](https://youtu.be/_8Dzx-sgQjU)）之后在两个包之间犹豫了一阵子根据自己的需求入手了 [Aer Travel Pack 2 (33L)](https://www.aersf.com/travel-pack-2-gray) （现在居然断货了 10 月才会重新发货……幸亏我赶上了）。
+最初被推荐的是 [Bellroy Transit Backpack Plus (38L)](https://amzn.to/2WALJAY), 最后看了一些测评（[尤其是这个](https://youtu.be/_8Dzx-sgQjU)）之后在两个包之间犹豫了一阵子根据自己的需求入手了 [Aer Travel Pack 2 (33L)](https://www.aersf.com/travel-pack-2-gray?utm_source=blog.douchi.space) （现在居然断货了 10 月才会重新发货……幸亏我赶上了）。
 
 ![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2021/08/Screen-Shot-2021-08-29-at-2.54.56-PM-940x1024.png)
 

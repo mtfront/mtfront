@@ -75,12 +75,12 @@ imageDes: "MidJourney prompt: mushroom foraging --ar 16:9 --niji 5"
 
 ### Aer NYC
 来纽约前想当然觉得大城市肯定有店，去了之后回去看了看发现运气很好，[这个店](https://maps.app.goo.gl/YQJpZApskF6V9CqK6)一个月前才开业，刚好被我碰上了。我可能是简中博客里第一 Aer 吹了，不了解这个牌子的读者可以先去看[我写的我的 Aer 全家桶]({{< relref "/posts/2023-09/4-aer-bag-collection" >}})。这次想去看的主要有两个包：
-####  [Tech Pack 3](https://aersf.com/products/tech-pack-3)
+####  [Tech Pack 3](https://aersf.com/products/tech-pack-3?utm_source=blog.douchi.space)
 是个 16L 的 EDC。理智告诉我我不需要 EDC（因为不上班没有通勤），平时在楼里活动去找女朋友或者开车出去用 Travel Sling 2 单肩的甩着提着跨着都比背包更方便；不背重物的 backpack Go Pack 2 也完全够用还能折起来塞包里（这次来纽约的 day pack 就用的 Go Pack 2）。但因为是折叠包没有背垫支撑，只背电脑包里没别的东西的话笔记本会向外倒导致底部顶着腰不大舒服，之前在[日本暴走]({{< relref "/posts/2023-11/7-japan-2023" >}})体验 ditital nomad 生活的时候就感受到了这个局限（话说 Aer 在日本真是流行啊，穿着优衣库背着 Aer 的我完美融入本地假装大学生），虽然靠包里塞个外套也可破吧，而且其实这次在纽约对 Go Pack 2 印象有所提升，周末去自然博物馆空调太热小小一个包塞了四件外套竟然也没有太吃力。
 
 看中这个是因为觉得分开的 laptop compartment 是刚需（机场安检方便、也不用怕平时拿电脑时候带出主区的东西），之前其它这个 size 的小包都是和主区合在一起的电脑区。City Pack Pro 倒是有分开的，但 24L 太大了不超过 2 天的 trip 或者搭配行李箱的话杀鸡用牛刀。而且之前很不喜欢二代那个光面的设计，现在突然觉得还不错。同期出的 Day Pack 3 是类似的外形设计，小一点 14L，但没有分开的电脑区因此不考虑，没想到到了店里实体看觉得 Day Pack 3 比 Tech Pack 3 小很多外型更好看。另一个纠结点是它有点重，一个 16L 的包要 3 磅多（前代更离谱要快 4 磅），比比它大 50% 的 City Pack Pro 还要重简直离谱。最后的结论是，要是找到工作要通勤去上班有对 EDC 的需求的话再说。
 
-#### [Travel Pack 3](https://aersf.com/products/travel-pack-3)
+#### [Travel Pack 3](https://aersf.com/products/travel-pack-3?utm_source=blog.douchi.space)
 自从把 Travel Pack 2 卖给朋友之后连换了几个包都还是没有 Travel Pack 2 中意。当时没有直接换 Travel Pack 3 是因为 3 比 2 大了一些（33L -> 35L）重了一些，还少了我很喜欢的装鞋区，就想试试别的牌子。但 3 换成我喜欢的磁吸卡扣，以及 compression strap 现在不影响主区了真的可以当压缩带用了也很吸引人。换了 3 个包都没有 Aer 这么好的口袋设计之后现在兜了一圈又想换回来了。
 
 因为 3 个更重，就有点想尝试一下稍微轻了一点（0.2 磅）的 X-Pac 版本。X-Pac 是帆船船帆的材料，更加防水，但材料本身更硬更吵一些，外加不知道厂商们都中了什么邪非要给 X-Pac 内部用橘红色。我个人觉得普通版的灰色已经足够浅能找到包内的物品了，很讨厌橘色版，也不喜欢 X-Pac 的菱形材质觉得没有普通 Codura 版好看。这次也看了下 X-Pac 版，倒是发现那个菱形没有想象中明显，橘色也比网上看图稍微柔和一点，于是就在纠结要不要为了这 0.2 磅买 X-Pac 版。防水性我倒没那么在意，又不是要在热带雨林 hiking 的包，之前 Codura 版背着在日本大雨里走一天也没什么问题。
