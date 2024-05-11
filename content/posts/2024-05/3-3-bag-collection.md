@@ -20,7 +20,7 @@ imageDes: "MidJourney prompt: a person with backpack walking across city to moun
 
 <!--more-->
 
-{{< wrap "https://media.douchi.space/douchi/media_attachments/files/112/305/854/609/000/458/original/648cabce7ef70aff.png" >}}
+{{< wrap "https://media.douchi.space/douchi/media_attachments/files/112/305/854/609/000/458/original/648cabce7ef70aff.png" "Bellroy Lite Sling" >}}
 
 这个问题给我印象中的”正解“应该是大旅行包、EDC和 sling 各一个，所以刚看到帖的时候一直想凑这么各组合出来。后来我放弃了，因为虽然有个蛮喜欢的 sling （[Bellroy Lite Sling](https://amzn.to/3q2nx9L)），但我出行要么东西揣兜就够了（当初买这个是因为夏天船短裤的时候钱包手机都塞进去别扭，但西海岸能穿短裤的时候一年也就那么几天），要么出行要背更多东西（当 digital nomad 要背电脑，不背电脑的时候在美国这种室内空调开得比谁都勤的地方也想背件外套），所以背 sling 出门遛弯的机会还挺少的，只挑三个包确实挑不进。
 
@@ -46,7 +46,7 @@ imageDes: "MidJourney prompt: a person with backpack walking across city to moun
 ![右上角的 Go Pack 2 虽然是“便携”材料但跟 Aer 祖传的 codura 1600D 的质感相比也不会逊色太多](https://media.douchi.space/douchi/media_attachments/files/112/415/273/721/042/696/original/ea9b4c21ef83234a.png)
 - Packable 但有质感的材料。它本身的设计意图就是用（相对）轻便可折叠的材料方便塞进背包/箱子里，到了目的地拿出来用。市面上常见的此类包都偏户外导向，材料像塑料布一样质感不行就不想用。Aer 这里牺牲了一点重量和体积，折起来没有很小也没有特别轻，但质感好了很多，平时背出去也不会嫌掉价。
 - 多用途。因为包的质感不塑料，所以除了 packable day pack 之外平时也愿意背出去，用途就 versatile 了很多。只要不背电脑其它时候都很方便：moderate hiking，城市行走装水和外套，采蘑菇，运动（当游泳包还能干湿分离）……当然了还有它的本来目的：折起来装进行旅行包，到了目的地拿出来当 daypack，当然在飞机上拿出来当 personal item 也非常合适。
-{{< wrap "https://media.douchi.space/douchi/media_attachments/files/112/283/596/178/280/600/original/f2465af0c75c440f.png" >}}
+{{< wrap "https://media.douchi.space/douchi/media_attachments/files/112/283/596/178/280/600/original/f2465af0c75c440f.png" "中间那个白色是水杯把手">}}
 - 简化但巧思过的口袋。麻雀虽小五脏俱全，它除了主区外还有：电脑区（在主区内部，没有太多 padding 但能用），Aer 祖传的飞机好伴侣顶部 quick access pocket，两边都有的水杯区（一个装水杯一个装别的杂物如防晒或者 field guide 或者伞都刚好，而且高度刚好不用把包取下来直接能在背后拿到水杯），还有我最喜欢的外部开口。外部开口普通用途：塞外套和纸巾等杂物。高端用途：包里比较空嫌水杯重量不均衡的时候把水杯挂在正中间。还有之前采蘑菇的带子挂这儿也非常合适。
 - 容量意外地大。虽然看起来挺小但它 surprisingly 有 20L 容量，EDC 绰绰有余（很多小一些的 EDC 的包都是十几升）。而且是软的材料所以也不占地方。前两天在纽约进了博物馆太热，我们两个人塞了四件不是特别薄的外套竟然都能塞下，大震惊。
 - 舒适。即便是 packable 的材料比不上厚实的“正经”包，但材料也很舒服。背水杯 + 外套的普通 EDC 套装 city walk 一整天肩带也不会觉得不舒服。顶上的把手也没省做工，比很多非 Aer 的正经旅行包把手都舒服。

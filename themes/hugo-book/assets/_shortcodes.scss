@@ -243,11 +243,11 @@
   max-width: calc(min(100%, 400px)) !important;
   padding-left:  $padding-8;
   padding-top: $padding-8;
+  text-align: center;
 }
 
 .wrap-left {
   float: left;
-  max-width: calc(min(100%, 400px)) !important;
-  padding-right:  $padding-8;
-  padding-top: $padding-8;
+  padding-right:  $padding-16; 
+  padding-left: 0px;
 }

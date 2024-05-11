@@ -1,1 +1,6 @@
-<img class="wrap{{if .Get 1}}-left{{end}}" src="{{.Get 0}}">
+<div class="wrap {{if .Get 2}}wrap-left{{end}}">
+  <img src="{{.Get 0}}">
+  {{ if and (.Get 1) (gt (len (.Get 1)) 0) }}
+    <i class="image-desc">{{ .Get 1}}</i>
+  {{ end }}
+</div>
