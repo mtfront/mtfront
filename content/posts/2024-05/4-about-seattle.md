@@ -15,7 +15,7 @@ image: https://media.douchi.space/douchi/media_attachments/files/112/108/253/338
 imageDes: "窗含西岭千秋雪，门泊太平洋万里船，摄于 2024-03-16"
 ---
 
-搬来西雅图一周年的时候写过一篇[西雅图与湾区对比]({{< relref "/posts/2023-archive/2022-11-25-bay-area-vs-seattle" >}})。但抛开”作为另一个 tech hub destination”的对比，西雅图本身也有太多让我爱的地方了，这两天趁着极光刷屏，来谢谢西雅图抒情小 bullet points.
+搬来西雅图一周年的时候写过一篇[西雅图与湾区对比]({{< relref "/posts/2023-archive/2022-11-25-bay-area-vs-seattle" >}})。但抛开”作为另一个 tech hub destination”的对比，西雅图本身也有太多让我爱的地方了，趁着前两天极光刷屏，来写写西雅图抒情小 bullet points.
 
 <!--more-->
 ## 贴近自然，户外活动资源丰富
