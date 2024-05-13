@@ -8,10 +8,7 @@ categories:
   - 喜欢就买
 tags:
   - 关我辟事
-  - review
   - 消费主义陷阱
-  - reading 
-  - watching
 booktoc: true
 bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/111/767/554/788/216/481/original/8c8a486cf882a482.png

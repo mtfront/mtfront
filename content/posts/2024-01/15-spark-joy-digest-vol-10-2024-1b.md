@@ -9,10 +9,7 @@ categories:
 tags:
   - 关我辟事
   - car
-  - review
   - 消费主义陷阱
-  - reading 
-  - watching
 booktoc: true
 bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/111/843/320/287/477/707/original/5b297f716a420991.jpg

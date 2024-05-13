@@ -11,9 +11,6 @@ tags:
   - 消费主义陷阱
   - travel
   - photography
-  - reading 
-  - watching
-  - gaming
 booktoc: true
 bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/112/035/236/377/970/545/original/ed7bb6c50f4c3cb7.png

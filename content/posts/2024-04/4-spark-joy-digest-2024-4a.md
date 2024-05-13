@@ -12,9 +12,6 @@ tags:
   - Many Bagger
   - travel
   - photography
-  - reading 
-  - watching
-  - gaming
 booktoc: true
 bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/112/277/094/456/201/490/original/bbaef7c20b16021d.png

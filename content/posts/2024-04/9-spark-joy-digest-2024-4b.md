@@ -11,9 +11,6 @@ tags:
   - 消费主义陷阱
   - Many Bagger
   - food
-  - reading 
-  - watching
-  - gaming
 booktoc: true
 bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/112/363/989/821/361/112/original/8e894fa12d6498d7.png

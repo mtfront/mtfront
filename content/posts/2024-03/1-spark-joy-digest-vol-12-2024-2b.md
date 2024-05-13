@@ -11,9 +11,6 @@ tags:
   - travel
   - photography
   - seattle
-  - reading 
-  - watching
-  - gaming
 booktoc: true
 bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/112/023/241/507/149/123/original/95f30efab5d32955.png

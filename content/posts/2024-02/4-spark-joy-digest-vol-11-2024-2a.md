@@ -10,9 +10,6 @@ tags:
   - 关我辟事
   - 消费主义陷阱
   - review
-  - reading 
-  - watching
-  - gaming
 booktoc: true
 bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/111/916/394/934/032/290/original/58e2b9e6be88dbcb.jpg

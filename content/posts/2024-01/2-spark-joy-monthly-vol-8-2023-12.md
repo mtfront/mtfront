@@ -7,11 +7,8 @@ url: /spark-joy-monthly-vol-8-2023-12/
 categories:
   - 喜欢就买
 tags:
-  - review
-  - 消费主义陷阱
   - 关我辟事
-  - reading 
-  - gaming
+  - 消费主义陷阱
 booktoc: true
 bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/111/661/879/122/325/014/original/36d557aec0780087.png

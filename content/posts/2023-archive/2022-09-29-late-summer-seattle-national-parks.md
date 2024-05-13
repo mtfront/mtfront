@@ -22,7 +22,7 @@ tags:
 
 ---
 
-因为不怎么爱逛景点和 camping，来西雅图大半年了周边的国家公园也一个没去过。八月底朋友来西雅图，刚好趁机大家组了个团一个周末去了 Mt. Rainier 和 Olympic，回来之后觉得 rainier 非常惊艳，光速购入 national park pass，又找了个时间自己去了趟 North Cascades 以及瓜片来又走了一遍 skyline。这几个国家公园都是开车两三个小时能到，感觉平时周末自己去 hiking 也未尝不可，比湾区周边的可方便太多啦。
+因为不怎么爱逛景点和 camping，来西雅图大半年了周边的国家公园也一个没去过。八月底朋友来西雅图，刚好趁机大家组了个团一个周末去了 Mt. Rainier 和 Olympic，回来之后觉得 rainier 非常惊艳，光速购入 national park pass，又找了个时间自己去了趟 North Cascades 以及又走了一遍 skyline。这几个国家公园都是开车两三个小时能到，感觉平时周末自己去 hiking 也未尝不可，比湾区周边的可方便太多啦。
 
 {{< columns >}}
 ![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/09/20220909_181849-scaled-e1664437451487-1536x2048.jpeg)
@@ -94,7 +94,7 @@ Trail 接近顶部有远眺远处其它雪山的观景台，标出了远处雪�
 {{< columns >}}
 跨过小溪好几次，因为溪水过于清澈我们没忍住接了点水尝了尝，发现神奇的是真的有点甜！一位以为我们就随便爬爬没带够水的朋友更是直接接了一瓶拿着喝了。
 
-Trail 的某个地方竟然还有人凿出了一个冰洞，我们纷纷抛弃大路从洞里钻了过去，没想到八月也能玩到冰雪世界。九月初我和瓜片再来的时候这个冰洞就已经不在了。
+Trail 的某个地方竟然还有人凿出了一个冰洞，我们纷纷抛弃大路从洞里钻了过去，没想到八月也能玩到冰雪世界。九月初再来的时候这个冰洞就已经不在了。
 ![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/09/image-1-1-2048x1536.png)
 ![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/09/20220819_190009-scaled-e1664433975259.jpeg)
 <--->
@@ -104,11 +104,10 @@ Trail 的某个地方竟然还有人凿出了一个冰洞，我们纷纷抛弃�
 
 过了断桥和瀑布之后就离回到游客中心不远了。届时我们都超级饿，迫不及待跑回城里吃火锅去了。
 
-后来九月中旬跟瓜片再去的时候雪已经化了很多。在山顶上本来在欣赏远方的云幕，定睛一看竟然是山火现场。这次去的比较早，下山时候还未起雾，在之前的小溪桥上躺了一会儿，超级舒服。夕阳下的雪山难以言表。<figure class="wp-block-image size-large">
+后来九月中旬再去的时候雪已经化了很多。在山顶上本来在欣赏远方的云幕，定睛一看竟然是山火现场。这次去的比较早，下山时候还未起雾，在之前的小溪桥上躺了一会儿，超级舒服。夕阳下的雪山难以言表。<figure class="wp-block-image size-large">
 
 ![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/09/20220909_165732-2048x1536.jpeg)
 ![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/09/20220909_160033-2048x1536.jpeg)
-![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/09/20220909_172847-2048x1536.jpeg)
 ![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/09/20220909_175518-2048x1536.jpeg)
 ![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/09/20220909_181849-scaled-e1664437451487-1536x2048.jpeg)
 

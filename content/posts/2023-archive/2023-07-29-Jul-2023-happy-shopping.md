@@ -7,10 +7,8 @@ url: /jul-2023-happy-shopping/
 categories:
   - 喜欢就买
 tags:
-  - review
-  - 消费主义陷阱
   - 关我辟事
-  - gaming
+  - 消费主义陷阱
 ---
 
 这个月除了一次公司 onsite 之外没出去玩，消费主义的手也逐渐减缓，主要买了一些改善日常出行质量的小玩意儿。
