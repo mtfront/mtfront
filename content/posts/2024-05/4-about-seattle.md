@@ -8,6 +8,7 @@ categories:
   - 不行就分
 tags:
   - seattle
+  - photography
 booktoc: true
 bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/112/108/253/338/067/301/original/a735a5d867bad8d6.jpg
