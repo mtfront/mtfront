@@ -138,7 +138,7 @@ fascinating，男主和 Martha 的的病态执着和自毁表现得即 subtle �
 {{< neodb "https://neodb.social/tv/season/3XSbSZlVdgQu9rffuwbN0H" 7 >}}
 这季跟以前区别还挺大的，后来者不利导致这季变成了 front heavy 前面好几集都没有 blocking，机制变得有点奇怪。大家也不再热衷于 catfish hunting 了 which is good，但是每个人都 focus on strategy （但其实只有个别擅长）也搞得有点干巴巴。Lauren 前面本来还行从 ride or die 那里突然脑子送回家了接连蠢哭。Jordan 真的太讨人厌了，得罪编导都剪不出这么讨人嫌的性格，reddit 上铺天盖地全是骂他的。QT 本来玩得很好，secret influencer 那儿 mic drop 也攒了超多观众缘，倒数第二次 rating 大失误太可惜了，自己回家看节目可能肠子都悔青了。
 
-### 特级狂人 ｜ The Fall Guy
+### 特技狂人 ｜ The Fall Guy
 {{< neodb "https://neodb.social/movie/3x0aGV3pgZhbBvkZA1skla" 5 >}}
 For some reason 我一直以是 `Free Guy` 的续作：名字`The Fall Guy` 极度相似，主演高司令跟 Ryan Reynolds 长得像已经是梗了，女主戏中名字甚至跟隔壁女主演员 Jody Comer 同名，似乎也埋满了给玩家/影迷的梗（跟`Mad Max` 极像的这个片场刚好赶上今年 `Furiosa` 热度）。去影院才发现误会大了，主创到制片都毫无关系，以为是致敬和呼应的桥段也全变成了更像是蹭热度。关键片子尬到脚趾扣地，而且是完全不好笑那种，影院后面几个大爷的尬笑捧场空旷回声排我尴尬观影体验前几名了。白瞎了给特技替身演员的一封情书这么好的主题。两星半不能更多，可惜。
 
