@@ -23,7 +23,7 @@ tags:
 - 恢复独居渐入佳境的中年社畜健康习惯
 - 我看过的流媒体脱口秀 tier list
 
-回归正题。我写过很多码农职业相关的文章，可以在 [Career tag](/tags/career/) 下查看。
+回归正题。我写过很多码农职业相关的文章，可以在 [Career tag]({{< relref "/tags/career">}})下查看。
 <!--more-->
 
 ## **Level basics**
@@ -103,3 +103,7 @@ staff level 与 senior 主要的区别是要有 org/cross team impact，不是�
 拿我个人例子来说，[上次跳槽](../senior-software-engineer-pandemic-job-hunting/)时候惯性思维去面了一些 L4，拿到的 offer mix of L3 & L4，最后出于兴趣偏好和面试体验等考量选择在 L3 呆着。进公司之后再次仔细观察了 L4 们都在干嘛，现阶段来说比较确定并不想朝这个方向发展，就舒舒服服在 L3 呆着（就是时不时跟 manager 1:1 会要应付一下“想要怎么 grow”这个问题，因为我自己的答案是不想 grow）。也有在思考要不要发展一下 side gig 或者当 contractor，这样就没有要 grow 的压力。不过现在是这么想，兴许过两年无聊了想再往上爬爬也不一定。
 
 还是那句话，过度提前优化多半是徒劳人算不如天算，如果还在职业早期也不必为职业发展杞人忧天，到了 terminal level 自然会发现自己的偏好再做决定也不迟。
+
+如果觉得本文有帮助想约 coffee chat 进行进一步咨询，欢迎点击下面的按钮购买 1:1 或支持博客创作：
+{{< button href="https://www.patreon.com/bePatron?u=46962965" target="_blank">}}订阅 Patreon 预约 coffee chat{{< /button >}}
+{{< button href="https://ko-fi.com/S6S130C16" >}}在 Kofi 上给我买杯奶茶{{< /button >}}
