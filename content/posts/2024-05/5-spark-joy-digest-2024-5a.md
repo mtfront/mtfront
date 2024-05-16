@@ -9,7 +9,7 @@ categories:
 tags:
   - 关我辟事
 booktoc: true
-bookComments: false
+bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/112/447/927/674/658/374/original/aacdce7ff5a00732.png
 imageDes: "MidJourney prompt: seattle skyline with green and purple aurora --niji 5 --ar 16:9"
 ---
@@ -146,4 +146,3 @@ For some reason 我一直以是 `Free Guy` 的续作：名字`The Fall Guy` 极�
 ### Michelle Wolf: It's great to be here tour
 ![](https://media.douchi.space/douchi/media_attachments/files/112/432/690/211/833/587/original/26adfa2706277bab.jpg)
 虽然 tour 名字还是 It's great to be here，线上也已有不同地点的，但这次去现场看的绝大多数都是新段子。本来这场 show 在去年 12 月初，临近主办方突然通知我们要 reschedule 到今年 5 月（可以选择退票）。当时还在惊讶啥事啊能 reschedule 这么久，现在破案了原来（大概？）是生孩子去了，于是这次好多新妈段子。现场果然比线上的声音还尖难怪她自己都调侃过🤣还是好笑的但感觉这场节奏略慢略散状态一般。前面暖场的妹子倒是很不错临场段子也很好笑
-<!-- 恢复评论 -->
