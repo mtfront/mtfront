@@ -3,10 +3,10 @@
 {{- else -}}
   {{- if .Text}}
     <!-- Wraping in the same paragraph, otherwise it'll get wrapped into another p and mess up padding -->
-    <p class="image-desc">
+    <div class="image-desc">
       <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title }}title="{{ . }}"{{ end }}/>
       <i>{{ .Text}}</i>
-    </p>
+    </div>
   {{- else -}}
     <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title }}title="{{ . }}"{{ end }}/> 
   {{- end -}}
