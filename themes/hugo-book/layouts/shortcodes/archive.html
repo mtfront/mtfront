@@ -4,7 +4,9 @@
     <li>
       <a href="{{ .RelPermalink}}">{{ .Title }}</a> 
       {{range (first 3 (.Params.tags))}}
-        <div class="tag">{{. }}</div>
+        {{ $tagColor := substr (md5 .) 0 6}}
+        <!-- hex code attach opacity to end of code, 1A is 10% opacity  -->
+        <div class="tag" style="--tag-color: #{{$tagColor}}1A" >{{ . }}</div>
       {{end }}
       <div class="archive">- {{.Date.Format "2006-01-02"}}</div>
     </li>

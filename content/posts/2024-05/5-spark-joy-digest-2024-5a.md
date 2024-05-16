@@ -114,12 +114,12 @@ imageDes: "MidJourney prompt: seattle skyline with green and purple aurora --nij
 
 ## 游
 ### 最后的咒语 ｜ The Last Spell
-{{< neodb "https://neodb.social/game/5OpyAnV6YJxgsqGSWLmPkt" >}}
+{{< neodb "https://neodb.social/game/5OpyAnV6YJxgsqGSWLmPkt" 8 >}}
 头几小时像素 + 肉鸽 + 回合 + 策略 + 基建 + 塔防的元素确实很香。但打过几次 boss 之后就发现地图变化实在太少了，仅有上回合残留的敌人实体 + 防御设施 + 废墟这一点点变化，光靠英雄本身随机生成新鲜感很快就过去了，节奏敌人人海战术节奏又比较慢，boss 战难度曲线又比前一战陡很多，就很容易无聊变成 grind boss 了。还挺喜欢这个底子的，十几小时乐趣也不算亏。
 
 ### 在玩：Hades II Early Access
 {{< neodb "https://neodb.social/game/5Nl53nBUBbAiUPdR7EFW0h" >}}
-作为前作粉丝平时不买 EA 的我没忍住第一时间入手 early access，完成度意外地高，除了有些 asset（比如信物）还是占位符之外其它基本直接拿出去卖也没问题了，内容已经多于前作了。这次美术水准同样高的同时，感觉比一代还加入了一些 quirky 可爱的元素，比如青蛙还有教练，宙斯也很 sassy 的样子让我忍不住想到雷神 4 的搞笑宙斯了哈哈哈。女性 NPC 也都超帅的。最重要的是，第二个 boss{{< spoiler "海妖塞壬" >}}的歌儿也太好听了吧！！！！！！！ 1 代的时候欧律狄刻那首 Good Riddance 就已经是游戏 OST 上乘之作了这么多年都在我的歌单里，没想到这次还能有更好听的！！！以至于我被 boss 打死的时候不是遗憾被打死而是遗憾歌戛然而止了。歌贴在这里，但**强烈建议还没玩到的朋友先自己玩到再来听**：
+作为前作粉丝平时不买 EA 的我没忍住第一时间入手 early access，完成度意外地高，除了有些 asset（比如信物）还是占位符之外其它基本直接拿出去卖也没问题了，内容已经多于前作了。这次美术水准同样高的同时，感觉比一代还加入了一些 quirky 可爱的元素，比如青蛙还有教练，宙斯也很 sassy 的样子让我忍不住想到雷神 4 的搞笑宙斯了哈哈哈。女性 NPC 也都超帅的。最重要的是，第二个 boss{{< spoiler "海妖塞壬" >}}的歌儿 `Coral Crown` 也太好听了吧！！！！！！！ 1 代的时候欧律狄刻那首 `Good Riddance` 就已经是游戏 OST 上乘之作了这么多年都在我的歌单里，没想到这次还能有更好听的！！！以至于我被 boss 打死的时候不是遗憾被打死而是遗憾歌戛然而止了。歌贴在这里，但**强烈建议还没玩到的朋友先自己玩到再来听**：
 
 {{< youtube "N7QSavYWEE0" >}}
 

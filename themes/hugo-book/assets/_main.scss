@@ -374,15 +374,15 @@ body[dir="rtl"] .book-menu {
 .archive {
   display: inline;
   color: var(--gray-500);
-  font-size: 0.8em;
+  font-size: 0.75em;
 }
 
 .tag {
   display: inline;
   padding: 0 $padding-4;
-  background: var(--gray-100);
-  border-radius: $border-radius;
-  font-size: 0.8em;
+  border-radius: 2px;
+  font-size: 0.75em;
+  background:var(--tag-color);
   color: var(--gray-500);
 }
 
