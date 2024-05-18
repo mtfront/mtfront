@@ -4,29 +4,26 @@ type: docs
 bookToc: false
 BookComments: False
 ---
-{{< img "https://media.douchi.space/douchi/media_attachments/files/112/182/846/531/581/690/original/f8cefe50fb559933.jpg" 600 >}} \
-*2024-3-30 郁金香节 @Roozengaarde*
+{{< img "https://media.douchi.space/douchi/media_attachments/files/112/421/471/099/004/122/original/1e2c5b671e68d2cb.jpg" 600 >}} \
+*2024-5-10 太阳风暴西雅图极光 @Willis D. Tucker Community Park*
 
 ## 近况
 - [喜提中年人第一次被裁]({{< relref "/posts/2024-02/3-layoff" >}})
 - `玩物志`月刊更名[`关我辟事`]({{< relref "/tags/关我辟事" >}})半月刊啦！
 - 告别开了 5 年半的[小白]({{< relref "/posts/2024-01/14-bye-s3" >}})买了新车[小霾]({{< relref "/posts/2024-01/15-spark-joy-digest-vol-10-2024-1b" >}}#小霾)
 - 游记连更：美西大环线 road trip（[鸟]({{< relref "/posts/2024-03/6-us-west-loop-road-trip-1" >}}) | [美景]({{< relref "/posts/2024-03/7-us-west-loop-road-trip-2" >}}) | [回家]({{< relref "/posts/2024-03/8-us-west-loop-road-trip-3" >}})）｜ [夏威夷大岛]({{< relref "/posts/2024-04/2-island-of-hawaii-2024" >}})
+- 五月底六月初去肯尼亚旅行半个月可能更新频率会降低
 
 ## 近期中意
 - 📚 [`Immune`](https://amzn.to/49IxrhQ) by Philipp Dettmer，[读书笔记]({{< relref "/posts/2024-04/7-book-immune" >}})
-- 📚 [`Entangled Life`](https://amzn.to/4bTZQU1) by Merlin Sheldrake，[读书笔记]({{< relref "/posts/2024-03/2-book-entangled-life" >}})
-- 🎬 [`热辣滚烫`](https://t.me/mtfront/3125?utm_source=blog)
-- 🎮 [`ROG Loki SFX-L 850W Platinum`](https://amzn.to/49fBZwj)
-- 🎮 [`The Last Spell`](https://neodb.social/game/5OpyAnV6YJxgsqGSWLmPkt)
-- 🧱 [`Lego Polaroid`](https://amzn.to/49t1zhh)
-- 🎲 [`爆炸猫`](https://amzn.to/47Bznar)
-- 🧘 [`Geologie Co-Wash`](https://amzn.to/3tM9O8Z)
+- 🎬 [`驯鹿宝贝`](https://neodb.social/tv/season/5qoyXYF9VuqB5BkN1k0YAW) on Netflix
+- 🎮 [`Hades II`](https://neodb.social/game/5Nl53nBUBbAiUPdR7EFW0h) Early Access
+- 🎒 [`Aer Go Pack 2`]({{< relref "/posts/2024-05/3-3-bag-collection" >}}) 焕发第二春
 
 ## 近期目标
 - 一些 [2024 的量化 flag]({{< relref "/posts/2023-12/10-2024-flags">}})
-- 🍄 mushroom foraging
-- 探寻新的本地社交形式（西雅图的博友欢迎参与！）
+- 系统重新学习一下前端知识
+- 提升柔韧性
 
 ## What's new
 - `2024-04-28` 重新整理了首页，添加了最新博文
