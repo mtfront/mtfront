@@ -31,3 +31,5 @@ imageDes: "MidJourney prompt: various of people going to a website from google -
 再往后面，就是各个平台散落的一些零散的信息了：她乡上的文章、豆瓣上的某条广播、少数派上不知道是什么的链接、一些其它网站对我的链接等等。
 
 我很惊讶的是我这个食物拼贴名字到排位第 16 才出现了第一个（跟我本人无关的）食物哈哈哈。
+
+（说到 Google 结果，比较好玩的是最近发现 Google “Aer 背包“之后官网下面就是[我的全家桶安利文]({{< relref "/posts/2023-09/4-aer-bag-collection" >}})，也不妄我自带干粮这么多年自封简中第一 Aer 安利博主了，没有 affiliate program 损失几个亿啊乁། * ❛ ͟ʖ ❛ * །ㄏ）
