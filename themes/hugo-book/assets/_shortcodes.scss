@@ -238,6 +238,10 @@
   }
 }
 
+.empty {
+  display: inline;
+}
+
 .wrap {
   float: right;
   max-width: calc(min(100%, 400px)) !important;
