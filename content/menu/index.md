@@ -2,6 +2,7 @@
 headless: true
 ---
 - [博客 | blog]({{< relref "/posts/" >}})
+- [订阅 | RSS]({{< relref "/">}}index.xml)
 - [近况 | now]({{< relref "/now" >}})
 - [关于 | about]({{< relref "/about" >}})
 - [简报 | newsletter]({{< relref "/tags/关我辟事/" >}})
