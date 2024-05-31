@@ -32,9 +32,10 @@ imageDes: "MidJourney prompt: clean up an apartment building with city skyline o
 虽然我是个不折不扣的消费主义博主，但也给生活做了些减法:
 
 - **`居住空间`** 从[住 single family house 到租公寓]({{< relref "/posts/2024-04/1-rent-or-own-apartment-or-house" >}})，生活真是清爽了太多。
+- **`炒股`** [20 多岁]({{< relref "/posts/2023-12/7-wish-i-knew-in-my-20s" >}})刚工作手里有了闲钱又不懂理财就会跟风，近些年稍微学了点[理财知识]({{< relref "/posts/2023-archive/2022-09-25-personal-finance-for-dummies-2-0" >}})之后基本都精简掉了。
 - **`手机笔记本换代`** 成为果黑之后我经历了一波几个月一换手机一年买两三台笔记本的时代。用上[三星]({{< relref "/posts/2023-archive/2021-03-19-best-smartphone-yet-samsung-galaxy-s21-ultra-review" >}}) 之后已经两年一换了，笔记本在用上 M1 mbp 之后也稳定使用三年了。
 - **`摄影设备`** 同样的，经历过玩单反、卡片机、微单、无反、烧镜头、无人机、买各类异型运动相机等年代，现在 99.9% 只用手机，相机的唯一用途是在家拿出来拍点测评图。
 - **`主机游戏`** 刚毕业工作有钱了之后疯狂购买全平台主机游戏和实体盘，之后幡然醒悟已经 [PC first]({{< relref "/posts/2023-archive/2021-04-14-back-to-pc-gaming" >}}) 三年多了，couldn't be happier。近两年来应该只买过 switch 独占的两三款游戏，到现在甚至想玩的游戏独占主机那我选择不玩。
 - **`拖后腿的身体部件`** 从“后悔了，后悔没早割“的[割以永治子宫切除]({{< relref "/posts/2023-12/8-hysterectomy-fighting-period-part-3" >}})，到刚好趁被裁拔了的智齿，过去一年真是集中给身体做减法了。
 - **`熬夜`** 从小是个夜猫子的我被西雅图的冬天教做人了，去年底开始把[作息时间往前调了两个小时]({{< relref "/posts/2024-01/8-how-night-owl-sleep-earlier" >}})。
-- **`有毒关系`** 快 4 年没和我爸妈说话了，不用每周比厌班还强烈的厌跟他们视频无比畅快，不理久了这些年也没有他们能把我刺激到像鸵鸟一样钻被子都不想看手机的夺命连环 cold call 和消息了。我虽然火气不小但至少近年来很少 lose temper，跟我妈的最后一次吵架整个人气到发抖嗓子吵哑无法控制情绪只想拿头撞墙还是记忆中唯一一次，I'm glad that I don't have to deal with all that bullshit anymore.
+- **`有毒关系`** [快 4 年没和我爸妈说话了]({{< relref "/posts/2023-archive/2020-06-26-my-mother-issue" >}})，不用每周比厌班还强烈的厌跟他们视频无比畅快，不理久了这些年也没有他们能把我刺激到像鸵鸟一样钻被子都不想看手机的夺命连环 cold call 和消息了。我虽然火气不小但至少近年来很少 lose temper，跟我妈的最后一次吵架整个人气到发抖嗓子吵哑无法控制情绪只想拿头撞墙还是记忆中唯一一次，I'm glad that I don't have to deal with all that bullshit anymore.

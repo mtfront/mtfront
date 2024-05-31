@@ -10,7 +10,7 @@ categories:
 tags:
   - wellness
 booktoc: true
-image: https://www.meisterdrucke.us/kunstwerke/1200w/Unbekannt_-_To_Versailles_an_Incident_in_the_French_Revolution_c1894_c1902_-_%28MeisterDrucke-752930%29.jpg
+image: https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/SHEF/MSH/SHEF_MSH_VIS_1610-001.jpg
 imageDes:  "To Versailles, an Incident in the French Revolution, by Valentine Cameron Prinsep"
 ---
 
