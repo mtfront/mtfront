@@ -34,7 +34,7 @@ imageDes: "MidJourney prompt: pixel art style person decorating their home --ar 
 - [「也说我的几个小坚持」]({{< relref "/posts/2024-04/6-little-things" >}}) - 喜欢的原因是，拉长了时间线，真的能看到自己成长了。以及，这篇虽然还是不短，但极力克服了写到又臭又长的欲望，精简了很多，竟然都能写成 bullet points 了！
 - [「告别小白」]({{< relref "/posts/2024-01/14-bye-s3" >}}) - 这半年除了被裁之外另一个最大的生活变化是换掉了开了快 6 年的爱车，这篇有点 sentimental，总结了下小白和我一起走过的旅程。
 - [「割以永治 part 3：切除子宫一周年 FAQ」]({{< relref "/posts/2023-12/8-hysterectomy-fighting-period-part-3" >}}) - 割以永治也过去一年多啦！为了改变我又臭又长的写作习惯，这回来了个自问自答 FAQ。但最喜欢的部分我问总是引用的 childfree 漫画画手要了授权，翻译成了中文放便扩散，也算是做公益了！
-- [「这么深入浅出的免疫学为什么不在课本里——读《Immune》」]({{< relref "/posts/2024-04/7-book-immune" >}})
+- [「这么深入浅出的免疫学为什么不在课本里——读《Immune》」]({{< relref "/posts/2024-04/7-book-immune" >}}) - 中译版的才 16 万字，我写了 1.6 万字的笔记，这书深入浅出太有意思了。
 - [「美西大环线 Road Trip - Part 2: 我看过了许多美景」]({{< relref "/posts/2024-03/7-us-west-loop-road-trip-2" >}}) - 纯粹是因为我上次病假和再上次裸辞期间就想开的大环线 road trip 终于给我开了！以及碰到太多意外美景了。
 
 ### 特定读者群
