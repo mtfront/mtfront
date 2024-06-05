@@ -69,6 +69,24 @@ imageDes: "MidJourney prompt: pixel art style person decorating their home --ar 
 </ul>
 ```
 
+```css
+/* css */
+.archive {
+  display: inline;
+  color: var(--gray-500);
+  font-size: 0.75em;
+}
+
+.tag {
+  display: inline;
+  padding: 0 $padding-4;
+  border-radius: 2px;
+  font-size: 0.75em;
+  background:var(--tag-color);
+  color: var(--gray-500);
+}
+```
+
 效果如下：
 {{< archive >}}
 

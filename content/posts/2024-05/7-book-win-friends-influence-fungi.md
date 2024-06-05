@@ -1,5 +1,5 @@
 ---
-title: "茶加奶和奶加茶一样吗？——读《How to win people and influence fungi》"
+title: "茶加奶和奶加茶一样吗？——读《How to win friends and influence fungi》"
 author: 椒盐豆豉
 type: post
 date: 2024-05-20T11:40:00-07:00
