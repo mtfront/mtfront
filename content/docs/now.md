@@ -4,8 +4,8 @@ type: docs
 bookToc: false
 BookComments: False
 ---
-{{< img "https://media.douchi.space/douchi/media_attachments/files/112/536/978/313/774/298/original/2b8934e5e1770a65.png" 600 >}} \
-*2024-05-31 giraffe crossing @肯尼亚 Maasai Mara*
+{{< img "https://media.douchi.space/douchi/media_attachments/files/112/553/890/005/512/061/original/b21c0939b95cbe58.jpg" 600 >}} \
+*2024-06-03 肯尼亚 Maasai Mara*
 
 ## 近况
 - [喜提中年人第一次被裁]({{< relref "/posts/2024-02/3-layoff" >}})
@@ -19,7 +19,7 @@ BookComments: False
 - 🎬 [`驯鹿宝贝`](https://neodb.social/tv/season/5qoyXYF9VuqB5BkN1k0YAW) on Netflix
 - 🎬 [`辐射`](https://neodb.social/tv/season/5FyXt7D9AV5ieWNoDj7OPV) on Amazon
 - 🎮 [`Hades II`](https://neodb.social/game/5Nl53nBUBbAiUPdR7EFW0h) Early Access
-- 🩴 [Teva Mush II](https://amzn.to/4e9RU1Z)
+- 🩴 [`Teva Mush II`](https://amzn.to/4e9RU1Z)
 
 ## 近期目标
 - 一些 [2024 的量化 flag]({{< relref "/posts/2023-12/10-2024-flags">}})
