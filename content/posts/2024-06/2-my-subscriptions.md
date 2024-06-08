@@ -91,7 +91,7 @@ imageDes: "Midjourney Prompt: a donkey chasing a carrot hooked on a fishing pole
 ### Spotify Preimum
 | 分类 | 月成本 | 评级| 
 | - | - | - |
-| 内容 | $0 | Nice to have/不再续订 |
+| 内容 | $0/$11.99 | Nice to have/不再续订 |
 
 中文歌相对多，推荐尚可，跟 Sonos 整合的也很好，挂在一个免费的车上就暂时留着了。如果要从头开始的话估计就直接用已有订阅的 YouTube premium 了。
 
@@ -117,7 +117,7 @@ imageDes: "Midjourney Prompt: a donkey chasing a carrot hooked on a fishing pole
 | - | - | - |
 | 内容 | $22.95| 季节性回本和订阅 |
 
-十几年的老 AMC 会员了，自从 movie pass 黄了之后订了一段时间 A-list，后来都是断断续续。比如去年电影市场乏善可陈，就没有订阅。今年想看的影片颇多，就重新订上了。每月看两部电影就回本了，而且也能一定程度上鼓励我多去影院，不过要是过了这个档期又没有什么想看的院线片再看情况。西雅图一个月看两部电影就能回本，市场不是太差的话还是挺容易的。
+十几年的老 AMC 会员了，自从 movie pass 黄了之后订了一段时间 A-list，后来都是断断续续。比如去年电影市场乏善可陈，就没有订阅。今年想看的影片颇多，就重新订上了。西雅图每月看两部电影就回本了市场不是太磕碜的话还是挺容易的，而且也能一定程度上鼓励我多去影院，不过要是过了这个档期又没有什么想看的院线片再看情况。
 
 ### Amazon Prime
 | 分类 | 月成本 | 评级| 
