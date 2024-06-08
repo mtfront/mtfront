@@ -18,7 +18,7 @@ imageDes: "Midjourney Prompt: a donkey chasing a carrot hooked on a fishing pole
 
 <!--more-->
 
-本文是我 [2024 年 6 月 Patreon 的月度选题](ttps://www.patreon.com/posts/103504990)。所有人均可在第一时间免费阅读我的 patreon 文章，每月我会提前发起投票提供二至四个下个月可能会写的博客题材，因为兴趣比较杂内容可能会涵盖职业、科技、消费、理财、健康、效率等不同的话题，[加入 patreon 可以跟其它赞助者一起选出下个月你想看的博客文章](https://www.patreon.com/posts/105780301)，并且支持本博客的持续创作。下期选题：
+本文是我 [2024 年 6 月 Patreon 的月度选题](https://www.patreon.com/posts/103504990)。所有人均可在第一时间免费阅读我的 patreon 文章，每月我会提前发起投票提供二至四个下个月可能会写的博客题材，因为兴趣比较杂内容可能会涵盖职业、科技、消费、理财、健康、效率等不同的话题，[加入 patreon 可以跟其它赞助者一起选出下个月你想看的博客文章](https://www.patreon.com/posts/105780301)，并且支持本博客的持续创作。下期选题：
 - 买车记
 - 断食记
 - 鞋柜记
