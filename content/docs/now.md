@@ -12,7 +12,7 @@ BookComments: False
 - `玩物志`月刊更名[`关我辟事`]({{< relref "/tags/关我辟事" >}})半月刊啦！
 - 告别开了 5 年半的[小白]({{< relref "/posts/2024-01/14-bye-s3" >}})买了新车[小霾]({{< relref "/posts/2024-01/15-spark-joy-digest-vol-10-2024-1b" >}}#小霾)
 - 游记连更：美西大环线 road trip（[鸟]({{< relref "/posts/2024-03/6-us-west-loop-road-trip-1" >}}) | [美景]({{< relref "/posts/2024-03/7-us-west-loop-road-trip-2" >}}) | [回家]({{< relref "/posts/2024-03/8-us-west-loop-road-trip-3" >}})）｜ [夏威夷大岛]({{< relref "/posts/2024-04/2-island-of-hawaii-2024" >}})
-- 五月底六月初去肯尼亚旅行半个月可能更新频率会降低
+- 开始准备找工作了！
 
 ## 近期中意
 - 📚 [`Immune`](https://amzn.to/49IxrhQ) by Philipp Dettmer，[读书笔记]({{< relref "/posts/2024-04/7-book-immune" >}})
@@ -25,6 +25,7 @@ BookComments: False
 - 一些 [2024 的量化 flag]({{< relref "/posts/2023-12/10-2024-flags">}})
 - 系统重新学习一下前端知识
 - 提升柔韧性
+- 找工作！
 
 ## What's new
 - `2024-04-28` 重新整理了首页，添加了最新博文
