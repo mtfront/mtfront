@@ -26,7 +26,7 @@ imageDes: "Midjourney Prompt: person chained to samsung phone cartoon style --ar
 有了上次手机坏到在 amazon 买手机结果被送货打电话验证陷入死锁修好了手机才接货退货的经验教训，这次的临时过渡机是女朋友帮我下单的。当时本来想买点别的，但美国的旗舰手机市场真是乏善可陈，想当年我现在的网络身份还是靠在知乎上写手机测评起家的，现在竟然挑不出一个能用的：
 - 我是 Pixel 半生黑，用过好评如潮的两代都 bug 奇多功能也乏善可陈，最新这代的设计也理解不能，完全没有购买动力。
 - Zenphone 小屏旗舰动心过，但它今年也 ultra 了，要 ultra 我为什么不去买相机更好的三星……
-- [Z Flip]({{< relref "/posts/2023-archive/2021-09-18-galaxy-z-flip-3-review" >}}) 用过一代，虽然很想喜欢但目前的科技水平折叠屏还是 form over function，用起来诸多不便，单为了便携不值得。
+- [Z Flip]({{< relref "/posts/2023-archive/2021-09-18-galaxy-z-flip-3-review" >}}) 用过一段时间，虽然很想喜欢但目前的科技水平折叠屏还是 form over function，用起来诸多不便，单为了便携不值得。
 - Nothing phone 在我看来是一个巨大的 gimmick 情怀税，更何况它的情怀还和我完全对不上电波。
 - 无法理解索尼在手机市场上的思路……
 - LG 当年认真考虑过，当年第一个上了广角而不是长焦，推荐给朋友也很喜欢，可惜后来凉了……RIP
