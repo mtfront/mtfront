@@ -114,7 +114,7 @@ tags:
 
 
 
-{{< details "Migrated Comments" open >}}
+{{< details "Migrated Comments" >}}
 
 ### Comment by S̆̈ on 2022-11-11 06:36:32 -0800
 能理解不想生育女性的心情。毕竟自己不希望有自己后代是自己的自由。毕竟生育生养和交流也确实比较麻烦痛苦以及不适合所有人。  
