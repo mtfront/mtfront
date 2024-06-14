@@ -37,7 +37,7 @@ bookToc: false
 
 在 `render-link.html` 添加如下代码：
 
-```
+```Go
 {{- $isRemote := or (in .Destination ":") (strings.HasPrefix .Destination "//") }}
 {{- $isPost := eq .Page.Params.Type "post"}}
 {{- if .Page.Site.Params.BookPortableLinks -}}  // 原有
@@ -51,12 +51,11 @@ bookToc: false
 
 ## 修改标签云样式
 我之前的标签云是模版默认的列表形式，占地面积大不说，还因为有过多标签造成滑动条套滑动条的状况，觉得有点丑就趁这次顺便改掉了。hugo 取标签的变量是 `Site.Taxonomies`，因此直接搜这个关键词，在 code 里找到我的模版里 render 标签和 category 的 html。它本来用的是一个 `<ul>`显示全部 list，我不想改 list style 就直接把 list 去掉了，每个元素用了如下代码显示：
-```
+```html
 <a class="tag-cloud" href="{{ .RelPermalink }}" target="_blank">{{ .Title }} [{{ len .Pages }}]</a>
 ```
 其中用了本站通用的 button 样式在主题的 css 里稍作修改：
-```
-
+```css
 .tag-cloud {
   display: inline-block;
   font-size: $font-size-12;
