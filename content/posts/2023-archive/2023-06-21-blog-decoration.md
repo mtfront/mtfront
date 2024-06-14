@@ -22,7 +22,7 @@ bookToc: false
 基本上是[象友装修笔记](https://thirdshire.com/post/hugo-stack-renovation/)里的提到的代码，不过我没有增加全站字数而是只在单篇文章里添加了每篇文章的字数和阅读时间。
 
 因为想要进行一些样式控制，所以没在`post-meta.html`而是在我的主题的基础 html 里添加如下代码。一些本站才有的样式就不提了。因为我加在基础 html 而不是 post-meta 里，因此需要只显示在 post 里而不是任意页面需要添加类型 check。阅读速度是随便搜的中文阅读速度。
-```
+```Go
 {{ if eq .Type "post"}}
   本文总计 {{ div .WordCount 1000.0 | lang.FormatNumber 2}}k 字, 阅读约需要 {{ div .WordCount 400}} 分钟
 {{ end }}
