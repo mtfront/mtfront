@@ -52,7 +52,7 @@ imageDes: "MidJourney prompt: pixel art style person decorating their home --ar 
 
 又觉得光放文章列表有点单调，想提取前三个 tag 给定固定的随机颜色放在文章名后。Hugo 模版里提供了 md5 函数，hash 了之后取前 6 位作为颜色的 hex code，再调整一下透明度，就大功告成了。
 
-```html
+```Go
 <ul>
   {{ range (first 25 (where .Site.RegularPages "Type" "post")) }}
     <li>
@@ -152,7 +152,7 @@ Hugo 自带了通过分类和 tag 选取相关文章的功能，直接引用 `.S
 
 之前还只有全屏图片和等距 column 镶嵌图片两种图片格式，很多时候不想让图片占全屏或者没有文字来凑等距，不方便排版。于是添加了一个让文字包裹在图片周围的 shortcode。
 
-```html
+```Go
 <div class="wrap {{if .Get 2}}wrap-left{{end}}">
   <img src="{{.Get 0}}">
   {{ if and (.Get 1) (gt (len (.Get 1)) 0) }}
