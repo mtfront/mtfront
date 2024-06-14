@@ -27,7 +27,9 @@ BookComments: False
 - 提升柔韧性
 - 找工作！
 
-## What's new
+## Changelog
+- `2024-06-13` syntax highlighter 主题改成了 `paraiso-light`
+- `2024-05-31` 静态站一周年，[博客装修小记之三]({{< relref "/posts/2024-05/8-blog-decoration-3" >}})
 - `2024-04-28` 重新整理了首页，添加了最新博文
 - `2024-01-17` 添加了 neodb 卡片，更新了一篇[装修小记]({{< relref "/posts/2024-01/11-blog-decoration-2" >}})
 - `2024-01-15` 热力图更新了每天多篇文章显示

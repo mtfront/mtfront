@@ -7,6 +7,11 @@ hasCJKLanguage = true
 googleAnalytics = "G-0R5FWRP8MH"
 disqusShortname = "mtfront"
 
+
+[markup]
+    [markup.highlight]
+        style = 'paraiso-light'     # style demos https://pygments.org/demo/
+
 [params]
     BookRepo = 'https://github.com/mtfront/mtfront'
     BookLogo = 'dino.gif'

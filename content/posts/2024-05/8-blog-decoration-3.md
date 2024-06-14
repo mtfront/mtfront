@@ -105,7 +105,7 @@ imageDes: "MidJourney prompt: pixel art style person decorating their home --ar 
 ### 相关文章
 Hugo 自带了通过分类和 tag 选取相关文章的功能，直接引用 `.Site.RegularPages.Related`，取前 5 篇，放到一个 list 里。缺点是这个计算方式只会给出引用当篇文章之前发布的文章，之后发布的即便更相关也不会向前更新了。先凑合着用吧。
 
-```html
+```Go
 {{ $related := .Site.RegularPages.Related . | first 5 }}
 {{ with $related }}
 <h2>相关阅读</h2>
