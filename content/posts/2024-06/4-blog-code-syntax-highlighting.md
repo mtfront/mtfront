@@ -42,9 +42,9 @@ imageDes: "MidJourney prompt: syntax highlighter --ar 16:9 "
 ![](https://github.com/altercation/solarized/raw/master/img/solarized-vim.png)
 {{< /columns >}}
 
-本来想把博客继续换成 `solarized-light`，但它是暖色系的，跟我博客的绿色主题有轻微地不搭，于是想看看有什么其它 style。帮助甚微的 hugo [Syntax highlighting](https://gohugo.io/content-management/syntax-highlighting/)文档里对不想要自己从头开始写配色只想选模版的人唯一的有用信息是提到 Hugo 用的是 [`Chroma`](https://github.com/alecthomas/chroma)做 syntax highligter。
+本来想把博客继续换成 `solarized-light`，但它是暖色系的，跟我博客的绿色主题有轻微的不搭，于是想看看有什么其它 style。帮助甚微的 hugo [Syntax highlighting](https://gohugo.io/content-management/syntax-highlighting/) 文档里对不想要自己从头开始写配色只想选模版的人唯一的有用信息是提到 Hugo 用的是 [`Chroma`](https://github.com/alecthomas/chroma)做 syntax highligter。
 
-搜 syntax highlighter styles 之类的关键词找到了 [`pygments` demo](https://pygments.org/demo/) 可以试不同的语言，也就有了支持的 style list。后来回到 `Chroma` 的文档发现官方也提供了 [Chroma Playground](https://swapoff.org/chroma/playground/) 可以用来测试。
+搜 syntax highlighter styles 之类的关键词找到了 [`pygments`](https://pygments.org/demo/) 可以试不同的语言，也就有了大致支持的 style list（Chroma heavily based on pygments）。后来回到 `Chroma` 的文档发现官方也提供了 [Chroma Playground](https://swapoff.org/chroma/playground/) 可以用来测试。
 
 我把这些在线工具里的浅色配色挨个试过去，最后选了 `paraiso-light`。回到自己博客的 `config.toml` 里，将 style 替换即可：
 
@@ -75,6 +75,8 @@ code {
   background: var(--paraiso-light);
 }
 ```
+其实我还有点犹豫要不要把这里的颜色留默认的灰色，绿色的话可能有点 messy 也可能会被误会是链接。读者们有建议的话欢迎留言。
+
 ## 未指定语言的代码块
 
 我特地没有修改模版里没有指定语言使用 syntax highlighter fenced code blocks 的背景色，保留了原来的灰色，想说可以做其它用途：
