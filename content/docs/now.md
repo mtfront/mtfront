@@ -26,9 +26,10 @@ BookComments: False
 - 系统重新学习一下前端知识
 - 提升柔韧性
 - 找工作！
+- 待更游记：肯尼亚探索新大陆、Oregon 海岸线 road trip
 
 ## Changelog
-- `2024-06-13` syntax highlighter 主题改成了 `paraiso-light`
+- `2024-06-13` [syntax highlighter 主题]({{< relref "/posts/2024-06/4-blog-code-syntax-highlighting" >}}) 改成了 `paraiso-light`
 - `2024-05-31` 静态站一周年，[博客装修小记之三]({{< relref "/posts/2024-05/8-blog-decoration-3" >}})
 - `2024-04-28` 重新整理了首页，添加了最新博文
 - `2024-01-17` 添加了 neodb 卡片，更新了一篇[装修小记]({{< relref "/posts/2024-01/11-blog-decoration-2" >}})

@@ -52,7 +52,7 @@ imageDes: "MidJourney prompt: pixel art style person decorating their home --ar 
 
 又觉得光放文章列表有点单调，想提取前三个 tag 给定固定的随机颜色放在文章名后。Hugo 模版里提供了 md5 函数，hash 了之后取前 6 位作为颜色的 hex code，再调整一下透明度，就大功告成了。
 
-```Go
+```Go-HTML-Template
 <ul>
   {{ range (first 25 (where .Site.RegularPages "Type" "post")) }}
     <li>
@@ -93,7 +93,7 @@ imageDes: "MidJourney prompt: pixel art style person decorating their home --ar 
 ### 博客统计
 重整首页之后把热力图从[近况]({{< relref "/now" >}})挪到了首页，就顺手又加了个博客统计 shortcode：
 
-```Go
+```Go-HTML-Template
 {{$scratch := newScratch}}
 {{ range (where .Site.Pages "Kind" "page" )}}
     {{$scratch.Add "total" .WordCount}}
@@ -105,7 +105,7 @@ imageDes: "MidJourney prompt: pixel art style person decorating their home --ar 
 ### 相关文章
 Hugo 自带了通过分类和 tag 选取相关文章的功能，直接引用 `.Site.RegularPages.Related`，取前 5 篇，放到一个 list 里。缺点是这个计算方式只会给出引用当篇文章之前发布的文章，之后发布的即便更相关也不会向前更新了。先凑合着用吧。
 
-```Go
+```Go-HTML-Template
 {{ $related := .Site.RegularPages.Related . | first 5 }}
 {{ with $related }}
 <h2>相关阅读</h2>
@@ -152,7 +152,7 @@ Hugo 自带了通过分类和 tag 选取相关文章的功能，直接引用 `.S
 
 之前还只有全屏图片和等距 column 镶嵌图片两种图片格式，很多时候不想让图片占全屏或者没有文字来凑等距，不方便排版。于是添加了一个让文字包裹在图片周围的 shortcode。
 
-```Go
+```Go-HTML-Template
 <div class="wrap {{if .Get 2}}wrap-left{{end}}">
   <img src="{{.Get 0}}">
   {{ if and (.Get 1) (gt (len (.Get 1)) 0) }}
@@ -186,7 +186,7 @@ Hugo 自带了通过分类和 tag 选取相关文章的功能，直接引用 `.S
 ### NeoDB 卡片手动修改个人评分
 之前按照博友[教程](https://www.sleepymoon.cyou/2023/hugo-shortcodes/#%E5%BC%95%E7%94%A8neodb%E6%9D%A1%E7%9B%AE)添加了 neodb 卡片，但有个问题是 neodb 使用人数较少，很多条目的评分完全不能反应作品的水平或个人偏好，有时候作品简介也会缺失。因此在短代码里加了两个 field 来手动 override 评分和简介（没有选择直接从 neodb API 获取因为懒得看 API）：
 
-```Go
+```Go-HTML-Template
 <div class="db-card-title">
   <a href="{{ $dbUrl }}" class="cute" target="_blank" rel="noreferrer">「{{ $dbFetch.title }}」</a>  
 </div>

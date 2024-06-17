@@ -47,7 +47,7 @@ bookToc: false
 
 Shortcode 版 script 完全一样，显示部分加了两个参数方便在文章里 customize，第一个参数控制要现实什么文字，第二个参数控制是链接形式还是按钮形式。
 
-```go
+```Go-HTML-Template
 // themes/{我的主题}/layouts/shortcodes/random.html
 {{- if eq (index .Params 1) "button"}}
   <a onclick='goToRandomPost()' class="book-btn">{{ index .Params 0}}</a>

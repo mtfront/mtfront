@@ -70,17 +70,17 @@ function getRangeArr() {
 hugo 会在 parse html 的时候直接把它的 Go 代码数据填充进去。不过我当时直接复制教程代码做成短代码发现会造成无限循环。后来 debug 发现这应该是因为短代码放到文章里本身会影响字数统计。因此如果不是做成 partial 插在模版里，而是做成 shortcode 插入文章的话，需要加一些条件排除这种互相调用的可能。
 
 根据你决定把热力图放哪，解决方法也不止这一种。本质是排除掉 `{{ .WordCount }},`在文本内容中的循环调用。因为我的热力图是打算放在 doc 而不是 post 里的，因此循环的时候只抽取 post 类型的文档，然后把短代码放入 doc 类型里:
-```Go
+```Go-HTML-Template
 {{ range ((where .Site.RegularPages "Type" "post")) }}
 ```
 
 为了简洁，我把字数单位换成了千字：
-```Go
+```Go-HTML-Template
 {{ div .WordCount 1000.0 | lang.FormatNumber 1 }}
 ```
 
 除了字数之外，我还抽取了文章的标题和链接，方便稍后取用：
-```Go
+```Go-HTML-Template
 {{ .RelPermalink}}  // link
 {{ .Title }}  // title
 ```

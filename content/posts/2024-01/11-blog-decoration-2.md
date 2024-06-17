@@ -75,7 +75,7 @@ imageDes: "MidJourney prompt: person decorating home, game isometric pixel art s
   <hr />
 ```
 还加了根据文章分类（我有个单独的英文 category）改变导航条语言的逻辑，虽然整个博客其它部分都是中文的吧好像也没啥用。
-```go
+```Go-HTML-Template
 {{ if (in .Params.categories "English" )}} ... {{ else }} ...{{end}}
 ```
 
@@ -115,7 +115,7 @@ imageDes: "MidJourney prompt: person decorating home, game isometric pixel art s
 
 ### localhost 排除在 Google Analytics 之外
 喜欢看 analytics 的我经常会被自己在 local 编辑的数据污染真实数据烦到，于是在我的模版里排除了本地的数据。我的模版里 Google analytics 在 `themes/hugo-book/layouts/partials/docs/html-head.html`，其它模版不一定在这里，但是 `_internal/google_analytics.html`看样子是 Hugo 自带的模版，搜一下应该很容易找到在自己模版的位置。
-```go
+```Go-HTML-Template
 {{ if eq (getenv "HUGO_ENV") "production" }}
   {{- template "_internal/google_analytics.html" . -}}
 {{ end }}
@@ -123,7 +123,7 @@ imageDes: "MidJourney prompt: person decorating home, game isometric pixel art s
 
 ### 博客题图说明
 之前提到最近[用 AI 给博客生成题图]({{< relref "/posts/2024-01/10-spark-joy-digest-vol-9-2024-1a" >}})，除了要添加 prompt 之外有时候也会有自己的照片，需要提供一些 context。我的模版只提供了`image`参数添加题图，于是我自己加了个`imageDes`加行小字给自己自定义说明用。当然也可以用作是副标题。
-```go
+```Go-HTML-Template
 {{ if .Params.imageDes }}
   <p style="font-size:small">
     <i>{{ $.Params.imageDes }}</i>
