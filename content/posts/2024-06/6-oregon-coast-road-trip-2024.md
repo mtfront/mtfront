@@ -15,16 +15,16 @@ image: https://media.douchi.space/douchi/media_attachments/files/112/681/745/470
 imageDes: "Yaquina Head Outstanding Natural Area @ Oregon"
 ---
 
-去年五月底趁着 Juneteenth 放假去了趟 [Oregon road trip 惊喜颇多]({{< relref "/posts/2023-archive/2023-07-02-2023-summer-road-trip" >}})，不过上次只有三天还要最南开到其实已经离加州更近的 `crater lake` 火山湖国家公园，时间有点赶，就没去海边一众景点。这次女朋友的朋友来访西雅图说想看海，于是安排了个海岸线 road trip。Oregon 真是一个充满惊喜 underrated 的地方，本 P 人每次拎车入住没有任何预期去完全没听说过的景点都会被惊喜到。不知道是不是离人口中心（北边西雅图南边湾区、LA）都太原来所以才如此 underrated。
+去年五月底趁着 Juneteenth 放假去了趟 [Oregon road trip 惊喜颇多]({{< relref "/posts/2023-archive/2023-07-02-2023-summer-road-trip" >}})，不过上次只有三天还要最南开到其实已经离加州更近的 `crater lake` 火山湖国家公园，时间有点赶，就没去海边一众景点。这次女朋友的朋友来访西雅图说想看海，于是安排了个海岸线 road trip。Oregon 真是一个充满惊喜 underrated 的地方，本 P 人每次拎车入住没有任何预期去完全没听说过的景点都会被惊喜到。不知道是不是离人口中心（北边西雅图南边湾区、LA）都太远所以才如此 underrated。
 
 <!--more-->
 
-这次 6/14 的周末去，彼时刚从肯尼亚回来倒了四五天时差还是很困，基本上开到住处就直接睡了，不像以前能当天整理游记。不过趁着还是六月，赶紧一鼓作气更新了。（至于大部头肯尼亚游记就不知道要拖到什么时候了毕竟现在有了主业找工作……）
+这次 6/14 的周末去，彼时刚从肯尼亚回来倒了四五天时差还是很困，基本上开到住处就直接睡了，不像以前能当天整理游记。不过趁着还是六月，赶紧一鼓作气更新了。
 
 ## 路线
 {{< wrap "https://media.douchi.space/douchi/media_attachments/files/112/701/368/705/515/197/original/d1921933a8615983.png" >}}
 
-上次 [Oregon road trip]({{< relref "/posts/2023-archive/2023-07-02-2023-summer-road-trip" >}}) 绕了内路大圈，总计三天开了 22 小时接近 1000 miles 还是有点累。这次按照总时间差不多 15 小时车程，最南开至 `Thor's well`，在海岸线上的小镇 Cannon Beach 和 Newport 各住一天，车程分布得比较平均，开下来也没有特别累。
+上次 [Oregon road trip]({{< relref "/posts/2023-archive/2023-07-02-2023-summer-road-trip" >}}) 绕了内路大圈，总计 3 天开了 22 小时接近 1000 miles 还是有点累。这次按照总时间差不多 15 小时车程，最南开至 `Thor's well`，在海岸线上的小镇 Cannon Beach 和 Newport 各住一天，车程分布得比较平均，开下来也没有特别累。
 
 ## Day 1
 从西雅图出发，第一天的目的地是 Cannon Beach。其实走 I5 一路南下，过了 Columbia River 再走 40 号公路向西也可。但 I5 开了无数遍甚是无聊，在 Olympia 处就下来换到 101 接 8 号公路也差不多时间，遂改走这条。如果想走这个路线可以在 google maps 上 drop 一个途径 south bend 的点。
@@ -42,7 +42,7 @@ imageDes: "Yaquina Head Outstanding Natural Area @ Oregon"
 ### Seaside
 下一站来到海滨小镇 Seaside 吃饭歇脚。小镇就是典型的西海岸海滨小镇感觉，有两条河穿过，开车过桥的时候甚至有了点江南水乡（？）的感觉。正好到饭点，随便搜了家还开门的 `Nonni's Italian Bistro` 吃饭。图里的西红柿 cheese starter 不错，酱好吃 cheese 也很特别我这个不爱吃 cheese 的人都挺爱吃。但它家的意面有点太齁了，我们三个人都被齁住了……
 
-![Nonni's Italian Bistro](https://media.douchi.space/douchi/media_attachments/files/112/701/330/955/130/581/original/7c6ed3fd4cec3b2f.png)
+![](https://media.douchi.space/douchi/media_attachments/files/112/701/330/955/130/581/original/7c6ed3fd4cec3b2f.png)
 
 ### Cannon Beach
 赶落日前我们赶到了本次旅行的首个大景点 Cannon Beach。到之前才被科普曾被评选为国家地理“世界上 100 个最美的地点”，心想说我怎么没听过该不是 clickbait 吧，到了发现真的很好看！从小镇的楼梯小径下去突然看见巨大的 `Haystack Rock` 有种管中窥豹 in a good way 被巨物震撼到的感觉。
@@ -71,7 +71,9 @@ Cannon Beach 这个小镇也是十分不错，住的 Airbnb 里竟然客厅就�
 ![](https://media.douchi.space/douchi/media_attachments/files/112/701/338/310/441/805/original/b21bc6b0552dff88.png)
 
 {{< wrap "https://media.douchi.space/douchi/media_attachments/files/112/701/378/682/376/254/original/037c267e73c5dee3.png" >}}
-这个 park 在 cannon beach 向北小开十分钟的地方，本来第一天去比较顺路，不过当时天色已晚要赶夕阳就没去，第二天吃完早饭返回来。这个 park 除了一些 trail 之外主要也是看昨天在 cannon beach 看的 `Haystack Rock` 的另一个角度。Overlook 上看过去烟雨朦胧的十分好看，值得一去。
+这个 state park 在 cannon beach 向北小开十分钟的地方，本来第一天去比较顺路，不过当时天色已晚要赶夕阳就没去，第二天吃完早饭返回来，单程也就多十几分钟。
+
+除了一些 trail 之外主要也是看昨天在 cannon beach 看的 `Haystack Rock` 的另一个角度。Overlook 上看过去烟雨朦胧的十分好看，值得一去。
 
 我们去的时候还能看到点蓝天，没想到下车往 overlook 上走就被倾盆大雨淋着跑。之前都没想到都六月了还有这么多雨，西雅图怕是住了个假的 PNW。旁边一条小径上还立着个“absolutely no entry”的牌子预警山体滑坡，不知道之前有多少头铁的达尔文奖竞争者过去被困才换了这个么语气强烈的牌子。
 
@@ -84,7 +86,7 @@ Haystack 那条路反方向有一条很短的小 trail 可以走到另一端看�
 ![](https://media.douchi.space/douchi/media_attachments/files/112/701/380/826/521/131/original/df48ecc942143b72.png)
 
 ### Cape Kiwanda Sand Dune
-继续一路一会儿雨一会儿晴开着山路来到下一个城市 Pacific City，需注意导航点 `Cape Kiwanda Sand Dune` 是错的，会走进一个竖着“your GPS is wrong”的死胡同🤣其实再往前开开导导 Pacific City Beach 有大停车场了。之前似乎是收费的但现在免费了，车位很多。旁边还有很多餐厅，可以去蹭 `Pelican Brewing` 的厕所，gender neutral 的有好多隔间十分干净，比停车场的 honey bucket 条件自然是好很多。
+继续一路一会儿雨一会儿晴开着山路来到下一个城市 Pacific City，需注意导航点 `Cape Kiwanda Sand Dune` 是错的，会走进一个竖着“your GPS is wrong”的死胡同🤣其实再往前开开导到 Pacific City Beach 有大停车场了，之前似乎是收费的但现在免费了，车位很多。旁边还有很多餐厅，可以去蹭 `Pelican Brewing` 的厕所，gender neutral 的有好多隔间十分干净，比停车场的 honey bucket 条件自然是好很多。
 
 酒足饭饱下到沙滩上往右走就能看到大沙丘了，有很多人在爬和滑超陡的大沙丘。左边有条较为平缓的路是可以顺着沙丘上到 lookout 的，小 hike 一段之后可以看到风景不错沙丘与海交汇的奇特地貌。
 
@@ -96,12 +98,12 @@ Haystack 那条路反方向有一条很短的小 trail 可以走到另一端看�
 
 ![](https://media.douchi.space/douchi/media_attachments/files/112/681/745/470/913/088/original/98ddd4f18e7538b7.jpg)
 
-礁石上还有好多水鸟，我们看了半天说难道是企鹅吗企鹅不能上这么高的石头吧，后来 E 人朋友问了旁边观鸟大爷得知是原来是 Common murre 崖海鸦。还有一只很配合的 Bald Eagle 入镜，这两年它们的数量真是恢复得不错挺常见了。
+礁石上还有好多水鸟，尤其是大片片的黑白色鸟蔚为壮观。我们看了半天说难道是企鹅吗企鹅不能上这么高的石头吧，后来 E 人朋友问了旁边观鸟大爷得知是原来是 Common murre 崖海鸦。还有一只很配合的 Bald Eagle 入镜，这两年它们的数量真是恢复得不错挺常见了。
 
 ![](https://media.douchi.space/douchi/media_attachments/files/112/681/745/533/907/542/original/f692cebd6003375e.jpg)
 ![](https://media.douchi.space/douchi/media_attachments/files/112/681/745/534/118/224/original/d0d30cbecd020246.jpg)
 
-悬崖下面还有 tide pool，能去摸鱼（？）那种，超多海洋生物比水族馆摸鱼池好多了。还有 ranger 给大家讲注意事项和科普。绿海葵手感超级奇妙，看上去不像动物但确实是动物，tide pool 里长得到处都是。海胆少一些但也不难找，但我们看到的时候又能好怎了（当然是不能带走的！）。各种贝壳超级多你以为都是小石头结果全是各类 clam，这个景点不是特别适合密恐…
+悬崖下面还有 tide pool，能去摸鱼（？）那种，超多海洋生物比水族馆摸鱼池好多了。还有 ranger 给大家讲摸鱼的注意事项和科普。绿海葵手感超级奇妙，看上去不像动物但确实是动物，tide pool 里长得到处都是。海胆少一些但也不难找，但我们看到的时候又能好怎了（当然是不能带走的！）。各种贝壳超级多你以为都是小石头结果全是各类 clam，这个景点不是特别适合密恐…
 
 {{< columns >}}
 ![绿海葵](https://media.douchi.space/douchi/media_attachments/files/112/681/793/436/307/984/original/3557c0779b8c25dd.jpg)
