@@ -8,6 +8,7 @@ categories:
   - 喜欢就买
 tags:
   - patreon
+  - tech
 bookToc: true
 bookComments: true
 image: "https://media.douchi.space/douchi/media_attachments/files/112/580/622/817/725/038/original/a4f4a45192adc203.png"
