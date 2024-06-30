@@ -116,7 +116,7 @@ J 人女朋友和她的 J 人朋友一手安排的，我从非洲回来休息了
 ![](https://media.douchi.space/douchi/media_attachments/files/112/707/915/064/136/615/original/3982194adf1f2b89.jpg)
 
 ## 书
-### [Bitch: ON the Female of the Species](https://amzn.to/45KCEEY)
+### [Bitch: On the Female of the Species](https://amzn.to/45KCEEY)
 {{< neodb "https://neodb.social/book/5p5iihlS9jdqz3VNmHO0od" >}}
 这个月大多数时间在旅行，没怎么读书。不过本市图书馆被攻击了，无法借书还书，刚好这本就放在我手里了可以慢慢读。本书种草很久了，是关于雌性动物的一本科普，目前读了 1/5 已经学到很多令人耳目一新的知识了（[比如](https://t.me/mtfront/3320)）。我还蛮喜欢读动物科普的，时不时能反思一下人类中心主义，上一本印象非常深刻的是 [`An Immense World`](https://amzn.to/3xFbiUa)。
 
