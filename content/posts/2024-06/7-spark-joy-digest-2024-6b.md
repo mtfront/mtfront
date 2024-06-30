@@ -113,6 +113,7 @@ J 人女朋友和她的 J 人朋友一手安排的，我从非洲回来休息了
 
 ### 在一起 500 天了
 500 天纪念日和富婆风风火火出门吃了顿好吃的，还去逛了个街买了一堆乐高，晚上回家贴贴聊聊天。不知不觉竟然已经过去 500 天这么久了！
+![](https://media.douchi.space/douchi/media_attachments/files/112/707/915/064/136/615/original/3982194adf1f2b89.jpg)
 
 ## 书
 ### [Bitch: ON the Female of the Species](https://amzn.to/45KCEEY)
