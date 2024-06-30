@@ -15,7 +15,7 @@ image: https://media.douchi.space/douchi/media_attachments/files/112/681/745/470
 imageDes: "Yaquina Head Outstanding Natural Area @ Oregon"
 ---
 
-去年五月底趁着 Juneteenth 放假去了趟 [Oregon road trip 惊喜颇多]({{< relref "/posts/2023-archive/2023-07-02-2023-summer-road-trip" >}})，不过上次只有三天还要最南开到其实已经离加州更近的 `crater lake` 火山湖国家公园，时间有点赶，就没去海边一众景点。这次女朋友的朋友来访西雅图说想看海，于是安排了个海岸线 road trip。Oregon 真是一个充满惊喜 underrated 的地方，本 P 人每次拎车入住没有任何预期去完全没听说过的景点都会被惊喜到。不知道是不是离人口中心（北边西雅图南边湾区、LA）都太远所以才如此 underrated。
+去年五月底趁着 Juneteenth 放假去了趟 [Oregon road trip 惊喜颇多]({{< relref "/posts/2023-archive/2023-07-02-2023-summer-road-trip" >}})，不过上次只有三天还要最南开到其实已经离加州更近的 `crater lake` 火山湖国家公园，时间有点赶，就没去海边一众景点。这次女朋友的朋友来访西雅图说想看海，于是安排了个海岸线 road trip。Oregon 真是一个充满惊喜 underrated 的地方，J 人女朋友安排好了一切，本 P 人每次拎车入住没有任何预期去完全没听说过的景点都会被惊喜到。不知道是不是离人口中心（北边西雅图南边湾区、LA）都太远所以才如此 underrated。
 
 <!--more-->
 
