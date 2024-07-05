@@ -29,6 +29,11 @@ GPT：DEXA（Dual-Energy X-ray Absorptiometry，双能X线吸收测定）扫描�
 
 感觉 BodySpec 小生意做得不错，一年前只能下载一个看起来很医学的 pdf 要自己去查比例什么的，现在做了个 user friendly 的 online report builder 可以跟自己和自己 age group 的人的 scan 做参考。Age group 不是卡整数的，目测是跟比我上下 5 岁总共 10 年的人比较的，也可以自己 customize。本来就是自己写个嘟而已写完了觉得说都说了就顺手 refer 一个好了，用我的 [refer 码可以减 $10 刀](https://www.bodyspec.com/r/F8XPXY)。
 
+它还给了一些 key takeaways，比去年的干报告也好读多了，比如：
+- 强项：lean mass 增加了，body fat 在人群中是偏低的并且在下降
+- 可以改善的地方：lean mass、visceral fat 和骨密度还有改善空间
+- 可以做的事情：继续增肌（每周最少两次重训、每天每磅体重摄入 1g 蛋白质）等，减少 visceral fact（少吃 processed food，增加锻炼，改善睡眠等）
+
 ## 一年来的身体变化
 - 体脂下降了 3.3%（！）在人群中的前 1/3 了。
 - lean mass 涨了 6 磅（！wow 所以一年佛系增了 6 磅肌肉还不错诶，脂肪掉了 3 磅），但跟体积的比例还是在 bottom 1/6 里。
