@@ -55,3 +55,6 @@ imageDes: "MidJourney prompt: type writter cartoon style --ar 16:9"
 again 个人偏好，写到这儿程度已经非常轻微了。
 
 其实 readability 好的深色模版也罢，无奈自己瞎配色毫无 readability 的深色模版确实也见过一些。
+
+## 文章没有定制链接
+流行博客软件很多对中文 URL 生成没有特殊支持，如果文章名是中文又不指定 slug/url 的话虽然给出的 URL 是中文，但在很多地方分享时会变成一串很长的编码，如果分享平台没有 link parsing 的话体验不佳。还有的是生成 numerfic post id，比编码强但不能一眼看出 post 的内容，日后要自定义链接也容易失效/需要迁移。在这里夹带私货呼吁大家发文/分享时自定义一下文章 slug/url，跟主题相关。
