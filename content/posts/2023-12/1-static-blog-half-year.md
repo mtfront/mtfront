@@ -10,6 +10,7 @@ categories:
 tags:
   - blog
   - hugo
+  - 复盘
 booktoc: true
 image: https://media.douchi.space/douchi/media_attachments/files/111/509/945/675/233/390/original/e0afeee188dea4cf.png
 imageDes: "image by MidJourney, prompt: a gender netural person sitting at a desk using laptop, with some books and legos in shelf in background, sunshine through window --niji 5 --style scenic --ar 3:2"
