@@ -3,7 +3,7 @@ title: 独立博客上我不喜欢的“功能”
 author: 椒盐豆豉
 type: post
 date: 2024-07-08T11:58:00-07:00
-url: /things-i-hate-on-blogs/
+url: /things-i-hate-in-blogs/
 categories:
   - 重启电脑
 tags:
