@@ -17,7 +17,7 @@ imageDes: "MidJourney prompt: type writter cartoon style --ar 16:9"
 
 前阵子看到一篇很棒的文章[「Microfeatures I Love in Blogs and Personal Websites」](https://danilafe.com/blog/blog_microfeatures/?utm_source=blog.douchi.space)，介绍了作者喜欢的一些独立博客和个人网站小功能，如脚注、可跳转目录、页面进度、可链接小标题、相关/系列文章、对话、有原地址的代码块、有链接的代码块、外链标识、外链不同标识、链接预览、RSS、外链（基本相当于友链）等等。虽然不是全都喜欢和适用，不过确实提醒了我 appreciate 一下平时在其它站点见到但 take for granted 的这些贴心小功能。
 
-好用的功能容易被忽视，但难用的“feature”却是非常扎眼，很多时候都差点因为一些蹩脚功能取关博客。于是突发奇想来 brain dump 一下我不喜欢的独立博客功能。当然，这些好恶非常个人，完全没有说教这些功能“对不对“和别人该不该用的意思，不同博客有不同便好和应用场景也是独立博客珍贵的原因之一嘛乁། ˵ ◕ – ◕ ˵ །ㄏ
+好用的功能容易被忽视，但难用的“feature”却是非常扎眼，很多时候都差点因为一些蹩脚功能取关博客。于是突发奇想来 brain dump 一下我不喜欢的独立博客功能。当然，这些好恶非常个人，完全没有说教这些功能“对不对“和别人该不该用的意思，不同博客有不同偏好和应用场景也是独立博客珍贵的原因之一嘛乁། ˵ ◕ – ◕ ˵ །ㄏ
 
 <!--more-->
 
