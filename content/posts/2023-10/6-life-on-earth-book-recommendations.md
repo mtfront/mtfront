@@ -60,8 +60,6 @@ bookToc: true
 ### [In Search of Deep Time](https://amzn.to/3Qs8sZl)
 > Gee, Henry, In Search of Deep Time (New York: The Free Press, 1999), published in the UK as Deep Time （London: Fourth Estate, 2000）. 这本书告诫你手中的书是关于什么的——用一个不完整的化石记录来讲述一个故事。相对来说，我们可以从现有的化石记录出发讲述许多种不同的故事，有些故事比你认为自己了解的那个要有趣得多。
 
-本书的中文版好像也很火，一直在我的 to 读 list 上。
-
 ## 人类
 ### [Us and Them](https://amzn.to/497KRoi)
 > Berreby, David, Us and Them (New York: Little, Brown,2005) .一本关于人类行为的书，着重讲述了我们结成互相敌对的小组和联盟有多么容易。这是我读过最好的人类学书籍。你可以引述我这句话。
