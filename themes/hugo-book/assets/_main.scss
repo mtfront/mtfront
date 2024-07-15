@@ -281,6 +281,14 @@ body[dir="rtl"] .book-menu {
   }
 }
 
+.compact-toc {
+  // override [markup.tableOfContents] endLevel in page is not supported, do hacky support
+  // https://discourse.gohugo.io/t/can-i-override-toc-setting-for-only-one-file-in-front-matter/36085
+  nav > ul > li > ul {
+    display: None;
+  }
+}
+
 .book-footer {
   padding-top: $padding-16;
   font-size: $font-size-14;

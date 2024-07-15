@@ -35,7 +35,7 @@
 
     {{ if default true (default .Site.Params.BookToC .Params.BookToC) }}
     <aside class="book-toc">
-      <div class="book-toc-content">
+      <div class="book-toc-content {{ if .Params.compactToc}}compact-toc{{end}}">
         {{ template "toc" . }} <!-- Table of Contents -->
       </div>
     </aside>
