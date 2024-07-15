@@ -1282,7 +1282,7 @@ Follow up questions:
 
 比如年轻时候被问到 design chat app 这种题就只会画个极度简笔画能说出来 socket 和 message queue 糊弄就不错了，但是在某 chat app 公司呆过之后再复习的时候看到 stateless web tier + stateful service 的时候就突然一拍大腿恍然领悟，哦这不是去年把我整的要死要活写出一坨屎的 elixir code 在干的事儿嘛！！！！比什么瞎套 queue 的 make sense 多了啊！就作为不爱搞技术虽然干了这么多年但基本都在产品层的人，以前看到 stateless 和 stateful 随便就过去了也没深刻理解 why，当你被它折磨过半年之后 it all make sense 啊！！！ 
 
-当然也就是小公司会 cover 这么大 scope 了，毕竟在某 SNS 公司干过活儿但要是碰到 design newsfeed 确实没一手经验只能答案八股🤷所以就是人有选择的时候还是去小公司试试看也挺好的，真的造小火箭的几率比大公司虽然有大火箭弹你只能拧螺丝还是高多了
+当然也就是小公司会 cover 这么大 scope 了，毕竟在某 SNS 公司干过活儿但要是碰到 design newsfeed 确实没一手经验只能答案八股🤷所以就是人有选择的时候还是去小公司试试看也挺好的，真的造小火箭的几率比大公司虽然有大火箭但你只能拧螺丝还是高多了
 
 祝大家找到又喜欢钱又多的工作！（应该没有不找工作的人会看完一篇八千多字还大多数是英文看到这儿的中文读者吧……）
 <!-- 恢复评论 -->
