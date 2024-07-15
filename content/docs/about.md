@@ -8,7 +8,7 @@ bookToc: false
 
 ## About
 ![](https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/dino_statict.png)
-- 女的，弯的 `本来觉得不重要但实在被“原来你是{女的/男的/直的/弯的/gay/les}，我一直以为你是{男的/女的/弯的/直的/les/gay}！”排列组合（通常是错的）感叹句搞烦了，last time I checked 我不写黄文啊这真的那么重要吗……`
+- 女的，弯的 [`不重要但是`]({{< relref "/posts/2024-07/4-misgender">}})
 - 曾用名：黄信滚、孟飞升
 - 现居美国西雅图粗糙码农
 - 单机游戏玩家，PC 厨，电影、电子产品爱好者
