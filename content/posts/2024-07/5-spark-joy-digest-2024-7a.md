@@ -42,7 +42,7 @@ imageDes: "MidJourney prompt: climbing stairs pixel art game style --ar 16:9"
 因为自己本来就要写一遍 bullet points 读书笔记作为给自己面试的复习材料，写都写了索性分享出来:[「优秀简笔画火箭教程——读《System Design Interview: An Insider's Guide》」]({{< relref "/posts/2024-07/3-book-system-design-interview-1" >}})。有点好笑的是当年我第一次在本校成为出圈小网红还是写毛概笔记成了打印店热销材料 be like 王后雄，十几年过去了我竟然还在写复习资料，人生是个圈（？）
 
 ### [身体构成扫描 DEXA body spec](https://www.bodyspec.com/r/F8XPXY)
-DEXA 是一种辐射较低，准确性很高的身体构成检测（家里和健身房那种测体脂的也就跟星座测性格差不多准确度），主要用于测量体脂、肌肉含量和骨密度。刚好离上次扫 DEXA 过去了一年，月初就又去扫了一次。惊喜发现增了 6 磅肌、减了 3 磅脂。除了自身进步之外，body spec 这个提供消费者 DEXA 的服务在一年内也进步了不少，从只能下载比较像医用 PDF 的去年进化到了可以生成用户友好的在线对比报告的网站服务。写了个简短的回顾：[「做个 DEXA body scan 验收过去一年健身成果」]({{< relref "/posts/2024-07/1-body-review-dexa" >}})
+DEXA 是一种辐射较低，准确性很高的身体构成检测（家里和健身房那种测体脂的也就跟星座测性格差不多准确度），主要用于测量体脂、肌肉含量和骨密度。刚好离上次扫 DEXA 过去了一年，月初就又去扫了一次。惊喜发现增了 6 磅肌、减了 3 磅脂。除了自身进步之外，`body spec` 这个提供消费者 DEXA 的服务在一年内也进步了不少，从只能下载比较像医用 PDF 的去年进化到了可以生成用户友好的在线对比报告的网站服务。写了个简短的回顾：[「做个 DEXA body scan 验收过去一年健身成果」]({{< relref "/posts/2024-07/1-body-review-dexa" >}})
 
 ### [pH 值均衡保护牙龈健康的漱口水](https://amzn.to/4cLNcXe)
 月初去洗牙，被洁牙师说有点牙龈出血（虽然我怀疑是它们新的机器有点强度过大了毕竟以前每年洗两次牙都不怎么出血），问我平时用什么漱口水，我说 Costco 大桶。清洁师说那款酒精较多 pH 值有点低有可能会杀死有益微生物，可以兑水一半使用。与此同时还推荐了这款针对牙龈健康的漱口水。
@@ -57,7 +57,7 @@ Capitol hill 一家气氛不错的店，brunch 和晚餐都有。去吃了 brunc
 {{< / columns >}}
 
 ### Nue, Seattle, WA
-也在 Capitol hill，brunch 正餐均有。这家去过几次，感觉老板是很喜欢旅行的人，店内装潢是世界各地夜市街角的风格，菜品也是各种 fusion. 右图上面是我和女朋友都很喜欢的 Chengdu Chicken & Waffles 基本每次去必点。下面那个这次新尝试的 Korean Bibim Naengmyeon 我觉得一般，土豆粉冷面有点太硬。
+也在 Capitol hill，brunch 正餐均有。这家去过几次，感觉老板是很喜欢旅行的人，店内装潢是世界各地夜市街角的风格，菜品也是各种 fusion. 右图上面是我和女朋友都很喜欢的 `Chengdu Chicken & Waffles` 基本每次去必点。下面那个这次新尝试的 `Korean Bibim Naengmyeon` 我觉得一般，土豆粉冷面有点太硬。
 
 {{< wrap "https://media.douchi.space/douchi/media_attachments/files/112/765/219/785/264/810/original/340c5a992822a3d8.jpg">}}
 ### 敷衍食堂
@@ -81,7 +81,7 @@ Capitol hill 一家气氛不错的店，brunch 和晚餐都有。去吃了 brunc
 ## 影
 ### 曼哈顿金牌经纪 | Owning Manhattan
 {{< neodb "https://neodb.social/tv/season/1mNMsIEMoZwLF1ufGlL33T" 9 >}}
-刚抱怨完隔壁《Selling OC》 那边狗血 drama 太多房子太少，这边立刻给补了个正经卖房节目。虽然也有轻微 drama 但正经卖房占了大多数时间，甚至不时出现两个经纪连着电话现场讨价还价环节，比隔壁光说不卖强多了。从两百万出头公寓到几千万的 penthouse 都有，甚至还有 commercial。agent 也明显多元多了，比起西海岸一堆直到哭的 trad wife 式炫富狂魔强多了，本西海岸粉也不得不服纽约。老板也看上去是个正经生意人，会惩罚搞事情 asshole 和奖励好员工，比天天和稀泥和员工乱搞的隔壁老板高到不知道哪里去了。一上来还有卖 central park tower 2.5 亿刀 penthouse 做主线 north star 也很抓人。希望有下一季。四星半
+刚抱怨完隔壁 `Selling OC` 那边狗血 drama 太多房子太少，这边立刻给补了个正经卖房节目。虽然也有轻微 drama 但正经卖房占了大多数时间，甚至不时出现两个经纪连着电话现场讨价还价环节，比隔壁光说不卖强多了。从两百万出头公寓到几千万的 penthouse 都有，甚至还有 commercial。agent 也明显多元多了，比起西海岸一堆直到哭的 trad wife 式炫富狂魔强多了，本西海岸粉也不得不服纽约。老板也看上去是个正经生意人，会惩罚搞事情 asshole 和奖励好员工，比天天和稀泥和员工乱搞的隔壁老板高到不知道哪里去了。一上来还有卖 central park tower 2.5 亿刀 penthouse 做主线 north star 也很抓人。希望有下一季。四星半
 
 ### 短跑飞人 | Sprint
 {{< neodb "https://neodb.social/tv/season/3qKiudc4AIXJfAEySPkDEA" 6 >}}
@@ -89,7 +89,7 @@ Capitol hill 一家气氛不错的店，brunch 和晚餐都有。去吃了 brunc
 
 ### 橘郡豪宅 第三季 | Selling the OC Season 3
 {{< neodb "https://neodb.social/tv/season/4EnsxFSggzYEYaWj7jrW3j" 6 >}}
-因为缺乏下饭剧的我又打开了它，OC 也 不出所料像隔壁《Selling Sunset》一样开始硬写狗血剧，而且剧本痕迹真是重到不行，比如 Alex Hall 和 Tyler 无聊到爆强行为剧情扭的感情线，没啥存在感又 attention seeking 无中生有强行挑事的 Sean 等等。看下来反倒成了一开始觉得一脸奸猾 的 Gio 最像个正常人了，有肢体冲突就认真地过去挡开，也没做过什么特别过分的事。真的，好好多看点房好吗……
+因为缺乏下饭剧的我又打开了它，OC 也 不出所料像隔壁 `Selling Sunset` 一样开始硬写狗血剧，而且剧本痕迹真是重到不行，比如 Alex Hall 和 Tyler 无聊到爆强行为剧情扭的感情线，没啥存在感又 attention seeking 无中生有强行挑事的 Sean 等等。看下来反倒成了一开始觉得一脸奸猾 的 Gio 最像个正常人了，有肢体冲突就认真地过去挡开，也没做过什么特别过分的事。真的，好好多看点房好吗……
 
 ### 璀璨帝国：纽约篇 第一季 | Bling Empire: New York Season 1
 {{< neodb "https://neodb.social/tv/season/4mkSWZ7upeQFzcToVVrS2j" 5 >}}
