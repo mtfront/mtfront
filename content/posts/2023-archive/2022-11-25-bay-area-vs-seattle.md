@@ -16,9 +16,9 @@ tags:
 
 提笔的时候没有意识到，今天竟然刚好是我从加州搬走的一周年。2021 年的 11 月 25 日，我从住了 7 年的，我第一个自己选的可以称之为家的地方，开着我的小车车带着不多的家当离开了。大概是对家的不舍导致已经上了 880 才意识到还有东西忘了拿，还回去拿了一趟，真正上路已经是中午了。
 
-也大概是两年前，我在 Lake Tahoe 湖边一个 Airbnb 写下这篇 [California Dream（省略五千字抒情大作文）](../california-dream/)。那个时候大概是一瞬间第一次认真考虑了搬家，也很有幸一年之后生活大变样就实施了。虽然跟我设想的改变不大一样：工作时辞了但四海为家 working holiday 没成，做了一个月项目就累了在家躺平了半年，认识了天南海北一堆新朋友，找了新工作，毫无创意地从湾区搬到了西雅图。
+也大概是两年前，我在 Lake Tahoe 湖边一个 Airbnb 写下这篇 [California Dream（省略五千字抒情大作文）]({{<relref "/posts/2023-archive/2020-11-01-california-dream" >}})。那个时候大概是一瞬间第一次认真考虑了搬家，也很有幸一年之后生活大变样就实施了。虽然跟我设想的改变不大一样：工作时辞了但四海为家 working holiday 没成，做了一个月项目就累了在家躺平了半年，认识了天南海北一堆新朋友，找了新工作，毫无创意地从湾区搬到了西雅图。
 
-转眼间搬来西雅图也一年了，没想到市场变化所以并没有在今年底买房，但是换了驾照和注册了投票，有了本地的圈子，也算是一个正正经经的西雅图人了。抒情的东西我那篇 [California Dream](../california-dream/) 都写过了，西雅图矫情小作文大概可以等离开的时候在写，今天来正正经经对比一下网上已经被说过无数遍的湾区 vs 西雅图对比。Hot take，我还是蛮喜欢湾区的，离开也只是想尝试一下新地方而已。西雅图来了一整年四季也都经历过，蜜月期也刚被入冬 depressing 的天气浇熄，两边的滤镜应该都不 太重，是个写这种对比参考文的好时机。
+转眼间搬来西雅图也一年了，没想到市场变化所以并没有在今年底买房，但是换了驾照和注册了投票，有了本地的圈子，也算是一个正正经经的西雅图人了。抒情的东西我那篇 [California Dream]({{<relref "/posts/2023-archive/2020-11-01-california-dream" >}}) 都写过了，西雅图矫情小作文大概可以等离开的时候在写，今天来正正经经对比一下网上已经被说过无数遍的湾区 vs 西雅图对比。Hot take，我还是蛮喜欢湾区的，离开也只是想尝试一下新地方而已。西雅图来了一整年四季也都经历过，蜜月期也刚被入冬 depressing 的天气浇熄，两边的滤镜应该都不 太重，是个写这种对比参考文的好时机。
 
 本文是 [11 月 patreon 金主们票选出来的内容](https://www.patreon.com/posts/2022-shi-yi-yue-74331306)（其实感觉不投这篇我也会写的哈哈哈哈）[12 月 patreon 选题投票现已开始](https://www.patreon.com/posts/75090838)，欢迎大家投票决定：
 
@@ -100,17 +100,17 @@ Side note，不知道是不是我社交圈的问题，西雅图 lesbian 浓度�
 
 ## 周边游玩 – 西雅图 +1
 
-离湾区最近的国家公园 Pinnacles 虽然开车只要不到两个小时，但存在感较低。大家常去的大地方还是 Yosemite、Lake Tahoe，Sequoia 等，开车四小时起。当然，本地的游客打卡景点不少（金门大桥、九曲花街等），但对于本地人来说打一次卡即可，长期的可玩性稍差。一号公路（本博客的顶部 banner，没想到吧）周边景色是不错，但其实也就是个普通的海边公路，反复可玩性有限，去 LA 的路上打卡一次，[偶尔去 hiking 一下足矣](../windy-sea-hike/)。
+离湾区最近的国家公园 Pinnacles 虽然开车只要不到两个小时，但存在感较低。大家常去的大地方还是 Yosemite、Lake Tahoe，Sequoia 等，开车四小时起。当然，本地的游客打卡景点不少（金门大桥、九曲花街等），但对于本地人来说打一次卡即可，长期的可玩性稍差。一号公路（本博客的顶部 banner，没想到吧）周边景色是不错，但其实也就是个普通的海边公路，反复可玩性有限，去 LA 的路上打卡一次，[偶尔去 hiking 一下足矣]({{< relref "/posts/2023-archive/2021-03-03-windy-sea-hike">}})。
 
 ![一号公路](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/11/image-1-1024x576.png)
 
-Yosemite 不多说了，景色确实不错，人也是真的多，我在湾区住了七年总共也就去过一次。Sequoia 除了地貌略有不同我觉得体验大同小异。Lake Tahoe 如果不滑雪的话就是个普通的湖，夏天有一些水上运动可玩，[hiking 会比湾区附近的山更像森林一些](../between-mountain-and-lake/)，但讲道理要不是故意为了 getaway 的话没有必要跑这么远。
+Yosemite 不多说了，景色确实不错，人也是真的多，我在湾区住了七年总共也就去过一次。Sequoia 除了地貌略有不同我觉得体验大同小异。Lake Tahoe 如果不滑雪的话就是个普通的湖，夏天有一些水上运动可玩，[hiking 会比湾区附近的山更像森林一些]({{< relref "/posts/2023-archive/2020-10-31-between-mountain-and-lake">}})，但讲道理要不是故意为了 getaway 的话没有必要跑这么远。
 
 ![Lake Tahoe 附近的 trail](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/11/image-3-1024x768.png)
 
-西雅图则是我来的第一年就被[周边开车两个多小时内的两个国家公园](../late-summer-seattle-national-parks)震撼到了，放到四小时的话还有 Olympic 这种很 diverse 的巨型公园，[Netflix 甚至有一整个纪录片来讲它里面的动物](../2022-10-monthly-digest/#span-classez-toc-section-ide6b5b7e78bbce4b98be5b29b_island_of_the_sea_wolves_e29885e29885e29885e29885e29886span%e6%b5%b7%e7%8b%bc%e4%b9%8b%e5%b2%9b-island-of-the-sea-wolves-span-classez-toc-section-endspan)。
+西雅图则是我来的第一年就被[周边开车两个多小时内的两个国家公园]({{< relref "/posts/2023-archive/2022-09-29-late-summer-seattle-national-parks">}})震撼到了，放到四小时的话还有 Olympic 这种很 diverse 的巨型公园，[Netflix 甚至有一整个纪录片来讲它里面的动物]({{< relref "/posts/2023-archive/2022-11-01-2022-10-monthly-digest">}}#span-classez-toc-section-ide6b5b7e78bbce4b98be5b29b_island_of_the_sea_wolves_e29885e29885e29885e29885e29886span%e6%b5%b7%e7%8b%bc%e4%b9%8b%e5%b2%9b-island-of-the-sea-wolves-span-classez-toc-section-endspan)。
 
-首先，Mt. Rainier 不但平时在市区看的的时候好看，真的到上面[爬爆款 trail 我也是同一季去了两次都被震撼](../late-summer-seattle-national-parks/)。时刻就在眼前的巨大雪山总是让我想到当年在河口镇转角被富士山怼脸的震撼，而且 Skyline 的设置真的非常合理，雪山、野花、山泉、岩石、土拨鼠、瀑布，按快门按到手软，从临场体验到社交网络 ready，唯一一个我去过一次立刻想再去的国家公园。
+首先，Mt. Rainier 不但平时在市区看的的时候好看，真的到上面[爬爆款 trail 我也是同一季去了两次都被震撼]({{< relref "/posts/2023-archive/2022-09-29-late-summer-seattle-national-parks">}})。时刻就在眼前的巨大雪山总是让我想到当年在河口镇转角被富士山怼脸的震撼，而且 Skyline 的设置真的非常合理，雪山、野花、山泉、岩石、土拨鼠、瀑布，按快门按到手软，从临场体验到社交网络 ready，唯一一个我去过一次立刻想再去的国家公园。
 
 ![](https://douchi.sfo3.digitaloceanspaces.com/blog-scw/2022/09/20220909_181849-scaled-e1664437451487-1536x2048.jpeg)
 
