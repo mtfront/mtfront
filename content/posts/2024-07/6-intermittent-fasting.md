@@ -17,7 +17,7 @@ imageDes: "MidJourney prompt: Taoist priest meditating in mountains in pixel art
 
 Fasting，即不吃饭只喝水的断食行为，跟中文中辟谷有一定相似性，某些文化和宗教中也有各种原因而断食的习俗。`此处有早餐“breakfast”就是“停止 fast“的小梗，不知道这个词是不是这么来的。` **Intermittent Fasting（下简称 IF）**，即间歇性断食，与传统的一断几天的 fasting 不同的是，IF 只是减少进餐的数量，故为“间歇”。常见的有 20/4（断食 20 小时，4 小时可进食，即只吃一顿饭），18/6（断 18 小时），16/8 等。
 
-网上养生玄学中 IF 也有 fasting 类似的 detoxic 功能，**我没有深入研究一律当作民科忽略**。近四年里我一直在践行 20/4 或 18/6 的 IF，因为除了所谓 detox 和健康考量之外的其它 benefit 觉得非常适合我，在此写文记录。
+网上养生玄学中 IF 也有 fasting 类似的 detoxic 甚至延年益寿的功能，**我没有深入研究一律当作民科忽略**。近四年里我一直在践行 20/4 或 18/6 的 IF，因为除了所谓 detox 和健康考量之外的其它 benefit 觉得非常适合我，在此写文记录。
 
 <!--more-->
 
