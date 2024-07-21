@@ -65,7 +65,7 @@ Capitol hill 一家气氛不错的店，brunch 和晚餐都有。去吃了 brunc
 
 ## 新
 本期新添加小板块，简列博客和我本人过去半个月中有何变化。
-- `博客` 添加**高亮笔**。回访时看到一篇很喜欢的文章[「为什么小白更该使用静态博客」](https://life.hanyu.me/life/27/?utm_source=blog.douchi.space)，之前[从 Wordpress 迁出]({{< relref "/posts/2023-archive/2023-05-31-blog-migrate-wordpress-hugo" >}})的时候也大致讲过之前运行博客的一些痛点，基本跟博主说的是相通的，但博主说得更好。内容喜欢之余，文中的**高亮笔样式**也挺喜欢，给自己博客也小做调整后加上了。
+- `博客` 添加**高亮笔**。回访时看到一篇很喜欢的文章[「为什么小白更该使用静态博客」](https://blog.hahaha.cc/life/27/?utm_source=blog.douchi.space)，之前[从 Wordpress 迁出]({{< relref "/posts/2023-archive/2023-05-31-blog-migrate-wordpress-hugo" >}})的时候也大致讲过之前运行博客的一些痛点，基本跟博主说的是相通的，但博主说得更好。内容喜欢之余，文中的**高亮笔样式**也挺喜欢，给自己博客也小做调整后加上了。
 - `博客` 添加短目录。写 [system design 读书笔记]({{< relref "/posts/2024-07/3-book-system-design-interview-1" >}})的时候因为 heading 3 太多而把 Hugo 自带的目录拉得很长，想要折叠成只显示 heading 2 级标题目录。简单搜索发现 Hugo 只有全局设置不能单篇文章 override，遂随手写了个 css 小 hack 单篇文章定制短目录的功能，晚点等攒出装修笔记 4 了可以细说。
 - `健康` 练腿加了 5 磅重量, grease the groove 法好久之后在休息后久违地感受到引体向上能力提升
 - `职业` 面试时候竟然现场手写出来一道 hard + follow up，我成长了
