@@ -6,6 +6,7 @@ date: 2024-07-14T18:04:00-07:00
 url: /book-system-design-interview-1/
 categories:
   - 喜欢就买
+  - 重启电脑
 tags:
   - software engineer
   - career 
@@ -549,7 +550,7 @@ Configure W, R, N is typical **tradeoff between latency and consistency.** if W 
     - any read returns a most updated write data item. **client never see out-of-date data.**
     - Achieved by forcing a replica not accept new reads/writes until every replica has agreed on current write.
     - Not ideal for highly available systems because it could block new operations
-- **Week consistency**: subsequent read operations may not see the most updated value
+- **Weak consistency**: subsequent read operations may not see the most updated value
 - **Eventual consistency**
     - a specific form of weak consistency. Given enough time, all updates are propagated and all replicas are consistent.
     - Allows inconsistent values to enter the system
