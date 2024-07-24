@@ -24,6 +24,8 @@ imageDes: "图源：https://medium.com/javarevisited/what-i-learned-from-the-boo
 
 因为自己本来就要写一遍 bullet points 读书笔记作为给自己面试的复习材料，写都写了索性分享出来。
 
+（[第二本的读书笔记我后来也写了在此]({{< relref "/posts/2024-07/7-book-system-design-interview-2" >}})）
+
 <!--more-->
 
 {{< neodb "https://neodb.social/book/5NXZVS0Rb0RNRRV7UdATj3" 9 "https://amzn.to/3LlsYre"  >}}
