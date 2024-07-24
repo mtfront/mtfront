@@ -29,6 +29,22 @@ imageDes: "图源：https://medium.com/javarevisited/what-i-learned-from-the-boo
 
 {{< neodb "https://neodb.social/book/3qw7UcploI7yANxpvhH4cQ" 6 "https://amzn.to/4cZmtGh"  >}}
 
+## 目录
+把全书原本目录列下来方便大家参考去搜关键词。
+1. Proximity Service
+2. Nearby Friends
+3. Google Maps
+4. Distributed Message Queue
+5. Metrics Monitoring and Alerting System
+6. Ad Click Event Aggregation
+7. Hotel Reservation System
+8. Distributed Email Service
+9. S3-like Object Storage
+10. Real-time Gaming Leaderboard
+11. Payment System
+12. Digital Wallet
+13. Stock Exchange
+
 ## Chapter 1. Proximity Service
 
 ### Step 1 - Understand the Problem and Establish Design Scope
