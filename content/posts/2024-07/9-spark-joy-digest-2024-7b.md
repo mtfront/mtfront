@@ -8,8 +8,9 @@ categories:
   - 喜欢就买
 tags:
   - 关我辟事
+  - seattle
 booktoc: true
-bookComments: false
+bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/112/878/215/368/381/207/original/f9dbc988a7f1a9ef.jpg
 imageDes: "摄于 2024-7-30 Lake Union 旁"
 ---
