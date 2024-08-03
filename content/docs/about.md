@@ -17,7 +17,7 @@ bookToc: false
 
 如果想要快速了解本博客写什么的话，以下是一些代表性博文：
 - `生活` [关我辟事半月刊]({{< relref "/tags/关我辟事/" >}}) | [喜欢西雅图的地方]({{< relref "/posts/2024-05/4-about-seattle" >}})
-- `测评` [Aer 背包全家桶]({{< relref "/posts/2023-09/4-aer-bag-collection" >}}) | [Galaxy S23 Ultra 测评]({{< relref "/posts/2023-archive/2021-03-19-best-smartphone-yet-samsung-galaxy-s21-ultra-review" >}})
+- `测评` [Aer 背包全家桶]({{< relref "/posts/2023-09/4-aer-bag-collection" >}}) | [Galaxy S21 Ultra 测评]({{< relref "/posts/2023-archive/2021-03-19-best-smartphone-yet-samsung-galaxy-s21-ultra-review" >}})
 - `健康` [割以永治切除子宫一周年 FAQ]({{< relref "/posts/2023-12/8-hysterectomy-fighting-period-part-3" >}}) | [懒人健康备餐]({{< relref "/posts/2024-02/1-lazy-healthy-food-prep" >}})
 - `游记` [美西大环线 Road Trip]({{< relref "/posts/2024-03/7-us-west-loop-road-trip-2" >}}) | [黄石大提顿秋游]({{< relref "/posts/2023-10/2-yellowstone-2023" >}})
 - `理财` [买房 vs 租房]({{< relref "/posts/2024-04/1-rent-or-own-apartment-or-house" >}}) | [美国小白理财 101]({{< relref "/posts/2023-archive/2022-09-25-personal-finance-for-dummies-2-0" >}})
