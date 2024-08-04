@@ -19,10 +19,6 @@
         "text": "meow_attention"
       },
       {
-        "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1643515329/13484/meow_awauu.png?1643515329\">",
-        "text": "meow_awauu"
-      },
-      {
         "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1643515330/13487/meow_baka.png?1643515330\">",
         "text": "meow_baka"
       },
@@ -113,6 +109,10 @@
       {
         "icon": "<img src='https://emojis.slackmojis.com/emojis/images/1643514599/6023/meow_peek.png?1643514599'>",
         "text": "meow_peek"
+      },
+      {
+        "text": "meow_googly_trash",
+        "icon": "<img src='https://emojis.slackmojis.com/emojis/images/1643515632/16550/meow_googlytrash.png?1643515632'>"
       }
     ]
   },
@@ -154,10 +154,6 @@
       {
         "text": "doge",
         "icon": "<img src='https://emojis.slackmojis.com/emojis/images/1643514425/4023/doge.png?1643514425'>"
-      },
-      {
-        "text": "meow_googly_trash",
-        "icon": "<img src='https://emojis.slackmojis.com/emojis/images/1643515632/16550/meow_googlytrash.png?1643515632'>"
       }
     ]
   },
