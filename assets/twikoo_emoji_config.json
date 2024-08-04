@@ -47,8 +47,8 @@
         "text": "meow_comfy"
       },
       {
-        "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1643515418/14381/meow_couple.png?1643515418\">",
-        "text": "meow_couple"
+        "icon": "<img src='https://emojis.slackmojis.com/emojis/images/1643515266/12882/meow_highfive.png?1643515266'>",
+        "text": "meow_highfive"
       },
       {
         "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1643515252/12737/meow_cry.png?1643515252\">",
@@ -83,10 +83,6 @@
         "text": "eow_glowsticks"
       },
       {
-        "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1628955537/48625/meow_canada.png?1628955537\">",
-        "text": "meow_canada"
-      },
-      {
         "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1643514958/9842/meow_knit.png?1643514958\">",
         "text": "meow_knit"
       },
@@ -105,6 +101,34 @@
       {
         "icon": "<img src=\"https://emojis.slackmojis.com/emojis/images/1643515240/12584/meow_bongo.png?1643515240\">",
         "text": "meow_bongo"
+      },
+      {
+        "icon": "<img src='https://emojis.slackmojis.com/emojis/images/1643516124/21484/meow_tea2.png?1643516124'>",
+        "text": "meow_tea"
+      },
+      {
+        "icon": "<img src='https://emojis.slackmojis.com/emojis/images/1643516125/21495/meow_eyes2.png?1643516125'>",
+        "text": "meow_eyes"
+      },
+      {
+        "icon": "<img src='https://emojis.slackmojis.com/emojis/images/1643515222/12409/meow_eyespin.png?1643515222'>",
+        "text": "meow_eyespin"
+      },
+      {
+        "icon": "<img src='https://emojis.slackmojis.com/emojis/images/1643514598/6022/meow_melt.png?1643514598'>",
+        "text": "meow_melt"
+      },
+      {
+        "icon": "<img src='https://emojis.slackmojis.com/emojis/images/1643515246/12646/meow_this_is_fine.png?1643515246'>",
+        "text": "meow_thisisfine"
+      },
+      {
+        "icon": "<img src='https://emojis.slackmojis.com/emojis/images/1666375634/61879/partyblob.gif?1666375634'>",
+        "text": "blog_party"
+      },
+      {
+        "icon": "<img src='https://emojis.slackmojis.com/emojis/images/1643514599/6023/meow_peek.png?1643514599'>",
+        "text": "meow_peek"
       }
     ]
   },
@@ -134,6 +158,22 @@
       {
         "text": "egg_chill",
         "icon": "<img src='https://emojis.slackmojis.com/emojis/images/1702614055/82201/egg_chillq.png?1702614055'>"
+      },
+      {
+        "text": "notlikethis",
+        "icon": "<img src='https://emojis.slackmojis.com/emojis/images/1648397287/56727/not_like_duck.png?1648397287'>"
+      },
+      {
+        "text": "pika_taptap",
+        "icon": "<img src='https://emojis.slackmojis.com/emojis/images/1671651931/63360/pikachubby.gif?1671651931'>"
+      },
+      {
+        "text": "doge",
+        "icon": "<img src='https://emojis.slackmojis.com/emojis/images/1643514425/4023/doge.png?1643514425'>"
+      },
+      {
+        "text": "meow_googly_trash",
+        "icon": "<img src='https://emojis.slackmojis.com/emojis/images/1643515632/16550/meow_googlytrash.png?1643515632'>"
       }
     ]
   },
