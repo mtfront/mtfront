@@ -36,7 +36,7 @@ iPad pro 界公认的性价比之王，改款现在这个窄边框设计后的�
 
 ## [Switch Pro Controller](https://amzn.to/4dtt8sW)
 {{< wrap "https://media.douchi.space/douchi/media_attachments/files/112/981/381/274/915/053/original/7b6a0e884b790b86.png" >}}
-当年还在集中玩 switch 的年代总共买了三对，后来`异度之刃 2`限定款出了觉得配色好看就买了（但我其实异刃至今买了没玩过……）。这两年不玩 switch 游戏了就吃灰了好一阵，但 PC 本来用的 xbox 老手柄兼容性出了点问题，买了新的之后发现设计超难用按起来超别扭，研究一番发现没啥好的替代，就把 switch pro controler 拿出来连 PC 用了。没想到 steam  mapping 意外好用，跟原生支持无异截图还方便，switch 手柄又对东亚小手更友好些，就舒舒服服用上焕发第二春了。
+joy-con 疯狂漂移 + 当年还有 party 需求当年还在集中玩 switch 的年代总共买了三对，后来`异度之刃 2`限定款出了觉得配色好看就买了（但我其实异刃至今买了没玩过……）。这两年不玩 switch 游戏了就吃灰了好一阵，但 PC 本来用的 xbox 老手柄兼容性出了点问题，买了新的之后发现设计超难用按起来超别扭，研究一番发现没啥好的替代，就把 switch pro controler 拿出来连 PC 用了。没想到 steam  mapping 意外好用，跟原生支持无异截图还方便，switch 手柄又对东亚小手更友好些，就舒舒服服用上焕发第二春了。
 
 ## [CAP Barbell Adjustable Dumbbell 40lbs set](https://amzn.to/4fuX0Xe)
 2015 年买的，不过后来集中举铁也就是这两年。虽然家里有[Nuobell 快速调节哑铃 100lbs](https://smrtft.com/products/nuobell-50lb-matt-black?utm_source=blog.douchi.space) cover 了单边 5 磅到 50 磅的重量，但 nuobell 的设计导致哑铃的直径稍大一些，举的时候也会松动，所以我一般拿它们练下肢（深蹲、保加利亚蹲之类），上肢还是用这套牢的。后来加了两套重量片（1.25lbs x 4 和多一套的 5lbs x4），覆盖范围到了 32.5 磅，练上肢很顺手。
