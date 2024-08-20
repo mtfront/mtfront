@@ -16,6 +16,7 @@ BookComments: False
 {{< button href="https://ephemeris.page/?utm_source=blog.douchi.space" >}}云卷云舒{{< /button >}}  {{< button href="https://sanguok.com/?utm_source=blog.douchi.space" >}}山月{{< /button >}} {{< button href="https://blog.bgme.me/?utm_source=blog.douchi.space" >}}影子屋{{< /button >}} {{< button href="http://paxinla.github.io/?utm_source=blog.douchi.space" >}}隐者の书庭{{< /button >}} {{< button href="https://depp.wang/?utm_source=blog.douchi.space" >}}Depp Wang{{< /button >}} {{< button href="https://alignof.com/?utm_source=blog.douchi.space" >}}Nakolu{{< /button >}} {{< button href="https://www.chicheng.run/?utm_source=blog.douchi.space" >}}非池中物{{< /button >}} 
 
 ---
+**单向链接请随意添加无需申请，双向的话只会添加互动或者我偷偷订阅比较久的博友：）** \
 会不定期清理失效域名、停更的博客，如有更新请随时联系我加回来！
 {{< details "Archive" >}}
 [穿堂风](https://machasoul.com/) | [卧锦](https://crescendomeow.wordpress.com/) | 
