@@ -10,6 +10,8 @@ tags:
   - 问卷
   - 复盘
 bookToc: false
+image: "https://media.douchi.space/douchi/media_attachments/files/113/083/148/785/961/468/original/9862ddbb1da8a3f0.jpg"
+imageDes: "摄于 2014-12-26 Arizona 与 Utah 交界处 89 号公路上"
 ---
 看到新鲜棕榈叶下这篇[「Short index of my past 10 years」](https://cronopio.space/?p=1117?utm_source=blog.douchi.space) 本问卷填表爱好者动手模仿。
 
