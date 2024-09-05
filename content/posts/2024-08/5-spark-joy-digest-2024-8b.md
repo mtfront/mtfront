@@ -105,7 +105,7 @@ Side note，`Bitch` 这个名字过于切题巧妙（因为本意就是雌性动
 {{< neodb "https://neodb.social/tv/season/1mNMsIEMoZwLF1ufGlL33T" 8 >}}
 应该和隔壁《Selling Sunset》调换名字，因为这边是在卖房， 那边才只有 listing 光说不卖。虽然没有新出的《Owning Manhattan》紧凑但作为卖房真人秀也相当不错了，agent 们也都挺可爱的没有太多 drama，连最讨人厌的 Fredrick 都有做慈善挽回点形象。
 
-### 
+### 美国谋杀故事：杀妻疑云 | American Murder: Laci Peterson
 {{< neodb "https://neodb.social/tv/season/4vwZIVajL4fUCgEbUutTsS" 7 >}}
 又是一个一集 it's always the husband 的内容能给公式拉成三集的模板，第一集凑合过关第二集还算引人入胜第三集没悬念找悬念拖拖沓沓。这个男的也真是人面兽心 no remorse 完全看不出情绪一直带着诡异微笑没有感情那种，长得甚至还有点像`寻妈记`里 Ted 但被外星人抓走了魂儿没情绪那种。正常人不想跟老婆过了谁 TM 第一反应是杀人抛尸然后 wish for the best 没人能发现？？？他家人还至今相信他甚至拿了个法学学位真是 delusional/denial 到一定程度了。三星半
 
