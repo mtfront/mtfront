@@ -132,3 +132,5 @@ imageDes: "摄于 2014-12-26 Arizona 与 Utah 交界处 89 号公路上"
 
 ---
 写完后发现我并没有原博主精简的决心，每年一个分类只选一个作品一个地点太难了，忍不住把有长期影响的作品都写上去了，结果一点也不 short 了。{{< emoji "https://emojis.slackmojis.com/emojis/images/1643514958/9842/meow_knit.png?1643514958" >}}
+
+这种时候有[豆瓣 notion backup]({{< relref "/posts/2023-archive/2022-04-27-douban-notion-backup" >}}) 就大有用武之地了，我的书影游记录里本来就有按年分的 view，再加上一个评分排序就能很快筛选了。
