@@ -97,7 +97,7 @@ imageDes: "摄于 2014-12-26 Arizona 与 Utah 交界处 89 号公路上"
 `Turning Red` (2022)\
 `Taylor Tomlinson: Look at You` (Netflix, 2022)\
 `Hasan Minhaj: Homecoming King` (Netflix, 2022)\
-`ILiza Shlesinger: Hot Forver` (Netflix, 2022)\
+`Iliza Shlesinger: Hot Forver` (Netflix, 2022)\
 `Why We Sleep` (Matthew Walker, 2017)\
 `Invisible Women` (Caroline Criado-Perez, 2019)\
 `三角战略` (2022)
