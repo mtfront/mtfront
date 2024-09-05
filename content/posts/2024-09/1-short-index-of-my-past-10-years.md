@@ -107,7 +107,7 @@ imageDes: "摄于 2014-12-26 Arizona 与 Utah 交界处 89 号公路上"
 ### 2023
 `Spider-Man: Across The Spider-Verse` (2023)\
 `Dungeons & Dragon: Honor Among Thieves` (2023)\
-`The Ultimatum: Queer Love` Season 1 (2023)\
+`The Ultimatum: Queer Love` Season 1 (Netflix, 2023)\
 `Maybe You Should Talk to Someone` (Lori Gottlieb, 2019)\
 `Trauma and Recovery` (Judith Herman, 1997)\
 `翦商` (李硕, 2022)\
