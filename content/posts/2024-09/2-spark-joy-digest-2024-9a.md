@@ -2,14 +2,14 @@
 title: 关我辟事 Vol.24：Adulting
 author: 椒盐豆豉
 type: post
-date: 2024-09-17T15:07:00-07:00
+date: 2024-09-17T16:46:00-07:00
 url: /spark-joy-digest-2024-9a/
 categories:
   - 喜欢就买
 tags:
   - 关我辟事
 booktoc: true
-bookComments: false
+bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/113/155/305/447/454/974/original/f1fae52f5cf30f94.png
 imageDes: "我也有肉夹馍啦！女朋友从国内带的"
 ---
