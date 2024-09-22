@@ -115,7 +115,7 @@ imageDes: "MidJourney prompt: a home gym in pixel art style --ar 16:9"
 
 ### 进阶
 下面配件是我个人觉得按必要程度排列的：
-- [快速调节哑铃]((https://smrtft.com/products/nuobell-50lb-matt-black?utm_source=blog.douchi.space))：这样就可以根据身体不同部位选择合适的重量，而不用买很多不同重量的哑铃了。市面上也有很多不同款的，我这家应该是当年最早把这种摩托车油门转轴式设计推广开的。因为力量训练最重要的原则就是 progressive overload，因此调整重量很重要，还是建议投资一下哑铃。如果不用这种调节式又要保证 progressive overload 的话，家里可能需要多备一些固定的哑铃，长期投入和占地面积花费会更高。
+- [快速调节哑铃](https://smrtft.com/collections/personal-training-equipment/products/nuobell-50lb?utm_source=blog.douchi.space)：这样就可以根据身体不同部位选择合适的重量，而不用买很多不同重量的哑铃了。市面上也有很多不同款的，我这家应该是当年最早把这种摩托车油门转轴式设计推广开的。因为力量训练最重要的原则就是 progressive overload，因此调整重量很重要，还是建议投资一下哑铃。如果不用这种调节式又要保证 progressive overload 的话，家里可能需要多备一些固定的哑铃，长期投入和占地面积花费会更高。
 {{< video "https://media.douchi.space/douchi/media_attachments/files/109/911/315/455/641/060/original/ecf6f123dd2cb463.mp4" >}}
 - [蛋白粉]((https://amzn.to/4gh3itU))：可以先点小罐试试口味。这款是我最近试到不挂口味道冲淡点也可以接受的。要增肌的话需要保持每天每磅体重 1～1.2g 的蛋白质摄入，光靠吃饭的话很难坚持。
 - 泡沫轴：随便买了个 [Amazon basic](https://amzn.to/3XCHQak) 的。只用来滚腿的话没必要买高级的。24 inch 宽度我觉得刚好。
