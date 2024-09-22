@@ -8,7 +8,6 @@ categories:
   - 多喝热水
 tags:
   - wellness
-  - tutorial
   - patreon 
 booktoc: true
 bookComments: true
