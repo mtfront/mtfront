@@ -109,8 +109,9 @@ imageDes: "MidJourney prompt: a home gym in pixel art style --ar 16:9"
 - 各种单腿深蹲、lounge 的变种
 
 ### 入门
-- 只买一件：门上装这种[引体向上 bar](https://amzn.to/3s3zoFB%29)。正手（手背朝练）可以练背，反手（手心朝练）可以练二头肌，抬腿可以练腹肌。可以配合[弹力带](https://amzn.to/3Sj6EDb)。
+- 只买一件：门上装这种[引体向上 bar](https://amzn.to/3s3zoFB%29)。正手（手背朝脸）可以练背，反手（手心朝脸）可以练二头肌，抬腿可以练腹肌。可以配合[弹力带](https://amzn.to/3Sj6EDb)。
 - 便宜哑铃：我早年买的是这个 [40lbs set](https://amzn.to/4fuX0Xe)，可以组合出 5lbs, 10lbs, 15lbs, 20lbs 几种组合。进阶了之后可以再单买单独的重量片。不方便的是换重量不便，所以比如同一天又要练 curl 又要练 lateral raise 的话换起来很麻烦，练腿的时候手能用的重量又基本是不够的。
+![](https://media.douchi.space/douchi/media_attachments/files/112/804/703/111/810/920/original/7c3393f698911486.jpg)
 - 瑜伽垫：Amazon 上随便买一个，练腹肌、滚泡沫轴等。
 
 ### 进阶
