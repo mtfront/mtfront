@@ -16,7 +16,7 @@ BookComments: False
 - 更新了久未更新的[`剁手安利数据库`](https://mtfront.notion.site/mtfront-shopping-reviews-e568ee6ebaa44b5da146cbe4ac4663eb)
 
 ## 近期中意
-- 📚 [`Immune`](https://amzn.to/49IxrhQ) by Philipp Dettmer，[读书笔记]({{< relref "/posts/2024-04/7-book-immune" >}})
+- 📚 [`Bitch`](https://amzn.to/47iaaDm) by Lucy Cooke，[读书笔记]({{< relref "/posts/2024-09/4-book-bitch" >}})
 - 🎬 [`驯鹿宝贝`](https://neodb.social/tv/season/5qoyXYF9VuqB5BkN1k0YAW) on Netflix
 - 🎬 [`辐射`](https://neodb.social/tv/season/5FyXt7D9AV5ieWNoDj7OPV) on Amazon
 - 🎮 [`Hades II`](https://neodb.social/game/5Nl53nBUBbAiUPdR7EFW0h) Early Access
