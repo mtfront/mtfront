@@ -2,7 +2,7 @@
 title: 关我辟事 Vol.25：辞旧迎新
 author: 椒盐豆豉
 type: post
-date: 2024-09-30T30:19:00-07:00
+date: 2024-09-30T19:26:00-07:00
 url: /spark-joy-digest-2024-9b/
 categories:
   - 喜欢就买
