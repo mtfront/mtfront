@@ -4,8 +4,8 @@ type: docs
 bookToc: false
 BookComments: False
 ---
-{{< img "https://media.douchi.space/douchi/media_attachments/files/112/553/890/005/512/061/original/b21c0939b95cbe58.jpg" 600 >}} \
-*2024-06-03 肯尼亚 Maasai Mara*
+{{< img "https://media.douchi.space/douchi/media_attachments/files/113/179/574/381/227/668/original/efd937b0cf31b1bf.png" 600 >}} \
+*2024-09-21 西雅图周边 Gold Pond Creek*
 
 ## 近况
 - [喜提中年人第一次被裁]({{< relref "/posts/2024-02/3-layoff" >}})
@@ -16,14 +16,13 @@ BookComments: False
 
 ## 近期中意
 - 📚 [`Bitch`](https://amzn.to/47iaaDm) by Lucy Cooke，[读书笔记]({{< relref "/posts/2024-09/4-book-bitch" >}})
-- 🎬 [`驯鹿宝贝`](https://neodb.social/tv/season/5qoyXYF9VuqB5BkN1k0YAW) on Netflix
-- 🎬 [`辐射`](https://neodb.social/tv/season/5FyXt7D9AV5ieWNoDj7OPV) on Amazon
-- 🎮 [`Hades II`](https://neodb.social/game/5Nl53nBUBbAiUPdR7EFW0h) Early Access
-- 🩴 [`Teva Mush II`](https://amzn.to/4e9RU1Z)
+- 🎬 [`The Wild Robot`](https://neodb.social/movie/2gzky4gck88Gs8O1ZSX2iK)
+- 🎬 [`黑白厨师`](https://neodb.social/tv/season/2mFTCgFI60dsNCrlJhxq9i) on Netflix
+- 🎮 [`Classic Solitaire NETFLIX`](https://play.google.com/store/apps/details?id=com.netflix.NGP.Solitaire) 
+- 💪 [`Rocky Road 味蛋白粉`](https://amzn.to/3YdJWPH)
 
 ## 近期目标
 - 一些 [2024 的量化 flag]({{< relref "/posts/2023-12/10-2024-flags">}})
-- 系统重新学习一下前端知识
 - ~~找工作！~~ [done]({{< relref "/posts/2024-09/5-job-hunting-2024" >}})
 - 待更游记：肯尼亚探索新大陆
 - 搞一些之前想搞的播客项目

@@ -27,7 +27,7 @@ imageDes: "Google Seattle Office 养的水母"
 | 随便糊弄跑起来再 console print 找错 | Test driven |
 | 粗心大意经常搞出事情 test in production | Move fast |
 | 前端后端都不是很精，没了复制粘贴和 chatGPT 活不了 | Fullstack, quick learner, can handle any new challenge |
-| 没耐心在后端和 infra 优化小数点 | Enjoy making direct customer facing impact |
+| 没耐心和技术在后端和 infra 优化小数点 | Enjoy making direct customer facing impact |
 | 出活儿慢 | Write high-quality code |
 | 天天和 PM/DS/Designer 互相追杀讨债 | Drive cross function impact |
 | 项目 launch 了出事了被人 page 成狗修了几个月 bug | Product ownership/Own what you build |
