@@ -7,7 +7,7 @@ url: /able-carry-max-first-impression/
 categories:
   - 喜欢就买
 tags:
-  - Many Bagger
+  - Backpack
   - 消费主义陷阱
   - review
   - digital nomad

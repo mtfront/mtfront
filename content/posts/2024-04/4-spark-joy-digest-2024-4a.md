@@ -9,7 +9,7 @@ categories:
 tags:
   - 关我辟事
   - 消费主义陷阱
-  - Many Bagger
+  - Backpack
   - travel
   - photography
 booktoc: true

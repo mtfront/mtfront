@@ -7,7 +7,7 @@ url: /peak-design-travel-backpack-30l/
 categories:
   - 喜欢就买
 tags:
-  - Many Bagger
+  - Backpack
   - 消费主义陷阱
   - review
 bookToc: true

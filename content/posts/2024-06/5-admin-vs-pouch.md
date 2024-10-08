@@ -7,7 +7,7 @@ url: /admin-vs-pouch/
 categories:
   - 喜欢就买
 tags:
-  - Many Bagger
+  - Backpack
   - 消费主义陷阱
 booktoc: false
 bookComments: true

@@ -9,7 +9,7 @@ categories:
 tags:
   - 关我辟事
   - 消费主义陷阱
-  - Many Bagger
+  - Backpack
 booktoc: true
 bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/112/363/989/821/361/112/original/8e894fa12d6498d7.png

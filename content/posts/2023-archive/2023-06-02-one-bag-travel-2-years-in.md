@@ -7,7 +7,7 @@ url: /one-bag-travel-2-years-in/
 categories:
   - 喜欢就买
 tags:
-  - Many Bagger
+  - Backpack
   - review
   - 消费主义陷阱
 ---
