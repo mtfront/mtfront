@@ -10,6 +10,7 @@ tags:
   - 问卷
   - 复盘
 bookToc: false
+bookComments: true
 image: "https://media.douchi.space/douchi/media_attachments/files/113/083/148/785/961/468/original/9862ddbb1da8a3f0.jpg"
 imageDes: "摄于 2014-12-26 Arizona 与 Utah 交界处 89 号公路上"
 ---
