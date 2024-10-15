@@ -6,7 +6,6 @@ date: 2024-10-14T18:41:40-07:00
 url: /one-bag-travel-tips/
 categories:
   - 喜欢就买
-  - 重启电脑
 tags:
   - Backpack
   - 消费主义陷阱
