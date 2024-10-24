@@ -11,7 +11,8 @@ tags:
   - 复盘
 
 ---
-[脱离了有背景音乐的长文平台太多年了，现在一有机会就使劲插背景音乐:Collective Soul - The World I Know](https://soundcloud.com/collectivesoulmusic/the-world-i-know?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fcollectivesoulmusic%252Fthe-world-i-know)
+脱离了有背景音乐的长文平台太多年了，现在一有机会就使劲插背景音乐: Collective Soul - The World I Know
+{{< youtube "n7TLTjqUyog" >}}
 
 其实直到已经住在加州的很长一段时间里，我偶尔跳出当下生活的仓促时，还是会被自己居然就这么水到渠成的跑到曾经遥远的梦想里生活了。而且这个柴米油盐的日常，和当年遥远不着边际的梦想，似乎又是两个割裂的意象。
 
@@ -121,8 +122,8 @@ But you got the idea.
 
 ## Hey now, hey now
 
-[Don't Dream It's Over](https://soundcloud.com/theheadandtheheart/dont-dream-its-over?utm_source=clipboard&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Ftheheadandtheheart%252Fdont-dream-its-over)
-在这儿插这么一首歌……是不是有点对自己太残忍了😂
+{{< youtube "J9gKyRmic20" >}}
+在这儿插这么一首 Don't dream it's over ……是不是有点对自己太残忍了😂
 
 可能是“呆腻了”，也可能是当初想来的那些原因都不在了，也可能是当初想来的那些向往我全都达成了，也可能我根本就对任何地方都没有归属感。
 
