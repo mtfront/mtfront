@@ -20,7 +20,7 @@ imageDes: "非洲大草原上的牛马们（？），摄于 2024 年 5 月肯尼
 
 虽说入行了十年，之前每次离职都是裸辞，加上这次被裁的 gap，细算起来其实也就八年在工作，简历上细看全是窟窿。即便如此，好歹从 FAANG 里的几家大厂到曾经当红的 pre-ipo 再到只有一个 backend team 的中小型 startup 都去过，也从 backend 到 web frontend 到 mobile 的项目都写过，经验和建议算不上，个人感受想到哪写到哪吧。
 
-![之前做过一份视觉简历，如今扩展了一下](https://media.douchi.space/douchi/media_attachments/files/113/361/012/248/084/128/original/e74b884f2b269474.png)
+![之前做过一份视觉简历，如今扩展了一下](https://media.douchi.space/douchi/media_attachments/files/113/361/106/101/769/202/original/cd1d6b852fc6e734.png)
 
 当然，职业上我是一个不那么上进、比较中庸的人，**工作我是当一份糊口的差不多行了的 day job 来干的，因此本文对把职业当 passion 或者职业上很有抱负的人参考价值非常有限。**
 
