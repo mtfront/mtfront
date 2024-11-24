@@ -13,6 +13,8 @@ BookComments: False
 - 告别开了 5 年半的[小白]({{< relref "/posts/2024-01/14-bye-s3" >}})买了新车[小霾]({{< relref "/posts/2024-01/15-spark-joy-digest-vol-10-2024-1b" >}}#小霾)
 - 无业游记连更：美西大环线 road trip（[鸟]({{< relref "/posts/2024-03/6-us-west-loop-road-trip-1" >}}) | [美景]({{< relref "/posts/2024-03/7-us-west-loop-road-trip-2" >}}) | [回家]({{< relref "/posts/2024-03/8-us-west-loop-road-trip-3" >}})）｜ [夏威夷大岛]({{< relref "/posts/2024-04/2-island-of-hawaii-2024" >}}) ｜ [Oreagon 海岸线]({{< relref "/posts/2024-06/6-oregon-coast-road-trip-2024" >}})
 - 在[工作十周年]({{< relref "/posts/2024-10/5-career-10-years" >}})开始了新的工作
+- 搞了[新的播客]({{< relref "/posts/2024-11/2-podcast-other-than-default" >}})！
+- 搬了一间更大采光更好的房间
 
 ## 近期中意
 - 📚 [`Bitch`](https://amzn.to/47iaaDm) by Lucy Cooke，[读书笔记]({{< relref "/posts/2024-09/4-book-bitch" >}})
@@ -25,8 +27,8 @@ BookComments: False
 - 一些 [2024 的量化 flag]({{< relref "/posts/2023-12/10-2024-flags">}})
 - 待更游记：肯尼亚探索新大陆
 - 每天跑步（一周至少 5 天）
-- 搞一些之前想搞的播客项目
-- 搬家
+- 认真学习一些工作上的业务
+- 重新适应工作的节奏平衡工作、健康和爱好
 
 ## Changelog
 - `2024-06-13` [syntax highlighter 主题]({{< relref "/posts/2024-06/4-blog-code-syntax-highlighting" >}}) 改成了 `paraiso-light`
