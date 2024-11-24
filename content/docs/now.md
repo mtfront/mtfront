@@ -22,6 +22,7 @@ BookComments: False
 - 🎬 [`黑白厨师`](https://neodb.social/tv/season/2mFTCgFI60dsNCrlJhxq9i) on Netflix
 - 🎮 [`Classic Solitaire NETFLIX`](https://play.google.com/store/apps/details?id=com.netflix.NGP.Solitaire) 
 - 🎧 [`Galaxy Buds Pro 3`](https://amzn.to/48rUQVr)
+- 🧥 [`Arc'teryx Atom Hoody`](https://amzn.to/3CE6rog)
 
 ## 近期目标
 - 一些 [2024 的量化 flag]({{< relref "/posts/2023-12/10-2024-flags">}})
