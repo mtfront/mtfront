@@ -19,7 +19,7 @@ imageDes: "摄于 2024-03 Seattle"
 
 去年灵机一动，为了避免年底年终总结扎堆，索性把购物总结挪到美国最大的购物季黑五这一周。今年如法炮制，来写写自[去年那篇总结]({{< relref "/posts/2023-11/8-shopping-2023" >}})之后到现在这一年里的购物总结。
 
-<!--more--->
+<!--more-->
 
 ## 最满意 - [Arc'teryx Atom Hoody](https://amzn.to/3CE6rog)
 {{< wrap "https://media.douchi.space/douchi/media_attachments/files/113/553/749/735/082/485/original/63a8022dba8485ba.png" >}}
