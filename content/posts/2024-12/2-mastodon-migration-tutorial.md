@@ -95,16 +95,16 @@ EXIT
 systemctl stop redis-server.service
 ```
 12. `旧` `root` 复制下列文件到新服务器上。
-   - Redis `rsync -avz /var/lib/redis/ root@{新服务器 IP}:/var/lib/redis/`
-   - Nginx 配置 `rsync -avz /etc/nginx/sites-available/ root@{新服务器 IP}:/etc/nginx/sites-available/`
-   - SSL 证书，官网教程用的是 let's encryypt 生成免费证书并且自动 renew，但我的出了些问题总要手动修复，于是用的是 cloudflare 生成的 10 年证书，省事多了。我把证书存放在了 `/etc/cloudflare/`文件下，直接复制过去 `rsync -avz /etc/cloudflare/ root@{新服务器 IP}:/etc/cloudflare/`。旧站 nginx 已经在用同一个证书了，无需重新生成或者修改配置。
-   - mastodon 配置文件：`mastodon`(切换用户 `su - mastodon && cd live`) `rsync -avz ./.env.production root@{新服务器 IP}:/home/live/.env/production`
-   - 如果你的媒体文件没有使用 object storage 的话还需要复制 `/public/system/ ` 下面的文件。用了 object storage （推荐）的话可以跳过这一步。
+    - Redis `rsync -avz /var/lib/redis/ root@{新服务器 IP}:/var/lib/redis/`
+    - Nginx 配置 `rsync -avz /etc/nginx/sites-available/ root@{新服务器 IP}:/etc/nginx/sites-available/`
+    - SSL 证书，官网教程用的是 let's encryypt 生成免费证书并且自动 renew，但我的出了些问题总要手动修复，于是用的是 cloudflare 生成的 10 年证书，省事多了。我把证书存放在了 `/etc/cloudflare/`文件下，直接复制过去 `rsync -avz /etc/cloudflare/ root@{新服务器 IP}:/etc/cloudflare/`。旧站 nginx 已经在用同一个证书了，无需重新生成或者修改配置。
+    - mastodon 配置文件：`mastodon`(切换用户 `su - mastodon && cd live`) `rsync -avz ./.env.production root@{新服务器 IP}:/home/live/.env/production`
+    - 如果你的媒体文件没有使用 object storage 的话还需要复制 `/public/system/ ` 下面的文件。用了 object storage （推荐）的话可以跳过这一步。
 13. `新` `root` 等漫长的 `pg_restore` 运行完之后进行如下操作：
-   - Nginx 链接 `ln -s /etc/nginx/sites-available/{你的站名} /etc/nginx/sites-enabled/{你的站名}`，每个人配置不一样，反正就 `sites-available` 下你有的都创建一遍链接就好。
-   - 给 mastodon 用户文件读写权限 `chmod o+x /home/mastodon`
-   - 重启 `nginx` `systemctl restart nginx`
-   - 复制 systemd `cp /home/mastodon/live/dist/mastodon-*.service /etc/systemd/system/`
+    - Nginx 链接 `ln -s /etc/nginx/sites-available/{你的站名} /etc/nginx/sites-enabled/{你的站名}`，每个人配置不一样，反正就 `sites-available` 下你有的都创建一遍链接就好。
+    - 给 mastodon 用户文件读写权限 `chmod o+x /home/mastodon`
+    - 重启 `nginx` `systemctl restart nginx`
+    - 复制 systemd `cp /home/mastodon/live/dist/mastodon-*.service /etc/systemd/system/`
 14. `新` `mastodon` compile assets `cd live && RAILS_ENV=production bundle exec rails assets:precompile`
 15. `新` `root` 启动服务！
 ```shell
