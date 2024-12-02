@@ -118,6 +118,8 @@ systemctl restart nginx
 18. `新` `mastodon` 如果使用 elasticsearch 的话要重新 deploy index `RAILS_ENV=production ./bin/tootctl search deploy`
 
 ## 后记
+长毛象迁移过程相对容易，除了耗时之外其实比升级还即插即用。最容易出错的地方也无非是哪些命令在哪个用户下运行，database 备份，以及 nginx & SSL 的配置。为了让自己和大家下次迁移因为官方 document 写得不明确而做无用功踩坑，这次就把自己迁移的全过程记录下来了，希望以后平行迁移能省心一些。
+
 之前实例站点更新是在 discord 上的，但确实这种必须要帐号登录的平台做公开状态更新很不合适，不常用这个 app 的总不能专门为了看更新就下个 app 吧，基本每次迁移/maintenance 都有人在别的平台问站是不是挂了。感觉还是得用未登录可见有网页版的比较合适。
 
 也顺便跟风搞了个 [bluesky 账号](https://bsky.app/profile/mtfront.bsky.social)，下次迁移/maintain 时候搞个静态页面 redirect 过去方便看状态更新好了。（X 是肯定不会用的，telegram 虽然网页版可见但还是不是 web first，其实之前有 threads 账号，不过跟个人 IG 绑定就确实不大适合做线上身份分割。Bluesky 先用着试试看吧就）
