@@ -66,7 +66,7 @@ Bellevue downtown 一家韩式烤肉，在一家看起来周围全都关门了�
 ![九宫格的分量着实比我们想象大，加上其它点的剩了好多带回家了](https://media.douchi.space/douchi/media_attachments/files/113/580/037/643/566/796/original/d68aeac466e73479.png)
 
 ### Pepino Melon
-上次写了[新尝试的 Kiwi Berry]({{< relref "/posts/2024-10/4-spark-joy-digest-2024-10a" >}}) 后大受好评，长毛象和博客上都有大量正反馈，激励了我常识更多没见过的水果，于是在超市看到这个 Pepino Melon 之后就买来一个试试。其实是一个月前买的，但因为太懒拖拖拉拉（常温）放了一个月之后才吃，竟然没有坏的迹象。吃起来的感觉有点像哈密瓜，但不甜很多，不知营养价值如何，或许可以当作哈密瓜的低糖替代。
+上次写了[新尝试的 Kiwi Berry]({{< relref "/posts/2024-10/4-spark-joy-digest-2024-10a" >}}) 后大受好评，长毛象和博客上都有大量正反馈，激励了我常识更多没见过的水果，于是在超市看到这个 Pepino Melon 之后就买来一个试试。其实是一个月前买的，但因为太懒拖拖拉拉（常温）放了一个月之后才吃，竟然没有坏的迹象。吃起来的感觉有点像哈密瓜，但不甜很多，不知营养价值如何，~~或许可以当作哈密瓜的低糖替代~~。评论指出这就是人参果，它虽然不甜但是糖分反而挺高的，果不可貌相啊。
 ![](https://media.douchi.space/douchi/media_attachments/files/113/575/923/684/731/716/original/a6b57807209fae8c.png)
 
 ## 事
