@@ -16,7 +16,7 @@ image: https://media.douchi.space/douchi/media_attachments/files/113/644/398/378
 
 从`鱼翅与花椒`起，本厨渣 + 对吃也不怎么有研究的山猪就喜欢上了扶霞对食物的热情，断续看了好几本都很喜欢。前阵子看了新出的`君幸食`，扶霞带着贯通访古通今的一场中餐之旅，这次写得较为系统以一场宴会的形式展开，看得酣畅淋漓，能透过扶霞对中餐热爱的眼睛重新 appreciate 很多习以为常 take for granted 的小细节，与过去扶霞的书一样，读完满满的幸福感和对生活的 appreciation。
 
-{{< neodb "https://neodb.social/book/1BZvOlYNBZtkxN2MqXzUxl" 8 >}}
+{{< neodb "https://neodb.social/book/1BZvOlYNBZtkxN2MqXzUxl" 8 "https://amzn.to/4gynW8l" >}}
 
 里面有一篇讲中餐各种烹饪方法的文字的颇有意思，透过非母语但绝对比 99% 的中国人更热爱中餐的扶霞笔下的解读（我看的是中文版，又要从英文再译回来但保留外来者的观察视角，真是太有意思了，译者何雨珈对扶霞作品的翻译我也一直很喜欢！），突然对这些本来习以为常但又一知半解的词和与之相关的菜又更珍惜了。灵机一动摘抄下来，按这个起名方法，感觉我的`敷衍食堂`山猪快手菜也能变高大上了呢。
 
