@@ -8,7 +8,7 @@ categories:
   - 喜欢就买
 tags:
   - reading
-  - 女权
+  - 女性
   - watching
 booktoc: false
 bookComments: true

@@ -9,7 +9,7 @@ categories:
   - 多喝热水
 tags:
   - wellness
-  - 女权
+  - 女性
 booktoc: true
 image: https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/SHEF/MSH/SHEF_MSH_VIS_1610-001.jpg
 imageDes:  "To Versailles, an Incident in the French Revolution, by Valentine Cameron Prinsep"

@@ -10,7 +10,7 @@ tags:
   - random
   - brain dump
   - wellness
-  - 女权
+  - 女性
 booktoc: false
 bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/112/096/351/732/242/376/original/fe5ae0f43576e368.png

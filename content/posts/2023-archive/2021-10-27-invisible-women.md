@@ -8,7 +8,7 @@ categories:
   - 重启电脑
 tags:
   - 外国的月亮就是圆
-  - 女权
+  - 女性
   - career
   - software engineer
   - patreon

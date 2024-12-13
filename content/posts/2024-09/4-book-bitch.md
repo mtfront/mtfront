@@ -10,7 +10,7 @@ tags:
   - reading
   - 导读
   - 自然
-  - 女权
+  - 女性
   - LGBTQ
 booktoc: true
 bookComments: true
