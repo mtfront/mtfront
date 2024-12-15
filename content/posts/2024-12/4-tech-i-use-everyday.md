@@ -49,7 +49,7 @@ image: https://media.douchi.space/douchi/media_attachments/files/113/649/940/703
 
 ### 家具：
 - `升降桌` [`Uplift V2 60"`](https://amzn.to/4gzCWTv) 2020 时候配的挺满意，搬到西雅图的时候就新家又买了一个（记得一定要买遥控有记忆位置而不是得手动按上下那种）。之前用 32" 屏幕的时候加上两边横放 + 竖放的两台笔记本和电源、无线充电板什么的大小刚好，现在换 40" 屏幕了稍微有一点点挤，要想加音箱的话就得放显示器后面了，要考虑要不要把笔记本改回两个都竖起来。
-- `办公桌` [`Herman Miller Areon`](https://amzn.to/49AEfPP) 之前家里一直是宜家的烂办公椅，2020 在家办公发现还真是不行就赶紧买办公室标配基础款了。最近有点心动可调更多 + 带头枕的 [`steelcase gesture`](https://amzn.to/4iA33eS)，不过旧椅子没啥毛病应该暂时不会换。
+- `办公椅` [`Herman Miller Areon`](https://amzn.to/49AEfPP) 之前家里一直是宜家的烂办公椅，2020 在家办公发现还真是不行就赶紧买办公室标配基础款了。最近有点心动可调更多 + 带头枕的 [`steelcase gesture`](https://amzn.to/4iA33eS)，不过旧椅子没啥毛病应该暂时不会换。
 
 ### 容器
 以及虽然不出门上班，但去女朋友家的时候背装备的：
