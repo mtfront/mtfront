@@ -53,18 +53,18 @@ image: https://media.douchi.space/douchi/media_attachments/files/113/649/940/703
 
 ### 容器
 以及虽然不出门上班，但去女朋友家的时候背装备的：
-- `背包` [`Aer Travel Sling 2`]({{< relref "/posts/2023-09/4-aer-bag-collection" >}}) 斜挎包不宜久背重物，不过我这种统一栋楼里背电脑和水杯 + 偶尔拿点小零食小礼物的再合适不过了，反而成了我利用率最高的包，败的[一堆包]({{< relref "/tags/backpack/" >}})里唯一一个敢称得上“每天用”的。
+- `背包` [`Aer Travel Sling 2`]({{< relref "/posts/2023-09/4-aer-bag-collection" >}}) 斜挎包不宜久背重物，不过我这种同一栋楼里背电脑和水杯 + 偶尔拿点小零食小礼物的再合适不过了，反而成了我利用率最高的包，败的[一堆包]({{< relref "/tags/backpack/" >}})里唯一一个敢称得上“每天用”的。
 
 ## 健康
 ### 穿戴
-- `手表` [`Garmin Venu 3S`](https://amzn.to/3ZFwD9Y) 实在是受不了所谓智能手表的垃圾续航了出个门还得带充电器，其实心水 Venu 2S 一段时间了但小的一直没上麦克风不能用语音助手所以等到 3 代出了才入手，结果发现和 Google assistant 的 integration 非常不稳定，其实也跟没有这功能没差太多了。但[运动功能]({{< relref "/posts/2023-10/3-garmin-venu-3s" >}})是真的满意。
-- `运动耳机` [`Galaxy Buds Pro 3`](https://amzn.to/48rUQVr) 其实不是专门的运动耳机而是每天跑步为了避免重连想买一副和工作耳机能分开的，它与 AirPods Pro 2 足够接近外加也想试试安卓这版的生态就入手了。[暂时挺满意]({{< relref "/posts/2024-11/7-galaxy-buds-pro-3" >}})。
+- `手表` [`Garmin Venu 3S`](https://amzn.to/3ZFwD9Y) 实在是受不了所谓智能手表的垃圾续航了出个门还得带充电器，其实心水 `Venu 2S` 一段时间了但小的一直没上麦克风不能用语音助手所以等到 3 代出了才入手，结果发现和 Google assistant 的 integration 非常不稳定，其实也跟没有这功能没差太多了。但[运动功能]({{< relref "/posts/2023-10/3-garmin-venu-3s" >}})是真的满意。
+- `运动耳机` [`Galaxy Buds Pro 3`](https://amzn.to/48rUQVr) 其实不是专门的运动耳机而是每天跑步为了避免重连想买一副和工作耳机能分开的，它与 `AirPods Pro 2` 足够接近外加也想试试安卓这版的生态就入手了。[暂时挺满意]({{< relref "/posts/2024-11/7-galaxy-buds-pro-3" >}})。
 - `外套` [`Arc'teryx Atom Hoody`](https://amzn.to/3CE6rog) 前两天在[年度购物]({{< relref "/posts/2024-11/8-shopping-2024" >}}) 里刚夸过，现在基本每天出门不离身了。对西雅图的气候来说太方便了。
 
 ### 日用
 - `电动牙刷` [`Philips Sonicare`](https://amzn.to/3DrZlDN) Costco 大碗装忘了哪个型号了，对电动牙刷也没啥太大研究随便买的。最长一次充电用过 18 天的非洲之行都还有点出门不用带充电器是挺方便的。
 - `加湿器` [`LEVOIT LV600HH`](https://amzn.to/41B8rrT) 跟着 wirecutter 无脑买的。西雅图虽湿但冬天开空调室内也很干燥，不开加湿器早上起来嗓子疼。
-- `米饭锅` [象印米饭锅](https://amzn.to/4izcICp) 女朋友送的 house warming 礼物，年纪大了生病变多得备点能煮粥的器具。本吃面星人都三十多岁了才第一次自己在家购入米和煮米饭 🤣 象印不愧是王者，比之前买过的杂牌小锅 spark joy 多了。
+- `米饭锅` [`象印米饭锅`](https://amzn.to/4izcICp) 女朋友送的 house warming 礼物，年纪大了生病变多得备点能煮粥的器具。本吃面星人都三十多岁了才第一次自己在家购入米和煮米饭 🤣 象印不愧是王者，比之前买过的杂牌小锅 spark joy 多了。
 - `空气炸锅` [`Philips TurboStar`](https://amzn.to/4gdRng1) 独居空气炸锅实在是比烤箱方便太多了，烤个盐酥鸡、三文鱼、虾什么的方便多了，配上 [parchment paper](https://amzn.to/3VEh1SY) 不要太方便。除非做大菜放不下才会放烤箱。
 
 {{< columns >}}
@@ -74,7 +74,7 @@ image: https://media.douchi.space/douchi/media_attachments/files/113/649/940/703
 {{< / columns >}}
 
 ## 娱乐
-- `手机` [`Samsung Galaxy S23 Ultra`](https://amzn.to/3OZteOx) 一入三星深似海，把我前几年每个月换个手机的恶习给断了，从 [S21 Ultra]({{< relref "/posts/2023-archive/2021-03-19-best-smartphone-yet-samsung-galaxy-s21-ultra-review" >}}) 开始到 S23 Ultra，现在真是毫无换机欲望。（中间换过 [Z flip 3]({{< relref "/posts/2023-archive/2021-09-18-galaxy-z-flip-3-review" >}}) 其实不过觉得翻盖用起来不爽就又换回去了）
+- `手机` [`Samsung Galaxy S23 Ultra`](https://amzn.to/3OZteOx) 一入三星深似海，把我前几年每个月换个手机的恶习给断了，从 [`S21 Ultra`]({{< relref "/posts/2023-archive/2021-03-19-best-smartphone-yet-samsung-galaxy-s21-ultra-review" >}}) 开始到 `S23 Ultra`，现在真是毫无换机欲望。（中间换过 [`Z flip 3`]({{< relref "/posts/2023-archive/2021-09-18-galaxy-z-flip-3-review" >}}) 其实不过觉得翻盖用起来不爽就又换回去了）
 
 ### 客厅
 - `电视` [`LG OLED C1 77"`](https://amzn.to/3BGsc6R) 是 LG 电视老用户了，搬家时候就买了个更大的。77 寸是个 1b 小客厅挺合适的尺寸了。其实之前试图买过[投影仪](https://amzn.to/49Ccer8)，发现还是不如电视好用就退了换电视了。
@@ -83,7 +83,7 @@ image: https://media.douchi.space/douchi/media_attachments/files/113/649/940/703
 
 ### 卧室
 - `平板` [`2018 iPad Pro 11"`](https://amzn.to/2MVYktv) iPad Pro 界的性价比王者，当年入坑时候真没想到能用这么久还没换机欲望…… 从一开始的 [Pixel Art 时候]({{< relref "/posts/2023-archive/2020-12-01-ipad-pro-setup" >}})用，到现在基本沦为睡前 ASMR 播放器。估计等哪天 iPad 真上桌面系统了才有换机动力吧……
-- `阅读器` [`Oynx Boox Leaf 2`](https://amzn.to/4iu7VSC) 早年买过一个 [boox nova 2]({{< relref "/posts/2023-archive/2020-05-20-oynx-boox-nova-2-in-between-kindle-and-ipad" >}}) 试图手写吃灰之后送人了，后来 [`2021 iPad Mini`](https://amzn.to/3OVa0JO) (改窄边框那一届)出了之后就改 iPad Mini 看书了。后来有了夏天出门坐草坪看书的需求之后就又买了个像素级抄袭 [`Kindle Oasis`](https://amzn.to/3OTLFnN) 设计的 `leaf 2` （因为需要安卓系统看 Google  Play  books），不过还是大多数时间在用更方便的 iPad Pro 和 mini 看书。最近一年[培养早睡习惯]({{< relref "/posts/2024-01/8-how-night-owl-sleep-earlier" >}})开始睡前坐着看实体书之后，电纸书需求随之而来，就又用上了 Leaf 2。唯一不满意的是内存还是有点小，Google Play Books 大概看一周会那么卡死一次，有点 annoying。但也没有什么特别有购买欲的新型号，暂时就不换了。
+- `阅读器` [`Oynx Boox Leaf 2`](https://amzn.to/4iu7VSC) 早年买过一个 [boox nova 2]({{< relref "/posts/2023-archive/2020-05-20-oynx-boox-nova-2-in-between-kindle-and-ipad" >}}) 试图手写吃灰之后送人了，后来 [`2021 iPad Mini`](https://amzn.to/3OVa0JO) (改窄边框那一届)出了之后就改 iPad Mini 看书了。后来有了夏天出门坐草坪看书的需求之后就又买了个像素级抄袭 [`Kindle Oasis`](https://amzn.to/3OTLFnN) 设计的 `leaf 2` （因为需要安卓系统看 Google  Play  books），不过还是大多数时间在用更方便的 iPad Pro 和 mini 看书。最近一年[培养早睡习惯]({{< relref "/posts/2024-01/8-how-night-owl-sleep-earlier" >}})开始睡前坐着看实体书之后，电纸书需求随之而来，就又用上了 `Leaf 2`。唯一不满意的是内存还是有点小，Google Play Books 大概看一周会那么卡死一次，有点 annoying。但也没有什么特别有购买欲的新型号，暂时就不换了。
 
 其实还有一台 `HZXT H1` 的 ITX PC 打游戏和 `steam deck` 出门用，不过发现年纪大了打游戏的时间和欲望真的下降了，搬家以来甚至还没开过机…… 
 
