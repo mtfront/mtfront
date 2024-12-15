@@ -21,7 +21,7 @@ BookComments: False
 - 🎬 [`The Wild Robot`](https://neodb.social/movie/2gzky4gck88Gs8O1ZSX2iK)
 - 🎬 [`黑白厨师`](https://neodb.social/tv/season/2mFTCgFI60dsNCrlJhxq9i) on Netflix
 - 🎮 [`Classic Solitaire NETFLIX`](https://play.google.com/store/apps/details?id=com.netflix.NGP.Solitaire) 
-- 🎧 [`Galaxy Buds Pro 3`](https://amzn.to/48rUQVr)，[测评]({{< relref "/posts/2024-11/7-galaxy-buds-pro-3" >}})
+- 🖥️ [`Dell U4025QW`](https://amzn.to/4gc1K3B)
 - 🧥 [`Arc'teryx Atom Hoody`](https://amzn.to/3CE6rog)
 
 ## 近期目标
