@@ -13,7 +13,7 @@ bookToc: false
 - 现居美国西雅图粗糙码农
 - 电影、电子产品爱好者，单机游戏玩家，PC 厨
 - 果黑，索黑，讨厌小孩、滑雪、密室逃脱、客服电话
-- 写了二十年博客，2020 年入坑 [pixel art]({{< relref "/posts/2023-archive/2020-08-09-100-days-of-pixel-art" >}})，2023 开始做[播客](https://blog.douchi.space/podcast-bgm)，持续寻找新创作媒介中
+- 写了二十年博客，2020 年入坑 [pixel art]({{< relref "/posts/2023-archive/2020-08-09-100-days-of-pixel-art" >}})，2023 开始做[播客]({{< relref "/tags/podcast/">}})，持续寻找新创作媒介中
 
 如果想要快速了解本博客写什么的话，以下是一些代表性博文：
 - `生活` [关我辟事半月刊]({{< relref "/tags/关我辟事/" >}}) | [喜欢西雅图的地方]({{< relref "/posts/2024-05/4-about-seattle" >}})
@@ -34,7 +34,7 @@ bookToc: false
 ## Where to find me
 [![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/rss.png)](https://blog.douchi.space/index.xml) 订阅本博客 RSS，[为什么 202X 年了你还需要 RSS]({{< relref "/posts/2023-archive/2022-08-28-my-rss-setup">}}) \
 [![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/patreon.png)](https://www.patreon.com/bePatron?u=46962965) Patreon 支持本博客运营和进行选题投票、预约 coffee chat、定制像素画 \
-[![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/spotify.png)]({{< relref "/posts/2024-11/2-podcast-other-than-default" >}}) 各大泛用型播客平台搜索「出厂设置 Other than Default」 \
+[![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/spotify.png)]({{< relref "/posts/2024-11/2-podcast-other-than-default" >}}) 各大泛用型播客平台搜索[「出厂设置 Other than Default」]({{< relref "/posts/2024-11/2-podcast-other-than-default" >}}) \
 [![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/notion.png)](https://mtfront.notion.site/mtfront-shopping-reviews-e568ee6ebaa44b5da146cbe4ac4663eb) 消费主义剁手安利数据库 \
 [![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/telegram.png)](https://t.me/mtfront) Telegram 日常看到有意思的东西剪报 \
 [![](https://douchi.sfo3.cdn.digitaloceanspaces.com/random/logo/mastodon.png)](https://douchi.space/@mtfront) 长毛象日常碎碎念 \

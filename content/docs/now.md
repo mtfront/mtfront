@@ -8,28 +8,27 @@ BookComments: False
 *2024-10-7 Mt Rainier 秋景*
 
 ## 近况
-- [喜提中年人第一次被裁]({{< relref "/posts/2024-02/3-layoff" >}})
+- [喜提中年人第一次被裁]({{< relref "/posts/2024-02/3-layoff" >}})，然后在[工作十周年]({{< relref "/posts/2024-10/5-career-10-years" >}})开始了新的工作
 - `玩物志`月刊更名[`关我辟事`]({{< relref "/tags/关我辟事" >}})半月刊啦！
 - 告别开了 5 年半的[小白]({{< relref "/posts/2024-01/14-bye-s3" >}})买了新车[小霾]({{< relref "/posts/2024-01/15-spark-joy-digest-vol-10-2024-1b" >}}#小霾)
 - 无业游记连更：美西大环线 road trip（[鸟]({{< relref "/posts/2024-03/6-us-west-loop-road-trip-1" >}}) | [美景]({{< relref "/posts/2024-03/7-us-west-loop-road-trip-2" >}}) | [回家]({{< relref "/posts/2024-03/8-us-west-loop-road-trip-3" >}})）｜ [夏威夷大岛]({{< relref "/posts/2024-04/2-island-of-hawaii-2024" >}}) ｜ [Oreagon 海岸线]({{< relref "/posts/2024-06/6-oregon-coast-road-trip-2024" >}})
-- 在[工作十周年]({{< relref "/posts/2024-10/5-career-10-years" >}})开始了新的工作
 - 搞了[新的播客]({{< relref "/posts/2024-11/2-podcast-other-than-default" >}})！
 - 搬了一间更大采光更好的房间
 
 ## 近期中意
 - 📚 [`Bitch`](https://amzn.to/47iaaDm) by Lucy Cooke，[读书笔记]({{< relref "/posts/2024-09/4-book-bitch" >}})
 - 🎬 [`The Wild Robot`](https://neodb.social/movie/2gzky4gck88Gs8O1ZSX2iK)
-- 🎬 [`黑白厨师`](https://neodb.social/tv/season/2mFTCgFI60dsNCrlJhxq9i) on Netflix
+- 🎬 [`借东西的小人阿莉埃蒂`](http://movie.douban.com/subject/4202302/)
+- 🎬 [`黑白厨师`](https://neodb.social/tv/season/2mFTCgFI60dsNCrlJhxq9i)
 - 🎮 [`Classic Solitaire NETFLIX`](https://play.google.com/store/apps/details?id=com.netflix.NGP.Solitaire) 
-- 🖥️ [`Dell U4025QW`](https://amzn.to/4gc1K3B)
+- 🖥️ [`Dell U4025QW 显示器`](https://amzn.to/4gc1K3B)
 - 🧥 [`Arc'teryx Atom Hoody`](https://amzn.to/3CE6rog)
 
 ## 近期目标
 - 一些 [2024 的量化 flag]({{< relref "/posts/2023-12/10-2024-flags">}})
 - 待更游记：肯尼亚探索新大陆
-- 每天跑步（一周至少 5 天）
-- 认真学习一些工作上的业务
 - 重新适应工作的节奏平衡工作、健康和爱好
+- 趁年底假期把积压的一些 todo 做了
 
 ## Changelog
 - `2024-06-13` [syntax highlighter 主题]({{< relref "/posts/2024-06/4-blog-code-syntax-highlighting" >}}) 改成了 `paraiso-light`
