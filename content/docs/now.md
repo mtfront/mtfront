@@ -14,6 +14,7 @@ BookComments: False
 - 无业游记连更：美西大环线 road trip（[鸟]({{< relref "/posts/2024-03/6-us-west-loop-road-trip-1" >}}) | [美景]({{< relref "/posts/2024-03/7-us-west-loop-road-trip-2" >}}) | [回家]({{< relref "/posts/2024-03/8-us-west-loop-road-trip-3" >}})）｜ [夏威夷大岛]({{< relref "/posts/2024-04/2-island-of-hawaii-2024" >}}) ｜ [Oreagon 海岸线]({{< relref "/posts/2024-06/6-oregon-coast-road-trip-2024" >}})
 - 搞了[新的播客]({{< relref "/posts/2024-11/2-podcast-other-than-default" >}})！
 - 搬了一间更大采光更好的房间
+- 开了个[日更](https://daily.douchi.space?utm_source=blog.douchi.space)站！
 
 ## 近期中意
 - 📚 [`Bitch`](https://amzn.to/47iaaDm) by Lucy Cooke，[读书笔记]({{< relref "/posts/2024-09/4-book-bitch" >}})
@@ -23,6 +24,7 @@ BookComments: False
 - 🎮 [`Classic Solitaire NETFLIX`](https://play.google.com/store/apps/details?id=com.netflix.NGP.Solitaire) 
 - 🖥️ [`Dell U4025QW 显示器`](https://amzn.to/4gc1K3B)
 - 🧥 [`Arc'teryx Atom Hoody`](https://amzn.to/3CE6rog)
+- 🎮 [`Gamesir G8`](https://amzn.to/4fx0vvn)
 
 ## 近期目标
 - 一些 [2024 的量化 flag]({{< relref "/posts/2023-12/10-2024-flags">}})
