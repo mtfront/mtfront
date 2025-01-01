@@ -45,4 +45,4 @@ imageDes: "摄于 2024-12-24 西雅图"
 - 给想开启这个职业路线的听众朋友们的建议。面试能衡量出候选人的能力吗？什么东西适合学好了再入行，什么可以入行了再学？
 
 收听方式（小宇宙因为要审核更新会慢一些，如果无法使用墙外平台的话可以先在小宇宙关注节目晚些时候就会更新啦）：
-[Spotify](https://creators.spotify.com/pod/show/mtfront/episodes/3-e2st4q3) | [Apple Podcast](https://podcasts.apple.com/us/podcast/3-%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E5%92%8C%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%88%B0%E5%BA%95%E6%98%AF%E5%B9%B2%E5%98%9B%E7%9A%84-%E8%B7%9F%E8%AF%B8%E8%91%9B%E4%BA%AE%E5%92%8C%E7%AE%97%E5%8D%A6%E5%8F%88%E6%9C%89%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB/id1777737220?i=1000682171713) | [小宇宙](https://www.xiaoyuzhoufm.com/podcast/67283)
+[Spotify](https://creators.spotify.com/pod/show/mtfront/episodes/3-e2st4q3) | [Apple Podcast](https://podcasts.apple.com/us/podcast/3-%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E5%92%8C%E6%95%B0%E6%8D%AE%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%88%B0%E5%BA%95%E6%98%AF%E5%B9%B2%E5%98%9B%E7%9A%84-%E8%B7%9F%E8%AF%B8%E8%91%9B%E4%BA%AE%E5%92%8C%E7%AE%97%E5%8D%A6%E5%8F%88%E6%9C%89%E4%BB%80%E4%B9%88%E5%85%B3%E7%B3%BB/id1777737220?i=1000682171713) | [小宇宙](https://www.xiaoyuzhoufm.com/episode/6773088a1e823e72d306a75a)
