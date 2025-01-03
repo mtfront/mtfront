@@ -1,9 +1,11 @@
-{{ $related := .Site.RegularPages.Related . | first 5 }}
-{{ with $related }}
-<h2>相关阅读</h2>
-<ul>
- {{ range . }}
- <li><a href="{{ .RelPermalink }}?utm_source=related" target="_blank">{{ .LinkTitle }}</a></li>
- {{ end }}
-</ul>
+{{ if not .Params.related_off }}
+    {{ $related := .Site.RegularPages.Related . | first 5 }}
+    {{ with $related }}
+    <h2>相关阅读</h2>
+    <ul>
+    {{ range . }}
+    <li><a href="{{ .RelPermalink }}?utm_source=related" target="_blank">{{ .LinkTitle }}</a></li>
+    {{ end }}
+    </ul>
+    {{ end }}
 {{ end }}

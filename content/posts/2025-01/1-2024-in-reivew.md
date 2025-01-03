@@ -14,6 +14,7 @@ bookToc: true
 bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/112/017/500/195/052/080/original/7feaeafa97515c74.jpg
 imageDes:  "Bryce Canyon National Park，摄于 2024-02-29"
+related_off: true
 ---
 
 写博客对我而言是再自然不过的一件事情，因此年年写年终总结也毫无阻力反而成为期待新年的动力之一。每年都会有“庸庸碌碌过了一年什么也没干“的感觉，但每年写完年终总结又会发现其实还是干了很多事情的。这大概也是年终总结，乃至生活博客的强行拔高意义之一吧——把虚无缥缈的记忆变成 tangible 的文字来对抗时间流逝记忆消退的螳臂当车，还能更好地 appreciate 生活。
