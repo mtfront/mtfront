@@ -4,8 +4,8 @@ type: docs
 bookToc: false
 BookComments: False
 ---
-{{< img "https://media.douchi.space/douchi/media_attachments/files/113/319/116/507/275/275/original/9151ad38ab04d421.png" 600 >}} \
-*2024-10-7 Mt Rainier 秋景*
+{{< img "https://media.douchi.space/douchi/media_attachments/files/113/693/282/737/654/742/original/b834f7c1d6fbe818.png" 600 >}} \
+*2024-12 窗外的双彩虹*
 
 ## 近况
 - [喜提中年人第一次被裁]({{< relref "/posts/2024-02/3-layoff" >}})，然后在[工作十周年]({{< relref "/posts/2024-10/5-career-10-years" >}})开始了新的工作
@@ -33,6 +33,13 @@ BookComments: False
 - 趁年底假期把积压的一些 todo 做了
 
 ## Changelog
+- `2025-01-02` 添加彩色 hash 版{{< tag "tag" >}}
+
+{{< details "Archive" >}}
+- `2024-12-27` 添加[日更站](https://daily.douchi.space?utm_source=blog)
+- `2024-11-03` 添加播客卡片
+- `2024-08-03` 评论区添加自定义表情
+- `2024-07-16` 添加**高亮笔**
 - `2024-06-13` [syntax highlighter 主题]({{< relref "/posts/2024-06/4-blog-code-syntax-highlighting" >}}) 改成了 `paraiso-light`
 - `2024-05-31` 静态站一周年，[博客装修小记之三]({{< relref "/posts/2024-05/8-blog-decoration-3" >}})
 - `2024-04-28` 重新整理了首页，添加了最新博文
@@ -41,3 +48,4 @@ BookComments: False
 - `2024-01-10` 添加了前后博文导航 
 - `2024-01-04` 添加了[动态热力图]({{< relref "/posts/2024-01/3-hugo-blog-heatmap" >}}) 
 - `2024-01-01` 评论区迁移到了 [twikoo]({{< relref "/posts/2024-01/1-comments-twikoo" >}}) 
+{{< / details >}}

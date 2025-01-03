@@ -389,8 +389,12 @@ body[dir="rtl"] .book-menu {
   display: inline;
   padding: 0 $padding-4;
   border-radius: 2px;
-  font-size: 0.75em;
   background:var(--tag-color);
+  font-size: 0.875em;
+}
+
+.tag-small {
+  font-size: 0.75em;
   color: var(--gray-500);
 }
 

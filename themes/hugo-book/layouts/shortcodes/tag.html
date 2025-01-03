@@ -1,0 +1,7 @@
+
+
+{{ $content := .Get 0}}
+{{ $tagColor := substr (md5 $content) 0 6}}
+<!-- hex code attach opacity to end of code, 33 is 20% opacity  -->
+<!-- to add link here, you'd need to search Taxonomies for url, but it doesn't have chinese tag -->
+<div class="tag" style="--tag-color: #{{$tagColor}}33" >{{ $content }}</div>
