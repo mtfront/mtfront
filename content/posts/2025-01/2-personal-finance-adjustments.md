@@ -21,20 +21,22 @@ imageDes: "很久以前摄于加州一号公路"
 <!--more-->
 
 我主要做了如下改动：
-- {{< tag "收入" >}} `Paycheck` Checking -> HYSA
-- {{< tag "支出" >}} `信用卡` Checking -> HYSA，手动还款转为自动还款
-- {{< tag "支出" >}} `房租` Checking -> HYSA，本来就是 BILT 信用卡付房租，跟着一起改了
-- {{< tag "储蓄" >}} `定投` Checking -> HYSA
-- {{< tag "储蓄" >}} `Emergency Fund` Checking 剩的钱多了手动打 HYSA -> HYSA 的池子里本来就有个“底”
+| 项目 | 旧 | 新 |
+|  - | - | - |
+| {{< tag "收入" >}} Paycheck | Checking | HYSA |
+| {{< tag "支出" >}} 信用卡 | Checking | HYSA，手动还款转为自动还款 |
+| {{< tag "支出" >}} 房租 | Checking | HYSA |
+| {{< tag "储蓄" >}} 定投 | Checking | HYSA |
+| {{< tag "储蓄" >}} 应急现金 | Checking 剩的多了手动转 HYSA | HYSA 的池子里本来就有个“底” |
 
 现在两个 Checking 和 HYSA 两个账户各司其职（按大约金额大小排序）
 
-|  Checking| HYSA |
+|  Checking | HYSA |
 |  - | - |
-| {{< tag "支出" >}} 付房贷 | {{< tag "储备" >}} Emergency fund | 
+| {{< tag "支出" >}} 付房贷 | {{< tag "储蓄" >}} Emergency fund | 
 | {{< tag "收入" >}} 收租 | {{< tag "收入" >}} 工资 |
 | {{< tag "收入" >}} Venmmo、PayPal| {{< tag "支出" >}} 定投 |
-| {{< tag "支出" >}} ATM 提款 | {{< tag "支出" >}} 房租（信用卡） | 
+| {{< tag "支出" >}} ATM 提款 | {{< tag "支出" >}} 房租（BILT 信用卡） | 
 | {{< tag "支出" >}} 信用卡付不了的杂费 | {{< tag "支出" >}} 信用卡 | 
 | {{< tag "收入" >}} Patreon/Kofi | {{< tag "收入" >}} 利息 |
 | {{< tag "收入" >}} Affiliate | {{< tag "收入" >}} 银行给的各种 bonus |
