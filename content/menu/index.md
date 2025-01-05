@@ -3,6 +3,7 @@ headless: true
 ---
 - [博客 | blog]({{< relref "/posts/" >}})
 - [订阅 | RSS]({{< relref "/">}}index.xml)
+- [问卷 | survey]({{< relref "/posts/2025-01/3-blog-impression-survey" >}})
 - [今日 | daily](https://daily.douchi.space?utm_source=blog.douchi.space)
 - [近况 | now]({{< relref "/now" >}})
 - [关于 | about]({{< relref "/about" >}})
