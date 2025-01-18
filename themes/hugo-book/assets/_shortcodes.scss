@@ -255,3 +255,31 @@
   padding-right:  $padding-16; 
   padding-left: 0px;
 }
+
+open-heart {
+  border: 0.5px solid var(--color-link);
+  border-radius: .4em;
+  padding: 2px 8px;
+}
+open-heart:not([disabled]):hover,
+open-heart:not([disabled]):focus {
+  border-color: var(--color-link-light);
+  cursor: pointer;
+}
+open-heart[disabled] {
+  cursor: not-allowed;
+  background-color: var(--color-link-light);
+  color: #fff;
+}
+open-heart[count]:not([count="0"])::after {
+  padding-left: 4px;
+  content: attr(count);
+  color: var(--color-link)
+}
+
+.reaction-container {
+  display: flex;
+  // justify-self: center;
+  margin-top: 16px;
+  gap: 8px;
+}

@@ -96,7 +96,9 @@
     {{ end }}
     {{- .Content -}}
     {{ if eq .Type "post"}}
+      {{ partial "docs/related" .}}
       {{ partial "docs/support" .}}
+      {{ partial "docs/reaction" . }}
     {{ end }}
   </article>
 {{ end }}
