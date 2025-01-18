@@ -1,5 +1,6 @@
 <!-- This partial can be replaced to support other commenting engines -->
 <!-- {{ template "_internal/disqus.html" . }} -->
+{{ if eq (getenv "HUGO_ENV") "production" }}
 <div class="book-tabs-content markdown-inner">
     <div id="tcomment"></div>
         <script src="https://cdn.jsdelivr.net/npm/twikoo@1.6.39/dist/twikoo.all.min.js"></script>
@@ -14,4 +15,4 @@
         </script>
     </div>
 </div>
-
+{{ end }}
