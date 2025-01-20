@@ -1,13 +1,11 @@
 <!-- https://zhuzi.dev/posts/2025-01-12-open-heart/ -->
-{{ if eq (getenv "HUGO_ENV") "production" }}
+{{ if ne (getenv "HUGO_ENV") "production" }}
 <div class="reaction-container">
-    <open-heart href="https://blog-reaction.mtfront-reaction.workers.dev/blog.douchi.space/{{ .RelPermalink }}" emoji="❤️">❤️</open-heart>
-    
-    <!-- comment for free tier quota sake -->
-    <!-- <open-heart href="https://blog-reaction.mtfront-reaction.workers.dev/blog.douchi.space/{{ .RelPermalink }}" emoji="👍">👍</open-heart>
+    <open-heart href="https://blog-reaction.mtfront-reaction.workers.dev/blog.douchi.space/{{ .RelPermalink }}" emoji="❤️" count=1>❤️</open-heart>
+    <!-- <open-heart href="https://blog-reaction.mtfront-reaction.workers.dev/blog.douchi.space/{{ .RelPermalink }}" emoji="👍">👍</open-heart> -->
     <open-heart href="https://blog-reaction.mtfront-reaction.workers.dev/blog.douchi.space/{{ .RelPermalink }}" emoji="🤣">🤣</open-heart>
     <open-heart href="https://blog-reaction.mtfront-reaction.workers.dev/blog.douchi.space/{{ .RelPermalink }}" emoji="🤔">🤔</open-heart>
-    <open-heart href="https://blog-reaction.mtfront-reaction.workers.dev/blog.douchi.space/{{ .RelPermalink }}" emoji="🤯">🤯</open-heart> -->
+    <open-heart href="https://blog-reaction.mtfront-reaction.workers.dev/blog.douchi.space/{{ .RelPermalink }}" emoji="🤯">🤯</open-heart>
 </div>
 <!-- load web component -->
 <script src="https://unpkg.com/open-heart-element" type="module"></script>

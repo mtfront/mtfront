@@ -97,10 +97,13 @@
     {{- .Content -}}
     {{ if eq .Type "post"}}
       {{ partial "docs/related" .}}
-      <div class="support-container" >
-        {{ partial "docs/reaction" . }}
-        {{ partial "docs/support" .}}
-      </div>
+      <!-- vertical version  -->
+      <!-- <div class="support-container" > -->
+        <!-- {{ partial "docs/reaction" . }}
+        {{ partial "docs/support" .}} -->
+      <!-- </div> -->
+      {{ partial "docs/support" .}}
+      {{ partial "docs/reaction" . }}
     {{ end }}
   </article>
 {{ end }}
