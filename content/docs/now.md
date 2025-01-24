@@ -18,21 +18,22 @@ BookComments: False
 
 ## 近期中意
 - 📚 [`Bitch`](https://amzn.to/47iaaDm) by Lucy Cooke，[读书笔记]({{< relref "/posts/2024-09/4-book-bitch" >}})
-- 🎬 [`The Wild Robot`](https://neodb.social/movie/2gzky4gck88Gs8O1ZSX2iK)
-- 🎬 [`借东西的小人阿莉埃蒂`](http://movie.douban.com/subject/4202302/)
-- 🎬 [`黑白厨师`](https://neodb.social/tv/season/2mFTCgFI60dsNCrlJhxq9i)
-- 🎮 [`Classic Solitaire NETFLIX`](https://play.google.com/store/apps/details?id=com.netflix.NGP.Solitaire) 
+- 🎬 `The Wild Robot`
+- 🎬 `借东西的小人阿莉埃蒂`
+- 🎬 `黑白厨师`
+- 🎮 `死亡细胞` 手机版
 - 🖥️ [`Dell U4025QW 显示器`](https://amzn.to/4gc1K3B)
 - 🧥 [`Arc'teryx Atom Hoody`](https://amzn.to/3CE6rog)
+- 🧥 [`Arc'teryx Lana Merino Wool Tank Top`](https://amzn.to/41WhS5E)
 - 🎮 [`Gamesir G8`](https://amzn.to/4fx0vvn)
 
 ## 近期目标
-- 一些 [2024 的量化 flag]({{< relref "/posts/2023-12/10-2024-flags">}})
+- 重新适应工作的节奏找到 work life balance
+- 探索新的兴趣与社交（西雅图的有缘博友可以联系我～此外可以加入[爬山团]({{< relref "/posts/2025-01/4-seattle-hiking-group" >}})）
 - 待更游记：肯尼亚探索新大陆
-- 重新适应工作的节奏平衡工作、健康和爱好
-- 趁年底假期把积压的一些 todo 做了
 
 ## Changelog
+- `2025-01-17` 添加`<open-heart>` 组件 reaction
 - `2025-01-02` 添加彩色 hash 版{{< tag "tag" >}}
 
 {{< details "Archive" >}}

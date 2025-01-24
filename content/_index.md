@@ -14,9 +14,8 @@ bookToc: false
 {{< heatmap >}}
 {{< stats >}}
 
-## 最近更新
+## 最近更新 ｜ [阅读全部]({{< relref "/posts/" >}})
 {{< hint warning "rss" >}}
 推荐使用 [RSS 订阅]({{< relref "/">}}index.xml)([💡什么是 RSS 以及如何用 RSS 订阅你喜欢的内容]({{< relref "/posts/2023-archive/2022-08-28-my-rss-setup">}})) ：
 {{< / hint >}}
 {{< archive >}}
-[阅读全部博客 ->]({{< relref "/posts/" >}})
