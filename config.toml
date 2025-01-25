@@ -16,3 +16,6 @@ disqusShortname = "mtfront"
     BookRepo = 'https://github.com/mtfront/mtfront'
     BookLogo = 'dino.gif'
     BookMenuBundle = '/menu'
+
+[services.rss]
+    limit = 10

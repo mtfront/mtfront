@@ -33,7 +33,8 @@ BookComments: False
 - 待更游记：肯尼亚探索新大陆
 
 ## Changelog
-- `2025-01-17` 添加`<open-heart>` 组件 reaction
+- `2025-01-23` 添加版权声明
+- `2025-01-17` 添加基于`<open-heart>` 组件的 reaction
 - `2025-01-02` 添加彩色 hash 版{{< tag "tag" >}}
 
 {{< details "Archive" >}}
