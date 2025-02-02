@@ -57,7 +57,7 @@ imageDes: "Midjourney Prompt: top down view of a few books and magazines and a k
 {{< wrap "https://media.douchi.space/douchi/media_attachments/files/112/373/257/308/505/663/original/0cad04d93e40463e.png" l >}}
 忘了是什么由头，2019 年我从淘宝转运了一大批中文实体书，加上去香港台湾时候买的一大堆实体书，和微信读书开始疯狂撒币拉客户，也刚好没多久就赶上了 Covid，我全方位地开始了读书复健。甚至可以在美国的家里整理出一个小书柜了。后来搬了家住公寓空间小，书都塞床底了，对大房子也没什么向往。但非常偶尔地还是想要有一个小时后爸妈家里摆满整个书房墙壁的书架。
 
-既然开始看书了也开始捣鼓设备。之前不同型号的 kindle 前前后后买过三四个，没怎么进 kindle 生态，全部都在吃灰。随着微信读书的兴起，开始研究起它型号的墨水屏，买过一个 [boox nova 2]({{< relref "/posts/2023-archive/2020-05-20-oynx-boox-nova-2-in-between-kindle-and-ipad." >}}) 来看微信读书/豆瓣阅读之类。后来发现，我看书时间比较零碎，看普通电子屏也根本不会视疲劳（或者说平时上班 + 娱乐十几小时盯电子屏，也不差那一小时的 iPad），墨水屏响应慢体验差舍本逐末，从湾区搬家的时候就直接送给朋友，我自己回归 iPad 了。
+既然开始看书了也开始捣鼓设备。之前不同型号的 kindle 前前后后买过三四个，没怎么进 kindle 生态，全部都在吃灰。随着微信读书的兴起，开始研究起它型号的墨水屏，买过一个 [boox nova 2]({{< relref "/posts/2023-archive/2020-05-20-oynx-boox-nova-2-in-between-kindle-and-ipad" >}}) 来看微信读书/豆瓣阅读之类。后来发现，我看书时间比较零碎，看普通电子屏也根本不会视疲劳（或者说平时上班 + 娱乐十几小时盯电子屏，也不差那一小时的 iPad），墨水屏响应慢体验差舍本逐末，从湾区搬家的时候就直接送给朋友，我自己回归 iPad 了。
 
 这个时代看的主要是中文的科普、社科等。电子书阅读习惯基本是睡前前躺在床上用[床头架](https://amzn.to/3sg0c0n) + [鼠标](https://amzn.to/4bmqWSM)翻页看 [iPad](https://amzn.to/4bDUqMb) 上的微信读书，经常看着看着就睡着了。非常偶尔会去图书馆借一些英文的图册或图文书。实体书会老老实实坐在书桌上用 [screen bar 灯光](https://amzn.to/39p4XMu)正襟危坐地阅读，甚至还会手敲读书笔记，比如[艺术的故事]({{< relref "/posts/2023-archive/2020-12-18-book-story-of-art" >}}).
 

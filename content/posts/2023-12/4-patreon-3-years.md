@@ -61,7 +61,7 @@ covid 期间我也开始了 [100 天像素画]({{< relref "/posts/2023-archive/2
 ## 我最喜欢的几篇 Patreon 作品
 虽然 [Patreon 这个 tag]({{< relref "/tags/patreon" >}}) 下面放了好多，但其中有一些是我自己想写强行加进来的。这里为了提高含金量，就只说大家命题的了。
 - [手机摄影小白简易入门]({{< relref "/posts/2023-11/3-smartphone-photography-for-beginners" >}}) - 本来不大想写，被选出来硬着头皮上，结果写出来还挺满意的一篇文章。还为它没有多少浏览量而耿耿于怀了好久。
-- [2023 年了你为什么需要写博客]({{< relref "/posts/2023-08/5-2023-why-you-need-a-blog." >}}) - 一次平票命题，也是本来不想写硬着头皮上，写出来之后意外满意。这篇吸引了不少新读者，写[静态博客半年记]({{< relref "/posts/2023-12/1-static-blog-half-year" >}})时候发现它已经是迁移之后最受欢迎的一篇文章了。
+- [2023 年了你为什么需要写博客]({{< relref "/posts/2023-08/5-2023-why-you-need-a-blog" >}}) - 一次平票命题，也是本来不想写硬着头皮上，写出来之后意外满意。这篇吸引了不少新读者，写[静态博客半年记]({{< relref "/posts/2023-12/1-static-blog-half-year" >}})时候发现它已经是迁移之后最受欢迎的一篇文章了。
 - [湾区 vs 西雅图——搬家一年小记]({{< relref "/posts/2023-archive/2022-11-25-bay-area-vs-seattle" >}}) - 改变生活，记录生活，分享生活，贴近我写博客初衷的一篇长文。也有不少 organic 搜索流量，能为大家提供价值我很高兴。
 - [割以永治 part 1：我跟月经战斗的二十年]({{< relref "/posts/2023-archive/2022-11-06-hysterectomy-fighting-period-part-1" >}}) - 被我到处 quote 到烦的一篇。倒不是文字本身写得多满意，而是记录的事情太让人愉悦了。
 - [2020 个人 side project 总结]({{< relref "/posts/2023-archive/2020-12-24-2020-side-project-recap" >}}) - 回头看 covid 的那一年真的做了不少事情，要是没有金主选题出来写的这篇文章，可能就不会有这个 recognize 和 appreciate 自己的机会。

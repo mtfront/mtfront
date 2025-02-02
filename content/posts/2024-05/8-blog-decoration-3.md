@@ -92,7 +92,7 @@ imageDes: "MidJourney prompt: pixel art style person decorating their home --ar 
 {{< archive >}}
 
 ### 博客统计
-重整首页之后把热力图从[近况]({{< relref "/now" >}})挪到了首页，就顺手又加了个博客统计 shortcode：
+重整首页之后把热力图从[近况]({{< relref "now" >}})挪到了首页，就顺手又加了个博客统计 shortcode：
 
 ```Go-HTML-Template
 {{$scratch := newScratch}}

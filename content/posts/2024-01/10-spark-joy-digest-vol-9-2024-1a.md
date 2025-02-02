@@ -101,7 +101,7 @@ imageDes: "MidJourney prompt: a power button, game isometric 2D style --ar 16:9"
 ## 书
 ### [Atlas of the Invisible](https://amzn.to/3S4N2kq)
 看封面以为是本讲老地图的书，差点被耽搁了。其实讲的是人文社会在地理位置上的数据可视化，从内容到价值观都很现代，storytelling 也挺连续的。对选题的兴趣不一有些浅浅翻过，但制作确实十分精良。
-{{< neodb "https://neodb.social/book/39KWUHpl5xpYWeASt51FGP" >}}
+{{< neodb "https://neodb.social/book/39KWUHpl5xpYWeASt51FGP" 8 >}}
 
 ### 在读
 - [`Chip War`](https://amzn.to/3O5BEnp) 在书单里一段时间了，前些时候看象友惊叹这书简中版得删多少啊，遂光速删掉自己 library 里的简中版开始看英文版。还蛮好读的。

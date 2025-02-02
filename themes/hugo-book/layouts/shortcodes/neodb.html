@@ -10,7 +10,18 @@
   {{ $dbApiUrl = "https://neodb.social/api/catalog/fetch?url=" }}
 {{ end }}
 
-{{ $dbFetch := getJSON $dbApiUrl $dbType }}
+
+{{ $request := printf "%s%s" $dbApiUrl $dbType }}
+{{ $dbFetch := dict }}
+{{ with try (resources.GetRemote $request ) }}
+  {{ with .Err }}
+    {{ errorf "%s" . }}
+  {{ else with .Value }}
+    {{ $dbFetch = . | transform.Unmarshal }}
+  {{ else }}
+    {{ errorf "Unable to get remote resource %q" $request }}
+  {{ end }}
+{{ end }}
 
 {{ if $dbFetch }}
   <!-- {{ $itemRating := 0 }}{{ with $dbFetch.rating }}{{ $itemRating = . }}{{ end }} -->
