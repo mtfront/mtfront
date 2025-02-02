@@ -11,6 +11,10 @@ disqusShortname = "mtfront"
 [markup]
     [markup.highlight]
         style = 'paraiso-light'     # style demos https://pygments.org/demo/
+    
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
 
 [params]
     BookRepo = 'https://github.com/mtfront/mtfront'
