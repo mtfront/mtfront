@@ -1,5 +1,5 @@
 <!-- https://zhuzi.dev/posts/2025-01-12-open-heart/ -->
-{{ if eq (getenv "HUGO_ENV") "production" }}
+{{ if eq (hugo.Environment) "production" }}
 <div class="reaction-container">
     <open-heart href="https://blog-reaction.mtfront-reaction.workers.dev/blog.douchi.space/{{ .RelPermalink }}" emoji="❤️" count=1>❤️</open-heart>
     <!-- <open-heart href="https://blog-reaction.mtfront-reaction.workers.dev/blog.douchi.space/{{ .RelPermalink }}" emoji="👍">👍</open-heart> -->
