@@ -20,7 +20,7 @@ image: https://miro.medium.com/v2/resize:fit:1400/1*HQlYYpS4PD7E5CNqHUlX-w.jpeg
 imageDes: "图源：https://medium.com/javarevisited/what-i-learned-from-the-book-system-design-interview-an-insider-guide-77562e48cdaa"
 ---
 
-准备面试时候看了被同侪们多次提到的的 Alex Yu 的 [`System Design Interview: An Insider's Guide`](https://amzn.to/3LlsYre)，比意料中实用。开始看头几章科普时候还会担心讲得太浅，到实际案例的时候就发现深度不错很适合一小时面试的 scope，而且意外还学到了些新东西，面试倾向的又不像 DDIA 挖那么深所以好读很多。选的案例也都很经典（除了最后两个个人觉得有点偏），而且有层层递进关系看得甚至有点小爽。书里给的 get buy in - estimate (这个环节我不喜欢) - dive deep - wrap up 的面试套路也挺有启发。总之全书看下来比零散地看没深度的 YouTube system design 讲解系统多了，立刻就去买了 [volume 2](https://amzn.to/4cZmtGh)。豆瓣短评里说简笔画火箭可太贴切了，但没办法就是要考，还是很实用的。
+准备面试时候看了被同侪们多次提到的的 Alex Xu 的 [`System Design Interview: An Insider's Guide`](https://amzn.to/3LlsYre)，比意料中实用。开始看头几章科普时候还会担心讲得太浅，到实际案例的时候就发现深度不错很适合一小时面试的 scope，而且意外还学到了些新东西，面试倾向的又不像 DDIA 挖那么深所以好读很多。选的案例也都很经典（除了最后两个个人觉得有点偏），而且有层层递进关系看得甚至有点小爽。书里给的 get buy in - estimate (这个环节我不喜欢) - dive deep - wrap up 的面试套路也挺有启发。总之全书看下来比零散地看没深度的 YouTube system design 讲解系统多了，立刻就去买了 [volume 2](https://amzn.to/4cZmtGh)。豆瓣短评里说简笔画火箭可太贴切了，但没办法就是要考，还是很实用的。
 
 因为自己本来就要写一遍 bullet points 读书笔记作为给自己面试的复习材料，写都写了索性分享出来。
 

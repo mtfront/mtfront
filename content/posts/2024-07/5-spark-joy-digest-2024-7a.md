@@ -37,7 +37,7 @@ imageDes: "MidJourney prompt: climbing stairs pixel art game style --ar 16:9"
 买了 leetcode 之后发现三年不见它加了好多功能，resizable and collapsible 窗口、tab 化页面、一键重用 failed test case、自定义布局等等。虽然需要一定时间适应，也有一些功能我不喜欢（问题列表默认是 similar questions 而不是回到全问题列表了），但整体感觉功能强大了很多。非会员的运行代码速度跟三年前的会员速度差不多了，会员速度更是飞快很多时候接近本地运行了。加上网上各类其它资料的极大丰富，不得不感叹短短这几年码农找工作界复习资料真是爆炸性增长了。
 
 ### [System Design Interview: An Insider's Guide](https://amzn.to/3LlsYre)
-准备面试时候看了被同侪们多次提到的的 Alex Yu 的 [`System Design Interview: An Insider's Guide`](https://amzn.to/3LlsYre)，比意料中实用。开始看头几章科普时候还会担心讲得太浅，到实际案例的时候就发现深度不错很适合一小时面试的 scope，而且意外还学到了些新东西，面试倾向的又不像 DDIA 挖那么深所以好读很多。选的案例也都很经典（除了最后两个个人觉得有点偏），而且有层层递进关系看得甚至有点小爽。书里给的 get buy in - estimate (这个环节我不喜欢) - dive deep - wrap up 的面试套路也挺有启发。总之全书看下来比零散地看没深度的 YouTube system design 讲解系统多了，立刻就去买了 [volume 2](https://amzn.to/4cZmtGh)。豆瓣短评里说简笔画火箭可太贴切了，但没办法就是要考，还是很实用的。
+准备面试时候看了被同侪们多次提到的的 Alex Xu 的 [`System Design Interview: An Insider's Guide`](https://amzn.to/3LlsYre)，比意料中实用。开始看头几章科普时候还会担心讲得太浅，到实际案例的时候就发现深度不错很适合一小时面试的 scope，而且意外还学到了些新东西，面试倾向的又不像 DDIA 挖那么深所以好读很多。选的案例也都很经典（除了最后两个个人觉得有点偏），而且有层层递进关系看得甚至有点小爽。书里给的 get buy in - estimate (这个环节我不喜欢) - dive deep - wrap up 的面试套路也挺有启发。总之全书看下来比零散地看没深度的 YouTube system design 讲解系统多了，立刻就去买了 [volume 2](https://amzn.to/4cZmtGh)。豆瓣短评里说简笔画火箭可太贴切了，但没办法就是要考，还是很实用的。
 
 因为自己本来就要写一遍 bullet points 读书笔记作为给自己面试的复习材料，写都写了索性分享出来:[「优秀简笔画火箭教程——读《System Design Interview: An Insider's Guide》」]({{< relref "/posts/2024-07/3-book-system-design-interview-1" >}})。有点好笑的是当年我第一次在本校成为出圈小网红还是写毛概笔记成了打印店热销材料 be like 王后雄，十几年过去了我竟然还在写复习资料，人生是个圈（？）
 
