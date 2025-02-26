@@ -21,11 +21,11 @@ BookComments: False
 - 🎬 `The Wild Robot`
 - 🎬 `借东西的小人阿莉埃蒂`
 - 🎬 `黑白厨师`
-- 🎮 `死亡细胞` 手机版
+- 🎮 `天国：拯救 2`
 - 🖥️ [`Dell U4025QW 显示器`](https://amzn.to/4gc1K3B)
 - 🧥 [`Arc'teryx Atom Hoody`](https://amzn.to/3CE6rog)
-- 🧥 [`Arc'teryx Lana Merino Wool Tank Top`](https://amzn.to/41WhS5E)
-- 🎮 [`Gamesir G8`](https://amzn.to/4fx0vvn)
+- 👟 [`Adidas Adizero SL2`](https://amzn.to/3ETI9Ih)
+
 
 ## 近期目标
 - 重新适应工作的节奏找到 work life balance
