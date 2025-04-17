@@ -8,7 +8,6 @@ categories:
   - 喜欢就买
 tags:
   - 关我辟事
-  - backpack
 booktoc: true
 bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/114/249/856/640/772/108/original/9dd739186a03229d.png
