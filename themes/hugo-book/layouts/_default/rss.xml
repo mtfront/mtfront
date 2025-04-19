@@ -15,9 +15,8 @@
           <image url="{{ . }}" />
         {{ end }}
         <description>
-            <img src="{{ .Params.image }}"></img>
-            {{ .Summary | html }}
-            Read more on original site
+            {{ .Summary | html }}...
+            <a href="{{ .Permalink }}">Read more </a>
         </description>
       </item>
     {{ end }}
