@@ -2,11 +2,12 @@
 headless: true
 ---
 - [博客 | blog]({{< relref "/posts/" >}})
-- [播客 | podcast]({{< relref "/posts/2024-11/2-podcast-other-than-default" >}})
+- [订阅 | rss]({{< relref "/">}}index.xml)
 - [今日 | daily](https://daily.douchi.space?utm_source=blog.douchi.space)
+- [跬步 | steps](https://run.douchi.space?utm_source=run.douchi.space)
 - [简报 | newsletter]({{< relref "/tags/关我辟事/" >}})
-- [关于 | about]({{< relref "about" >}})
-- [近况 | now]({{< relref "now" >}})
+- [播客 | podcast]({{< relref "/posts/2024-11/2-podcast-other-than-default" >}})
 - [问卷 | survey]({{< relref "/posts/2025-01/3-blog-impression-survey" >}})
 - [友链 | friends]({{< relref "friends" >}})
-- [订阅 | rss]({{< relref "/">}}index.xml)
+- [近况 | now]({{< relref "now" >}})
+- [关于 | about]({{< relref "about" >}})

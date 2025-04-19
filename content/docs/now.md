@@ -30,6 +30,7 @@ BookComments: False
 - 待更游记：肯尼亚探索新大陆
 
 ## Changelog
+- `2025-04-19` 修改 RSS 样式，添加 [running page](https://run.douchi.space?utm_source=blog) 链接
 - `2025-01-23` 添加版权声明
 - `2025-01-17` 添加基于`<open-heart>` 组件的 reaction
 - `2025-01-02` 添加彩色 hash 版{{< tag "tag" >}}
