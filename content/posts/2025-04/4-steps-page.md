@@ -63,7 +63,7 @@ const PRIVACY_MODE = true;
 ### Garmin 选择 fit 数据
 像前面一步说的，默认的 `.gpx` 文件会忽略跑步机的数据。 `.fit` 文件则没有问题。将 `.github/workflows/run_data_sync.yml` 中修改添加 `--fit`：
 ```yml
-python run_page/garmin_sync.py ${{ secrets.GARMIN_SECRET_STRING }}
+python run_page/garmin_sync.py ${{ secrets.GARMIN_SECRET_STRING }} --fit
 ```
 
 ### 同时同步两个数据源
@@ -96,7 +96,7 @@ python run_page/strava_sync.py ${{ secrets.STRAVA_CLIENT_ID }} ${{ secrets.STRAV
 
 ### gitignore
 在原有基础上添加：
-```
+```text
 node_modules
 run   # 我的虚拟环境
 FIT_OUT_local_backup    # workflow 会生成 cache，本地源文件我就备份起来了。
