@@ -33,7 +33,7 @@ imageDes: "摄于 2025-04-12 Roozengaarde"
 
 ## 事
 - `博客` 前阵子想写博客又写不出，定睛一看最近写了太多不 tangible 的养生鸡汤了，立刻回归初心写了篇久违的[消费主义测评]({{< relref "/posts/2025-04/2-curved-wide-sceen-dell-U4025QW" >}})，突然感觉找回些以前写博客的感觉了。
-- `折腾` 可能也不算博客，在[博友](https://viazure.cc/posts/tinkering/running-page-usage-experience/?utm_source=blog.douchi.space)那里看到了 [running page 挺有意思也自己搞了一个](https://steps.doucih.space/?utm_source=blog)。不过还有很多地方[想改](https://daily.douchi.space/post/2025-04/20250415/?utm_source=blog)，改完了又可以发装修了！（渴求 tangible 博客的我竟然连装修也想写了起来）
+- `折腾` 可能也不算博客，在[博友](https://viazure.cc/posts/tinkering/running-page-usage-experience/?utm_source=blog.douchi.space)那里看到了 [running page 挺有意思也自己搞了一个](https://steps.douchi.space/?utm_source=blog)。不过还有很多地方[想改](https://daily.douchi.space/post/2025-04/20250415/?utm_source=blog)，改完了又可以发装修了！（渴求 tangible 博客的我竟然连装修也想写了起来）
 - `职业` 经历了一波极度[厌班](https://daily.douchi.space/post/2025-04/20250405/?utm_source=blog)之后触底反弹了，大不了自己实行 4 day work week 给缓过来了。这份工作开始 shadow oncall 了，目前还无事发生🤞
 - `职业` 接了第一笔 consulting 的活儿，感觉聊得还不错，又自己注册了一些平台。
 - `健康` 又双叒叕生病了……应该是记忆中第一次类似急性肠胃炎的症状，半夜突然醒了然后开始上吐（胆汁？）下泻。这次甚至算不上有什么诱因，顶多是下午吃饭较早较少，喝了一大瓶抹茶，晚上吃了个橘子，又吃了小袋杨梅山楂。这放年轻时候都不能算个事吧。这次倒是没发烧也没左下腹痛，但好了之后还是虚弱了快一周才好。
