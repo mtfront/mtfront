@@ -5,7 +5,7 @@ type: post
 date: 2025-01-04T16:12:00-08:00
 url: /blog-impression-survey/
 categories:
-  - 不行就分
+  - 关我屁事
 tags:
   - 问卷
   - blog 

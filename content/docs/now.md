@@ -14,6 +14,7 @@ BookComments: False
 - 人到中年开始跑步
 - 搞了[新的播客]({{< relref "/posts/2024-11/2-podcast-other-than-default" >}})！
 - 开了个[日更](https://daily.douchi.space?utm_source=blog.douchi.space)站！
+- 添加了[跬步](https://steps.doucih.space?utm_source=blog)页面
 
 ## 近期中意
 - 📚 [`Engineering in Plain Sight`](https://amzn.to/43MmSdX) by Grady Hillhouse
@@ -23,14 +24,13 @@ BookComments: False
 - 🧥 [`Arc'teryx Atom Hoody`](https://amzn.to/3CE6rog)
 - 👟 [`Adidas Adizero SL2`](https://amzn.to/3ETI9Ih)
 
-
 ## 近期目标
 - 重新适应工作的节奏找到 work life balance
 - 探索新的兴趣与社交（西雅图的有缘博友可以联系我～此外可以加入[爬山团]({{< relref "/posts/2025-01/4-seattle-hiking-group" >}})）
 - 待更游记：肯尼亚探索新大陆
 
 ## Changelog
-- `2025-04-19` 修改 RSS 样式，添加 [running page](https://run.douchi.space?utm_source=blog) 链接
+- `2025-04-19` 修改 RSS 样式，添加 [跬步](https://steps.doucih.space?utm_source=blog) 链接
 - `2025-01-23` 添加版权声明
 - `2025-01-17` 添加基于`<open-heart>` 组件的 reaction
 - `2025-01-02` 添加彩色 hash 版{{< tag "tag" >}}
