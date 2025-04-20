@@ -16,7 +16,7 @@
         {{ end }}
         <description>
             {{ .Summary | html }}...
-            <h3>Read more on <a href="{{ .Permalink }}">{{ .Site.BaseURL }} </a></h3>
+            Read more on original site {{ .Permalink }}
         </description>
       </item>
     {{ end }}
