@@ -4,17 +4,18 @@ type: docs
 bookToc: false
 BookComments: False
 ---
-{{< img "https://media.douchi.space/douchi/media_attachments/files/114/328/295/108/278/132/original/02744ad7ec377112.jpg" 600 >}} \
-*2025-4 Roozengaarde 春暖花开啦*
+{{< img "https://media.douchi.space/douchi/media_attachments/files/114/433/318/121/307/761/original/09209e0655820222.png" 600 >}} \
+*摄于 2025-4 台南* 
 
-## 近况
+`updated on 2025-05-03`
+
+## 近况 
 - 喜提中年人第一次被裁之后躺了半年，[工作十周年]({{< relref "/posts/2024-10/5-career-10-years" >}})开始了新的工作
 - 告别开了 5 年半的[小白]({{< relref "/posts/2024-01/14-bye-s3" >}})买了新车[小霾]({{< relref "/posts/2024-01/15-spark-joy-digest-vol-10-2024-1b" >}}#小霾)
-- 无业游记连更：美西大环线 road trip（[鸟]({{< relref "/posts/2024-03/6-us-west-loop-road-trip-1" >}}) | [美景]({{< relref "/posts/2024-03/7-us-west-loop-road-trip-2" >}}) | [回家]({{< relref "/posts/2024-03/8-us-west-loop-road-trip-3" >}})）｜ [夏威夷大岛]({{< relref "/posts/2024-04/2-island-of-hawaii-2024" >}}) ｜ [Oreagon 海岸线]({{< relref "/posts/2024-06/6-oregon-coast-road-trip-2024" >}})
+- 无业游记连更：美西大环线 road trip（[鸟]({{< relref "/posts/2024-03/6-us-west-loop-road-trip-1" >}}) | [美景]({{< relref "/posts/2024-03/7-us-west-loop-road-trip-2" >}}) | [回家]({{< relref "/posts/2024-03/8-us-west-loop-road-trip-3" >}})）｜ [夏威夷大岛]({{< relref "/posts/2024-04/2-island-of-hawaii-2024" >}}) ｜ [Oreagon 海岸线]({{< relref "/posts/2024-06/6-oregon-coast-road-trip-2024" >}})，肯尼亚拖欠一年……
 - 人到中年开始跑步
-- 搞了[新的播客]({{< relref "/posts/2024-11/2-podcast-other-than-default" >}})！
-- 开了个[日更](https://daily.douchi.space?utm_source=blog.douchi.space)站！
-- 添加了[跬步](https://steps.douchi.space?utm_source=blog)页面
+- 近期几个项目：[出厂设置播客]({{< relref "/posts/2024-11/2-podcast-other-than-default" >}})｜[日更站](https://daily.douchi.space?utm_source=blog.douchi.space)｜[跬步](https://steps.douchi.space?utm_source=blog)
+- 刚从台湾玩回来，努力倒时差中
 
 ## 近期中意
 - 📚 [`Engineering in Plain Sight`](https://amzn.to/43MmSdX) by Grady Hillhouse
@@ -26,8 +27,8 @@ BookComments: False
 
 ## 近期目标
 - 重新适应工作的节奏找到 work life balance
+- 调养生息好好养胃
 - 探索新的兴趣与社交（西雅图的有缘博友可以联系我～此外可以加入[爬山团]({{< relref "/posts/2025-01/4-seattle-hiking-group" >}})）
-- 待更游记：肯尼亚探索新大陆
 
 ## Changelog
 - `2025-04-19` 修改 RSS 样式，添加 [跬步](https://steps.douchi.space?utm_source=blog) 链接
