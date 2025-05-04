@@ -1,5 +1,5 @@
 ---
-title: 关我辟事 Vol.39：台湾之旅
+title: 关我辟事 Vol.39：台湾遛弯
 author: 椒盐豆豉
 type: post
 date: 2025-05-03T21:11:00-07:00
