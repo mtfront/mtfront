@@ -50,7 +50,7 @@ imageDes: "摄于 2024-3 Zion 国家公园"
 关于[平时的理财原则之前写过多次了]({{< relref "/posts/2023-archive/2022-09-25-personal-finance-for-dummies-2-0" >}})这里不赘述了，列一下现在还在用的理财账户/工具：
 - [m1 finance](https://m1.finance/3k2CE5UGXvjS)：定投，失业期间也没停过，不过后几个月烧现金的时候减半了投的量，重新拿工资之后应该会再调高。我现在差不多 1/3 liquid 资产在里面。（还有一大部分税务优惠账户在 Fidelity）
 - [Goldman Sachs Marcus](https://www.marcus.com/share/FAN-NS4-YMS9)：现金，没收入期间用得比以往多了因为要从里面往出打钱。虽然 APY 不是市场最优的但我叠满了 referred bonus 基本一直有 +1.0% 的 APY能叠到现在还有 5.1% 就很不错了。我一不从里面频繁取大额（网上似乎有人有洗钱嫌疑被封号的）二不需要客服，所以很符合我的需求。
-- Empower PER: 跨账户资产统计，也有 lightweight 记账/budgeting 功能，之前它还叫 personal capital 的时候就开始用了也赚了不少 referral bonus，之后 sync 老断所以怒删号跑路了一段时间，但后来发现别家还不如它，就老老实实又开回来了……适合有多种资产想要一个中心 app 来 monitor 的。
+- [Empower PER](https://empowerreferral.link/fang92): 跨账户资产统计，也有 lightweight 记账/budgeting 功能，之前它还叫 personal capital 的时候就开始用了也赚了不少 referral bonus，之后 sync 老断所以怒删号跑路了一段时间，但后来发现别家还不如它，就老老实实又开回来了……适合有多种资产想要一个中心 app 来 monitor 的。
 
 ## 失业期间的支出大项
 - 车：我这车订了一年多了其实，今年初通知我可以取车了。其实得知被裁的时候犹豫了几秒这车还买不买，但最后想说现在不买下一次再想买还不知道要等多久，外加因为要提车其实已经在过去半年里逐渐增加了现金账户的 contribution，手头攥着挺多现金的。刚好 severance package 也能直接把买车消耗掉的现金补上，无缝衔接。车买回来是要未来好几年享受的，没必要为了暂时的失业优化这个现金流。
