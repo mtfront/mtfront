@@ -1,5 +1,5 @@
 ---
-title: 急救 & CPR 训练笔记
+title: 急救 & CPR 培训笔记
 author: 椒盐豆豉
 type: post
 date: 2025-05-14T00:37:00-07:00
