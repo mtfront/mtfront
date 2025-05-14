@@ -36,7 +36,6 @@ First Aid 的部分主要是看看视频，但讲师加了很多互动环节，�
 - heart attack（因为血管阻塞而导致心脏泵血困难）和 cardiac arrest（心脏骤停，是心脏电活动紊乱引起的，类似于 stroke in your heart）并不是一个东西，前者可能引发后者，但有后者症状（人完全没呼吸了）才需要 CPR。
 - 同理，溺水也需要 CPR 也是主要为了给大脑供氧。
 - 对口吹气是 optional 的。每 30 下（婴儿是 15 下）吹两口气（吹的时候不要继续按压）。如果病人是窒息的你感到吹不进气的话就不要再吹了，可能会 make it worse。
-- 主讲自己的话术小 tips：不要问“can somebody do CPR?”——可能会 discourage people 觉得自己不够专业怕做错事情不敢上。可以问“can somebody help?”
 
 到了重头戏实践环节（具体怎么 perform CPR 没有实践也说不清楚我这里就不试图解释了）。主讲表示女性 less likely to receive CPR 因为人们 don't know how to deal with boobs，然后拿出一堆胸套（？）让我们在无胸假人上 practice 完一遍之后就一直用戴着胸的假人（题图） practice 了。以及女性更容易忽略自己的(mini) heart attack 迹象，因为很多常见其它病症的迹象太像了。
 
@@ -55,6 +54,7 @@ First Aid 的部分主要是看看视频，但讲师加了很多互动环节，�
 最后一些 random takeaways:
 - 所有这些 first aid 的目的都是为了专业急救人员赶到现场/病人赶到医院而争取时间！
 - 第一时间打急救电话很重要。场面很混乱的时候不要发出含混不清的指示（比如 somebody call 911!），直接目光接触指定一个人报警就好。
+- 主讲自己的话术小 tips：不要问“can somebody do CPR?”——可能会 discourage people 觉得自己不够专业怕做错事情不敢上。可以问“can somebody help?”
 - 只有你一个人并且你知道 AED 在哪/能两分钟内找到 AED 的话（美国 business standard 是两分钟之内有）就先去找 AED，多个人的话先做 CPR 的同时让别人去找 AED，还有多余人手的话可以派一个人去建筑入口/街边引导救护车方便快速进入案发现场。
 
 再次强调，**以上内容显然不能代替正经教学，但总比没有强，use your best judgement, and hopefully you don't need to use it.** 这个 training session 应该是本地同事自己找公司要来的，所以感兴趣的朋友也可以主动找公司 facility management 要要看能不能提供免费 training。
