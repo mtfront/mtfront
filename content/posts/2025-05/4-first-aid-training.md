@@ -57,4 +57,4 @@ First Aid 的部分主要是看看视频，但讲师加了很多互动环节，�
 - 第一时间打急救电话很重要。场面很混乱的时候不要发出含混不清的指示（比如 somebody call 911!），直接目光接触指定一个人报警就好。
 - 只有你一个人并且你知道 AED 在哪/能两分钟内找到 AED 的话（美国 business standard 是两分钟之内有）就先去找 AED，多个人的话先做 CPR 的同时让别人去找 AED，还有多余人手的话可以派一个人去建筑入口/街边引导救护车方便快速进入案发现场。
 
-再次强调，**以上内容显然不能代替正经教学，但总比没有强，use your best judgement, and hopefully you don't need to use it.**
+再次强调，**以上内容显然不能代替正经教学，但总比没有强，use your best judgement, and hopefully you don't need to use it.** 这个 training session 应该是本地同事自己找公司要来的，所以感兴趣的朋友也可以主动找公司 facility management 要要看能不能提供免费 training。
