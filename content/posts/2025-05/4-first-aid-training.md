@@ -11,7 +11,7 @@ tags:
   - wellness
   - 导读
   - tutorial
-booktoc: false
+booktoc: true
 bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/114/503/256/458/358/302/original/786bb7e393a6e69d.jpg
 imageDes: "今天 first aid & CPR training 用到的假人"
@@ -21,6 +21,7 @@ imageDes: "今天 first aid & CPR training 用到的假人"
 
 稍微总结下 learning，**以下不能代替正经教学，但总比没有强，use your best judgement, and hopefully you don't need to use it.**
 
+## 常见急救状况
 First Aid 的部分主要是看看视频，但讲师加了很多互动环节，学了如何处理窒息、哮喘、stroke、seizure、bleeding 等等，还大概介绍了，每个事项的原理（感觉应该作为常识教育）。比如：
 - stroke 是大脑供血的问题导致缺氧（及时救助是关键，每 1 小时大脑会衰老 3.5 年！）
 - seizure 则是大脑神经元放电的问题，首要任务是防止发作者伤到自己。
@@ -29,6 +30,7 @@ First Aid 的部分主要是看看视频，但讲师加了很多互动环节，�
 - 危及生命的流血不止要用到的止血那个带子可以抱着可能截肢的风险扎，所以影响范围越小越好。实际中 4、5 个小时内应该都能救回来，所以除了在荒郊野岭之外因为流血不止扎止血带截肢的风险不要太担心。没有止血带时候可以拿别的物件（皮带、鞋带等等）随机应变。
 - 先获得 consent（do you need help?），毕竟很多救助方法（扎针、海姆立克等）都很 intrusive。当然病人昏迷了除外。
 
+## CPR
 接下来到了重头戏 CPR 原理讲解和实践。主讲在对我前两天[逛 reddit](https://douchi.space/@mtfront/114254157932417962) 的时候了解到的 CPR 知识进行了认同的同时补充了以下一些知识：
 - CPR 主要是为了把肺里的空气挤出去供氧（主要是大脑）以为救护车到来争取时间。
 - 不要害羞。Imperfect CPR is better than no CPR。
@@ -41,6 +43,7 @@ First Aid 的部分主要是看看视频，但讲师加了很多互动环节，�
 
 这个假人互动感还挺强的，要力度频率位置都对才会亮绿灯（这让我想到之前了解到美国中学的性教育会给一个会哭（要吃的、换尿布等）的婴儿假人让所有人轮流带回家照顾还要写报告。外国月亮，圆）。主讲带了好几个训练假人，我们分组做了好多次针对不同的练习，最后基本每个人都能稳定地用正确频率、力度和位置在假人上进行 CPR 亮绿灯（当然，主讲也反复强调假人和真人 CPR 完全不一样）。
 
+## AED 
 随后是 AED。本来以为这是个超级专业的东西，没想到其实还挺 fool proof，会语音给出指示以及 check 你 CPR 是否做对的 pad（不是所有机器都有），package 里还包括能帮你消除电击 pad 和病人皮肤阻碍的东西（剪衣服的剪刀、酒精 pad、纸巾等），贴上 pad 之后病人还会帮你判断需不需要使用 AED（不需要 shock 的人接受这个电击反而可能会让你心脏骤停），还会有计数器告诉你 CPR 的节奏，尤其是在紧急状况下慌乱之中应该会让人还挺有信心（？）的，真的紧急情况即便没有 CPR trained 的人可能拿到也会提高成功救人的几率吧。
 
 一些 AED random facts：
@@ -49,8 +52,9 @@ First Aid 的部分主要是看看视频，但讲师加了很多互动环节，�
 - （To my surprise）（至少美国）AED 的信息是联网的，打 911 之后会告诉你哪里有最近的 AED。
 - 影视剧里看到的拿两个铁板烧是个更强更 customizable 版本的 AED，能调整电流强度等等。
 
-学完所有东西之后主讲还让全屋子所有人一起摸你了一次实时演练，大家自行组织轮流 CPR、找 AED、报警等等。然后一起 recap what went well and what didn't。
+学完所有东西之后主讲还让全屋子所有人一起模拟了一次实时演练，大家自行组织轮流 CPR、找 AED、报警等等。然后一起 recap what went well and what didn't。
 
+## 总结
 最后一些 random takeaways:
 - 所有这些 first aid 的目的都是为了专业急救人员赶到现场/病人赶到医院而争取时间！
 - 第一时间打急救电话很重要。场面很混乱的时候不要发出含混不清的指示（比如 somebody call 911!），直接目光接触指定一个人报警就好。
