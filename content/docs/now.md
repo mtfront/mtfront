@@ -4,22 +4,20 @@ type: docs
 bookToc: false
 BookComments: False
 ---
-{{< img "https://media.douchi.space/douchi/media_attachments/files/114/433/318/121/307/761/original/09209e0655820222.png" 600 >}} \
-*摄于 2025-4 台南* 
+{{< img "https://media.douchi.space/douchi/media_attachments/files/114/498/619/188/760/349/original/61dbf6677bd9ac28.png" 600 >}} \
+*摄于 2025-5 Lake Union* 
 
-`updated on 2025-05-03`
+`updated on 2025-05-16`
 
 ## 近况 
-- 喜提中年人第一次被裁之后躺了半年，[工作十周年]({{< relref "/posts/2024-10/5-career-10-years" >}})开始了新的工作
-- 告别开了 5 年半的[小白]({{< relref "/posts/2024-01/14-bye-s3" >}})买了新车[小霾]({{< relref "/posts/2024-01/15-spark-joy-digest-vol-10-2024-1b" >}}#小霾)
+- 去年喜提中年人第一次被裁之后躺了半年，[工作十周年]({{< relref "/posts/2024-10/5-career-10-years" >}})开始了新的工作
 - 无业游记连更：美西大环线 road trip（[鸟]({{< relref "/posts/2024-03/6-us-west-loop-road-trip-1" >}}) | [美景]({{< relref "/posts/2024-03/7-us-west-loop-road-trip-2" >}}) | [回家]({{< relref "/posts/2024-03/8-us-west-loop-road-trip-3" >}})）｜ [夏威夷大岛]({{< relref "/posts/2024-04/2-island-of-hawaii-2024" >}}) ｜ [Oreagon 海岸线]({{< relref "/posts/2024-06/6-oregon-coast-road-trip-2024" >}})，肯尼亚拖欠一年……
-- 人到中年开始跑步
+- 人到中年开始跑步，期待一周年成果！
 - 近期几个项目：[出厂设置播客]({{< relref "/posts/2024-11/2-podcast-other-than-default" >}})｜[日更站](https://daily.douchi.space?utm_source=blog.douchi.space)｜[跬步](https://steps.douchi.space?utm_source=blog)
-- 刚从台湾玩回来，努力倒时差中
+- 努力剪播客中，最近稍微闲一些又开始想做好多播客了…… 
 
 ## 近期中意
 - 📚 [`Engineering in Plain Sight`](https://amzn.to/43MmSdX) by Grady Hillhouse
-- 🎬 第 N 遍重温`纸牌屋`
 - 🎮 沉迷 `天国：拯救 2`
 - 🖥️ [`Dell U4025QW 显示器`](https://amzn.to/4gc1K3B)
 - 🧥 [`Arc'teryx Atom Hoody`](https://amzn.to/3CE6rog)
