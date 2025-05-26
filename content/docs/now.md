@@ -4,10 +4,10 @@ type: docs
 bookToc: false
 BookComments: False
 ---
-{{< img "https://media.douchi.space/douchi/media_attachments/files/114/498/619/188/760/349/original/61dbf6677bd9ac28.png" 600 >}} \
+{{< img "https://media.douchi.space/douchi/media_attachments/files/114/530/490/523/754/237/original/c669a8fb59b269ab.jpg" 600 >}} \
 *摄于 2025-5 Lake Union* 
 
-`updated on 2025-05-16`
+`updated on 2025-05-22`
 
 ## 近况 
 - 去年喜提中年人第一次被裁之后躺了半年，[工作十周年]({{< relref "/posts/2024-10/5-career-10-years" >}})开始了新的工作
@@ -22,8 +22,11 @@ BookComments: False
 - 🖥️ [`Dell U4025QW 显示器`](https://amzn.to/4gc1K3B)
 - 🧥 [`Arc'teryx Atom Hoody`](https://amzn.to/3CE6rog)
 - 👟 [`Adidas Adizero SL2`](https://amzn.to/3ETI9Ih)
+- 🚶 [`Under Desk Treadmill`](https://amzn.to/4mrZqcD)
 
 ## 近期目标
+- 减点脂争取年度 DEXA 有进步！
+- 日行一万步！
 - 重新适应工作的节奏找到 work life balance
 - 调养生息好好养胃
 - 探索新的兴趣与社交（西雅图的有缘博友可以联系我～此外可以加入[爬山团]({{< relref "/posts/2025-01/4-seattle-hiking-group" >}})）
