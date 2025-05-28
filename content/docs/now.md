@@ -4,10 +4,10 @@ type: docs
 bookToc: false
 BookComments: False
 ---
-{{< img "https://media.douchi.space/douchi/media_attachments/files/114/530/490/523/754/237/original/c669a8fb59b269ab.jpg" 600 >}} \
-*摄于 2025-5 Lake Union* 
+{{< img "https://media.douchi.space/douchi/media_attachments/files/114/583/716/856/598/058/original/04dc60c305caf4b2.png" 800 >}} \
+*摄于 2025-5 Smith Rock, OR* 
 
-`updated on 2025-05-22`
+`updated on 2025-05-28`
 
 ## 近况 
 - 去年喜提中年人第一次被裁之后躺了半年，[工作十周年]({{< relref "/posts/2024-10/5-career-10-years" >}})开始了新的工作
