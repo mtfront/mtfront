@@ -121,9 +121,16 @@ ul.pagination {
     width: $menu-width;
     padding: $padding-16;
     background: var(--body-background);
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
 
     @include fixed;
   }
+
+    /* Hide scrollbar for Chrome, Safari and Opera */
+    .book-menu-content::-webkit-scrollbar {
+      display: none;
+    }
 
   a,
   label {
