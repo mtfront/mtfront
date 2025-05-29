@@ -6,6 +6,7 @@
     {{- $limit := .Site.Config.Services.RSS.Limit }}
     {{- $pages := .Site.RegularPages | first $limit }}
     {{ range $pages }}
+      {{ $link := printf `<a href="%s?utm_source=rss">Read more on original site</a>` .Permalink | safeHTML }}
       <item>
         <title>{{ .Title }}</title>
         <link>{{ .Permalink }}</link>
@@ -16,7 +17,7 @@
         {{ end }}
         <description>
             {{ .Summary | html }}...
-            Read more on original site {{ .Permalink }}
+            {{ $link }}
         </description>
       </item>
     {{ end }}
