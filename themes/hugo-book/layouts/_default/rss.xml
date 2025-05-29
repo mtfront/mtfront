@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>{{ .Site.Title }}</title>
-    <link>{{ .Site.BaseURL }}</link>
+    <link>{{ .Site.BaseURL }}?utm_source=rss</link>
     <description>Recent content on {{ .Site.Title }}</description>
     {{- $limit := .Site.Config.Services.RSS.Limit }}
     {{- $pages := .Site.RegularPages | first $limit }}
     {{ range $pages }}
       <item>
         <title>{{ .Title }}</title>
-        <link>{{ .Permalink }}</link>
+        <link>{{ .Permalink }}?utm_source=rss</link>
         <pubDate>{{ .Params.date }} </pubDate>
         <guid>{{ .Permalink }}</guid>
         {{ with .Params.image }}
