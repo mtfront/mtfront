@@ -369,6 +369,17 @@ body[dir="rtl"] .book-menu {
   gap: 4px;
 }
 
+.image-cover {
+  text-align: center;
+}
+
+.image-cover img {
+  width: 100%;
+  max-height: 600px;
+  object-fit: cover;
+  display: block;
+}
+
 .image-desc {
   font-size:small;
   margin-top: 2px; 

@@ -13,7 +13,7 @@
 {{ end }}
 
 {{ if .Params.image }}
-<p>
+<p class="image-cover">
   {{ with .Resources.GetMatch .Params.image }}
     <img src={{ .RelPermalink }} />
   {{ else }}
