@@ -18,7 +18,7 @@ image: https://media.douchi.space/douchi/media_attachments/files/114/438/341/418
 imageDes: "摄于 2025-4 九份·台湾"
 ---
 
-现在这个博客的[“建站”日]({{< relref "/posts/2023-archive/2020-10-29-hello-world-its-me-again" >}})其实应该是 2020 年 10 月 29 日，时隔多年之后终于趁着建长毛象的时候域名买都买了克服了拖延症重回独立博客界。虽然用 Wordpress 的时候也挺高产，但远不如[迁移到 hugo]({{< relref "/posts/2023-archive/2023-05-31-blog-migrate-wordpress-hugo" >}}) 之后来得上心，遂用静态博客启用的时间（2023 年 5 月 31 日）开始作为现在这个博客的建站纪念日。这一晃竟然就是第二个周年的博客总结了，不折腾如我装修小记也写到第四篇了（[1]({{< relref "/posts/2023-archive/2023-06-21-blog-decoration" >}})｜[2]({{< relref "/posts/2024-01/11-blog-decoration-2" >}})｜[3]({{< relref "/posts/2024-05/8-blog-decoration-3" >}})）。时光飞逝岁月如梭啊。
+现在这个博客的[“建站”日]({{< relref "/posts/2023-archive/2020-10-29-hello-world-its-me-again" >}})其实应该是 2020 年 10 月 29 日，时隔多年之后终于趁着建长毛象的时候域名买都买了克服了拖延症重回独立博客界。虽然用 Wordpress 的时候也挺高产，但远不如[迁移到 hugo]({{< relref "/posts/2023-archive/2023-05-31-blog-migrate-wordpress-hugo" >}}) 之后来得上心，遂用静态博客启用的时间（2023 年 5 月 31 日）开始作为现在这个博客的建站纪念日。这一晃竟然就是第二个周年的博客总结了，号称不折腾如我装修小记也写到第四篇了（[1]({{< relref "/posts/2023-archive/2023-06-21-blog-decoration" >}})｜[2]({{< relref "/posts/2024-01/11-blog-decoration-2" >}})｜[3]({{< relref "/posts/2024-05/8-blog-decoration-3" >}})）。时光飞逝岁月如梭啊。
 
 <!--more-->
 ## 内容
@@ -44,7 +44,7 @@ imageDes: "摄于 2025-4 九份·台湾"
   - 「关我辟事」（Vol.18–40，共23篇）
   - 复盘与总结：如[「2024 年终总结」]({{< relref "/posts/2025-01/1-2024-in-reivew" >}})、[「失业十个月中的财务状况」]({{< relref "/posts/2024-11/3-finance-after-layoff" >}})、[「博客印象收集」]({{< relref "/posts/2025-01/3-blog-impression-survey" >}})
 - 健康与养生：13 篇
-- 职业与工作：[「出厂设置」播客]({{< relref "/posts/2024-11/2-podcast-other-than-default" >}})的几篇文章，以及一些 debug log 之类跟工作无关但算是技术香瓜你的博客也被算进来了。
+- 职业与工作：[「出厂设置」播客]({{< relref "/posts/2024-11/2-podcast-other-than-default" >}})的几篇文章，以及一些 debug log 之类跟工作无关但算是技术相关的博客也被算进来了。
 - 金钱与消费：包括了各种理财文和测评。I wouldn't categorize as that but fine...
 - 旅行与摄影：大的两篇游记竟然都是 Oregon…… 上班之后出去玩频率是大幅降低了。
 - 博客写作与技术
