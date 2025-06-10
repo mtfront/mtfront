@@ -7,28 +7,29 @@ BookComments: False
 {{< img "https://media.douchi.space/douchi/media_attachments/files/114/583/716/856/598/058/original/04dc60c305caf4b2.png" 800 >}} \
 *摄于 2025-5 Smith Rock, OR* 
 
-`updated on 2025-05-28`
+`updated on 2025-06-09`
 
 ## 近况 
 - 去年喜提中年人第一次被裁之后躺了半年，[工作十周年]({{< relref "/posts/2024-10/5-career-10-years" >}})开始了新的工作
 - 无业游记连更：美西大环线 road trip（[鸟]({{< relref "/posts/2024-03/6-us-west-loop-road-trip-1" >}}) | [美景]({{< relref "/posts/2024-03/7-us-west-loop-road-trip-2" >}}) | [回家]({{< relref "/posts/2024-03/8-us-west-loop-road-trip-3" >}})）｜ [夏威夷大岛]({{< relref "/posts/2024-04/2-island-of-hawaii-2024" >}}) ｜ [Oreagon 海岸线]({{< relref "/posts/2024-06/6-oregon-coast-road-trip-2024" >}})，肯尼亚拖欠一年……
 - 人到中年开始跑步，期待一周年成果！
 - 近期几个项目：[出厂设置播客]({{< relref "/posts/2024-11/2-podcast-other-than-default" >}})｜[日更站](https://daily.douchi.space?utm_source=blog.douchi.space)｜[跬步](https://steps.douchi.space?utm_source=blog)
-- 努力剪播客中，最近稍微闲一些又开始想做好多播客了…… 
 
 ## 近期中意
 - 📚 [`Engineering in Plain Sight`](https://amzn.to/43MmSdX) by Grady Hillhouse
-- 🎮 沉迷 `天国：拯救 2`
+- 🎮 `天国：拯救 2`
+- 🎮 [`Pikmin Bloom`](https://pikminbloom.onelink.me/pWSt/zyr821mt) 
 - 🖥️ [`Dell U4025QW 显示器`](https://amzn.to/4gc1K3B)
 - 🧥 [`Arc'teryx Atom Hoody`](https://amzn.to/3CE6rog)
 - 👟 [`Adidas Adizero SL2`](https://amzn.to/3ETI9Ih)
 - 🚶 [`Under Desk Treadmill`](https://amzn.to/4mrZqcD)
 
 ## 近期目标
+- 给播客画个封面
 - 减点脂争取年度 DEXA 有进步！
 - 日行一万步！
-- 重新适应工作的节奏找到 work life balance
 - 调养生息好好养胃
+- 重新适应工作的节奏找到 work life balance
 - 探索新的兴趣与社交（西雅图的有缘博友可以联系我～此外可以加入[爬山团]({{< relref "/posts/2025-01/4-seattle-hiking-group" >}})）
 
 ## Changelog
