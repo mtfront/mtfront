@@ -11,7 +11,6 @@ categories:
 tags:
   - patreon
   - productivity
-headless: true
 ---
 之前没觉得自己车到山前必有路喜欢就买不行就分的行事方式是个 feature，直到近几年对 mental health 方面议题稍微了解了一些，发现我根本没有消灭焦虑，而是我本来就不焦虑。各种生产力工具和执行力流程不是我消除焦虑手段，只是我本身没有焦虑的副产品。因此，**标题最多只能算个 clickbait**。
 

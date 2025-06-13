@@ -56,7 +56,7 @@ imageDes: "2025-01-11 摄于 Cougar Mountain，log 也是 blog 的一种！（�
 
 ## 一些我现在写博客的流程/tips
 - **有摄入才有输出，吃了饭才会拉屎**，读得够多才会想，想得够多才会写。多订阅博客、读书看电影打游戏、探索生活中的别的爱好、在网上或现实中跟别人交流。
-- 随手记下想写的屁事（值不值得写以及怎么写晚点再说）。我的 ticktick 有一个 list 是“writing”，想到什么能写的都会先扔进去。在很久以前写的 [productivity system]({{< relref "/posts/2023-archive/2023-03-26-productivity-system" >}})提到过，我手机控制中心点一个按钮就可以开始写 todo，不管你如何 maintain 写作 idea backlog 用什么软件或硬件，friction 越小越好，平台越多越好。
+- 随手记下想写的屁事（值不值得写以及怎么写晚点再说）。我的 ticktick 有一个 list 是“writing”，想到什么能写的都会先扔进去。在很久以前写的 [productivity system]({{< relref "/posts/2023-archive/2023-03-26-productivity-system" >}}) 提到过，我手机控制中心点一个按钮就可以开始写 todo，不管你如何 maintain 写作 idea backlog 用什么软件或硬件，friction 越小越好，平台越多越好。
 - 有屁话社交网络上多放点，不积碎片何以写文章。有时候甚至手机写着写着产生了很多想法就变成一篇博客的 idea 了。
 - 克服“这点屁话没人想看”的完美主义。你又没逼着别人看。
 - 有写作 cadence。最简单的方法是日/周/月记，书影游，游记。没想法总有生活嘛。
