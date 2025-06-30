@@ -8,6 +8,7 @@ categories:
   - 不行就分
 tags:
   - Memory
+  - Patreon
 booktoc: true
 bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/114/555/381/033/786/425/original/19f0283dc0582d95.png
