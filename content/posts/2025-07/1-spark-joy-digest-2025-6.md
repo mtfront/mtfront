@@ -208,7 +208,7 @@ imageDes: "摄于 2025-6 Twin Falls Trail"
 {{< neodb "https://neodb.social/movie/2ur1Hh3eKFIkdRe3bxvV7e" 5 >}}
 实时赶上了这个新闻的展开的时候都没注意到是西雅图（Everett to be specific）的公司，前期还有好多技术是和 UW co-develop 的。这整个事件都一再反映世界有多草台，一个 ego 大到听不得反对意见天天幻想自己能成为跟 Elon Musk 和 Jeff Bezos 比肩的“big swinging dick”（他自己原话）的 CEO 只要有钱就能组着团队盖住所有 red flag 像模像样地拉着几条人命一起陪葬，哪怕早就有吹哨人打官司也不了了之了。但是这片子是拍得有点无聊了，两星半
 
-### 剧
+## 剧
 ### Department Q 👍
 {{< neodb "https://neodb.social/tv/season/3cMg6eupq6mkNbpQS4Q8GT" 8 >}}
 虎头蛇尾，推理性弱，多线线索来以为要环环相扣，结果其实没有太大关系。节奏到后面稍拖，但能忍住对男主的厌恶能看完剧的话整体质感还行，甚至苏格兰口音都能忍了……男主实在 insufferable，是我最讨厌的那种没本事还自命清高脾气贼差人都中年还自以为是中二男主的巨婴男的，非常受不了这种刀子嘴豆腐心所谓忍辱负重诸多 trauma 的人物弧光，忍到四五集之后才能稍微少点扇他耳光的冲动。更忍不了的是还要把这个毫无 redeeming quality 的角色塑造成所有人又爱又恨嘴上说他 asshole 但行为各种容忍和原谅的宇宙中心的设定。尤其是男主的感情戏真是触发各种观看斯德哥尔摩综合症的不适感，都说了不是 borderline 而是 actual stalking 了还给感情戏真的合适吗？？？
