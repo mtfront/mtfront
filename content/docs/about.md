@@ -18,12 +18,12 @@ bookToc: false
 如果想要快速了解本博客写什么的话，以下是一些代表性博文：
 - `生活` [关我辟事半月刊]({{< relref "/tags/关我辟事/" >}}) | [喜欢西雅图的地方]({{< relref "/posts/2024-05/4-about-seattle" >}})
 - `玩意` [我每天用到的科技产品]({{< relref "/posts/2024-12/4-tech-i-use-everyday" >}}) | [Aer 背包全家桶]({{< relref "/posts/2023-09/4-aer-bag-collection" >}})
-- `健康` [居家健身入门指南]({{< relref "/posts/2024-09/3-workout-from-home" >}}) | [割以永治切除子宫一周年 FAQ]({{< relref "/posts/2023-12/8-hysterectomy-fighting-period-part-3" >}}) | [懒人健康备餐]({{< relref "/posts/2024-02/1-lazy-healthy-food-prep" >}})
+- `健康` [人到中年，就会开始养生]({{< relref "/posts/2025-05/2-middle-age-wellness" >}}) | [割以永治切除子宫一周年 FAQ]({{< relref "/posts/2023-12/8-hysterectomy-fighting-period-part-3" >}}) | [懒人健康饮食结构]({{< relref "/posts/2025-03/4-food-composition" >}})
 - `游记` [美西大环线 Road Trip]({{< relref "/posts/2024-03/7-us-west-loop-road-trip-2" >}}) | [黄石大提顿秋游]({{< relref "/posts/2023-10/2-yellowstone-2023" >}})
 - `理财` [买房 vs 租房]({{< relref "/posts/2024-04/1-rent-or-own-apartment-or-house" >}}) | [美国小白理财 101]({{< relref "/posts/2023-archive/2022-09-25-personal-finance-for-dummies-2-0" >}})
 - `职业` [工作十年了]({{< relref "/posts/2024-10/5-career-10-years" >}}) | [美国码农前半段 career ladder]({{< relref "/posts/2023-archive/2022-08-15-software-engineer-career-ladder" >}})
 - `闲谈` [也说我的几个小坚持]({{< relref "/posts/2024-04/6-little-things" >}}) | [给 20 岁的自己]({{< relref "/posts/2023-12/7-wish-i-knew-in-my-20s" >}})
-- `读书` [Bitch]({{< relref "/posts/2024-09/4-book-bitch" >}}) | [Immune]({{< relref "/posts/2024-04/7-book-immune" >}}) | [祖先的故事]({{< relref "/posts/2023-archive/2021-02-17-book-ancestors-tale" >}})
+- `读书` [超越百岁]({{< relref "/posts/2025-02/2-book-outlive" >}}) | [Bitch]({{< relref "/posts/2024-09/4-book-bitch" >}}) | [Immune]({{< relref "/posts/2024-04/7-book-immune" >}}) | [祖先的故事]({{< relref "/posts/2023-archive/2021-02-17-book-ancestors-tale" >}})
 - `游戏` [这些年我喜欢的独立游戏]({{< relref "/posts/2023-09/9-favorite-indie-games">}}) | [个人年度游戏编年史]({{< relref "/posts/2023-09/8-favorite-game-every-year" >}}) | [巫师 3 长篇抒情文]({{< relref "/posts/2023-archive/2015-12-16-game-the-witcher-3-blood-and-sword-poem-and-dream" >}})
 - `博客` [2023 年了你为什么需要写博客]({{< relref "/posts/2023-08/5-2023-why-you-need-a-blog">}}) | [静态博客一周年记]({{< relref "/posts/2024-05/8-blog-decoration-3" >}})
 

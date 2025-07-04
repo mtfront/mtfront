@@ -19,18 +19,16 @@ BookComments: False
 - 📚 [`Engineering in Plain Sight`](https://amzn.to/43MmSdX) by Grady Hillhouse
 - 🎮 `天国：拯救 2`
 - 🎮 [`Pikmin Bloom`](https://pikminbloom.onelink.me/pWSt/zyr821mt) 
-- 🖥️ [`Dell U4025QW 显示器`](https://amzn.to/4gc1K3B)
 - 🧥 [`Arc'teryx Atom Hoody`](https://amzn.to/3CE6rog)
-- 👟 [`Adidas Adizero SL2`](https://amzn.to/3ETI9Ih)
+- 🥾 [`Arc'teryx Kopec Mid GTX Boot`](https://amzn.to/43TzH5O)
+- 👟 [`Adidas Evo SL`](https://amzn.to/400EakS)
 - 🚶 [`Under Desk Treadmill`](https://amzn.to/4mrZqcD)
 
 ## 近期目标
 - 给播客画个封面
-- 减点脂争取年度 DEXA 有进步！
-- 日行一万步！
-- 调养生息好好养胃
-- 重新适应工作的节奏找到 work life balance
-- 探索新的兴趣与社交（西雅图的有缘博友可以联系我～此外可以加入[爬山团]({{< relref "/posts/2025-01/4-seattle-hiking-group" >}})）
+- 保持肌肉量的同时稍微减点脂
+- 重新适应工作的节奏找到 work life balance，积累新的可以做的非 tech 职业
+- 探索新的兴趣与社交
 
 ## Changelog
 - `2025-04-19` 修改 RSS 样式，添加 [跬步](https://steps.douchi.space?utm_source=blog) 链接

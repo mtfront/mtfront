@@ -124,7 +124,7 @@ imageDes: "摄于 2025-6 Twin Falls Trail"
 ## 物
 好几期没什么内容的消费主义陷阱本月全面回归，买了好多东西，好多都 spark joy！消费主义博主我又回来了！
 
-### [Arc'teryx Kopec Mid GTX Boot](https://amzn.to/43TzH5O ) 🤩
+### [Arc'teryx Kopec Mid GTX Boot](https://amzn.to/43TzH5O) 🤩
 最近消费欲过剩，觉得之前的登山靴有点硬/重过于 heavyweight，今年登山季感觉富婆爬山欲也旺盛应该能多去一些，于是就挑了双之前喜欢的博主推过的以轻为卖点的 Arc'teryx Kopec Mid GTX Boot https://amzn.to/43TzH5O ，爬了一次山开鞋不得不说超出预期（急着用没做啥横向对比倒是）！除了顶面丑没啥缺点了。当然放在登山靴的颜值里可能也不算太丑……（
 
 - 首先确实很轻！一只 300g 不到。跟我之前的 500g 的 Scarpa 比感觉健步如飞云端飘。
