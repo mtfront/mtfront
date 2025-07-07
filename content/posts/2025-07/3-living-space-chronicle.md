@@ -123,4 +123,4 @@ imageDes: "摄于 2025-04 台南"
 这个房间也不便宜，总觉得住着有点过于奢侈。不过更新了一下之前的住房开销与收入比，又觉得工作期间住着也还好。晚点要是不干了就得 downsize 一下了。
 ![](https://media.douchi.space/douchi/media_attachments/files/114/809/027/251/175/819/original/52b7c949de5fa376.png)
 
-自从自己有收入以后似乎都是由简入奢，不知道晚点由奢入俭会不回不适应。最近也在思考，我真的需要很多东西吗？比如 gaming PC——当年差点去 van life 的时候思考了好一阵如何供电如何 setup 屏幕，但现在人在家中坐其实也好久没打开了。再比如大电视，of course it's nice to have，但移动设备看也不是不行。现在的人生大概就是在一个"freedom is overrated"和"do I really need all these things"之间反复横跳，也不知道是自毁倾向没事找事还是中年存在主义危机作祟呢。
+自从自己有收入以后似乎都是由简入奢，不知道晚点由奢入俭会不回不适应。最近也在思考，我真的需要很多东西吗？比如 gaming PC——当年差点去 van life 的时候思考了好一阵如何供电如何 setup 屏幕，但现在人在家中坐其实也好久没打开了。再比如大电视，of course it's nice to have，但移动设备看也不是不行。现在的人生大概就是在一个"freedom is overrated"和"不想陷入 why be happy when you can be normal 的套路而质疑 do I really need all these things"之间反复横跳，也不知道是自毁倾向没事找事还是中年存在主义危机作祟呢。
