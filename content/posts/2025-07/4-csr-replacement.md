@@ -83,7 +83,9 @@ CSR 砍福利前就非常流行的一张旅行卡，CSR 不打算续订之后自
   - 付掉南极的尾款，一下两万多刀薅掉最后的 3%
   - combine 所有的 chase points 然后兑掉 1.5X points
   - Pay off CSR
-- 8 月底，cancel CSR。因为 chase 正常的那些卡本全家桶用户都有了，剩下的无年费卡只有一些奇怪的联名卡 which 我一个也用不到，不想纯为了信用分数 downgrade 留下一张烂卡。CSR 也不是我最老的卡，在思考要不要直接关掉算了……反正 forseeable future 我也不买房，credit score 没有那么重要，顶多就是和下一步顺序调换一下先把 Venture X 申了再关卡。
+- 8 月底，cancel CSR，退休 CFU。
+  - 因为 chase 正常的那些卡本全家桶用户都有了，剩下的无年费卡只有一些奇怪的联名卡 which 我一个也用不到，不想纯为了信用分数 downgrade 留下一张烂卡。CSR 也不是我最老的卡，在思考要不要直接关掉算了……反正 forseeable future 我也不买房，credit score 没有那么重要，顶多就是和下一步顺序调换一下先把 Venture X 申了再关卡。
+  - 对比起来 CFU 没年费就继续留着吧但基本没有 use case 了除了我不常用的 drug store 3%
 - 下一笔旅行大宗消费（likely 机票）前
   - 申 C1 Venture X。要大宗消费主要是要刷开卡奖励。但定睛一想以我的陷阱程度一张有 2X catch all 的卡三个月花掉 4000 应该狠容易…… 所以倒也没必要卡在大宗消费之前。
   - C1 VX 据说申请有一定难度，如果 pre-approval 没过的话，申 fidelity
