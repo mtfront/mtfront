@@ -14,7 +14,7 @@ image: https://media.douchi.space/douchi/media_attachments/files/114/583/630/481
 imageDes: 2025-05 摄于 Oregon
 ---
 
-两年前我写过一篇 [CSR vs CSP]({{< relref "/posts/2023-08/8-csr-vs-csp" >}})，当时的结论是按照我的花费，当年的 CSR 还是值得的。时隔两年，CSR 迎来了史上最大涨价 + 砍福利，年费暴涨到离谱的 $795 不说，还把本懒人最爱的 3% catch all travel 和 1.5X points redeem 给砍掉了，失去了不喜欢兑点数的本懒人用 chase 全家桶的最大动力。即便我是今年 9 月 renew，还能再用一年的低年费，但新的学 AMEX 一样变成 coupon book 式玩卡的系统对我也没有任何吸引力，遂立刻开始寻找 replacement。
+两年前我写过一篇 [CSR vs CSP]({{< relref "/posts/2023-08/8-csr-vs-csp" >}})，当时的结论是按照我的花费，当年的 CSR 还是值得的。时隔两年，CSR 迎来了史上最大涨价 + 砍福利，年费暴涨到离谱的 $795 不说，还把本懒人最爱的 3% catch all travel 和 1.5X points redeem 给砍掉了，失去了不喜欢兑点数的本懒人用 chase 全家桶的最大动力。即便我是今年 9 月 renew，还能再用一年的低年费，但新的学 AMEX 一样变成 coupon book 式玩卡的系统对我也没有任何吸引力，遂立刻开始寻找 replacement。以下是本平时 P 偶尔 J 人的懒人信用卡 CSR 平替计划。
 
 <!--more-->
 
@@ -101,4 +101,4 @@ CSR 砍福利前就非常流行的一张旅行卡，CSR 不打算续订之后自
 - [付房租用的 BILT](http://biltrewards.com/card/referral/8UQW-RKDF) - 虽然我不喜欢 points，但房租的点不赚白不赚呗，而且不用月初能调到工资单来的时候就很方便。就是 wellsfargo 垃圾太容易被盗刷，设好 alerts。
 - [虽然离开 CSR 了或许还有人需要 CSP 的 referral？](https://www.referyourchasecard.com/19o/ZVXO6MLBBL)
 - [Chase Freedom Unlimited/Flex](https://www.referyourchasecard.com/18j/NK0WOC9ANV) - 都要退出全家桶了不知道为啥还要放它俩……
-- [好久没更新的舵手数据库还有更多 referral](https://mtfront.notion.site/mtfront-shopping-reviews-e568ee6ebaa44b5da146cbe4ac4663eb?source=copy_link)
+- [好久没更新的剁手数据库还有更多 referral](https://mtfront.notion.site/mtfront-shopping-reviews-e568ee6ebaa44b5da146cbe4ac4663eb?source=copy_link)
