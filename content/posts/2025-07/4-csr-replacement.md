@@ -70,7 +70,7 @@ CSR 砍福利前就非常流行的一张旅行卡，CSR 不打算续订之后自
 | Car rental coverage| ~100 | ❌| ✅ $75K    | ✅ 75K  | ✅ 75K |
 
 其实单看某个 category 总会觉得挺常用的需要一个张高 reward 的卡覆盖对应 category，但把实际的年化花费算出来发现一顿操作猛如虎半天可能也就占了几十刀的便宜，顿时就没那么想折腾了。我没有专门的 budgeting & 记账 app，这里大概用 [track 资产的 Personal Capital (PER)](https://empowerreferral.link/fang92) 看了一下各类年花费。比如：
-- 旅游：CSR 的 3% catch all 真是大杀器，租车能用各类公司更大的折扣，Airbnb 和 ride share 之类的也都能 cover。无奈没有了。这一年 10K 机票 + 酒店撑死。如此算下来硬在 portal 里订倒是能省出个 500 刀。外加有 travel credit 这种实打实的钱等效年费是负的，travel 卡还是可以有的。
+- 旅游：CSR 的 3% catch all 真是大杀器，租车能用各类公司更大的折扣，Airbnb 和 ride share 之类的也都能 cover。无奈没有了。这一年 10K 机票 + 酒店撑死。如此算下来硬在 portal 里订倒是能省出个 500 刀。外加有 travel credit 这种实打实的钱等效年费是负的，travel 卡还是可以有的。Yeah I know lounges benefit get cut...但 so is others 所以只能矮子里拔将军了世风日下。
 - 吃饭：一年也就 6K，乱七八糟的 5% 总会覆盖一到两个季度，在美国本地也有 CFU 能 3%，旅游期间在国外的吃饭能吃到 1K 顶天了，3% 也就比 2% 一年多 10 刀…… 
 - Grocery 虽然有近 10K，但其中有 6K 都是在有 5% 的 wholefoods 买的，剩下 3.3K 的 weee 至少半年肯定有 5% cash back，剩下的 3% 跟 2% catch all 卡付比，一年也就多出来 16 刀…… 至于 Entertainment 什么的就更是零头了，可以忽略不计（唯一好处是 streaming 一般都是 recurring 的可以 set & forget）。此处我还发现了个小工具能查某个 merchant 算不算各家信用卡的某个分类，比如 [weee 是算 C1 的 grocery 的](https://awardwallet.com/m/merchants/Weee%2521+Inc_62248095?utm_source=t.me/mtfront)。
 - 按我一年的信用卡总花费减去各大项的，我的 catch all 也就 10K 左右，再加上各种 5% 分类实际肯定比这个数值少。这么算下来，其实 2% 也就比 1.5% 多了 50 块……
