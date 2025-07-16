@@ -64,7 +64,7 @@ SSH 进自己的长毛象服务器后：
    ```
 
 ## 测试邮件效果 & debug
-最简单的方法是打开一个 incognito 浏览器窗口，然后用自己的邮件尝试 reset password。不在邮件里点 reset 的话就不会真的 reset，适合测试。自己能收到重设密码邮件的话说明设置成功了。
+最简单的方法是打开一个 incognito 浏览器窗口（不建议自己登出尝试。万一邮件服务没设好而且你真的忘了你的密码但是收不到重设邮件就还得后台改数据怪麻烦的……），然后用自己的邮件尝试 reset password。不在邮件里点 reset 的话就不会真的 reset，适合测试。自己能收到重设密码邮件的话说明设置成功了。
 
 如果邮件没有被正确发送，可能是 configuration 哪里出了问题。最简单的 debug 方法是在长毛象设置中进入 `Sidekiq` -> `Retries` 看 failed event。Error message 一般会告诉你是什么问题，看不懂的丢进 chatGPT 即可。我碰到的问题有：
 - `Free plan can only send test email`: 没有设置 custom domain 直接用了 mailgun 给的 test domain.
