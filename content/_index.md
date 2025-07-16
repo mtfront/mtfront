@@ -13,7 +13,7 @@ bookToc: false
 
 ## 博文统计
 {{< heatmap >}}
-{{< stats >}}
+{{< stats >}} | [如何添加热力图]({{< relref "/posts/2024-01/3-hugo-blog-heatmap.md" >}})
 
 ## 最近更新 ｜ [阅读全部]({{< relref "/posts/" >}})
 {{< hint warning "rss" >}}
