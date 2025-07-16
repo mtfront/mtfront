@@ -5,10 +5,11 @@ BookComments: False
 bookToc: false
 ---
 ## 老友来访
-｜[🆕 近况如何]({{< relref "/docs/now" >}}) ｜ [✉️ 联系博主]({{< relref "/docs/about" >}}) ｜ [📖 阅读博客]({{< relref "/posts/">}}) ｜✨ {{< random "随便看看" >}} ｜
+｜[🆕 近况如何]({{< relref "/docs/now" >}}) ｜ [✉️ 联系博主]({{< relref "/docs/about" >}}) ｜ [📖 阅读博客]({{< relref "/posts/">}}) ｜✨ {{< random "随便看看" >}} ｜ </br> 
+｜[💰 剁手安利](https://mtfront.notion.site/mtfront-shopping-reviews-e568ee6ebaa44b5da146cbe4ac4663eb) ｜ [🎬 书影游库](https://mtfront.notion.site/2485c762efe040b988531aaa3e45ad25) ｜ [📰 电报剪报](https://t.me/mtfront) ｜
 
 ## 支持创作
-｜[🏅 参与博客选题和 coffee chat](https://www.patreon.com/bePatron?u=46962965) ｜ [🧋 给我买杯奶茶](https://ko-fi.com/S6S130C16) ｜ 
+## ｜[☕️ 聊五毛钱](https://www.patreon.com/bePatron?u=46962965) ｜[🧋 买杯奶茶](https://ko-fi.com/S6S130C16) ｜ 
 
 ## 博文统计
 {{< heatmap >}}
