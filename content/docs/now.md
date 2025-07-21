@@ -4,10 +4,10 @@ type: docs
 bookToc: false
 BookComments: False
 ---
-{{< img "https://media.douchi.space/douchi/media_attachments/files/114/583/716/856/598/058/original/04dc60c305caf4b2.png" 800 >}} \
-*摄于 2025-5 Smith Rock, OR* 
+{{< img "https://media.douchi.space/douchi/media_attachments/files/114/849/753/583/355/563/original/76faea0867d6a57b.png" 600 >}} \
+*摄于 2025-7 Coal Creek Trail, WA* 
 
-`updated on 2025-06-09`
+`updated on 2025-07-20`
 
 ## 近况 
 - 去年喜提中年人第一次被裁之后躺了半年，[工作十周年]({{< relref "/posts/2024-10/5-career-10-years" >}})开始了新的工作
@@ -17,15 +17,15 @@ BookComments: False
 
 ## 近期中意
 - 📚 [`Engineering in Plain Sight`](https://amzn.to/43MmSdX) by Grady Hillhouse
-- 🎮 `天国：拯救 2`
+- 🎬 `A Real Pain`
 - 🎮 [`Pikmin Bloom`](https://pikminbloom.onelink.me/pWSt/zyr821mt) 
-- 🧥 [`Arc'teryx Atom Hoody`](https://amzn.to/3CE6rog)
+- 🧥 [`Outdoor Research Echo Hoodie`](https://amzn.to/3GWgN5t)
 - 🥾 [`Arc'teryx Kopec Mid GTX Boot`](https://amzn.to/43TzH5O)
 - 👟 [`Adidas Evo SL`](https://amzn.to/400EakS)
 - 🚶 [`Under Desk Treadmill`](https://amzn.to/4mrZqcD)
 
 ## 近期目标
-- 给播客画个封面
+- ~~给播客画个封面~~ ✅
 - 保持肌肉量的同时稍微减点脂
 - 重新适应工作的节奏找到 work life balance，积累新的可以做的非 tech 职业
 - 探索新的兴趣与社交
