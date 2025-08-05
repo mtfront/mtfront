@@ -53,7 +53,7 @@ Turns out，本来没做过手术的身体里，卵巢也不是靠输卵管连�
 这东西没了就像呼吸一般自然，甚至因为太过自然有点 take for granted，需要偶尔忆苦思甜才能更加 appreciate 出行、锻炼、泡澡无需再考虑大出血的自由，就像只有生病的时候才会格外珍惜健康。原来男的生下来就这么爽乁། ˵ ◕ – ◕ ˵ །ㄏ
 
 ## 参考资料
-0. chatGPT
+0. chatGPT（感谢 GPT 老师，要是没有 AI 搞懂这些东西可能要成倍的时间所以可能永远都不会去搞懂）
 1. [Wikipedia Ovarian ligament](https://en.wikipedia.org/wiki/Ovarian_ligament?utm_sourc=blog.douchi.space)
 2. [Anatomy and Physiology of the Female Reproductive System](https://courses.lumenlearning.com/suny-mcc-ap2/chapter/anatomy-and-physiology-of-the-female-reproductive-system/?utm_source=blog.douchi.space)
 3. [Molecular Biology of the Cell. 4th edition.](https://www.ncbi.nlm.nih.gov/books/NBK26842/?utm_source=blog.douchi.space)
