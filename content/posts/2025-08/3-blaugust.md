@@ -37,7 +37,7 @@ I'm currently located in Seattle, USA, working remotely as a software engineer. 
 ## So... what do I mean by hobby collector?
 I like to collect hobbies. I espeicially enjoy trying new things and writing blogs about them. A lot of my blogs are actually [product reviews]({{< relref "/tags/消费主义陷阱/" >}}). And of course, 'things' also include experiences, include but not limited to [traveling]({{< relref "/tags/travel" >}}), [wellness]({{< relref "/tags/wellness/" >}}), side hustle and other random stuff.
 
-One of my proudest hobbies I picked up is [pixel art]({{< relref "/tags/pixelart/" >}}). I did a [100-day project]({{< relref "/posts/2023-archive/2020-08-09-100-days-of-pixel-art" >}}) and have been kept drawing every now and then in past 5 years. For example I draw my current profile pic: {{< emoji "http://localhost:1313/public/dino.gif" >}}
+One of my proudest hobbies I picked up is [pixel art]({{< relref "/tags/pixelart/" >}}). I did a [100-day project]({{< relref "/posts/2023-archive/2020-08-09-100-days-of-pixel-art" >}}) and have been kept drawing every now and then in past 5 years. For example I draw my current profile pic: {{< emoji "https://media.douchi.space/douchi/accounts/avatars/000/000/001/original/40c89c24d6524a14.gif" >}}
 
 {{< columns >}}
 ![](https://media.douchi.space/douchi/media_attachments/files/110/456/270/837/230/169/original/2c351c634b413454.png)
