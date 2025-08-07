@@ -75,4 +75,4 @@ Most of the following content are in Chinese:
 
 ---
 
-I said 'brief intro' but here we are 6000 words and 1 hour later... Drop a comment w/ your blog if you're a hobby bloger & hobby collector! I enjoy reading people's blog about life. Happy blogging!
+I said 'brief intro' but here we are 6000 words and 1 hour later... Drop a comment w/ your blog if you're a bloger & hobby collector too! I enjoy reading people's blog about life. Happy blogging!
