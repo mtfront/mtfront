@@ -21,7 +21,7 @@ I saw bunch of my blogger friends posting about [Blaugust](https://nerdgirlthoug
 
 Tonight I opened my laptop to write my diary before going to bed and saw yet another blogger friend [Allison](https://thewanderingallison.vercel.app/posts/diary20250807/?utm_source=blog.douchi.space) posting about it. Since I'm already writing something everyday, why not participate and have the chance to let more blogger friends learn about it, and maybe even motivate them to write more? So here we go.
 
-I'm most likely still gonna post mostly in Chinese, though figure it might be nice to have a brief intro post in English for starter. Not sure what prompts there would be so I may not follow, and I'm not aiming for the Rainbow Diamond Award of posting everyday either.
+I'm most likely still gonna post in Chinese, though figure it might be nice to have a brief intro post in English for starter. Not sure what prompts there would be so I may not follow, and I'm not aiming for the Rainbow Diamond Award of posting everyday either.
 
 <!--more-->
 
