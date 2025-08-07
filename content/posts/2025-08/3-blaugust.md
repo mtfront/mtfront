@@ -61,6 +61,7 @@ Hobbies that I wish I have more time or space to do:
 - Wood carving
 - Pixel art
 - Road trip
+- Gaming
 
 ## What else do I create besides blog?
 Most of the following content are in Chinese:
