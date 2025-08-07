@@ -30,14 +30,14 @@ I'm most likely still gonna post mostly in Chinese, though figure it might be ni
 
 I'm 椒盐豆豉 (she/her) or Mt. Front. I'm a blogger, podcaster, pixel art learner, beginner runner, causual birder, hobby collector and software engineer.
 
-I started to write blog 20 years ago when the first wave of blog boom came to China (when I was in middle school). Throughout the years the platforms I wrote on went bankrupt, or became too censored or misogynistic. As many fellow Chinese, I became an internet exile, [wandering around platforms]({{< relref "/posts/2023-archive/2020-10-29-hello-world-its-me-again" >}}). Eventually I started this blog of my own.
+I started writing blogs 20 years ago when the first wave of blog boom came to China (when I was in middle school). Throughout the years the platforms I wrote on went bankrupt, or became too censored or misogynistic. As many fellow Chinese, I became an internet exile, wandering around different content/social platforms. Eventually [I started this blog of my own]({{< relref "/posts/2023-archive/2020-10-29-hello-world-its-me-again" >}}).
 
-I'm currently located in Seattle, USA, working remotely as a software engineer. Throughout my career I've worked for big tech, small startup and unicorn company. I'd say software engineer is merely a day job that puts food on my table and programming or progressing in career ladder is never my passion. I dream about retiring from this career everyday, though as a day job it pays well, isn't too stressful and is flexible enough to let me work remotely. So I stick to it, for now.
+I'm currently located in Seattle, USA, working remotely as a software engineer. Throughout my career I've worked for big tech, small startup and unicorn company. I'd say software engineer is merely a day job that puts food on my table. Programming or progressing in career ladder are never my passion. I dream about retiring from this career everyday, though as a day job it pays well, isn't too stressful and is flexible enough to let me work remotely. So I stick to it, for now.
 
 ## So... what do I mean by hobby collector?
-I like to collect hobbies. I espeicially enjoy trying new things and write blogs about them. A lot of my blogs are actually [product reviews]({{< relref "/tags/消费主义陷阱/" >}}). And of course, 'things' also include experiences, include but not limited to [traveling]({{< relref "/tags/travel" >}}), [wellness]({{< relref "/tags/wellness/" >}}), side hustle and other random stuff.
+I like to collect hobbies. I espeicially enjoy trying new things and writing blogs about them. A lot of my blogs are actually [product reviews]({{< relref "/tags/消费主义陷阱/" >}}). And of course, 'things' also include experiences, include but not limited to [traveling]({{< relref "/tags/travel" >}}), [wellness]({{< relref "/tags/wellness/" >}}), side hustle and other random stuff.
 
-One of my proudest hobbies I started is [pixel art]({{< relref "/tags/pixelart/" >}}). I did a [100-day project]({{< relref "/posts/2023-archive/2020-08-09-100-days-of-pixel-art" >}}) and have been kept drawing every now and then in past 5 years. For example I draw my current profile pic: {{< emoji "http://localhost:1313/public/dino.gif" >}}
+One of my proudest hobbies I picked up is [pixel art]({{< relref "/tags/pixelart/" >}}). I did a [100-day project]({{< relref "/posts/2023-archive/2020-08-09-100-days-of-pixel-art" >}}) and have been kept drawing every now and then in past 5 years. For example I draw my current profile pic: {{< emoji "http://localhost:1313/public/dino.gif" >}}
 
 {{< columns >}}
 ![](https://media.douchi.space/douchi/media_attachments/files/110/456/270/837/230/169/original/2c351c634b413454.png)
@@ -48,12 +48,19 @@ One of my proudest hobbies I started is [pixel art]({{< relref "/tags/pixelart/"
 {{< wrap "https://media.douchi.space/douchi/media_attachments/files/114/374/734/548/806/140/original/099eb79f8635b638.webp" "Some stats from the steps page" >}}
 One recent hobby I picked up is running, or jogging to be more precise. I hated running for past 30+ years of my life, but this time I succeeded in sticking to the routine, maybe because I was too weak as a child but has improved my cardio after years of swimming, hiking and weight lifting. I've been running 4-5 times every week in the past year. Here's a site I built (on top of an open source project) to [track my steps (running, walking, hiking, etc)](https://steps.douchi.space?utm_source=blog)
 
-My newest hobby is boxing. I hate catact sports though, and I wear high prescription glasses, so I only do bag boxing for now and love it. Back and shoulder muscle are probably the ones I wanted to build the most so that works great.
+My newest hobby is boxing. I hate contact/competitive sports though, and I wear high prescription glasses, so I only do bag boxing for now and love it. Back and shoulder muscle are probably the ones I wanted to build the most so that works great.
 
 My oldest hobbies are probably watching movies, reading and video games. I can't endure classic movies though, also not the biggest fan of art films, so won't brag about my tastes. I have been counting 2000+ movies and tv series and written short reviews about them. Here's some of my favorites:
 - Movie: *Marriage Story*, *Mad Max: Fury Road*, *Zootopia* (hard time debating bewteen *The Lion King* as my all time favorite animation film), *Coherence* and *The Last Duel*
 - Book: *Maybe You Should Talk To Someone*, *How We Got to Now*, *Egypt, Greece, & Rome*, *The Ancestor's Tale* and *Shark's Fin and Sichuan Pepper*.
 - Game: *The Witcher 3*, *Assassin's Creed II* (I have a tatto of its logo!), *Dead Cells*, *It Takes Two*, *Dave the Diver*
+
+Hobbies that I wish I have more time or space to do:
+- Lego
+- Swimming
+- Wood carving
+- Pixel art
+- Road trip
 
 ## What else do I create besides blog?
 Most of the following content are in Chinese:
