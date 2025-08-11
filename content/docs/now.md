@@ -4,8 +4,8 @@ type: docs
 bookToc: false
 BookComments: False
 ---
-{{< img "https://media.douchi.space/douchi/media_attachments/files/114/849/753/583/355/563/original/76faea0867d6a57b.png" 600 >}} \
-*摄于 2025-7 Coal Creek Trail, WA* 
+{{< img "https://media.douchi.space/douchi/media_attachments/files/115/003/263/529/242/009/original/ff5c553dfcae3aed.png" 600 >}} \
+*摄于 2025-8 Mt Rainier NP* 
 
 `updated on 2025-07-20`
 
@@ -18,10 +18,12 @@ BookComments: False
 ## 近期中意
 - 📚 [`Engineering in Plain Sight`](https://amzn.to/43MmSdX) by Grady Hillhouse
 - 🎬 `A Real Pain`
+- 🎬 `Kpop Demon Hunter`
 - 🎮 [`Pikmin Bloom`](https://pikminbloom.onelink.me/pWSt/zyr821mt) 
+- 👒 [`Sunday Afternoons Ultra Storm Bucket Hat`](https://amzn.to/3H60rYp)
 - 🧥 [`Outdoor Research Echo Hoodie`](https://amzn.to/3GWgN5t)
 - 🥾 [`Arc'teryx Kopec Mid GTX Boot`](https://amzn.to/43TzH5O)
-- 👟 [`Adidas Evo SL`](https://amzn.to/400EakS)
+- 👟 [`New Balance FuelCell Rebel V5`](https://amzn.to/3JaVjTu)
 - 🚶 [`Under Desk Treadmill`](https://amzn.to/4mrZqcD)
 
 ## 近期目标
