@@ -95,7 +95,7 @@ imageDes: "image from https://joinmastodon.org/"
 
 但这事没完。今天 cmx 估计是终于察觉到了异样重启了自己的服务，一下 notif 都涌出来了。不愧大站，直接把本站给 DDOS 了，图都发不出去一直 `503`（因为积压了一天的嘟的图过来都会在本站被 cache 所以请求过多）。下午又有人反映上图中本能看到本站的 o3o 和 alive.bar 等也看不到本站了，想必是也给 somehow DDOS 挂了，于是顺手重启。以往重启能解决大多数问题，也只需要几十秒时间，谁知这次 `mastodon_web` 和 `mastodon_streaming` 就直接卡在了 restarting loop。Debug 了半天是 elasticsearch 的问题，又试图 disable 无果，vibe debugging 了半天修好。cmx 和 mastodon.social 也都是 4.4.3+ 的不知道是不是因为新版才这么不稳定。破毛病一堆重个启都能给我整塌了，前前后后浪费我两晚上时间了火气蹭蹭往上冒。
 
-服务是能跑了，但跑着官方版，字数上限和投票选项上限都是小事也好改，今天站友给我说又有关注请求邮件了我才想起来这档子事四年前提了 [issue](https://github.com/mastodon/mastodon/issues/15495) 也还没修，大站能买付费邮件 plan，小站用的免费版来个锁嘟 + 关注人数多点的人迁移一下就能把全天的邮件配额用完，导致全站新注册和找回密码的邮件都发不出去。先前本站老遇到这个问题我在后台把发邮件的代码 comment 掉了，现在用起官方 image 这个问题又回来了。本来就是鼓励大家建站小站越多越好的所谓 decentralized social network，默认通知竟然是邮件这种需要商业服务配额的东西且不给选项关闭就还是太不成熟了。商业平台用惯了 take for granted 的东西真是失去了才知道珍惜。
+服务是能跑了，但跑着官方版，字数上限和投票选项上限都是小事也好改，今天站友给我说又有关注请求邮件了我才想起来这档子事四年前提了 [issue](https://github.com/mastodon/mastodon/issues/15495) 也还没修，大站能买付费邮件 plan，小站用的免费版来个锁嘟 + 关注人数多点的人迁移一下就能把全天的邮件配额用完，导致全站新注册和找回密码的邮件都发不出去。先前本站老遇到这个问题我在后台把发邮件的代码 comment 掉了，现在用起官方 image 这个问题又回来了，最近又太忙也还没折腾直接 patch docker 的流程得再用一阵子官方版。本来就是鼓励大家建站小站越多越好的所谓 decentralized social network，默认通知竟然是邮件这种需要商业服务配额的东西且不给选项关闭就还是太不成熟了。商业平台用惯了 take for granted 的东西真是失去了才知道珍惜。
 
 {{< wrap "https://media.douchi.space/douchi/media_attachments/files/115/030/806/680/351/168/original/d28992c330a2e7c0.png" >}}
 更新频繁的开源软件不稳定定理再次应验，自己单机用的东西还好说不升级就完了，fediverse 这种看似去中心化，实则 80:20 rule 大多数人集中在个别实例上的互联网形态就注定了小站迟早被官方用兼容性倒逼升级，然后升出点不稳定，早知道昨天断联是 cmx 自己的问题我就不升了，这个故事告诉我们真的是要坚信定理：
