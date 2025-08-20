@@ -13,7 +13,7 @@ tags:
   - pixelart
 booktoc: true
 bookComments: true
-image: https://media.douchi.space/douchi/media_attachments/files/115/031/635/557/720/011/original/95ffe814276ac819.png
+image: https://media.douchi.space/douchi/media_attachments/files/115/059/762/659/017/568/original/8c903225e8bc7562.png
 imageDes: "像素装备设定页第一弹，hiking 模组"
 ---
 
