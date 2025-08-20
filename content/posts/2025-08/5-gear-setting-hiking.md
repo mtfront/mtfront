@@ -8,9 +8,9 @@ categories:
   - 喜欢就买
 tags:
   - 消费主义陷阱
+  - pixelart
   - hiking
   - blaugust
-  - pixelart
 booktoc: true
 bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/115/059/762/659/017/568/original/8c903225e8bc7562.png
