@@ -24,7 +24,7 @@ imageDes: "像素装备设定页第一弹，hiking 模组"
 <!--more-->
 
 
-## Body Armor
+## 护甲
 ### 帽子 - [Sunday Afternoon Ultra Storm](https://amzn.to/41JLFxl)
 {{< wrap "https://media.douchi.space/douchi/media_attachments/files/115/008/467/910/313/442/original/65a5e33925d86628.png" >}}
 今年夏天不知怎的觉得西雅图的阳光格外地毒，好几次温度不高（30 度不到）但人在大太阳下面走感觉都要被晒融化了，外加超级不爱涂防晒霜，于是今年突然开始入坑户外防晒装备。人到中年真是本来不是户外发烧友都会户外用品真香啊，这顶 [Sunday Afternoon Ultra Storm](https://amzn.to/41JLFxl) 相见恨晚。起先只是爬山时候觉得普通鸭舌帽遮不到耳朵和脖子还得单独涂防晒有些麻烦，想随便买顶 bucket hat。结果搜的时候发现了这顶既防晒又防雨还能折叠的，不能更适合西雅图了，甚至还打了 7 折，买回来一周基本已经出门形影不离了，提前荣登年度购物后选了。有如下特性：
@@ -60,7 +60,7 @@ imageDes: "像素装备设定页第一弹，hiking 模组"
 - heel drop 不是很高：上下山都觉得很自然。
 
 
-## 附件
+## 武器
 ### 登山杖 - [Black Diamond Distance Carbon Z](https://amzn.to/4gVgLIe)
 之前用过评价较高的另一款但因为太重每次都懒得带退掉了，去年重新选了一款超轻薄的。特性：
 - 超级轻：是普通非超轻产品线的 1/3 重量还少，背在包里轻如鸿毛，导致我出门比较简单的线也愿意带了，利用率大幅提升。
@@ -79,6 +79,7 @@ imageDes: "像素装备设定页第一弹，hiking 模组"
 
 非严肃爬山的平时小爬的话会带 [Aer Go Pack 2]({{< relref "/posts/2023-09/4-aer-bag-collection" >}})，水杯挂中间再塞点外套零食。
 
+## 附魔 
 ### 水
 - 水袋 - [Gregory 3D Hydro Reservoir 2L](https://amzn.to/4mmoyBc)：配合背包使用。顶部有个钩子，回家可以倒挂着晾干。
 - 水壶 - [Owala FreeSip]((https://amzn.to/477opdH))：推荐过多次的不保温可进洗碗机水壶，出门去哪基本都会带着。爬比较小的不超过 2 小时的路线一般不带水袋就直接带水壶了。
