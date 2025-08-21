@@ -39,7 +39,7 @@ imageDes: "像素装备设定页第一弹，hiking 模组"
 - 透气性：看测评这件的透气性是最强的，实体上身也是这种感觉，穿着跑步和爬山还是非常舒服的，日常出街的几率也增加了。
 - 版型舒适：横评的时候我还买了其它几件，如 REI Sahara，感觉垂坠很多版型没有很喜欢。这件的男款 S 码我穿上觉得刚好。
 
-之前在这件和被象友盛情推荐的 [Mountain Hardwear Crater Lake](https://amzn.to/3IzGfyc)之间纠结了一下，那件评价也很高且 UPF 30 防护更全面，但帽子据说很容易吹掉最后就没买。现在有了防晒帽感觉可以等个打折买一件备用上。
+之前在这件被测评盛情推荐的 [Nofry Sun Hoodie](https://amzn.to/3HJmDHS) 之间纠结了一下，那件评价也很高且 UPF 30 防护更全面，但帽子据说很容易吹掉最后就没买。现在有了防晒帽感觉可以等个打折买一件备用上。还买了象友盛情推荐的 [Mountain Hardwear Crater Lake](https://amzn.to/3IzGfyc) 但可惜买的女款款型不是特别喜欢，可能以后有机会打折再试试男款。
 
 ### 备用外套/防晒衣 - 优衣库 DRY-EX UV Protection Full-Zip Hoodie
 除了贴身穿的之外，夏天有一件轻薄点的拉链 sun shade hoodie 傍晚或室内空调稍冷时带上也非常 versatile，有了这件之后日常不离手的 tech 公司灰 hoodie 就再也没带出街过了。有如下特性：
