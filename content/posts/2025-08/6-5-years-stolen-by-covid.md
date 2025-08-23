@@ -43,7 +43,7 @@ imageDes: 2020 年试图学 procreate 的时候临摹的「Firewatch」截图
 
 我不是一个特别规整的职业爬梯人，但无奈 pre-covid 年代一周绝大多数时间还是要 in person 去 office 的，通勤时间占一大部分不说，身心状态在公司的时候再摸鱼也有限度，业余时间只能是挤出来的。2020 之后 remote work 大幅普及（好巧不巧我还在 2 月底滑板扭了脚，比全世界提前半个月进入了居家办公状态），让我进入职场之后首次有了大笔有钱有闲的可支配时间，意识到了生活除了了上班-回家两点一线，还有别的可能（以前也不觉得只有工作，但确实时间不允许）。
 
-现在生活的好几个 Pilar 都是 2020 年挤出来的：
+现在生活的好几个 Pillar 都是 2020 年挤出来的：
 - Mastodon：缘起于豆瓣文字狱忍无可忍，我和一大帮友邻[背井离乡出走长毛象/Fediverse]({{< relref "/posts/2023-archive/2020-12-23-douban-exodus-14-pixel-avatar" >}})。五年过后 fediverse 已经成为一块简中逃难的网上飞地，也在上面认识了不少朋友。
 - 独立博客：也是豆瓣文字狱同期，域名和服务器买都买了，索性把[拖延了好多年的独立博客建起来了]({{< relref "/posts/2023-archive/2020-10-29-hello-world-its-me-again" >}})。
 - [100 days of pixel art]({{< relref "/posts/2023-archive/2020-08-09-100-days-of-pixel-art" >}})，大概是 GRE 之后首次 consistent 的做一件事了，也在文字和摄影之外第一次有了新的表达方式。之后虽然没再有完整的时间画项目，但时不时还是能用上，比如近几年的头像都是自己画的，比如[像素小鸟]({{< relref "/posts/2023-11/6-pixel-birds-month-one" >}})，比如前两天新开启的 [pixel art 装备系列]({{< relref "/posts/2025-08/5-gear-setting-hiking" >}})。100 天项目成功之后其实还试图开启别的项目比如 procreate，但都不如像素画成功。 
