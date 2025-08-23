@@ -57,7 +57,7 @@ imageDes: 2020 年试图学 procreate 的时候临摹的「Firewatch」截图
    - 多喝水：以前的我不怎么注意喝水，常年嘴唇干裂。WFH 开始痔疮爆发痛定思痛用大杯喝水养成习惯之后，现在稳定一天 3L 了。
    - 举铁：后来几年有不少习惯的[演化]({{< relref "/posts/2024-09/3-workout-from-home" >}})，但一开始举铁是从 2020 开始的。当年能保持一周四天划船机。
    - [IF]({{< relref "/posts/2024-07/6-intermittent-fasting" >}})：我前前后后间歇性断食了五年，体重从峰值掉了 20lbs 之后开始放宽标准，这两年又开始增肌，到今年才开始停止 IF。
-- [Patreon]({{< relref "/posts/2023-archive/2020-12-11-side-hustle-im-on-patreon" >}})：也是 2020 年整活儿的一部分。format 几经修改，最持久的是[每月博客投票]({{< relref "/tags/patreon/" >}})，也在算是我博客产量最低m没有创作欲的时候一个催促我写东西的定海神针。
+- [Patreon]({{< relref "/posts/2023-archive/2020-12-11-side-hustle-im-on-patreon" >}})：也是 2020 年整活儿的一部分。format 几经修改，最持久的是[每月博客投票]({{< relref "/tags/patreon/" >}})，也在算是我博客产量最低没有创作欲的时候一个催促我写东西的定海神针。
 - [Amazon Affiliate]({{< relref "/posts/2023-archive/2023-01-28-amazon-affiliate-program-2-year-review" >}})：也是 2020 整的活儿。反正不收钱我都已经在写测评了，why not getting paid at the same time。2020 年又时间比较多有整活儿的动能，就一鼓作气搞出来了。
 - [与父母决裂]({{< relref "/posts/2023-archive/2020-06-26-my-mother-issue" >}})：从一开始的“他们也没啥大错不至于决裂”到后来的忍无可忍无需再忍。It's been 5 years I've never been more liberated.
 
