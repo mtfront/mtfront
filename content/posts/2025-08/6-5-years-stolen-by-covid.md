@@ -14,7 +14,7 @@ tags:
 booktoc: false
 bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/110/454/880/875/652/368/original/e8767fa089f84b14.png
-imageDes: 20204 年试图学 procreate 的时候临摹的「Firewatch」截图
+imageDes: 2020 年试图学 procreate 的时候临摹的「Firewatch」截图
 ---
 
 不知道是年纪增大了，单位时间所占生命的比例变小所以觉得时间过得飞快，还是 COVID-19 这个让整个世界停摆的黑天鹅事件真的让所有人的记忆有了断层。世界好像被划分成了 pre-covid 和 post-covid world，让我们这代人也有了（其实并不远也并不好的）忆当初 good old days 的错觉。说起 2018、2019 总感觉是很近的事情，但其实也有六七年之久了，过去的五年仿佛是弹指一瞬。但细看起来，又有太多事情改变了。
