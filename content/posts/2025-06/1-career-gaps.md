@@ -16,7 +16,7 @@ image: https://media.douchi.space/douchi/media_attachments/files/112/023/244/374
 imageDes: "2024-03 摄于 Bryce Canyon National Park"
 ---
 
-掐指一算，我毕业开始全职[工作也有十多年]({{< relref "/posts/2024-10/5-career-10-years" >}})了，期间经历了 5 份工作和 4 个 gap，平均每次 {{< katex >}}5\frac{3}{4}{{< /katex >}} 个月，3 次是主动的 1 次是被动的，也算是颇有 gap 经验了。遗憾的是这几次 gap 其实想来都中规中矩，并没有太好地利用多出来的时间，当年心目中所谓的 mini retirement 的感觉其实也并没有。这几年零散看到网友 gap/不上班，我的不断厌班 - gap - 好了伤疤忘了痛回去上班 - 厌班的循环似乎也走到了尽头，遂来总结一下这十年中的 gap 吧。
+掐指一算，我毕业开始全职[工作也有十多年]({{< relref "/posts/2024-10/5-career-10-years" >}})了，期间经历了 5 份工作和 4 个 gap，平均每次 {{< katex >}}5 \frac{3}{4} {{< /katex >}} 个月，3 次是主动的 1 次是被动的，也算是颇有 gap 经验了。遗憾的是这几次 gap 其实想来都中规中矩，并没有太好地利用多出来的时间，当年心目中所谓的 mini retirement 的感觉其实也并没有。这几年零散看到网友 gap/不上班，我的不断厌班 - gap - 好了伤疤忘了痛回去上班 - 厌班的循环似乎也走到了尽头，遂来总结一下这十年中的 gap 吧。
 
 ![拿出之前做过的工作经历 timeline](https://media.douchi.space/douchi/media_attachments/files/113/361/106/101/769/202/original/cd1d6b852fc6e734.png)
 
