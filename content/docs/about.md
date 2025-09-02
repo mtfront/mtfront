@@ -16,8 +16,8 @@ bookToc: false
 - 写了二十年博客，2020 年入坑 [pixel art]({{< relref "/posts/2023-archive/2020-08-09-100-days-of-pixel-art" >}})，2023 开始做[播客]({{< relref "/tags/podcast/">}})，持续寻找新创作媒介中
 
 如果想要快速了解本博客写什么的话，以下是一些代表性博文：
-- `生活` [关我辟事半月刊]({{< relref "/tags/关我辟事/" >}}) | [喜欢西雅图的地方]({{< relref "/posts/2024-05/4-about-seattle" >}})
-- `玩意` [我每天用到的科技产品]({{< relref "/posts/2024-12/4-tech-i-use-everyday" >}}) | [Aer 背包全家桶]({{< relref "/posts/2023-09/4-aer-bag-collection" >}})
+- `生活` [兴趣]({{< relref "/posts/2025-08/3-blaugust" >}}) | [关我辟事半月刊]({{< relref "/tags/关我辟事/" >}}) | [喜欢西雅图的地方]({{< relref "/posts/2024-05/4-about-seattle" >}})
+- `玩意` [像素装备设定页之爬山模组]({{< relref "/posts/2025-08/5-gear-setting-hiking" >}}) | [我每天用到的科技产品]({{< relref "/posts/2024-12/4-tech-i-use-everyday" >}}) | [Aer 背包全家桶]({{< relref "/posts/2023-09/4-aer-bag-collection" >}})
 - `健康` [人到中年，就会开始养生]({{< relref "/posts/2025-05/2-middle-age-wellness" >}}) | [割以永治切除子宫一周年 FAQ]({{< relref "/posts/2023-12/8-hysterectomy-fighting-period-part-3" >}}) | [懒人健康饮食结构]({{< relref "/posts/2025-03/4-food-composition" >}})
 - `游记` [美西大环线 Road Trip]({{< relref "/posts/2024-03/7-us-west-loop-road-trip-2" >}}) | [黄石大提顿秋游]({{< relref "/posts/2023-10/2-yellowstone-2023" >}})
 - `理财` [买房 vs 租房]({{< relref "/posts/2024-04/1-rent-or-own-apartment-or-house" >}}) | [美国小白理财 101]({{< relref "/posts/2023-archive/2022-09-25-personal-finance-for-dummies-2-0" >}})

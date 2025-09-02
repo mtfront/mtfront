@@ -12,18 +12,19 @@ BookComments: False
 ## 近况 
 - 去年喜提中年人第一次被裁之后躺了半年，[工作十周年]({{< relref "/posts/2024-10/5-career-10-years" >}})开始了新的工作
 - 无业游记连更：美西大环线 road trip（[鸟]({{< relref "/posts/2024-03/6-us-west-loop-road-trip-1" >}}) | [美景]({{< relref "/posts/2024-03/7-us-west-loop-road-trip-2" >}}) | [回家]({{< relref "/posts/2024-03/8-us-west-loop-road-trip-3" >}})）｜ [夏威夷大岛]({{< relref "/posts/2024-04/2-island-of-hawaii-2024" >}}) ｜ [Oreagon 海岸线]({{< relref "/posts/2024-06/6-oregon-coast-road-trip-2024" >}})，肯尼亚拖欠一年……
-- 人到中年开始跑步，期待一周年成果！
+- 人到中年开始跑步，这就[一年啦]({{< relref "/posts/2025-08/7-running-one-year" >}})
 - 近期几个项目：[出厂设置播客]({{< relref "/posts/2024-11/2-podcast-other-than-default" >}})｜[日更站](https://daily.douchi.space?utm_source=blog.douchi.space)｜[跬步](https://steps.douchi.space?utm_source=blog)
 
 ## 近期中意
-- 📚 [`Engineering in Plain Sight`](https://amzn.to/43MmSdX) by Grady Hillhouse
-- 🎬 `A Real Pain`
+- 📚 [`Hidden Systems`](https://amzn.to/424kMUT) by Dan Nott
+- 🎬 `NYAD`
 - 🎬 `Kpop Demon Hunter`
-- 🎮 [`Pikmin Bloom`](https://pikminbloom.onelink.me/pWSt/zyr821mt) 
+- 🎮 `桃源深处有人家`
+- 📷 [`Insta360 X5`](https://amzn.to/4mTnNje)
 - 👒 [`Sunday Afternoons Ultra Storm Bucket Hat`](https://amzn.to/3H60rYp)
 - 🧥 [`Outdoor Research Echo Hoodie`](https://amzn.to/3GWgN5t)
 - 🥾 [`Arc'teryx Kopec Mid GTX Boot`](https://amzn.to/43TzH5O)
-- 👟 [`New Balance FuelCell Rebel V5`](https://amzn.to/3JaVjTu)
+- 👟 [`New Balance FuelCell Rebel V5`](https://amzn.to/4g3GG0h)
 - 🚶 [`Under Desk Treadmill`](https://amzn.to/4mrZqcD)
 
 ## 近期目标
