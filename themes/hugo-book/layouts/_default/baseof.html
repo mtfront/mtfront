@@ -100,7 +100,7 @@
       <hr />
     {{ end }}
     {{- .Content -}}
-    {{ if eq .Type "post"}}
+    {{ if or (eq .Type "post") (eq .Type "time-capsule") }}
       {{ partial "docs/related" .}}
       <!-- vertical version  -->
       <!-- <div class="support-container" > -->
