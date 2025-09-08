@@ -1,0 +1,26 @@
+{{ define "main" }}
+<article class="markdown">
+  <h1>
+    <a href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>
+  </h1>
+  {{ with .Date }}
+    <h5>{{ partial "docs/date" (dict "Date" . "Format" $.Site.Params.BookDateFormat) }}</h5>
+  {{ end }}
+
+  <!-- parttially post-meta, minus the image cover part to avoid duplication -->
+  {{ range $taxonomy, $_ := .Site.Taxonomies }}
+    {{ with $terms := $.GetTerms $taxonomy }}
+    <div>
+      {{ range $n, $term := $terms }}{{ if $n }} <span style="color:#7AA874">| </span> {{ end }}
+        <a href="{{ $term.RelPermalink }}">{{ $term.Title }}</a>
+      {{- end }}
+    </div>
+    {{ end }}
+  {{ end }}
+  {{- .Content -}}
+</article>
+{{ end }}
+
+{{ define "toc" }}
+  {{ partial "docs/toc" . }}
+{{ end }}

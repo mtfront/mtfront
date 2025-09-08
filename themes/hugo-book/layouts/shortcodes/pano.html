@@ -1,0 +1,12 @@
+<div class="pano-container">
+<iframe 
+    width="100%" 
+    height="500" 
+    allowfullscreen 
+    class="pano" 
+    src="https://cdn.pannellum.org/2.5/pannellum.htm#panorama={{ .Get 0 }}&preview={{ .Get 1}}">
+  </iframe>
+  {{ if .Get 2}}
+     <i class="image-desc">{{ .Get 2}}</i>
+  {{ end }}
+</div>

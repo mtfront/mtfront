@@ -39,7 +39,7 @@
         {{ template "toc" . }} <!-- Table of Contents -->
       </div>
     </aside>
-    {{ else if eq .Type "post" }}
+    {{ else if or (eq .Type "post") (eq .Type "time-capsule") }}
     <aside class="book-toc">
       <div class="book-toc-content">
         {{ partial "docs/taxonomy" . }} <!-- Tags and category -->
@@ -93,6 +93,11 @@
       </blockquote>
       <hr />
       
+    {{ end }}
+    {{ if eq .Type "time-capsule"}}
+      <h1>{{- .Title -}}</h1>
+      {{ partial "docs/post-meta" . }}
+      <hr />
     {{ end }}
     {{- .Content -}}
     {{ if eq .Type "post"}}

@@ -219,6 +219,45 @@ body[dir="rtl"] .book-menu {
   }
 }
 
+.capsule-link {
+  display: block !important;
+  text-decoration: none !important;
+  color: inherit;
+  cursor: pointer;
+}
+
+.capsule {
+  border-radius: 8px;
+  border: 1px;
+  padding: 8px 24px;
+  // box-shadow: 0 4px 8px 0 var(--color-link-light), 0 6px 20px 0 var(--color-link-light);
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+  margin-bottom: 24px;
+}
+
+.capsule-cover {
+  border-radius: 8px;
+  position: relative;
+  top: 16px;
+}
+
+.capsule-date {
+  font-size:small;
+  margin-top: 2px; 
+  color: gray; 
+}
+
+.pano-container {
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.pano {
+  border-style:none;
+  border-radius: 8px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
 .book-search {
   position: relative;
   // margin: $padding-16 0;

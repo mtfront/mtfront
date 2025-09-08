@@ -6,6 +6,7 @@ headless: true
 - [今日 | daily](https://daily.douchi.space?utm_source=blog.douchi.space)
 - [跬步 | steps](https://steps.douchi.space?utm_source=blog)
 - [简报 | newsletter]({{< relref "/tags/关我辟事/" >}})
+- [时空 | time capsule]({{< relref "/time-capsule/" >}})
 - [播客 | podcast]({{< relref "/posts/2024-11/2-podcast-other-than-default" >}})
 - [剁手 | shopping](https://mtfront.notion.site/mtfront-shopping-reviews-e568ee6ebaa44b5da146cbe4ac4663eb)
 - [问卷 | survey]({{< relref "/posts/2025-01/3-blog-impression-survey" >}})
