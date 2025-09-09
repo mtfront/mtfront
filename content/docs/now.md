@@ -4,8 +4,9 @@ type: docs
 bookToc: false
 BookComments: False
 ---
-{{< img "https://media.douchi.space/douchi/media_attachments/files/115/003/263/529/242/009/original/ff5c553dfcae3aed.png" 600 >}} \
-*摄于 2025-8 Mt Rainier NP* 
+
+![](https://media.douchi.space/douchi/media_attachments/files/115/166/083/407/635/237/original/45eeb3864c8d6e5e.jpg)
+<i class="image-desc">摄于 2025-8 Lake Union, Seattle </i>
 
 `updated on 2025-07-20`
 
@@ -24,7 +25,7 @@ BookComments: False
 - 👒 [`Sunday Afternoons Ultra Storm Bucket Hat`](https://amzn.to/3H60rYp)
 - 🧥 [`Outdoor Research Echo Hoodie`](https://amzn.to/3GWgN5t)
 - 🥾 [`Arc'teryx Kopec Mid GTX Boot`](https://amzn.to/43TzH5O)
-- 👟 [`New Balance FuelCell Rebel V5`](https://amzn.to/4g3GG0h)
+- 🎧 [`Soundcore Sleep A30`](https://amzn.to/41JC61y)
 - 🚶 [`Under Desk Treadmill`](https://amzn.to/4mrZqcD)
 
 ## 近期目标
@@ -34,6 +35,7 @@ BookComments: False
 - 探索新的兴趣与社交
 
 ## Changelog
+- `2025-09-08` 添加[时空胶囊]({{< relref "/posts/2025-09/2-360-panorama-time-capsule" >}})页面，轻微调整右边栏出现条件
 - `2025-04-19` 修改 RSS 样式，添加 [跬步](https://steps.douchi.space?utm_source=blog) 链接
 - `2025-01-23` 添加版权声明
 - `2025-01-17` 添加基于`<open-heart>` 组件的 reaction

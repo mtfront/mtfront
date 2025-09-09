@@ -39,7 +39,7 @@
         {{ template "toc" . }} <!-- Table of Contents -->
       </div>
     </aside>
-    {{ else if or (eq .Type "post") (eq .Type "time-capsule") }}
+    {{ else }}
     <aside class="book-toc">
       <div class="book-toc-content">
         {{ partial "docs/taxonomy" . }} <!-- Tags and category -->
