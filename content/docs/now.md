@@ -5,10 +5,10 @@ bookToc: false
 BookComments: False
 ---
 
-![](https://media.douchi.space/douchi/media_attachments/files/115/166/083/407/635/237/original/45eeb3864c8d6e5e.jpg)
-<i class="image-desc">摄于 2025-8 Lake Union, Seattle </i>
+![](https://media.douchi.space/douchi/media_attachments/files/115/244/618/487/057/640/original/fd0fb6e895e4e073.jpg)
+<i class="image-desc">摄于 2025-9 Moraine Lake, Banff </i>
 
-`updated on 2025-07-20`
+`updated on 2025-09-21`
 
 ## 近况 
 - 去年喜提中年人第一次被裁之后躺了半年，[工作十周年]({{< relref "/posts/2024-10/5-career-10-years" >}})开始了新的工作
@@ -35,7 +35,8 @@ BookComments: False
 - 探索新的兴趣与社交
 
 ## Changelog
-- `2025-09-08` 添加[时空胶囊]({{< relref "/posts/2025-09/2-360-panorama-time-capsule" >}})页面，轻微调整右边栏出现条件
+- `2025-09-21` 增加 exclude 单篇文章 from rss 选项，避免大旅行多个时空胶囊刷屏
+- `2025-09-08` 添加[时空胶囊]({{< relref "/posts/2025-09/2-360-panorama-time-capsule" >}})页面轻微调整右边栏出现条件
 - `2025-04-19` 修改 RSS 样式，添加 [跬步](https://steps.douchi.space?utm_source=blog) 链接
 - `2025-01-23` 添加版权声明
 - `2025-01-17` 添加基于`<open-heart>` 组件的 reaction

@@ -6,9 +6,9 @@ date: 2025-09-01T22:25:00-07:00
 url: /spark-joy-digest-2025-8/
 categories:
   - 喜欢就买
-  - 消费主义陷阱
 tags:
   - 关我辟事
+  - 消费主义陷阱
 booktoc: true
 bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/115/008/374/371/667/200/original/60f47b98103f2038.png

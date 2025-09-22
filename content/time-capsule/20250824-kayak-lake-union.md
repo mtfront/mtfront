@@ -7,6 +7,7 @@ booktoc: false
 tags:
   - kayak
   - seattle
+  - 360
 pano: "https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/360/kayak-lake-union-2025.jpg"
 image: "https://media.douchi.space/douchi/media_attachments/files/115/166/083/407/635/237/original/45eeb3864c8d6e5e.jpg"
 ---

@@ -4,7 +4,8 @@
     <link>{{ .Site.BaseURL }}?utm_source=rss</link>
     <description>Recent content on {{ .Site.Title }}</description>
     {{- $limit := .Site.Config.Services.RSS.Limit }}
-    {{- $pages := .Site.RegularPages | first $limit }}
+    {{- $pages := .Site.RegularPages }}
+    {{- $pages = where $pages ".Params.exclude_rss" "!=" true  | first $limit -}}
     {{ range $pages }}
       <item>
         <title>{{ .Title }}</title>
