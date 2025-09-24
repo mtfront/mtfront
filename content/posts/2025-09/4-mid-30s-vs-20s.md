@@ -49,7 +49,7 @@ imageDes: "摄于 2025-09 摄于 Moraine Lake, Banff"
 另外，这两年开始疯狂长白头发了，叹气。此外皮肤也是真干了，仿佛王盛那个段子，年纪大了洗完澡 lotion 全身到处涂。不过除此之外外貌上的 aging 倒也还好，皱纹什么的暂时没有太明显。
 
 ## 心理状态
-25 岁的我无非在烦恼些移民伤痕文学之类，整体还是很乐观向上的，不记得有什么心理健康担忧，顶多就是厌厌班。成熟度方面，虽然比十几岁时候稳重许多，但现在看来整体也是较为轻浮和暴躁，还是一个吵架博主，还会[嘴硬说一些 mean mean 的话]({{< relref "/posts/2023-12/7-wish-i-knew-in-my-20s" >}}#不要为了-being-cool-而-being-mean)
+25 岁的我无非在烦恼些移民伤痕文学之类，整体还是很乐观向上的，不记得有什么心理健康担忧，顶多就是厌厌班。成熟度方面，虽然比十几岁时候稳重许多，但现在看来整体也是较为轻浮和暴躁，还是一个吵架博主，还会[嘴硬说一些 mean mean 的话]({{< relref "/posts/2023-12/7-wish-i-knew-in-my-20s" >}}#不要为了-being-cool-而-being-mean)。
 
 35 岁应该还是成熟稳重了不少的，难以量化，但我说是就是吧……倒是这些年因为经济、身份之类的现实问题都解决了，[公司也换得多了]({{< relref "/posts/2025-06/1-career-gaps" >}})觉得职场没啥意思了（准确来说之前也没觉得有意思，但至少在人就上班呗的默认状态里），存在主义危机是一波一波地来。不过好在目前还没有太严重的。也还是没什么人生追求方面的长远规划和 life goal，走一步看一步吧。
 
@@ -62,9 +62,9 @@ imageDes: "摄于 2025-09 摄于 Moraine Lake, Banff"
 ## 生活状态
 25 岁的我是坚定的独居拥趸。其实从小就是，毕业一工作有了收入就立刻独居了。当年应该刚领养了好看猫，一人一猫标准的 single cat lady 生活。
 
-35 岁的我经历了同居再恢复独居，[从 apartment 到 SFH 再到 apartment 的过程]({{< relref "/posts/2024-04/1-rent-or-own-apartment-or-house" >}})，不过现在跟 partner 住移动楼不同 unit，也算是目前看来比较理想的状态了。
+35 岁的我经历了同居再恢复独居，[从 apartment 到 SFH 再到 apartment 的过程]({{< relref "/posts/2024-04/1-rent-or-own-apartment-or-house" >}})，不过现在跟 partner 住一栋楼不同 unit，也算是目前看来比较理想的状态了。
 
-倒是从湾区 suburb 搬到西雅图市中心，本来以为喜静又不喝酒的我会更喜欢郊区，搬过来之后发现我俨然是个 city girl 更喜欢城市生活。
+倒是[从湾区 suburb 搬到西雅图市中心]({{< relref "/posts/2023-archive/2022-11-25-bay-area-vs-seattle" >}})，本来以为喜静又不喝酒的我会更喜欢郊区，搬过来之后发现我俨然是个 city girl 更[喜欢]({{< relref "/posts/2024-05/4-about-seattle" >}})城市生活。
 
 ![oh sweet city life](https://media.douchi.space/douchi/media_attachments/files/109/401/407/005/043/530/original/ae6f6e42f41d6acf.jpeg)
 
