@@ -56,7 +56,7 @@ imageDes: "摄于 2025-09 摄于 Moraine Lake, Banff"
 ## 财务状况
 25 岁的我毕竟在科技行业上升期，虽然不能说是一穷二白，但确实毫无理财概念（be like “我又不想养老血汗厂也没打算呆几年交什么 401K“ {{< emoji "https://emojis.slackmojis.com/emojis/images/1643515632/16550/meow_googlytrash.png?1643515632" >}}），还买了不少个股。得亏公司股票在职期间暴涨了不少，不然几乎没存下什么钱，后来房子首付不到十万都要东拼西凑。
 
-35 岁的我已经是个 [boglehead](https://www.bogleheads.org/wiki/Main_Page?utm_source=blog.douchi.space)，甚至本博客的一大受众竟然是看[理财博文]({{< relref "/posts/2023-archive/2022-09-25-personal-finance-for-dummies-2-0" >}})来的。也在 35 岁左右个人资产又稳步增上了另一个 milestone，各类理财也都 automate 的差不多了基本是全自动涨钱了。不过不爱 plan 不想给自己设 budget 不信 FIRE 的我这两年由于不想上班又发现 mini retirement 还是不太适合的我竟然最近也隔三差五就算算还有多少年才攒够退休本了（当然算来算去结论都差不多时间也不会变少……）
+35 岁的我已经是个 [boglehead](https://www.bogleheads.org/wiki/Main_Page?utm_source=blog.douchi.space)，甚至本博客的一大受众竟然是看[理财博文]({{< relref "/posts/2023-archive/2022-09-25-personal-finance-for-dummies-2-0" >}})来的。[消费观]({{< relref "/posts/2025-05/3-scarcity-mindset" >}})也随着脱贫时间的增加改变了不少。也在 35 岁左右个人资产又稳步增上了另一个 milestone，[各类理财也都 automate]({{< relref "/posts/2025-01/2-personal-finance-adjustments" >}}) 得差不多了基本是全自动涨钱了。不过不爱 plan 不想给自己设 budget 不信 FIRE 的我这两年由于不想上班又发现 mini retirement 还是不太适合的我竟然最近也隔三差五就算算还有多少年才攒够退休本了（当然算来算去结论都差不多时间也不会变少……）
 
 {{< wrap "https://media.douchi.space/douchi/media_attachments/files/115/257/909/509/521/648/original/51cb0ce932417f2b.jpg" "RIP 好看猫" >}}
 ## 生活状态
