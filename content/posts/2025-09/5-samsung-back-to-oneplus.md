@@ -10,6 +10,7 @@ tags:
   - review
   - tech
   - 消费主义陷阱
+draft: true
 booktoc: true
 bookComments: true
 image: "https://media.douchi.space/douchi/media_attachments/files/115/178/647/258/547/703/original/32eb76ea5de0c142.png"
