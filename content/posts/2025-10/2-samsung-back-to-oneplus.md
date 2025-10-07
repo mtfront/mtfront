@@ -74,8 +74,8 @@ imageDes: ""
 - continuity
 - iMessage
 - 17 系列新出的方形 selfie cam
-- 当年逼我离开的 lighting 口没了
-- 丑陋刘海没了
+- 当年逼我离开的一大原因 lighting 口没了
+- 当年逼我离开的另一大原因丑陋刘海没了
 - 没法用的控制中心改善了
 - 不能自由排列 home screen 改掉了
 - 最大阻碍之一不能安装 app store 之外的 app 反正 Google 自己作死安卓马上也要玩没掉了
@@ -83,5 +83,6 @@ imageDes: ""
 暂时还没迁移的原因最大竟是
 - [Daylio]({{< relref "/posts/2023-archive/2020-12-03-daylio-improve-mood-like-a-pro-data-scientist" >}}) 在 play store 的终身买断
 - iOS 的文字编辑操作实在是难用到发指
+- FaceID 据我观察依然没有指纹识别好用
 
 不过这一代又新加了 pro 的背面以及 liquid glass 丑到升天，所以短期之内也不用纠这个结了。
