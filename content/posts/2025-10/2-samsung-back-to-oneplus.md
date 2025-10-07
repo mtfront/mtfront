@@ -19,8 +19,6 @@ imageDes: ""
 
 过去五年仿佛是个[断层]({{< relref "/posts/2025-08/6-5-years-stolen-by-covid" >}})，我[刚用上 Galaxy ultra 系列]({{< relref "/posts/2023-archive/2021-03-19-best-smartphone-yet-samsung-galaxy-s21-ultra-review" >}})竟然已经是四年半前的事了。也因为 Ultra 系列强得太无聊，之前每年换手机基本都要写的测评也断更许久，治好了我一年一更甚之几更手机的毛病，在过去四年半中只从 [S21 Ultra](https://amzn.to/3bUqU7x) 换到了 [S23 Ultra](https://amzn.to/47rLreB)。要不是因为前阵子防水 seal 因为修屏坏掉然后又泡了水手机牺牲了紧急买了现在这台 [Oneplus 13](https://amzn.to/46RuOLY)，估计还能再用个至少半年。
 
-
-
 <!--more-->
 
 仔细一想，从大学刚开始用智能手机的 HTC 开始，到后来工作每年一更的 iPhone，再到 2017 年 iPhone X 那一代变成果黑迁移到安卓之后一年几更（三星 Galaxy S8 - Vivo NEX S/Google Pixel 2 - 华为 Mate 20 Pro - [Oneplus 7 Pro](https://amzn.to/3Kswcfw) - [Oneplus 8 Pro](https://amzn.to/3It1XVa) - [Google Pixel 5](https://amzn.to/3KsGEnh)）之后，几乎就稳定在了 S Ultra 这两台机子（中间有眼馋试过 [z flip]({{< relref "/posts/2023-archive/2021-09-18-galaxy-z-flip-3-review" >}}) 但很快退掉了），一用竟是四年半，竟是我同一个品牌连续用最长时间的手机了。倒也不是有啥品牌忠诚度，就真的是强到无聊，在手机全面屏革命不断创新的那几年进入瓶颈之后再无换机欲望了。
@@ -35,6 +33,7 @@ imageDes: ""
 - **续航**：三星用了好几年的 5000mAh 用久了再打打游戏不能保证 full day battery，迟迟不上 silicon carbon 电池是我的主要升级原因。[OP 13](https://amzn.to/46RuOLY) 有 6000mAh，外加系统比的三星轻量一些，外加也是新手机，续航提升还是很明显的，皮克敏折腾一天也能撑完了。当然更不用说祖传快充极为方便了。
 - **直角拉丝边框更防滑**：三星这几年手感是越做越滑，除了边框是圆角光滑铝合金外背板的浅磨砂玻璃简直是专门做出来让人脱手的，手机颜色和质感做这么好看却专门让人摔到底是什么心态啊……我裸奔手机这么多年了，这还是唯一一个摔坏屏的手机，只得不情不愿戴上笨重的壳。一加的平面金属拉丝边框防滑了许多，背板的伪木纹虽然样子我没有很喜欢但还是比三星磨砂玻璃不滑很多的，裸奔也不那么怕摔了。
 ![](https://media.douchi.space/douchi/media_attachments/files/115/178/647/818/052/015/original/a5fd98525794706d.png)
+- **更轻薄**：Ultra 有名的大砖头，但用了这么多年已经习惯了。用上 silicon carbon 电池的 OP13 一上手才发现真的轻薄了好多，甚至跟 iPhone 16 pro （非 max）这种小一号的机型比都手感轻很多，装在兜里也没那么硌。喜欢小手机但又不想放弃旗舰机续航、性能和相机的我算是一定程度上找到了平衡。
 - **静音按钮**：一加祖传，还是很 handy。常年放在震动模式，看电影拨到静音，等某些消息时候播到响铃，当然比进手机改模式实用多了。不过我发现这一代误触率比几年前用的时候高了一些，之前用 7 和 8 的时候应该从来没有误触过，这次过去的一个月内还是误触了四五回的。
 - **验证码自动补全**：Surprisinly 竟然比三星做得好，美国的服务支持不少。
 - **截图分 folder**：三星之前也是分的，近几年改称不分了，截图全在 camera roll 里被 Google photo 同步，还挺烦人的。
