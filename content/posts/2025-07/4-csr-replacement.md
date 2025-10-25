@@ -104,3 +104,4 @@ CSR 砍福利前就非常流行的一张旅行卡，CSR 不打算续订之后自
 - [虽然离开 CSR 了或许还有人需要 CSP 的 referral？](https://www.referyourchasecard.com/19o/ZVXO6MLBBL)
 - [Chase Freedom Unlimited/Flex](https://www.referyourchasecard.com/18j/NK0WOC9ANV) - 都要退出全家桶了不知道为啥还要放它俩……
 - [好久没更新的剁手数据库还有更多 referral](https://mtfront.notion.site/mtfront-shopping-reviews-e568ee6ebaa44b5da146cbe4ac4663eb?source=copy_link)
+- [Capital One Venture X referral](https://i.capitalone.com/G1itRTvWI)
