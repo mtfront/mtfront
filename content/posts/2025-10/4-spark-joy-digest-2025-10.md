@@ -112,6 +112,7 @@ imageDes: "摄于 2025-10 西雅图"
 ![](https://media.douchi.space/douchi/media_attachments/files/115/336/136/035/259/741/original/cc5f74f1adcadc9c.jpg)
 {{< / columns >}}
 
+- pre-assmble 好的，不用拧螺丝不用钻墙，推到家 unfold 就能用。
 - 无 subscription 可用大加分。
 - 有离线 free lift 模式，不跟着 program 走就是当普通重量用的话无需联网，因此以后公司倒闭了/网断应该还能继续当加强版（不用换片） dumb gym 用。
 - 做工挺扎实的，bar、卡扣和给的保护带质量看上去都不错
