@@ -12,6 +12,7 @@ tags:
   - Hugo
   - Code
   - Tutorial
+  - Project
   - PSA
 booktoc: false
 bookComments: true

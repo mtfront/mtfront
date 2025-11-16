@@ -11,6 +11,7 @@ tags:
   - Blog
   - Code
   - Tutorial
+  - Project
   - PSA
 booktoc: true
 bookComments: true
