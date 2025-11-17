@@ -2,7 +2,7 @@
 title: Steam 十年总结
 author: 椒盐豆豉
 type: post
-date: 2025-11-16T00:06:00-08:00
+date: 2025-11-17T00:06:00-08:00
 url: /steam-10-years/
 categories:
   - 喜欢就买
