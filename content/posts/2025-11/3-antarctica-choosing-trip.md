@@ -24,7 +24,7 @@ imageDes: "Image source: Aurora Expeditions/Scott Portelli"
 
 首先确定出行日期。忘记基本上是 12 月到 2月初，早点看冰川多，晚点看小企鹅多。结合到我们实际的偏好和假期 availability，最后决定 1 月底到 2 月初这个时间。
 
-![这张图找不到出处了。](https://media.douchi.space/douchi/media_attachments/files/115/569/789/517/340/499/original/47370c16f3289b63.png)
+![图源：TravelBank](https://media.douchi.space/douchi/media_attachments/files/115/569/789/517/340/499/original/47370c16f3289b63.png)
 
 <--->
 ![](https://media.douchi.space/douchi/media_attachments/files/115/569/733/546/905/179/original/1bb8048c02fafd02.png)
