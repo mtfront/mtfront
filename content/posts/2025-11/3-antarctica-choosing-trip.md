@@ -43,7 +43,7 @@ imageDes: "Image source: Aurora Expeditions/Scott Portelli"
 [TravelBank 南极站](https://www.youtube.com/@TravelBankAntarctica)频道找出一些懒人包就蛮有用的，虽然是（没打算用的）南极订票代购但有总结一些表格可以帮助初选。小红书上也有很多横评信息基本说得都差不多，每年可能会有小变动。根据我们的需求最后在 Lindbald（国家地理）和 Aurora 之间做抉择。下图源自 [Karen爱南极](https://www.xiaohongshu.com/discovery/item/66c445c4000000001f01b416?source=webshare&xhsshare=pc_web&xsec_token=CBL5xGjvKF3RODE7OVZqdBc5isQiqFQW7DYEJ7QestgRE=&xsec_source=pc_share)
 ![](https://media.douchi.space/douchi/media_attachments/files/115/569/768/157/596/390/original/2bb71a6771b6a2b1.png)
 
-其实一开始是比较偏向国家地理的，因为去了的好像都夸好，探险活动也比较丰富，据说讲解也较多。但因为我们时间比较紧张，觉得虽然大家都说飞的话天气不稳定容易晚点但还能赌个概率，坐船可是稳稳地慢啊，所以又倾向飞了。我们买的时候反正是没看到去时船（保证行程时间）回时飞（节省时间）的选项，索性往返都飞了。
+其实一开始是比较偏向国家地理的，因为去了的好像都夸好，探险活动也比较丰富，据说讲解也较多。但因为我们时间比较紧张，觉得虽然大家都说飞的话天气不稳定容易晚点但还能赌个概率，坐船可是稳稳地慢啊，所以又倾向飞了。我们买的时候反正是没看到去时船（保证行程时间）回时飞（节省时间 + 不晕船）的选项，索性往返都飞了。
 
 Shortlist 最符合我们需求的最后有如下几个选择：
 | 行程名称 | 天数（登陆/总天数） | 亮点 | 活动 | 进圈 | 公司 | 备注 |
