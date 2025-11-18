@@ -15,7 +15,7 @@ image: https://travelweekly.com.au/wp-content/uploads/2021/07/Greg-Mortimer-in-A
 imageDes: "Image source: Aurora Expeditions/Scott Portelli"
 ---
 
-开头先申明：**这篇远不是选航司攻略！！！没有做超级超级详细的研究和比价，以及明年一月才出发，所以也尚未实际体验**。单纯记录一下我们怎么选定了南极的行程，因为有 patreon 金主点名了这个命题所以迎着头皮写了，可能不会有特别大帮助。（顺便做个广告，[Patreon 高级以上金主可以给我命题作文噢](https://www.patreon.com/join/mtfront)！）。
+开头先申明：**这篇远不是选航司攻略！！！没有做超级超级详细的研究和比价，以及明年一月才出发，所以也尚未实际体验**。因为有 patreon 金主点名了这个命题所以硬着头皮写了，单纯记录一下我们怎么选定了南极的行程，可能不会有特别大帮助。（顺便做个广告，[Patreon 高级以上金主可以给我命题作文噢](https://www.patreon.com/join/mtfront)！）。
 
 <!--more-->
 
