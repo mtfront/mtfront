@@ -54,7 +54,7 @@ Shortlist 最符合我们需求的最后有如下几个选择：
 | [Wild Antarctica featuring the Weddell Sea](https://www.aurora-expeditions.com/expedition/wild-antarctica?tourcode=ANW010S) | 8/13 |南极本极 + Weddell 海 | 同上| N | Aurora | 飞去、船回 |
 
 
-最后的 differentiating factor 落在了，女朋友看到了这个 snorkeling 视频深深种草了 aurora 的：
+最后的 differentiating factor 落在了 snorkeling。（女朋友补充）提供snorkeling的航司只有两家，符合我想看的企鹅宝宝时间线的就只剩下这一个行程的不同日期了，所以才选了aurora。要是能选的话她会 prefer 船过去 + 不进南极圈，还能便宜点，该玩的也都玩到了。这里有一个女朋友找到的种草视频：
 
 {{< youtube "blN6twG3quw" >}}
 
