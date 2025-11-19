@@ -50,7 +50,7 @@ Backdoor roth IRA 的时候特必须要注意 pro-rata rule，即有的 traditio
 以上是我理解的理论部分，下面是我的实际情况：
 - for some reason，我的 traditional 401K 里有一万多刀 after-tax money. 这个数额可以在 tax return 的 form 8606 line 14 找到。
 - 愚蠢如我，之前应该也 rollover 过前雇主的 401K，所以里面还有一部分 pre-tax 的钱，但是数额整体不多。（也就是说我过去几年的 backdoor roth 其实都白白交了一部分税）
-- 今年我为了 consolidate 401K，把两个前雇主大大部头 401K 都 rollover 到了 traditional 401K。所以现在我 traditional IRA 里绝大部分钱是 pre-tax。如果我不今年之内发现，那我将来的 backdoor roth 基本就血亏白交了。
+- 今年我为了 consolidate 401K，把两个前雇主大大部头 401K 都 rollover 到了 traditional 401K。所以现在我 traditional IRA 里绝大部分钱是 pre-tax。如果我不今年之内发现，那我将来的 backdoor roth 基本就血亏要被 double tax 了。
 
 咨询了 chatGPT, claude 和 gemini 之后得出了我现在的补救措施：
 - 当务之急，reverse rollover——把 traditional 401k 里的 pre-tax 钱全部都 rollover 到现雇主的 401K。（此处感恩 fidelity 一贯靠谱的客服，虽然一开始也搞不清楚，但跟同事一通电话之后搞清楚了流程：打电话找到 401K team 开一个 ticket，告诉他们 deposit slip 的准确数额。）
