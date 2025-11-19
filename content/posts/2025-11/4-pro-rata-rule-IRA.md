@@ -28,9 +28,9 @@ TLDR
 
 ---
 
-首先，**traditional IRA 里千万不要留 after-tax 的钱，要立刻去 roth IRA**，否则增长部分会被税。这个大多数人本来都知道，我也一直以为我里面都是 pre-tax，今天发现问题定睛一看才发现不是…… 至于这比 after-tax 的钱哪来的至今没搞懂。
+首先，**traditional IRA 里千万不要留 after-tax 的钱，要立刻去 roth IRA**，否则增长部分会被税。这个大多数人本来都知道，我也一直以为我里面都是 pre-tax，今天发现问题定睛一看才发现不是…… 至于这比 after-tax 的钱哪来的至今没搞懂。大概又是年轻时候不知道哪捅的坑吧…… 
 
-“正常”情况下一般人是 contribute pre-tax 的钱到 traditional IRA（作为 401K 的 alternative），或者选择 after tax contribute to roth IRA 赚 tax free capital gain。但收入超过一定限制（2025 年限制是 single $150K family $236K）不能 contribute pre-tax IRA，所以则有了 after tax contribute to traditional IRA，然后再 convert to roth IRA，俗称 backdoor roth IRA.
+“正常”情况下一般人是 contribute pre-tax 的钱到 traditional IRA（作为 401K 的 alternative），或者选择 after tax contribute to roth IRA 赚 tax free capital gain。但收入超过一定限制（2025 年限制是 single $150K family $236K）不能直接 contribute roth IRA，所以则有了 after tax contribute to traditional IRA，然后再 convert to roth IRA，俗称 backdoor roth IRA.
 
 Backdoor roth IRA 的时候特必须要注意 pro-rata rule，即有的 traditional IRA（包括 traditional, rollover IRA, SEP IRA, SIMPLE IRA 等等） 里的钱不管 pre-tax 还是 after-tax 都是一个 pool，整个池子会按比例变成 pre/after tax。
 
