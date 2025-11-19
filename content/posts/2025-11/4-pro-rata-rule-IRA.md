@@ -22,6 +22,11 @@ imageDes: ""
 文中讨论美国税务，因此有大量中英夹杂，如果有晕夹症请尽早离开。
 {{< / hint >}}
 
+TLDR
+1. 如果要做 backdoor roth IRA 的话那 traditional IRA 千万不要用来 rollover 前雇主的 pre-tax 401K
+2. traditional IRA 里千万不要 mix pre/after tax 的钱。做 backdoor 的话你的 traditional IRA 最好一直保持 0 余额。
+
+---
 
 首先，**traditional IRA 里千万不要留 after-tax 的钱，要立刻去 roth IRA**，否则增长部分会被税。
 
