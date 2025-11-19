@@ -23,12 +23,12 @@ imageDes: ""
 {{< / hint >}}
 
 TLDR
-1. 如果要做 backdoor roth IRA 的话那 traditional IRA 千万不要用来 rollover 前雇主的 pre-tax 401K
+1. 如果要做 backdoor roth IRA 的话那 traditional IRA 千万不要用来 rollover 前雇主的 pre-tax 401K.
 2. traditional IRA 里千万不要 mix pre/after tax 的钱。做 backdoor 的话你的 traditional IRA 最好一直保持 0 余额。
 
 ---
 
-首先，**traditional IRA 里千万不要留 after-tax 的钱，要立刻去 roth IRA**，否则增长部分会被税。
+首先，**traditional IRA 里千万不要留 after-tax 的钱，要立刻去 roth IRA**，否则增长部分会被税。这个大多数人本来都知道，我也一直以为我里面都是 pre-tax，今天发现问题定睛一看才发现不是…… 至于这比 after-tax 的钱哪来的至今没搞懂。
 
 “正常”情况下一般人是 contribute pre-tax 的钱到 traditional IRA（作为 401K 的 alternative），或者选择 after tax contribute to roth IRA 赚 tax free capital gain。但收入超过一定限制（2025 年限制是 single $150K family $236K）不能 contribute pre-tax IRA，所以则有了 after tax contribute to traditional IRA，然后再 convert to roth IRA，俗称 backdoor roth IRA.
 
