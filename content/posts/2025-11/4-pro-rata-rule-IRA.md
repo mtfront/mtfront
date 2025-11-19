@@ -48,7 +48,7 @@ Backdoor roth IRA 的时候特必须要注意 pro-rata rule，即有的 traditio
 - 今年我为了 consolidate 401K，把两个前雇主大大部头 401K 都 rollover 到了 traditional 401K。所以现在我 traditional IRA 里绝大部分钱是 pre-tax。如果我不今年之内发现，那我将来的 backdoor roth 基本就血亏白交了。
 
 咨询了 chatGPT, claude 和 gemini 之后得出了我现在的补救措施：
-- 当务之急，reverse rollover——把 traditional 401k 里的 pre-tax 钱全部都 rollover 到现雇主的 401K。此处感恩 fidelity 一贯靠谱的客服，一通电话之后搞清楚了流程：打电话找到 401K team 开一个 ticket，告诉他们 deposit slip 的准确数额。
+- 当务之急，reverse rollover——把 traditional 401k 里的 pre-tax 钱全部都 rollover 到现雇主的 401K。（此处感恩 fidelity 一贯靠谱的客服，虽然一开始也搞不清楚，但跟同事一通电话之后搞清楚了流程：打电话找到 401K team 开一个 ticket，告诉他们 deposit slip 的准确数额。）
 - 因为 rollover 需要 liquidate（因为在 IRA 里所以都是 deferred tax 不影响今年税务）。我 pre-tax 占了绝大多数，方便起见把整个账户都 liquidate 了。
 - Cash settle 了之后再打电话到 IRA 那边（fidelity 内部应该会给你 route 但今天的客服直接给了我个电话），告诉他们要 roll-in 401K，已经开了 deposit slip。
 - pre-tax dollar 都挪走之后，把 traditional IRA 里所有钱都 convert to roth IRA。此处之前放着好多年（捶胸顿足）的 after tax gain 会被税，但及时止损更重要。
