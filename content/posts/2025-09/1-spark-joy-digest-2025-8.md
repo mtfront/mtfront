@@ -182,7 +182,7 @@ imageDes: "摄于 2025-8 Mt. Rainier Skyline Loop"
 这片子和`老娘与海`撞题材真是不巧，虽然也没有不喜欢后者虽但以为差不多就一直提不起兴趣看，谁想看了才发现纯纯的是励志老年友情版 `The L Word` 啊（无浪漫爱超大加分）。当年看 `The L Word` 就 be like 你们美国 lesbian 生活这么好的吗，人到中年但没被婚姻房贷生育绑定每个都有各不相同的事业还随时就能叫出一大圈朋友工作日下午晒着加州阳光喝个下午茶，是当年驱动我出国的原因之一（？）。这片子完美还原二十年前的我对这种生活的向往，还加入非常符合心境的老年存在主义危机，狠狠 relate。第一次 get 到 Jodie Forest 太可爱了。从剧情转折到人物刻画其实都有很多不完美，但内容实在是太美了，加上恰到好处的音乐看得人竟有些 emotional。四星半
 
 ### K-Pop: Demon Hunters 👍
-{{< neodb "https://neodb.social/movie/4XFKnM02gWZIC3Ts2FfRND" 8 >}}
+{{< neodb "https://neodb.social/movie/2yosmqYQYRNJuaqjJ54IFc" 8 >}}
 真是老了，完全没意识到这片子的火度还是同事里热度 overflow 才想说去看一下赶个时髦的。TBH 看标题以为是量产山寨小动画所以看了还挺超出预期的。主旨是老旧 be yourself 自我发现励志故事非常公式和聒噪，但有几首歌确实挺 catchy 的，不是 kpop 粉也能不带脑子乐一乐。韩国人推广 kpop 和自己文化的心真是无人能比，但是这片子还是索尼发行的🤣 Wish `Turning Red` which this is heavily inspired by 能有这么多热度，所以真是片子质量只是成功的一半，还是得靠 marketing 啊……
 
 ### Zarna Garg: One in a Billion 👍
