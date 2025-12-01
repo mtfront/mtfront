@@ -8,7 +8,7 @@ BookComments: False
 ![](https://media.douchi.space/douchi/media_attachments/files/115/414/565/239/570/151/original/b5d2cff3e8c4cc75.png)
 <i class="image-desc">摄于 2025-10 Seattle </i>
 
-`updated on 2025-11-11`
+`updated on 2025-11-30`
 
 ## 近况 
 - 去年喜提中年人第一次被裁之后躺了半年（美西大环线 road trip（[鸟]({{< relref "/posts/2024-03/6-us-west-loop-road-trip-1" >}}) | [美景]({{< relref "/posts/2024-03/7-us-west-loop-road-trip-2" >}}) | [回家]({{< relref "/posts/2024-03/8-us-west-loop-road-trip-3" >}})）｜ [夏威夷大岛]({{< relref "/posts/2024-04/2-island-of-hawaii-2024" >}}) ｜ [Oreagon 海岸线]({{< relref "/posts/2024-06/6-oregon-coast-road-trip-2024" >}})，肯尼亚拖欠一年……）
@@ -18,17 +18,14 @@ BookComments: False
 - 刚从[班夫]({{< relref "/posts/2025-09/3-banff" >}})玩了一圈回来，名列最爱国家公园 top3 了！
 
 ## 近期中意
-- 📚 [`Hidden Systems`](https://amzn.to/424kMUT) by Dan Nott
+- 📚 [`鱼不存在`](https://amzn.to/3JKooWw)
 - 📺 `The Diplomat`
 - 📺 `The Pitt`
 - 🎬 `A House of Dynamite`
-- 🎬 `Kpop Demon Hunter`
+- 🎮 `燕云十六声`
 - 🎮 `Hades II`
+- 🎥 [`TCL PlayCube 便携投影仪`](https://amzn.to/4oZUrQW)
 - 🏋️ [`Speediance Gym Monster 2`](https://amzn.to/4obJGLn)
-- ⌚️ [`Garmin epix Pro (Gen 2)`](https://amzn.to/3X3YmjM)
-- 📱 [`Oneplus 13`](https://amzn.to/46RuOLY)
-- 🎧 [`Soundcore Sleep A30`](https://amzn.to/41JC61y)
-- 📷 [`Insta360 X5`](https://amzn.to/4mTnNje)
 
 ## 近期目标
 - 保持肌肉量的同时稍微减点脂
