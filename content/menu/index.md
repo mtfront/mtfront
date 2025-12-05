@@ -3,7 +3,6 @@ headless: true
 ---
 - [博客 | blog]({{< relref "/posts/" >}})
 - [订阅 | rss]({{< relref "/">}}index.xml)
-- [今日 | daily](https://daily.douchi.space?utm_source=blog.douchi.space)
 - [跬步 | steps](https://steps.douchi.space?utm_source=blog)
 - [简报 | newsletter]({{< relref "/tags/关我辟事/" >}})
 - [时空 | time capsule]({{< relref "/time-capsule/" >}})
