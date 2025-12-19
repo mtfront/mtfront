@@ -9,6 +9,7 @@ categories:
 tags:
   - blog
   - random
+  - rant
 booktoc: false
 bookComments: true
 image: https://media.douchi.space/douchi/media_attachments/files/115/738/779/911/097/094/original/7aab2764a54d220a.jpeg
@@ -19,7 +20,7 @@ Disclaimer：博主不信教，对天主教也没有任何好感，拿来七宗�
 
 <!--more-->
 
-- `傲慢｜Pride`： 举世皆醉唯我独醒。把完美主义当个褒义词自我描述，好似面试时候回答“你有什么缺点”时候忸怩作态的“工作太认真”一般拧巴。<small>日常在“why are people so stupid”和“why am I such an idiot“间反复横跳</small>
+- `傲慢｜Pride`： 举世皆醉唯我独醒。把完美主义当个褒义词自我描述，好似面试时候回答“你有什么缺点”时候忸怩作态的“工作太认真”一般拧巴。<small>日常在“why are people so stupid”和“why am I such an idiot“间反复横跳的我先走了</small>
 - `嫉妒｜Envy`：转载。美其名曰好物分享/自用笔记，市面上笔记软件那么多我不信能写独立博客的人手头没有至少一个能用的，复制粘贴别人内容发网上活脱脱地给自己引流充数（给谁看啊到底）还给自己脸上贴 internet archive 的金。
 - `愤怒｜Wrath`：什么都能批判。屁大点事写出五千字的没人看檄文还觉得自己动笔杆子没去社交网络上互怼撕人特别清高。<small>骂人博主自己先下线。</small>
 - `怠惰｜Sloth`：停更。更甚，字都没写几篇好意思跟人家周刊作者写了几年收关了学叫自己停更。<small>（骂的就是跟风风风火火日记站写了不到一年就不写了的自己）（修辞性括号，不是真的骂，又没人给钱让我写博客，不爱写就不写了呗）</small>
