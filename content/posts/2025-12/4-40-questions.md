@@ -23,7 +23,7 @@ imageDes: "冬天没什么摄影作品就继续「三十三号远征队」截图
 
 <!--more-->
 
-本文是我 [2024 年 12 月 Patreon 的月度选题](https://www.patreon.com/posts/2025-nian-12-yue-144646282)。加入 patreon 可以跟其它赞助者一起选出下个月你想看的博客文章，并且支持本博客的持续创作。[下期选题已经发布欢迎金主点击投票](https://www.patreon.com/posts/2026-nian-1-yue-146312385)：
+本文是我 [2025 年 12 月 Patreon 的月度选题](https://www.patreon.com/posts/2025-nian-12-yue-144646282)。加入 patreon 可以跟其它赞助者一起选出下个月你想看的博客文章，并且支持本博客的持续创作。[下期选题已经发布欢迎金主点击投票](https://www.patreon.com/posts/2026-nian-1-yue-146312385)：
 - 我的 guilty pleasure
 - 为什么不回中国
 - 占地一平米的健身房替代方案
@@ -84,9 +84,9 @@ P 人一般没什么 new year resolution，但我定睛一想去年好像还真�
 好看猫走了。
 
 ## 你去了那些城市/州/国家？
-- 湾区：2 月演唱会，3 月办事一次，9 月底出差
+- 湾区：2 月演唱会，3 月办事一次，出差一次
 - Vegas：演唱会
-- LA：出差
+- LA：出差 2 次
 - Oregon：road trip
 - 温哥华（加拿大）：看了一次演唱会、陪女朋友去办事两次/去班夫路过
 - [班夫]({{< relref "/posts/2025-09/3-banff" >}})（加拿大）：road trip
