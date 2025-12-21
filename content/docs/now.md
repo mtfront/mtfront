@@ -22,7 +22,7 @@ BookComments: False
 - 📺 `The Diplomat`
 - 📺 `The Pitt`
 - 🎬 `A House of Dynamite`
-- 🎮 `燕云十六声`
+- 🎮 `33 号远征队`
 - 🎮 `Hades II`
 - 🎥 [`TCL PlayCube 便携投影仪`](https://amzn.to/4oZUrQW)
 - 🏋️ [`Speediance Gym Monster 2`](https://amzn.to/4obJGLn)
