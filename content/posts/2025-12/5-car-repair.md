@@ -81,3 +81,7 @@ imageDes: "今年冬天命运多舛的小霾"
 {{< / columns >}}
 
 原价 2000 多刀的轮子卖废铁 20 不到，我又懒得挨个打轮毂维修厂找找看到底能不能修 + 自己处理卖了。但这事儿总算是在今年内划上一个完满句号了。
+
+车的机油也该换了。下一辆或许还是应该考虑下电车等 Rivian R3X 呢（刷到[这个帖](https://www.reddit.com/r/electriccars/s/4yyLYsimQ1)又有点心动），还是稳妥路线的 Mazda 3 呢？Rivian 最大concern 是可靠性年年倒数，也不知道再过几年等 R3 出的时候改善到什么程度（just in case you can't tell 让我买特斯拉是一种 insult 会被拉黑的程度）。road trip 爱好者里程焦虑是有，但我一年才 road trip 几次啊，住城市中心专门去加油的全年总耗时肯定更长，实在不行还能租车 road trip。
+
+但确实，休假的时间长了做 adulting 相关的事也没有上班忙的时候那么那么痛苦了。
