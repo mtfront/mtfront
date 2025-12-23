@@ -60,7 +60,6 @@ imageDes: "摄于 2024-11-15 lake union"
 ## 食
 {{< wrap "https://media.douchi.space/douchi/media_attachments/files/113/491/478/314/154/161/original/4af229512a232a9a.png" >}}
 ### Harry's Fine Food, Seattle
-{{< empty >}}
 Capitol Hill 一家 neighborhood 小馆，周末来来往往挤满了人，很有生活气息。Unfortunately 我第一次知道它家还是前阵子他们的厨师之一（暴力犯罪 trigger warning）{{< spoiler "被人用刀捅死了" >}}。食物是挺精致好吃的，我吃的不上相就照了张女朋友的泰式 fusion 煎蛋，下面是米饭，饭量不大在已经吃了半个挺齁的甜点的前提下一扫而空可见不错。
 
 馆子就在居民区，天气稍微暖和些的时候我去图书馆的时候也能看到有顾客悠闲地坐在室外，不过冬天周末的大客流量 + 室内拥挤空间就有点吵了，能坐到它后院的 indoor outdoor seating 的话体验应该会更好。

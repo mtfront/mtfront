@@ -119,7 +119,6 @@ Hugo 自带了通过分类和 tag 选取相关文章的功能，直接引用 `.S
 ```
 
 ### 剧透/Content Warning 模糊
-{{< empty >}}
 加了一个鼠标 hover/手机点击消除模糊的 shortcode，效果如下：{{< spoiler "我是剧透" >}}。
 
 ```html
@@ -135,7 +134,7 @@ Hugo 自带了通过分类和 tag 选取相关文章的功能，直接引用 `.S
   }
 }
 ```
-此处有个 tricky 的地方不知道是我的模版问题还是 Hugo，即如果使用这个短代码前的文字块没有别的定制模块的`<div>`，就会自动给短代码生成一个`<p>` tag，导致模糊部分即便 `display:inline` 也会另起一行。简单的 hacky solution 是我又加了一个只有一个 inline `<div>` empty shortcode 插在需要使用的剧透之前:
+~~此处有个 tricky 的地方不知道是我的模版问题还是 Hugo，即如果使用这个短代码前的文字块没有别的定制模块的`<div>`，就会自动给短代码生成一个`<p>` tag，导致模糊部分即便 `display:inline` 也会另起一行。简单的 hacky solution 是我又加了一个只有一个 inline `<div>` empty shortcode 插在需要使用的剧透之前:~~ 2025-12-22 更新：博友评论表示只要用`<span>`而不是`<div>`就可以啦。
 
 ```html
 <div class="empty" />
