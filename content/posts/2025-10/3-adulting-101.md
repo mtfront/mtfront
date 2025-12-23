@@ -10,6 +10,7 @@ categories:
 tags:
   - patreon
   - money
+  - adulting
 draft: false
 booktoc: true
 bookComments: true
