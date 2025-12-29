@@ -31,4 +31,4 @@ imageDes: ""
 - 团队里有 80% 的人都是 new grad/junior {{< emoji "https://media.douchi.space/douchi/custom_emojis/images/000/054/141/original/c8c4dd41357d92e6.png" >}}
 - 全法国都找不到能把战斗动画做酷，于是主创找到了一堆做动画的韩国人临时工（？）
 - 33 能作为一款 JRPG 核心成功的一大原因是没有再像传统 JRPG 一样把玩家当中二青少年喂，而是一个非常成人的故事（也印证了前面串里的[吐槽](https://douchi.space/@mtfront/115796639466307953)，小孩子才会只要看中二史诗而把真诚的伤痛故事当成小家子气的 downgrade。~~此处不得不 mean 一句中文玩家里这种论调比例较高（无数据无根据个人观察如不同意就是你对）一定层面反映了大众现阶段的审美~~）
-- 看完这个片子我决定为 TGA 道歉了，33 确实不折不扣的 indie，你不能说人家做大做强了就剥夺 indie 籍了吧。从两个人的 passion project 开始拉了一堆草台班子（褒义）passion driven 队员做出来的还能有更 indie 的事情吗？成果来看确实对其它 indie 是降维打击了，但制作过程并不是。
+- 看完这个片子我决定向 TGA 道歉了，33 确实不折不扣的 indie，你不能说人家做大做强了就剥夺 indie 籍了吧（but still 我觉得奖不应该太 concentrate 到一个游戏上）。从两个人的 passion project 开始拉了一堆草台班子（褒义）passion driven 队员做出来的还能有更 indie 的事情吗？成果来看确实对其它 indie 是降维打击了，但制作过程并不是。
