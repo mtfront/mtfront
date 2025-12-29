@@ -26,7 +26,7 @@ imageDes: ""
 - Jen (lead writer): **Renoir is my inner Chinese mom.** I knew it!!!! I knew that I knew this 我是为你好苦大仇深 mentally！！！！今年两个大热作品的主创都是 Asian Amercian 女性（Kpop Demon Hunter 的导演韩裔 Maggie Kang 和 33 号远征队的 lead writer 华裔 Jennifer Svedberg-Yen），以及内容都是部分启发于她们的 dual-identity and imposter syndrome，太有意思了）
 - 游戏里的表演面部表情捕捉是拿手机拍 + unreal 的 app 做的……这年头技术和工具进步是真的能质变产生量变的。
 - 创始人当时有了点子但这种项目在大厂屎山（育碧）里 pitch 难度太大于是决定自己单干。~~这个故事告诉我们大厂屎山是梦想的坟墓~~
-- 单干组队基本上是网上找了一群没经验的草台班子（褒义）——从未做过游戏的项目管理（之前做法国版 Uber 的）和艺术指导（之前做马戏团的），从未发表过音乐的作曲（自学作曲然后做同人音乐的……？），从未发表过作品的编剧（reddit 上找的……沃顿商学院学数学的……本来是被找来当配音的……？？？）等等，刚好因为 covid 大家都没事干凑一起有时间搞事情了……真的瞳孔地震 {{< emoji "https://media.douchi.space/douchi/custom_emojis/images/000/043/996/original/b7d87bf02ced1cf3.png" >}} {{< emoji "https://media.douchi.space/douchi/custom_emojis/images/000/054/141/original/c8c4dd41357d92e6.png" >}} so random
+- 单干组队基本上是网上找了一群没经验的草台班子（褒义）——从未做过游戏的项目管理（之前做法国版 Uber 的）和艺术指导（之前做马戏团的），从未发表过音乐的作曲（自学作曲然后做同人音乐的……？），从未发表过作品的编剧（reddit 上找的……沃顿商学院学 econ 和数学的前金融民工厌班自己搞兴趣时候 reddit 上去应征配音的……？？？）等等，刚好因为 covid 大家都没事干凑一起有时间搞事情了……真的瞳孔地震 {{< emoji "https://media.douchi.space/douchi/custom_emojis/images/000/043/996/original/b7d87bf02ced1cf3.png" >}} {{< emoji "https://media.douchi.space/douchi/custom_emojis/images/000/054/141/original/c8c4dd41357d92e6.png" >}} so random
 - 主创当年是在 2022 年的 GDC pitch idea 拿到的主要 funding，啊啊啊当年我在前司我司还有 booth 还有机会能擦肩而过过！！！  {{< emoji "https://media.douchi.space/douchi/custom_emojis/images/000/009/619/original/dc0318d0d82ae806.png" >}}
 - 团队里有 80% 的人都是 new grad/junior {{< emoji "https://media.douchi.space/douchi/custom_emojis/images/000/054/141/original/c8c4dd41357d92e6.png" >}}
 - 全法国都找不到能把战斗动画做酷，于是主创找到了一堆做动画的韩国人临时工（？）
