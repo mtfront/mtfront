@@ -9,7 +9,7 @@ bookToc: false
 ｜[💰 剁手安利](https://mtfront.notion.site/mtfront-shopping-reviews-e568ee6ebaa44b5da146cbe4ac4663eb) ｜ [🎬 书影游库](https://mtfront.notion.site/2485c762efe040b988531aaa3e45ad25) ｜ [📰 电报剪报](https://t.me/mtfront) ｜
 
 ## 支持创作
-## ｜[☕️ 聊五毛钱](https://www.patreon.com/bePatron?u=46962965) ｜[🧋 买杯奶茶](https://ko-fi.com/S6S130C16) ｜ 
+## ｜[☕️ 赞助本站](https://www.patreon.com/bePatron?u=46962965) ｜[🧋 买杯奶茶](https://ko-fi.com/S6S130C16) ｜ 
 
 ## 博文统计
 {{< heatmap >}}

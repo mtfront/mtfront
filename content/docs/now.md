@@ -8,7 +8,7 @@ BookComments: False
 ![](https://media.douchi.space/douchi/media_attachments/files/115/674/431/098/176/776/original/ed74ca7f6979a997.jpg)
 <i class="image-desc">摄于 2025-12 Seattle </i>
 
-`updated on 2025-12-22`
+`updated on 2025-12-29`
 
 ## 近况 
 - 去年喜提中年人第一次被裁之后躺了半年（美西大环线 road trip（[鸟]({{< relref "/posts/2024-03/6-us-west-loop-road-trip-1" >}}) | [美景]({{< relref "/posts/2024-03/7-us-west-loop-road-trip-2" >}}) | [回家]({{< relref "/posts/2024-03/8-us-west-loop-road-trip-3" >}})）｜ [夏威夷大岛]({{< relref "/posts/2024-04/2-island-of-hawaii-2024" >}}) ｜ [Oreagon 海岸线]({{< relref "/posts/2024-06/6-oregon-coast-road-trip-2024" >}})，肯尼亚拖欠一年……）
@@ -16,6 +16,7 @@ BookComments: False
 - 人到中年开始跑步，这就[一年啦]({{< relref "/posts/2025-08/7-running-one-year" >}})
 - 近期几个项目：[出厂设置播客]({{< relref "/posts/2024-11/2-podcast-other-than-default" >}})｜[日更站](https://daily.douchi.space?utm_source=blog.douchi.space)｜[跬步](https://steps.douchi.space?utm_source=blog) | [时空胶囊]({{< relref "/time-capsule" >}})
 - 秋天从[班夫]({{< relref "/posts/2025-09/3-banff" >}})玩了一圈回来，名列最爱国家公园 top3 了！
+- 把[剁手安利数据库](https://mtfront.notion.site/mtfront-shopping-reviews-e568ee6ebaa44b5da146cbe4ac4663eb)同步更新 workflow 搞好了，终于又能和博客同步了。
 
 ## 近期中意
 - 📚 [`鱼不存在`](https://amzn.to/3JKooWw)
