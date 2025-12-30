@@ -8,7 +8,9 @@
 {{ $feedUrl := printf "%s.rss" $profileUrl }}
 
 {{ $feedData := "" }}
-{{ with try (resources.GetRemote $feedUrl) }}
+{{ $headers := dict "User-Agent" "Mozilla/5.0 (compatible; Hugo RSS Reader)" }}
+{{ $options := dict "headers" $headers }}
+{{ with try (resources.GetRemote $feedUrl $options) }}
   {{ with .Err }}
     <div class="mastodon-error">
       <p>Error fetching RSS feed: {{ . }}</p>
@@ -79,7 +81,9 @@
             {{ end }}
             {{ if $dbType }}
               {{ $request := printf "%s%s" $dbApiUrl $dbType }}
-              {{ with try (resources.GetRemote $request) }}
+              {{ $neodbHeaders := dict "User-Agent" "Mozilla/5.0 (compatible; Hugo RSS Reader)" }}
+              {{ $neodbOptions := dict "headers" $neodbHeaders }}
+              {{ with try (resources.GetRemote $request $neodbOptions) }}
                 {{ with .Err }}
                   {{/* Error fetching, continue without NeoDB card */}}
                 {{ else with .Value }}
