@@ -7,252 +7,314 @@
 {{/* Convert profile URL to RSS feed URL */}}
 {{ $feedUrl := printf "%s.rss" $profileUrl }}
 
-{{ $feedData := "" }}
-{{ with try (resources.GetRemote $feedUrl) }}
-  {{ with .Err }}
-    {{ warnf "Failed to fetch Mastodon RSS feed from %s %s" $feedUrl .Err }}
-  {{ else with .Value }}
-    {{ $feedData = .Content }}
-  {{ else }}
-    {{ warnf "Unable to fetch RSS feed from %s" $feedUrl }}
-  {{ end }}
-{{ end }}
+{{/* Generate unique ID for this feed instance */}}
+{{ $feedId := printf "mastodon-feed-%d" (now.Unix) }}
 
-{{ if $feedData }}
-  {{/* Extract items by splitting on item tags */}}
-  {{ $parts := split $feedData "<item>" }}
-  {{ $items := slice }}
-  {{ range $idx, $part := $parts }}
-    {{ if and (gt $idx 0) (lt (len $items) $limit) }}
-      {{ $itemEndMatch := findRE `</item>` $part }}
-      {{ if $itemEndMatch }}
-        {{ $itemParts := split $part "</item>" }}
-        {{ $itemContent := index $itemParts 0 }}
-        {{ $items = $items | append (printf "<item>%s</item>" $itemContent) }}
-      {{ end }}
-    {{ end }}
-  {{ end }}
+<div id="{{ $feedId }}" class="mastodon-feed" data-feed-url="{{ $feedUrl }}" data-profile-url="{{ $profileUrl }}" data-limit="{{ $limit }}">
+  <div class="mastodon-loading">Loading feed...</div>
+</div>
+
+<script>
+(function() {
+  const feedContainer = document.getElementById('{{ $feedId }}');
+  if (!feedContainer) return;
   
-  <div class="mastodon-feed">
-    {{ range $idx, $item := $items }}
-      {{ $link := "" }}
-      {{ $description := "" }}
-      {{ $pubDate := "" }}
-      {{ $formattedDate := "" }}
+  const feedUrl = feedContainer.dataset.feedUrl;
+  const profileUrl = feedContainer.dataset.profileUrl;
+  const limit = parseInt(feedContainer.dataset.limit) || 5;
+  
+  // Fetch and parse RSS feed
+  fetch(feedUrl)
+    .then(response => {
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      return response.text();
+    })
+    .then(xmlText => {
+      const parser = new DOMParser();
+      const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
+      const items = xmlDoc.querySelectorAll('item');
       
-      {{/* Extract link from item - get the link tag content */}}
-      {{ $linkMatches := findRE `<link>([^<]+)</link>` $item }}
-      {{ if $linkMatches }}
-        {{ $linkMatch := index $linkMatches 0 }}
-        {{ $link = replaceRE `<link>([^<]+)</link>` "$1" $linkMatch }}
-        {{ $link = strings.TrimSpace $link }}
-      {{ end }}
+      if (items.length === 0) {
+        feedContainer.innerHTML = '<div class="mastodon-error">No items found in feed</div>';
+        return;
+      }
       
-      {{/* Extract description - only content between description tags */}}
-      {{ $neodbUrl := "" }}
-      {{ $neodbData := dict }}
-      {{ $descStart := findRE `<description>` $item }}
-      {{ if $descStart }}
-        {{/* Get everything after <description> */}}
-        {{ $afterDesc := replaceRE `.*<description>` "" $item }}
-        {{/* Get everything before </description> */}}
-        {{ $descParts := split $afterDesc "</description>" }}
-        {{ if $descParts }}
-          {{ $description = index $descParts 0 }}
-          {{ $description = htmlUnescape $description }}
-
-          {{/* Check for NeoDB links before removing URLs - handle both in anchor tags and plain text */}}
-          {{ $neodbMatches := findRE `https://neodb\.social/[^\s<>"]+` $description }}
-          {{ if $neodbMatches }}
-            {{ $neodbUrl = index $neodbMatches 0 }}
-            {{/* Clean up URL if it has trailing characters */}}
-            {{ $neodbUrl = replaceRE `([^\s<>"]+).*` "$1" $neodbUrl }}
-            {{/* Fetch NeoDB data */}}
-            {{ $dbApiUrl := "https://neodb.social/api/" }}
-            {{ $dbType := "" }}
-            {{ if findRE `^.*neodb\.social\/.*` $neodbUrl }}
-              {{ $dbType = replaceRE `.*neodb\.social\/(.*\/.*)` "$1" $neodbUrl }}
-            {{ end }}
-            {{ if $dbType }}
-              {{ $request := printf "%s%s" $dbApiUrl $dbType }}
-              {{ $neodbHeaders := dict 
-                "User-Agent" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-                "Accept" "application/json, */*"
-                "Accept-Language" "en-US,en;q=0.9"
-              }}
-              {{ $neodbOptions := dict "headers" $neodbHeaders }}
-              {{ with try (resources.GetRemote $request $neodbOptions) }}
-                {{ with .Err }}
-                  {{/* Error fetching, continue without NeoDB card */}}
-                {{ else with .Value }}
-                  {{ $neodbData = . | transform.Unmarshal }}
-                {{ end }}
-              {{ end }}
-            {{ end }}
-            {{/* Replace NeoDB URL with placeholder marker to preserve position */}}
-            {{ $description = replaceRE `<a[^>]*href=["']?https://neodb\.social/[^"'\s<>]+["']?[^>]*>.*?</a>` "|NEODB_CARD_PLACEHOLDER|" $description }}
-            {{ $description = replaceRE `https://neodb\.social/[^\s<>"]+` "|NEODB_CARD_PLACEHOLDER|" $description }}
-          {{ end }}
-
-          {{/* Remove any remaining URLs (http/https links) that appear as plain text */}}
-          {{ $description = replaceRE `https?://[^\s<>]+` "" $description }}
-          {{/* Remove date/time strings like "Mon, 29 Dec 2025 23:35:17 +0000" */}}
-          {{ $description = replaceRE `\w+,\s+\d{1,2}\s+\w{3}\s+\d{4}\s+\d{2}:\d{2}:\d{2}\s+[+-]\d{4}` "" $description }}
-          {{/* Remove emoji shortcodes like :shortcode: */}}
-          {{ $description = replaceRE `:[a-zA-Z0-9_+-]+:` "" $description }}
-          {{/* Remove img tags */}}
-          {{ $description = replaceRE `<img[^>]*>` "" $description }}
-          {{/* Fix hashtag links - replace with correct format */}}
-          {{/* Format: <a ... class="mention hashtag" ...>#<span>tag</span></a> */}}
-          {{ $hashtagMatches1 := findRE `<a[^>]*class=["']mention hashtag["'][^>]*>#<span>([^<]+)</span></a>` $description }}
-          {{ if $hashtagMatches1 }}
-            {{ range $hashtagMatches1 }}
-              {{ $tagName := replaceRE `.*>#<span>([^<]+)</span></a>.*` "$1" . }}
-              {{ $newLink := printf `<a href="%s/tagged/%s" target="_blank" rel="noopener noreferrer">#%s</a>` $profileUrl $tagName $tagName }}
-              {{ $description = replaceRE (printf `%s` .) $newLink $description }}
-            {{ end }}
-          {{ end }}
-          {{/* Format: <a ... class="mention hashtag" ...>#tag</a> */}}
-          {{ $hashtagMatches2 := findRE `<a[^>]*class=["']mention hashtag["'][^>]*>#([^<]+)</a>` $description }}
-          {{ if $hashtagMatches2 }}
-            {{ range $hashtagMatches2 }}
-              {{ $tagName := replaceRE `.*>#([^<]+)</a>.*` "$1" . }}
-              {{ $newLink := printf `<a href="%s/tagged/%s" target="_blank" rel="noopener noreferrer">#%s</a>` $profileUrl $tagName $tagName }}
-              {{ $description = replaceRE (printf `%s` .) $newLink $description }}
-            {{ end }}
-          {{ end }}
-          {{/* Clean up extra whitespace but preserve HTML structure */}}
-          {{ $description = strings.TrimSpace $description }}
-        {{ end }}
-      {{ end }}
+      let html = '';
+      const itemsToShow = Math.min(items.length, limit);
       
-      {{/* Extract and format publication date */}}
-      {{ $dateMatches := findRE `<pubDate>([^<]+)</pubDate>` $item }}
-      {{ if $dateMatches }}
-        {{ $pubDate = replaceRE `.*<pubDate>([^<]+)</pubDate>.*` "$1" $item }}
-      {{ else }}
-        {{ $dateMatches = findRE `<dc:date>([^<]+)</dc:date>` $item }}
-        {{ if $dateMatches }}
-          {{ $pubDate = replaceRE `.*<dc:date>([^<]+)</dc:date>.*` "$1" $item }}
-        {{ end }}
-      {{ end }}
-      
-      {{/* Format date to human readable format - extract day, month, year, and time */}}
-      {{ if $pubDate }}
-        {{ $timeStr := "" }}
-        {{/* Extract time (HH:MM) from date string */}}
-        {{ $timeMatch := findRE `(\d{2}):(\d{2})` $pubDate }}
-        {{ if $timeMatch }}
-          {{ $timeFull := index $timeMatch 0 }}
-          {{ $timeParts := split $timeFull ":" }}
-          {{ if eq (len $timeParts) 2 }}
-            {{ $hour := index $timeParts 0 }}
-            {{ $minute := index $timeParts 1 }}
-            {{ $timeStr = printf "%s:%s" $hour $minute }}
-          {{ end }}
-        {{ end }}
+      for (let i = 0; i < itemsToShow; i++) {
+        const item = items[i];
+        const link = item.querySelector('link')?.textContent?.trim() || '';
+        const pubDate = item.querySelector('pubDate')?.textContent?.trim() || 
+                       item.querySelector('dc\\:date')?.textContent?.trim() || '';
+        let description = item.querySelector('description')?.textContent?.trim() || '';
         
-        {{/* Extract date parts from common formats (ignores timezone) */}}
-        {{ $dateMatch := findRE `(\d{1,2})\s+(\w{3})\s+(\d{4})` $pubDate }}
-        {{ if not $dateMatch }}
-          {{ $dateMatch = findRE `(\d{4})-(\d{2})-(\d{2})` $pubDate }}
-        {{ end }}
+        if (!description) continue;
         
-        {{ if $dateMatch }}
-          {{ $match := index $dateMatch 0 }}
-          {{ if findRE `\d{4}-\d{2}-\d{2}` $match }}
-            {{/* ISO format: 2006-01-02 */}}
-            {{ $parts := split $match "-" }}
-            {{ if eq (len $parts) 3 }}
-              {{ $year := index $parts 0 }}
-              {{ $monthNum := int (index $parts 1) }}
-              {{ $day := int (index $parts 2) }}
-              {{ $months := slice "Jan" "Feb" "Mar" "Apr" "May" "Jun" "Jul" "Aug" "Sep" "Oct" "Nov" "Dec" }}
-              {{ if and (ge $monthNum 1) (le $monthNum 12) }}
-                {{ $monthName := index $months (sub $monthNum 1) }}
-                {{ if $timeStr }}
-                  {{ $formattedDate = printf "%s %d, %s %s" $monthName $day $year $timeStr }}
-                {{ else }}
-                  {{ $formattedDate = printf "%s %d, %s" $monthName $day $year }}
-                {{ end }}
-              {{ end }}
-            {{ end }}
-          {{ else }}
-            {{/* RFC format: 02 Jan 2006 */}}
-            {{ $dayMatch := findRE `\d{1,2}` $match }}
-            {{ $monthMatch := findRE `\w{3}` $match }}
-            {{ $yearMatch := findRE `\d{4}` $match }}
-            {{ if and $dayMatch $monthMatch $yearMatch }}
-              {{ $day := index $dayMatch 0 }}
-              {{ $month := index $monthMatch 0 }}
-              {{ $year := index $yearMatch 0 }}
-              {{ if $timeStr }}
-                {{ $formattedDate = printf "%s %s, %s %s" $month $day $year $timeStr }}
-              {{ else }}
-                {{ $formattedDate = printf "%s %s, %s" $month $day $year }}
-              {{ end }}
-            {{ end }}
-          {{ end }}
-        {{ end }}
+        // Keep HTML structure - description is already HTML from RSS
         
-        {{ if not $formattedDate }}
-          {{ $formattedDate = $pubDate }}
-        {{ end }}
-      {{ end }}
+        // Format date
+        const formattedDate = formatDate(pubDate);
+        
+        // Process description: handle NeoDB links, hashtags, etc.
+        const processed = processDescription(description, profileUrl);
+        description = processed.description;
+        const neodbUrl = processed.neodbUrl;
+        
+        // Build item HTML
+        html += '<div class="mastodon-item">';
+        if (neodbUrl) {
+          // Insert placeholder for NeoDB card
+          const parts = description.split('|NEODB_CARD_PLACEHOLDER|');
+          html += '<div class="mastodon-description">';
+          parts.forEach((part, idx) => {
+            if (part) html += part;
+            if (idx < parts.length - 1) {
+              html += `<div class="mastodon-neodb-placeholder" data-neodb-url="${escapeHtml(neodbUrl)}"></div>`;
+            }
+          });
+          html += '</div>';
+        } else {
+          html += '<div class="mastodon-description">' + description + '</div>';
+        }
+        html += '<div class="mastodon-meta">';
+        if (formattedDate) {
+          html += '<span class="mastodon-date">' + escapeHtml(formattedDate) + '</span>';
+        }
+        if (link) {
+          html += '<a href="' + escapeHtml(link) + '" target="_blank" rel="noopener noreferrer" class="mastodon-link">View Toot</a>';
+        }
+        html += '</div>';
+        html += '</div>';
+        
+        if (i < itemsToShow - 1) {
+          html += '<div class="mastodon-separator"></div>';
+        }
+      }
       
-      <div class="mastodon-item">
-        {{ if $description }}
-          {{/* Split description by NeoDB placeholder if it exists */}}
-          {{ $descParts := split $description "|NEODB_CARD_PLACEHOLDER|" }}
-          {{ if and (gt (len $descParts) 1) $neodbUrl $neodbData }}
-            {{/* Description contains NeoDB placeholder - render parts with card in between */}}
-            <div class="mastodon-description">
-              {{ range $partIdx, $part := $descParts }}
-                {{ if $part }}
-                  {{ $part | safeHTML }}
-                {{ end }}
-                {{ if and (lt $partIdx (sub (len $descParts) 1)) $neodbUrl $neodbData }}
-                  {{/* Insert NeoDB card at placeholder position */}}
-                  <div class="mastodon-neodb">
-                    <div class="db-card">
-                      <div class="db-card-subject">
-                        <div class="db-card-post"><img loading="lazy" decoding="async" referrerpolicy="no-referrer" src="{{ $neodbData.cover_image_url }}"></div>
-                        <div class="db-card-content">
-                          <div class="db-card-title">
-                            <a href="{{ $neodbUrl }}" class="cute" target="_blank" rel="noreferrer">「{{ $neodbData.title }}」</a>
-                          </div>
-                          <div class="db-card-abstract">
-                            {{ $neodbData.brief }}
-                          </div>
-                        </div>
-                        <div class="db-card-cate">{{ $neodbData.category }}</div>
-                      </div>
+      feedContainer.innerHTML = html;
+      
+      // Process NeoDB cards after rendering
+      processNeoDBCards(feedContainer);
+      
+      // Process NeoDB placeholders
+      const placeholders = feedContainer.querySelectorAll('.mastodon-neodb-placeholder');
+      placeholders.forEach(placeholder => {
+        const neodbUrl = placeholder.dataset.neodbUrl;
+        if (!neodbUrl) return;
+        
+        const match = neodbUrl.match(/neodb\.social\/([^\/]+\/[^\/\s]+)/);
+        if (!match) {
+          placeholder.remove();
+          return;
+        }
+        
+        const dbType = match[1];
+        const apiUrl = `https://neodb.social/api/${dbType}`;
+        
+        fetch(apiUrl)
+          .then(response => response.json())
+          .then(data => {
+            const cardHtml = `
+              <div class="mastodon-neodb">
+                <div class="db-card">
+                  <div class="db-card-subject">
+                    <div class="db-card-post">
+                      <img loading="lazy" decoding="async" referrerpolicy="no-referrer" src="${escapeHtml(data.cover_image_url || '')}">
                     </div>
+                    <div class="db-card-content">
+                      <div class="db-card-title">
+                        <a href="${escapeHtml(neodbUrl)}" class="cute" target="_blank" rel="noreferrer">「${escapeHtml(data.title || '')}」</a>
+                      </div>
+                      <div class="db-card-abstract">${escapeHtml(data.brief || '')}</div>
+                    </div>
+                    <div class="db-card-cate">${escapeHtml(data.category || '')}</div>
                   </div>
-                {{ end }}
-              {{ end }}
-            </div>
-          {{ else }}
-            {{/* No placeholder or no NeoDB data - render description normally */}}
-            <div class="mastodon-description">
-              {{ $description | safeHTML | truncate 300 }}
-            </div>
-          {{ end }}
-        {{ end }}
-        
-        <div class="mastodon-meta">
-          {{ if $formattedDate }}
-            <span class="mastodon-date">{{ $formattedDate }}</span>
-          {{ end }}
-          {{ if $link }}
-            <a href="{{ $link }}" target="_blank" rel="noopener noreferrer" class="mastodon-link">View Toot</a>
-          {{ end }}
-        </div>
-      </div>
+                </div>
+              </div>
+            `;
+            placeholder.outerHTML = cardHtml;
+          })
+          .catch(error => {
+            placeholder.remove();
+          });
+      });
+    })
+    .catch(error => {
+      feedContainer.innerHTML = '<div class="mastodon-error">Error loading feed: ' + escapeHtml(error.message) + '</div>';
+    });
+  
+  function formatDate(dateStr) {
+    if (!dateStr) return '';
+    
+    try {
+      const date = new Date(dateStr);
+      if (isNaN(date.getTime())) return dateStr;
       
-      {{ if lt (add $idx 1) (len $items) }}
-        <div class="mastodon-separator"></div>
-      {{ end }}
-    {{ end }}
-  </div>
-{{ end }}
+      const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+      const month = months[date.getMonth()];
+      const day = date.getDate();
+      const year = date.getFullYear();
+      const hours = String(date.getHours()).padStart(2, '0');
+      const minutes = String(date.getMinutes()).padStart(2, '0');
+      
+      return `${month} ${day}, ${year} ${hours}:${minutes}`;
+    } catch (e) {
+      return dateStr;
+    }
+  }
+  
+  function processDescription(desc, profileUrl) {
+    let neodbUrl = null;
+    
+    // Use DOM manipulation for better HTML processing
+    const tempDiv = document.createElement('div');
+    tempDiv.innerHTML = desc;
+    
+    // Check for NeoDB links before processing
+    const neodbLinks = tempDiv.querySelectorAll('a[href*="neodb.social"]');
+    if (neodbLinks.length > 0) {
+      neodbUrl = neodbLinks[0].href;
+      // Replace NeoDB links with placeholder
+      neodbLinks.forEach(link => {
+        const placeholder = document.createTextNode('|NEODB_CARD_PLACEHOLDER|');
+        link.parentNode.replaceChild(placeholder, link);
+      });
+    }
+    
+    // Also check for plain text NeoDB URLs
+    const textNodes = [];
+    const walker = document.createTreeWalker(tempDiv, NodeFilter.SHOW_TEXT, null, false);
+    let node;
+    while (node = walker.nextNode()) {
+      if (node.textContent.includes('neodb.social')) {
+        textNodes.push(node);
+      }
+    }
+    textNodes.forEach(textNode => {
+      textNode.textContent = textNode.textContent.replace(/https:\/\/neodb\.social\/[^\s<>"]+/g, '|NEODB_CARD_PLACEHOLDER|');
+    });
+    
+    // Remove plain text URLs (but keep hashtag links and other anchor tags)
+    const allLinks = tempDiv.querySelectorAll('a');
+    const linkUrls = new Set();
+    allLinks.forEach(link => linkUrls.add(link.href));
+    
+    // Remove plain text URLs that aren't in anchor tags
+    const allTextNodes = [];
+    const textWalker = document.createTreeWalker(tempDiv, NodeFilter.SHOW_TEXT, null, false);
+    let textNode;
+    while (textNode = textWalker.nextNode()) {
+      allTextNodes.push(textNode);
+    }
+    allTextNodes.forEach(node => {
+      node.textContent = node.textContent.replace(/https?:\/\/[^\s<>]+/g, (url) => {
+        // Only remove if it's not already in a link
+        return linkUrls.has(url) ? url : '';
+      });
+    });
+    
+    // Remove date/time strings from text nodes
+    allTextNodes.forEach(node => {
+      node.textContent = node.textContent.replace(/\w+,\s+\d{1,2}\s+\w{3}\s+\d{4}\s+\d{2}:\d{2}:\d{2}\s+[+-]\d{4}/g, '');
+    });
+    
+    // Remove emoji shortcodes from text nodes
+    allTextNodes.forEach(node => {
+      node.textContent = node.textContent.replace(/:[a-zA-Z0-9_+-]+:/g, '');
+    });
+    
+    // Remove img tags
+    const imgs = tempDiv.querySelectorAll('img');
+    imgs.forEach(img => img.remove());
+    
+    // Fix hashtag links - process existing hashtag links
+    // Try multiple selectors to catch different formats
+    const hashtagSelectors = [
+      'a.mention.hashtag',
+      'a[class*="mention hashtag"]',
+      'a[class*="hashtag mention"]',
+      'a.mention[class*="hashtag"]'
+    ];
+    
+    hashtagSelectors.forEach(selector => {
+      const hashtagLinks = tempDiv.querySelectorAll(selector);
+      hashtagLinks.forEach(link => {
+        let tagName = '';
+        // Try to get tag from span or direct text
+        const span = link.querySelector('span');
+        if (span) {
+          tagName = span.textContent.trim();
+        } else {
+          // Remove # and any whitespace
+          tagName = link.textContent.replace(/^#\s*/, '').trim();
+        }
+        if (tagName) {
+          const newLink = document.createElement('a');
+          newLink.href = `${profileUrl}/tagged/${tagName}`;
+          newLink.target = '_blank';
+          newLink.rel = 'noopener noreferrer';
+          newLink.textContent = `#${tagName}`;
+          link.parentNode.replaceChild(newLink, link);
+        }
+      });
+    });
+    
+    // Also handle hashtags that might be in text but not linked
+    // Only process text nodes that are NOT inside anchor tags
+    allTextNodes.forEach(node => {
+      // Skip if this text node is inside an anchor tag
+      let parent = node.parentNode;
+      while (parent && parent !== tempDiv) {
+        if (parent.tagName === 'A') {
+          return; // Skip this node, it's inside a link
+        }
+        parent = parent.parentNode;
+      }
+      
+      const text = node.textContent;
+      const hashtagRegex = /#([\w\u4e00-\u9fff]+)/g; // Include Chinese characters
+      if (hashtagRegex.test(text)) {
+        const fragment = document.createDocumentFragment();
+        let lastIndex = 0;
+        hashtagRegex.lastIndex = 0;
+        let match;
+        while ((match = hashtagRegex.exec(text)) !== null) {
+          // Add text before hashtag
+          if (match.index > lastIndex) {
+            fragment.appendChild(document.createTextNode(text.substring(lastIndex, match.index)));
+          }
+          // Create link for hashtag
+          const tagLink = document.createElement('a');
+          tagLink.href = `${profileUrl}/tagged/${match[1]}`;
+          tagLink.target = '_blank';
+          tagLink.rel = 'noopener noreferrer';
+          tagLink.textContent = match[0];
+          fragment.appendChild(tagLink);
+          lastIndex = match.index + match[0].length;
+        }
+        // Add remaining text
+        if (lastIndex < text.length) {
+          fragment.appendChild(document.createTextNode(text.substring(lastIndex)));
+        }
+        node.parentNode.replaceChild(fragment, node);
+      }
+    });
+    
+    return {
+      description: tempDiv.innerHTML.trim(),
+      neodbUrl: neodbUrl
+    };
+  }
+  
+  function processNeoDBCards(container) {
+    // This function is kept for compatibility but NeoDB is now handled via placeholders
+  }
+  
+  function escapeHtml(text) {
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
+  }
+})();
+</script>
