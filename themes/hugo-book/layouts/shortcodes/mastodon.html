@@ -19,11 +19,19 @@
 {{ with try (resources.GetRemote $feedUrl $options) }}
   {{ with .Err }}
     {{/* Log warning but don't fail build */}}
-    {{ warnf "Failed to fetch Mastodon RSS feed from %s: %s" $feedUrl .Err }}
+    {{ if ne $referer "" }}
+      {{ warnf "Failed to fetch Mastodon RSS feed from %s (Referer: %s): %s" $feedUrl $referer .Err }}
+    {{ else }}
+      {{ warnf "Failed to fetch Mastodon RSS feed from %s (no Referer): %s" $feedUrl .Err }}
+    {{ end }}
   {{ else with .Value }}
     {{ $feedData = .Content }}
   {{ else }}
-    {{ warnf "Unable to fetch RSS feed from %s" $feedUrl }}
+    {{ if ne $referer "" }}
+      {{ warnf "Unable to fetch RSS feed from %s (Referer: %s)" $feedUrl $referer }}
+    {{ else }}
+      {{ warnf "Unable to fetch RSS feed from %s (no Referer)" $feedUrl }}
+    {{ end }}
   {{ end }}
 {{ end }}
 
