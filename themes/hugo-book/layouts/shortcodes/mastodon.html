@@ -1,8 +1,11 @@
-{{ $feedUrl := .Get 0 }}
+{{ $profileUrl := .Get 0 }}
 {{ $limit := 5 }}
 {{ if .Get 1 }}
   {{ $limit = int (.Get 1) }}
 {{ end }}
+
+{{/* Convert profile URL to RSS feed URL */}}
+{{ $feedUrl := printf "%s.rss" $profileUrl }}
 
 {{ $feedData := "" }}
 {{ with try (resources.GetRemote $feedUrl) }}
@@ -97,9 +100,25 @@
           {{ $description = replaceRE `:[a-zA-Z0-9_+-]+:` "" $description }}
           {{/* Remove img tags */}}
           {{ $description = replaceRE `<img[^>]*>` "" $description }}
-          {{/* Remove hashtag/mention anchor tags but keep the text content */}}
-          {{ $description = replaceRE `<a[^>]*class=["']mention hashtag["'][^>]*>#<span>([^<]+)</span></a>` "#$1" $description }}
-          {{ $description = replaceRE `<a[^>]*class=["']mention hashtag["'][^>]*>#([^<]+)</a>` "#$1" $description }}
+          {{/* Fix hashtag links - replace with correct format */}}
+          {{/* Format: <a ... class="mention hashtag" ...>#<span>tag</span></a> */}}
+          {{ $hashtagMatches1 := findRE `<a[^>]*class=["']mention hashtag["'][^>]*>#<span>([^<]+)</span></a>` $description }}
+          {{ if $hashtagMatches1 }}
+            {{ range $hashtagMatches1 }}
+              {{ $tagName := replaceRE `.*>#<span>([^<]+)</span></a>.*` "$1" . }}
+              {{ $newLink := printf `<a href="%s/tagged/%s" target="_blank" rel="noopener noreferrer">#%s</a>` $profileUrl $tagName $tagName }}
+              {{ $description = replaceRE (printf `%s` .) $newLink $description }}
+            {{ end }}
+          {{ end }}
+          {{/* Format: <a ... class="mention hashtag" ...>#tag</a> */}}
+          {{ $hashtagMatches2 := findRE `<a[^>]*class=["']mention hashtag["'][^>]*>#([^<]+)</a>` $description }}
+          {{ if $hashtagMatches2 }}
+            {{ range $hashtagMatches2 }}
+              {{ $tagName := replaceRE `.*>#([^<]+)</a>.*` "$1" . }}
+              {{ $newLink := printf `<a href="%s/tagged/%s" target="_blank" rel="noopener noreferrer">#%s</a>` $profileUrl $tagName $tagName }}
+              {{ $description = replaceRE (printf `%s` .) $newLink $description }}
+            {{ end }}
+          {{ end }}
           {{/* Clean up extra whitespace but preserve HTML structure */}}
           {{ $description = strings.TrimSpace $description }}
         {{ end }}

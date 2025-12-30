@@ -31,7 +31,7 @@ BookComments: False
 - 🏋️ [`Speediance Gym Monster 2`](https://amzn.to/4obJGLn)
 
 ## 近期碎碎念
-{{< mastodon "https://douchi.space/@mtfront.rss" 10 >}}
+{{< mastodon "https://douchi.space/@mtfront" 10 >}}
 
 <!-- ## 近期目标
 - 保持肌肉量的同时稍微减点脂
