@@ -8,19 +8,23 @@
 {{ $feedUrl := printf "%s.rss" $profileUrl }}
 
 {{ $feedData := "" }}
-{{ $headers := dict "User-Agent" "Mozilla/5.0 (compatible; Hugo RSS Reader)" }}
+{{/* Use more realistic browser headers to avoid blocking */}}
+{{ $headers := dict 
+  "User-Agent" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  "Accept" "application/rss+xml, application/xml, text/xml, */*"
+  "Accept-Language" "en-US,en;q=0.9"
+  "Accept-Encoding" "gzip, deflate, br"
+  "Referer" $profileUrl
+}}
 {{ $options := dict "headers" $headers }}
 {{ with try (resources.GetRemote $feedUrl $options) }}
   {{ with .Err }}
-    <div class="mastodon-error">
-      <p>Error fetching RSS feed: {{ . }}</p>
-    </div>
+    {{/* Log warning but don't fail build - show nothing or subtle message */}}
+    {{ warnf "Failed to fetch Mastodon RSS feed from %s: %s" $feedUrl . }}
   {{ else with .Value }}
     {{ $feedData = .Content }}
   {{ else }}
-    <div class="mastodon-error">
-      <p>Unable to fetch RSS feed from {{ $feedUrl }}</p>
-    </div>
+    {{ warnf "Unable to fetch RSS feed from %s" $feedUrl }}
   {{ end }}
 {{ end }}
 
@@ -81,7 +85,11 @@
             {{ end }}
             {{ if $dbType }}
               {{ $request := printf "%s%s" $dbApiUrl $dbType }}
-              {{ $neodbHeaders := dict "User-Agent" "Mozilla/5.0 (compatible; Hugo RSS Reader)" }}
+              {{ $neodbHeaders := dict 
+                "User-Agent" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+                "Accept" "application/json, */*"
+                "Accept-Language" "en-US,en;q=0.9"
+              }}
               {{ $neodbOptions := dict "headers" $neodbHeaders }}
               {{ with try (resources.GetRemote $request $neodbOptions) }}
                 {{ with .Err }}
