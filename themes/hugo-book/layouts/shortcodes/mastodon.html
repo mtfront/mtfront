@@ -1,0 +1,237 @@
+{{ $feedUrl := .Get 0 }}
+{{ $limit := 5 }}
+{{ if .Get 1 }}
+  {{ $limit = int (.Get 1) }}
+{{ end }}
+
+{{ $feedData := "" }}
+{{ with try (resources.GetRemote $feedUrl) }}
+  {{ with .Err }}
+    <div class="mastodon-error">
+      <p>Error fetching RSS feed: {{ . }}</p>
+    </div>
+  {{ else with .Value }}
+    {{ $feedData = .Content }}
+  {{ else }}
+    <div class="mastodon-error">
+      <p>Unable to fetch RSS feed from {{ $feedUrl }}</p>
+    </div>
+  {{ end }}
+{{ end }}
+
+{{ if $feedData }}
+  {{/* Extract items by splitting on item tags */}}
+  {{ $parts := split $feedData "<item>" }}
+  {{ $items := slice }}
+  {{ range $idx, $part := $parts }}
+    {{ if and (gt $idx 0) (lt (len $items) $limit) }}
+      {{ $itemEndMatch := findRE `</item>` $part }}
+      {{ if $itemEndMatch }}
+        {{ $itemParts := split $part "</item>" }}
+        {{ $itemContent := index $itemParts 0 }}
+        {{ $items = $items | append (printf "<item>%s</item>" $itemContent) }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  
+  <div class="mastodon-feed">
+    {{ range $idx, $item := $items }}
+      {{ $link := "" }}
+      {{ $description := "" }}
+      {{ $pubDate := "" }}
+      {{ $formattedDate := "" }}
+      
+      {{/* Extract link from item - get the link tag content */}}
+      {{ $linkMatches := findRE `<link>([^<]+)</link>` $item }}
+      {{ if $linkMatches }}
+        {{ $linkMatch := index $linkMatches 0 }}
+        {{ $link = replaceRE `<link>([^<]+)</link>` "$1" $linkMatch }}
+        {{ $link = strings.TrimSpace $link }}
+      {{ end }}
+      
+      {{/* Extract description - only content between description tags */}}
+      {{ $neodbUrl := "" }}
+      {{ $neodbData := dict }}
+      {{ $descStart := findRE `<description>` $item }}
+      {{ if $descStart }}
+        {{/* Get everything after <description> */}}
+        {{ $afterDesc := replaceRE `.*<description>` "" $item }}
+        {{/* Get everything before </description> */}}
+        {{ $descParts := split $afterDesc "</description>" }}
+        {{ if $descParts }}
+          {{ $description = index $descParts 0 }}
+          {{ $description = htmlUnescape $description }}
+
+          {{/* Check for NeoDB links before removing URLs - handle both in anchor tags and plain text */}}
+          {{ $neodbMatches := findRE `https://neodb\.social/[^\s<>"]+` $description }}
+          {{ if $neodbMatches }}
+            {{ $neodbUrl = index $neodbMatches 0 }}
+            {{/* Clean up URL if it has trailing characters */}}
+            {{ $neodbUrl = replaceRE `([^\s<>"]+).*` "$1" $neodbUrl }}
+            {{/* Fetch NeoDB data */}}
+            {{ $dbApiUrl := "https://neodb.social/api/" }}
+            {{ $dbType := "" }}
+            {{ if findRE `^.*neodb\.social\/.*` $neodbUrl }}
+              {{ $dbType = replaceRE `.*neodb\.social\/(.*\/.*)` "$1" $neodbUrl }}
+            {{ end }}
+            {{ if $dbType }}
+              {{ $request := printf "%s%s" $dbApiUrl $dbType }}
+              {{ with try (resources.GetRemote $request) }}
+                {{ with .Err }}
+                  {{/* Error fetching, continue without NeoDB card */}}
+                {{ else with .Value }}
+                  {{ $neodbData = . | transform.Unmarshal }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+            {{/* Replace NeoDB URL with placeholder marker to preserve position */}}
+            {{ $description = replaceRE `<a[^>]*href=["']?https://neodb\.social/[^"'\s<>]+["']?[^>]*>.*?</a>` "|NEODB_CARD_PLACEHOLDER|" $description }}
+            {{ $description = replaceRE `https://neodb\.social/[^\s<>"]+` "|NEODB_CARD_PLACEHOLDER|" $description }}
+          {{ end }}
+
+          {{/* Remove any remaining URLs (http/https links) that appear as plain text */}}
+          {{ $description = replaceRE `https?://[^\s<>]+` "" $description }}
+          {{/* Remove date/time strings like "Mon, 29 Dec 2025 23:35:17 +0000" */}}
+          {{ $description = replaceRE `\w+,\s+\d{1,2}\s+\w{3}\s+\d{4}\s+\d{2}:\d{2}:\d{2}\s+[+-]\d{4}` "" $description }}
+          {{/* Remove emoji shortcodes like :shortcode: */}}
+          {{ $description = replaceRE `:[a-zA-Z0-9_+-]+:` "" $description }}
+          {{/* Remove img tags */}}
+          {{ $description = replaceRE `<img[^>]*>` "" $description }}
+          {{/* Remove hashtag/mention anchor tags but keep the text content */}}
+          {{ $description = replaceRE `<a[^>]*class=["']mention hashtag["'][^>]*>#<span>([^<]+)</span></a>` "#$1" $description }}
+          {{ $description = replaceRE `<a[^>]*class=["']mention hashtag["'][^>]*>#([^<]+)</a>` "#$1" $description }}
+          {{/* Clean up extra whitespace but preserve HTML structure */}}
+          {{ $description = strings.TrimSpace $description }}
+        {{ end }}
+      {{ end }}
+      
+      {{/* Extract and format publication date */}}
+      {{ $dateMatches := findRE `<pubDate>([^<]+)</pubDate>` $item }}
+      {{ if $dateMatches }}
+        {{ $pubDate = replaceRE `.*<pubDate>([^<]+)</pubDate>.*` "$1" $item }}
+      {{ else }}
+        {{ $dateMatches = findRE `<dc:date>([^<]+)</dc:date>` $item }}
+        {{ if $dateMatches }}
+          {{ $pubDate = replaceRE `.*<dc:date>([^<]+)</dc:date>.*` "$1" $item }}
+        {{ end }}
+      {{ end }}
+      
+      {{/* Format date to human readable format - extract day, month, year, and time */}}
+      {{ if $pubDate }}
+        {{ $timeStr := "" }}
+        {{/* Extract time (HH:MM) from date string */}}
+        {{ $timeMatch := findRE `(\d{2}):(\d{2})` $pubDate }}
+        {{ if $timeMatch }}
+          {{ $timeFull := index $timeMatch 0 }}
+          {{ $timeParts := split $timeFull ":" }}
+          {{ if eq (len $timeParts) 2 }}
+            {{ $hour := index $timeParts 0 }}
+            {{ $minute := index $timeParts 1 }}
+            {{ $timeStr = printf "%s:%s" $hour $minute }}
+          {{ end }}
+        {{ end }}
+        
+        {{/* Extract date parts from common formats (ignores timezone) */}}
+        {{ $dateMatch := findRE `(\d{1,2})\s+(\w{3})\s+(\d{4})` $pubDate }}
+        {{ if not $dateMatch }}
+          {{ $dateMatch = findRE `(\d{4})-(\d{2})-(\d{2})` $pubDate }}
+        {{ end }}
+        
+        {{ if $dateMatch }}
+          {{ $match := index $dateMatch 0 }}
+          {{ if findRE `\d{4}-\d{2}-\d{2}` $match }}
+            {{/* ISO format: 2006-01-02 */}}
+            {{ $parts := split $match "-" }}
+            {{ if eq (len $parts) 3 }}
+              {{ $year := index $parts 0 }}
+              {{ $monthNum := int (index $parts 1) }}
+              {{ $day := int (index $parts 2) }}
+              {{ $months := slice "Jan" "Feb" "Mar" "Apr" "May" "Jun" "Jul" "Aug" "Sep" "Oct" "Nov" "Dec" }}
+              {{ if and (ge $monthNum 1) (le $monthNum 12) }}
+                {{ $monthName := index $months (sub $monthNum 1) }}
+                {{ if $timeStr }}
+                  {{ $formattedDate = printf "%s %d, %s %s" $monthName $day $year $timeStr }}
+                {{ else }}
+                  {{ $formattedDate = printf "%s %d, %s" $monthName $day $year }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+          {{ else }}
+            {{/* RFC format: 02 Jan 2006 */}}
+            {{ $dayMatch := findRE `\d{1,2}` $match }}
+            {{ $monthMatch := findRE `\w{3}` $match }}
+            {{ $yearMatch := findRE `\d{4}` $match }}
+            {{ if and $dayMatch $monthMatch $yearMatch }}
+              {{ $day := index $dayMatch 0 }}
+              {{ $month := index $monthMatch 0 }}
+              {{ $year := index $yearMatch 0 }}
+              {{ if $timeStr }}
+                {{ $formattedDate = printf "%s %s, %s %s" $month $day $year $timeStr }}
+              {{ else }}
+                {{ $formattedDate = printf "%s %s, %s" $month $day $year }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+        
+        {{ if not $formattedDate }}
+          {{ $formattedDate = $pubDate }}
+        {{ end }}
+      {{ end }}
+      
+      <div class="mastodon-item">
+        {{ if $description }}
+          {{/* Split description by NeoDB placeholder if it exists */}}
+          {{ $descParts := split $description "|NEODB_CARD_PLACEHOLDER|" }}
+          {{ if and (gt (len $descParts) 1) $neodbUrl $neodbData }}
+            {{/* Description contains NeoDB placeholder - render parts with card in between */}}
+            <div class="mastodon-description">
+              {{ range $partIdx, $part := $descParts }}
+                {{ if $part }}
+                  {{ $part | safeHTML }}
+                {{ end }}
+                {{ if and (lt $partIdx (sub (len $descParts) 1)) $neodbUrl $neodbData }}
+                  {{/* Insert NeoDB card at placeholder position */}}
+                  <div class="mastodon-neodb">
+                    <div class="db-card">
+                      <div class="db-card-subject">
+                        <div class="db-card-post"><img loading="lazy" decoding="async" referrerpolicy="no-referrer" src="{{ $neodbData.cover_image_url }}"></div>
+                        <div class="db-card-content">
+                          <div class="db-card-title">
+                            <a href="{{ $neodbUrl }}" class="cute" target="_blank" rel="noreferrer">「{{ $neodbData.title }}」</a>
+                          </div>
+                          <div class="db-card-abstract">
+                            {{ $neodbData.brief }}
+                          </div>
+                        </div>
+                        <div class="db-card-cate">{{ $neodbData.category }}</div>
+                      </div>
+                    </div>
+                  </div>
+                {{ end }}
+              {{ end }}
+            </div>
+          {{ else }}
+            {{/* No placeholder or no NeoDB data - render description normally */}}
+            <div class="mastodon-description">
+              {{ $description | safeHTML | truncate 300 }}
+            </div>
+          {{ end }}
+        {{ end }}
+        
+        <div class="mastodon-meta">
+          {{ if $formattedDate }}
+            <span class="mastodon-date">{{ $formattedDate }}</span>
+          {{ end }}
+          {{ if $link }}
+            <a href="{{ $link }}" target="_blank" rel="noopener noreferrer" class="mastodon-link">View Post</a>
+          {{ end }}
+        </div>
+      </div>
+      
+      {{ if lt (add $idx 1) (len $items) }}
+        <div class="mastodon-separator"></div>
+      {{ end }}
+    {{ end }}
+  </div>
+{{ end }}

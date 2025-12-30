@@ -30,13 +30,17 @@ BookComments: False
 - 🎥 [`TCL PlayCube 便携投影仪`](https://amzn.to/4oZUrQW)
 - 🏋️ [`Speediance Gym Monster 2`](https://amzn.to/4obJGLn)
 
-## 近期目标
+## 近期碎碎念
+{{< mastodon "https://douchi.space/@mtfront.rss" 10 >}}
+
+<!-- ## 近期目标
 - 保持肌肉量的同时稍微减点脂
 - 克服新一轮厌班情绪
 - Survive yet another Seattle winter
-- 年末休假模式好好 declutter
+- 年末休假模式好好 declutter -->
 
 ## Changelog
+- `2025-12-29` vibe 了一个 mastodon viewer 加到 now 页面作为近期碎碎念
 - `2025-09-21` 增加 exclude 单篇文章 from rss 选项，避免大旅行多个时空胶囊刷屏
 - `2025-09-08` 添加[时空胶囊]({{< relref "/posts/2025-09/2-360-panorama-time-capsule" >}})页面轻微调整右边栏出现条件
 - `2025-04-19` 修改 RSS 样式，添加 [跬步](https://steps.douchi.space?utm_source=blog) 链接
