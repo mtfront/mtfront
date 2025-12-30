@@ -68,7 +68,7 @@ jobs:
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
-          BUILD_REFERER: ${{ secrets.GITHUB_REFERER }}
+          BUILD_REFERER: ${{ secrets.BUILD_REFERER }}
         run: |
           hugo \
             --minify \
