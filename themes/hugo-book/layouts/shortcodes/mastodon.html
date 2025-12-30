@@ -53,6 +53,22 @@
         
         // Keep HTML structure - description is already HTML from RSS
         
+        // If description has <strong> content, remove everything after <hr>
+        const tempCheckDiv = document.createElement('div');
+        tempCheckDiv.innerHTML = description;
+        const hasStrong = tempCheckDiv.querySelector('strong');
+        if (hasStrong) {
+          // Find <hr> tag (handles various formats: <hr>, <hr/>, <hr />, <hr class="...">, etc.)
+          const hrRegex = /<hr\s*[^>]*>/i;
+          const hrMatch = description.match(hrRegex);
+          if (hrMatch) {
+            const hrIndex = description.indexOf(hrMatch[0]);
+            if (hrIndex !== -1) {
+              description = description.substring(0, hrIndex);
+            }
+          }
+        }
+        
         // Format date
         const formattedDate = formatDate(pubDate);
         
