@@ -9,7 +9,7 @@
 
 {{ $feedData := "" }}
 {{/* Get Referer from environment variable for GitHub Actions, default to empty */}}
-{{ $referer := getenv "GITHUB_REFERER" | default "" }}
+{{ $referer := getenv "BUILD_REFERER" | default "" }}
 {{/* Build options with headers only if referer is provided (for GitHub Actions) */}}
 {{ $options := dict }}
 {{ if ne $referer "" }}
