@@ -8,31 +8,13 @@
 {{ $feedUrl := printf "%s.rss" $profileUrl }}
 
 {{ $feedData := "" }}
-{{/* Get Referer from environment variable for GitHub Actions, default to empty */}}
-{{ $referer := getenv "BUILD_REFERER" | default "" | strings.TrimSpace }}
-{{/* Build options with headers - always include headers dict, add Referer if provided */}}
-{{ $headers := dict }}
-{{ if ne $referer "" }}
-  {{/* HTTP header name is "Referer" (misspelled but correct per HTTP spec) */}}
-  {{ $headers = dict "Referer" $referer }}
-{{ end }}
-{{ $options := dict "headers" $headers }}
-{{ with try (resources.GetRemote $feedUrl $options) }}
+{{ with try (resources.GetRemote $feedUrl) }}
   {{ with .Err }}
-    {{/* Log warning but don't fail build */}}
-    {{ if ne $referer "" }}
-      {{ warnf "Failed to fetch Mastodon RSS feed from %s (Referer: %s): %s" $feedUrl $referer .Err }}
-    {{ else }}
-      {{ warnf "Failed to fetch Mastodon RSS feed from %s (no Referer): %s" $feedUrl .Err }}
-    {{ end }}
+    {{ warnf "Failed to fetch Mastodon RSS feed from %s %s" $feedUrl .Err }}
   {{ else with .Value }}
     {{ $feedData = .Content }}
   {{ else }}
-    {{ if ne $referer "" }}
-      {{ warnf "Unable to fetch RSS feed from %s (Referer: %s)" $feedUrl $referer }}
-    {{ else }}
-      {{ warnf "Unable to fetch RSS feed from %s (no Referer)" $feedUrl }}
-    {{ end }}
+    {{ warnf "Unable to fetch RSS feed from %s" $feedUrl }}
   {{ end }}
 {{ end }}
 

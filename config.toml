@@ -26,4 +26,4 @@ disqusShortname = "mtfront"
 
 [security]
   [security.funcs]
-    getenv = ['^HUGO_', '^CI$', '^BUILD_REFERER$']
+    getenv = ['^HUGO_', '^CI$']
