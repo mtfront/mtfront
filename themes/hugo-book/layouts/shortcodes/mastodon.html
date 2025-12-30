@@ -8,19 +8,18 @@
 {{ $feedUrl := printf "%s.rss" $profileUrl }}
 
 {{ $feedData := "" }}
-{{/* Use more realistic browser headers to avoid blocking */}}
-{{ $headers := dict 
-  "User-Agent" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-  "Accept" "application/rss+xml, application/xml, text/xml, */*"
-  "Accept-Language" "en-US,en;q=0.9"
-  "Accept-Encoding" "gzip, deflate, br"
-  "Referer" $profileUrl
-}}
-{{ $options := dict "headers" $headers }}
+{{/* Get Referer from environment variable for GitHub Actions, default to empty */}}
+{{ $referer := getenv "GITHUB_REFERER" | default "" }}
+{{/* Build options with headers only if referer is provided (for GitHub Actions) */}}
+{{ $options := dict }}
+{{ if ne $referer "" }}
+  {{ $headers := dict "Referer" $referer }}
+  {{ $options = dict "headers" $headers }}
+{{ end }}
 {{ with try (resources.GetRemote $feedUrl $options) }}
   {{ with .Err }}
-    {{/* Log warning but don't fail build - show nothing or subtle message */}}
-    {{ warnf "Failed to fetch Mastodon RSS feed from %s: %s" $feedUrl . }}
+    {{/* Log warning but don't fail build */}}
+    {{ warnf "Failed to fetch Mastodon RSS feed from %s: %s" $feedUrl .Err }}
   {{ else with .Value }}
     {{ $feedData = .Content }}
   {{ else }}

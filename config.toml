@@ -23,3 +23,7 @@ disqusShortname = "mtfront"
 
 [services.rss]
     limit = 10
+
+[security]
+  [security.funcs]
+    getenv = ['^HUGO_', '^CI$', '^GITHUB_REFERER$']

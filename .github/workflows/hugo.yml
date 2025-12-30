@@ -28,24 +28,24 @@ defaults:
 
 jobs:
   # Bypass Cloudflare for API access
-  bypass-cf-api:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v5
-      - name: Bypass Cloudflare for GitHub Action
-        uses: xiaotianxt/bypass-cloudflare-for-github-action@v2.0.1
-        with:
-          cf_account_id: ${{ secrets.CF_ACCOUNT_ID }}
-          cf_zone_id: ${{ secrets.CF_ZONE_ID }}
-          cf_api_token: ${{ secrets.CF_API_TOKEN }}
-      - name: Send request to Cloudflare-protected server
-        run: curl https://douchi.space/
+  # bypass-cf-api:
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - name: Checkout repository
+  #       uses: actions/checkout@v5
+  #     - name: Bypass Cloudflare for GitHub Action
+  #       uses: xiaotianxt/bypass-cloudflare-for-github-action@v2.0.1
+  #       with:
+  #         cf_account_id: ${{ secrets.CF_ACCOUNT_ID }}
+  #         cf_zone_id: ${{ secrets.CF_ZONE_ID }}
+  #         cf_api_token: ${{ secrets.CF_API_TOKEN }}
+  #     - name: Send request to Cloudflare-protected server
+  #       run: curl https://douchi.space/
 
   # Build job
   build:
     runs-on: ubuntu-latest
-    needs: bypass-cf-api
+    # needs: bypass-cf-api
     env:
       HUGO_VERSION: 0.143.0
     steps:
