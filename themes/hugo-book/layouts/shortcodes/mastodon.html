@@ -9,13 +9,14 @@
 
 {{ $feedData := "" }}
 {{/* Get Referer from environment variable for GitHub Actions, default to empty */}}
-{{ $referer := getenv "BUILD_REFERER" | default "" }}
-{{/* Build options with headers only if referer is provided (for GitHub Actions) */}}
-{{ $options := dict }}
+{{ $referer := getenv "BUILD_REFERER" | default "" | strings.TrimSpace }}
+{{/* Build options with headers - always include headers dict, add Referer if provided */}}
+{{ $headers := dict }}
 {{ if ne $referer "" }}
-  {{ $headers := dict "Referer" $referer }}
-  {{ $options = dict "headers" $headers }}
+  {{/* HTTP header name is "Referer" (misspelled but correct per HTTP spec) */}}
+  {{ $headers = dict "Referer" $referer }}
 {{ end }}
+{{ $options := dict "headers" $headers }}
 {{ with try (resources.GetRemote $feedUrl $options) }}
   {{ with .Err }}
     {{/* Log warning but don't fail build */}}
