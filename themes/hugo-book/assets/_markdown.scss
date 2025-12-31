@@ -125,20 +125,55 @@
 
   table {
     overflow: auto;
-    display: block;
+    display: table;
     border-spacing: 0;
+    border-radius: 16px;
     border-collapse: collapse;
-    margin-top: $padding-16;
-    margin-bottom: $padding-16;
+    margin-top: $padding-8;
+    margin-bottom: $padding-8;
+    width: fit-content;
+    max-width: 100%;
+    // background-color: var(--gray-100);
+    padding-left: $padding-16;
+    padding-right: $padding-16;
+    font-size: 0.875em;
 
     tr th,
     tr td {
       padding: $padding-8 $padding-16;
-      border: $padding-1 solid var(--gray-200);
+      text-align: left;
+      position: relative;
     }
 
-    tr:nth-child(2n) {
-      background: var(--gray-100);
+    tr th {
+      font-weight: 600;
+      color: var(--body-font-color);
+    }
+
+    // Add separator after header row
+    thead tr th {
+      &::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 1px;
+        background-color: var(--gray-500);
+      }
+    }
+
+    // Add separator spanning full width of each cell
+    tbody tr:not(:last-child) td {
+      &::after {
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 1px;
+        background-color: var(--gray-200);
+      }
     }
   }
 
