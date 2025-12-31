@@ -119,8 +119,11 @@
         const neodbUrl = placeholder.dataset.neodbUrl;
         if (!neodbUrl) return;
         
-        const match = neodbUrl.match(/neodb\.social\/([^\/]+\/[^\/\s]+)/);
-        if (!match) {
+        // Extract dbType from URL - match pattern like neodb.social/book/123 or neodb.social/movie/456
+        // Remove query parameters and fragments first
+        const cleanUrl = neodbUrl.split('?')[0].split('#')[0];
+        const match = cleanUrl.match(/neodb\.social\/(.+)$/);
+        if (!match || !match[1]) {
           placeholder.remove();
           return;
         }
@@ -129,7 +132,12 @@
         const apiUrl = `https://neodb.social/api/${dbType}`;
         
         fetch(apiUrl)
-          .then(response => response.json())
+          .then(response => {
+            if (!response.ok) {
+              throw new Error(`HTTP ${response.status}`);
+            }
+            return response.json();
+          })
           .then(data => {
             const cardHtml = `
               <div class="mastodon-neodb">
