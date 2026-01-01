@@ -14,7 +14,7 @@ image: https://media.douchi.space/douchi/media_attachments/files/115/674/431/098
 imageDes: "摄于 2025-12 西雅图"
 ---
 
-今年最后一天，笨博客当然还是雷打不动地继续月记。临近年关大半时间都在摸鱼放假，生活的节奏也慢了下来有时间休整 declutter adulting 辞旧迎新了。
+今年最后一天，本博客当然还是雷打不动地继续月记。临近年关大半时间都在摸鱼放假，生活的节奏也慢了下来有时间休整 declutter adulting 辞旧迎新了。
 
 本月摘要：
 - 年末 todo list 完成度总结，出乎意料竟然还可以
