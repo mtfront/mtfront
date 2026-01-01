@@ -18,7 +18,7 @@ imageDes: "摄于 2025-12 西雅图"
 
 本月摘要：
 - 年末 todo list 完成度总结，出乎意料竟然还可以
-- 年末各种 adulting
+- 年末各种 adulting 和各种 vibe coding
 - 在各种 wrapped 力选了些比较有意思的
 - 沉迷「33 号远征队」并且出现人传人现象
 
