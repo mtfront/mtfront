@@ -119,9 +119,6 @@ related_off: true
 - 车在停车场被邻居撞了，走了回（对方）保险修车流程。外加车自己故障一次，rim 坏掉一次，车胎也该换了，又赶上 service 的时间，是驾龄十几年来风波最多的一年了。中间一度动了立刻换车的念头。
 - 流动资产来到了新的 milestone（不是因为什么操作只是因为收入变多了）。[理财全面自动化]({{< relref "/posts/2025-01/2-personal-finance-adjustments" >}})。把前司的 401K 都整合到一家了。年底[修正]({{< relref "/posts/2025-11/4-pro-rata-rule-IRA" >}})了一个差点亏大了的理财错误。
 
-### Misc
-- 首次坐私人飞机……
-
 ## 书影游
 ### 数据
 数据均在 [notion](https://mtfront.notion.site/2485c762efe040b988531aaa3e45ad25?source=copy_link) 实时更新。
