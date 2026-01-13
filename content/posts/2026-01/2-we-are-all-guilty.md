@@ -28,7 +28,7 @@ related_off: false
 
 我们同情着气候变化极端天气下在大火飓风中失去家园的人，伤心着冰盖消融饿死的北极熊和被塑料扼杀窒息的海龟，咒骂着开着吐着黑煤烟的改装皮卡车主，却继续用新体验 justify 自己落入的消费主义陷阱下不断膨胀的购物欲，为省一小时的 grocery shop trip 容忍 weee 的两斤菜给十五个不可回收塑料包装。
 
-我们辱骂科技公司贪得无厌，我们感叹恶毒 corporate 反人性系统扼住聪明善良的好人咽喉，却依旧为钱为福利为身份为自由为着钱多活儿少 remote 别无二家的 privilege 以没有回家种田的退休本为自我麻痹借口继续干着 souless brainless bullshit job.
+我们辱骂科技公司贪得无厌，我们感叹恶毒 corporate 反人性系统扼住聪明善良的好人咽喉，工作毫无意义 soul sucking 草台班子敷衍凑合骗钱，却依旧为钱为福利为身份为自由为着钱多活儿少 remote 别无二家的 privilege 以没有回家种田的退休本为自我麻痹借口继续干着 souless brainless bullshit job.
 
 我们看着美国的地狱新闻怒火中烧 ICE 的非法绑架滥杀平民绝望无助心惊胆战；我们舍不得风继续吹乘浪潮之巅那资本家多赏一点剩饭的两三倍的 easy money 成为那 top X% 的 easy life。
 
