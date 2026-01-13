@@ -33,7 +33,7 @@ related_off: false
 
 我们看着美国的地狱新闻怒火中烧 ICE 的非法绑架滥杀平民绝望无助心惊胆战；我们舍不得风继续吹乘浪潮之巅那资本家多赏一点剩饭的两三倍的 easy money 成为那 top X% 的 easy life。
 
-我们调侃着白人的殖民者愧疚，我们继续写下这篇一样拧巴又 condescending 又 self loathing 的博客。
+我们调侃着白左的殖民者愧疚女权男的 virtue signaling，我们继续写下这篇一样拧巴又 condescending 又 self loathing 的博客。
 
 我们对纳粹基层的 just following order 不屑一顾手撕鬼子当僵尸片看。我们到自己的问题说系统问题的罪孽不应该让个体背负。我们说巨大愧疚下偶尔觉醒的螳臂当车的良知是资本家和政客转嫁给人民内部的矛盾。我们带着这样的自欺欺人闭一只眼得过且过赖以生存。
 
