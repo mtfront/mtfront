@@ -24,7 +24,7 @@ related_off: false
 - 鼻炎。其它原因都可能有解决方案，但 literally physically 不能自由呼吸是 non-negotiable。直到离开中国长居之前，我都以为一年里有半年无法自由呼吸，躺在床上窒息般生不如死，沾床即睡的睡眠质量是这辈子都不可能有了，一到冬天连续感冒，出门必然携带两包纸巾一张撕成 6 张用。我妈在医院工作，带我求医问药中西结合都无果，我以为我的人生这辈子就是这样了。后来发现不必如此，怎么可能再主动回去。当然，我最后一次踏上中国大陆是 2019 年，据说这两年空气质量好了很多（甚至还在 YouTube 上看到过印度人指着北京的“你看看别人家孩子”的分析视频），是否仅限于个别城市以及我还会不会复发就不知道了。
 - 墙 & 文字狱（aka 媒体和平台的自我阉割预防式审查）。出来之前不知不觉，出来之后真的发现如影随形躲不开。博客我虽然写了很多年，但这个博客的这一代转世[起因]({{< relref "/posts/2023-archive/2020-10-29-hello-world-its-me-again" >}})也是豆瓣搞文字狱忍无可忍出逃之后的成果，也是定义我 2020s 在网上和生活的重要一部分。（有幸跟着我的长毛象实例被墙了估计少了很多闹心评论）
 - CCP。I don't think they're evil. I geinuely think they want to make China great again and Chinese people's life better. But I just can't agree with the way they're doing it. (On the other hand 现在的美国也没好到哪去就是了)
-- 民粹主义和被害妄想症。（I'm not saying 帝国主义亡我之心死了，I'm just saying 现在的辱华标准真的也太低了）纯粹在墙内环境下生长的温室花朵也就算了，我真的不理解翻墙粉红，真的真的不理解…… （修辞性否定不是真的不理解，我知道它们脑子里只有 porn）
+- 民粹主义和被害妄想症。（I'm not saying 帝国主义亡我之心死了，I'm just saying 现在的辱华标准真的也太低了）纯粹在墙内环境下生长的温室花朵也就算了，我真的不理解翻墙粉红，真的真的不理解…… ~~（修辞性否定不是真的不理解，我知道它们脑子里只有 porn）~~
 - 天高皇帝远无人 judge 我不生小孩不是异性恋不想结婚。当然跟我家[断联]({{< relref "/posts/2023-archive/2020-06-26-my-mother-issue" >}})已经快 6 年了，这点好像也不再会跟回国绑定了。
 - Speaking of 小孩，what's with 满中国的机器人语音都要搞成儿童夹子音？I can't.
 - Speaking of 小孩，中国的管教不善熊孩子真的很多。再加上没有 personal space 概念，就很容易造成我冲动伤人的事件。因为是本科毕业就离开了中国，我记忆犹新的一件事是我和室友在学校水池旁边夹着三脚架照毕业照，熊孩子拿着呲水枪就开始往相机上呲，0 人管教。恨孩如我开始指着熊孩子破口大骂能有多脏有多脏祖宗八辈开始问候之后家长就光速出现了乁། ˵ ◕ – ◕ ˵ །ㄏ My blood would still start to boil when I'm typing this...
