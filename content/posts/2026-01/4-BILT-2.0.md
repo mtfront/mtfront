@@ -1,5 +1,5 @@
 ---
-title: BILT 2.0，以及为什么它不适合大多数人
+title: BILT 2.0 解读
 author: 椒盐豆豉
 type: post
 date: 2026-01-16T17:10:00-08:00
