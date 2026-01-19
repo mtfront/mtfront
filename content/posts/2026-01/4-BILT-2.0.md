@@ -22,7 +22,7 @@ related_off: false
 
 <!--more-->
 
-## 2.0 transition 过程。
+## 2.0 transition 过程
 - BILT 不再跟 Wells Fargo 合作，因此之前由 WF 发行的旧 BILT 卡将在 2 月 6 日失效。
 - 现有持卡人**如果什么都不做**，Wells Fargo 会自动发给现有持卡人一张 `Wells Fargo Autograph` 信用卡。这张卡将在后面详述。
   - 这张卡会继承之前 BILT 卡的账户历史和余额，可以继续还款，也不会增加一条 credit line，不产生 credit impact。
@@ -81,7 +81,7 @@ related_off: false
 不花其它消费的话每个月房租赚 250 point（约等于没有，应该不会有人为了两块五开卡吧……）。也就是说基本上是一个 1.5% - 2.25% 的 catch all 卡。结论不变。
 
 ## 个人选择
-本来如果像 1.0 一样没有额外的 benefits 但是房租房贷是刷在信用卡上的而不是银行转账，其实我有考虑留着这卡。把 due date 挪到月底的话可以钱在 HYSA 多赚两个月利息，按照 [Marcus + referal bonus](https://www.marcus.com/share/FAN-NS4-YMS9) 的 4.65% APY 的话每个月都能专出一顿饭钱，无年费也不亏。只可惜 fine print 里发现现在变成了 ACH，那这卡对我没有任何意义。
+本来如果像 1.0 一样没有额外的 benefits 但是房租房贷是刷在信用卡上的而不是银行转账，其实我有考虑留着这卡。把 due date 挪到月底的话可以钱在 HYSA 多赚两个月利息，按照 [Marcus + referal bonus](https://www.marcus.com/share/FAN-NS4-YMS9) 的 4.65% APY 的话每个月都能赚出一顿饭钱，无年费也不亏。只可惜 fine print 里发现现在变成了 ACH，那这卡对我没有任何意义。
 
 进行上面一系列分析后我发现我个人而言竟然是直接转 Wells Fargo Autograph 更合适（懒得薅开户 bonus 就直接让它转了。搞笑的是刚收到它的信的时候还在想肯定不会留 Wells Fargo 的卡就随手把信息扔了，结果后来发现竟是不错的选择……）。前 [CSR 关掉之后本来就想要张吃饭卡]({{< relref "/posts/2025-07/4-csr-replacement" >}})来着，后来不想多申一张就没再开，现在勉强用着之前 chase 全家桶遗留的 freedom unlimited。这张返的范围比 CFU 多（streaming, 加油充电，travel 还能补 CSR 空位），还没 foreign transaction fee，BILT 直接转也不多一条 credit line/inquiry，points 能直接换现金适合我这种不玩点的，感觉挺合适的？换成这张之后 CFU 可以彻底弃掉了，chase 系里只用 freedom 的 5% 和 [prime](https://www.amazon.com/dp/BT00LN946S?externalReferenceId=34e34265-d58d-4b4a-9e5f-606dbea19d50) 那张就够了。
 
