@@ -177,6 +177,32 @@
     }
   }
 
+  .book-search td.gsc-input {
+    padding: 0 !important;
+  }
+
+  /* Kill padding on the inner wrapper cell */
+  .book-search td.gsib_a {
+    padding: 0 !important;
+  }
+
+  /* Make sure the div wrapper has no padding */
+  .book-search #gsc-iw-id1,
+  .book-search #gsc-iw-id1 .gsc-input-box {
+    padding: 0 !important;
+  }
+
+  /* Finally, remove padding/margins from the actual input */
+  .book-search input#gsc-i-id1 {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .book-search input#gsc-i-id1 {
+    line-height: 1 !important;
+    height: 1.25em !important;  /* adjust as needed */
+  }
+
   hr {
     height: $padding-1;
     border: none;
