@@ -6,7 +6,7 @@ BookComments: False
 ---
 
 ![](https://media.douchi.space/douchi/media_attachments/files/115/993/036/324/594/086/original/cdc47cde86d45003.jpg)
-<i class="image-desc">女朋友摄于 2026-02 南极，accidental expedtioner </i>
+<i class="image-desc">女朋友摄于 2026-01 南极，accidental expedtioner </i>
 
 `updated on 2026-02-06`
 
