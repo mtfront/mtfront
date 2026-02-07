@@ -8,7 +8,7 @@ BookComments: False
 ![](https://media.douchi.space/douchi/media_attachments/files/115/993/036/324/594/086/original/cdc47cde86d45003.jpg)
 <i class="image-desc">女朋友摄于 2026-02 南极，accidental expedtioner </i>
 
-`updated on 2026-02-05`
+`updated on 2026-02-06`
 
 ## 近况 
 - 近期几个项目：[出厂设置播客]({{< relref "/posts/2024-11/2-podcast-other-than-default" >}})｜[日更站](https://daily.douchi.space?utm_source=blog.douchi.space)｜[跬步](https://steps.douchi.space?utm_source=blog) | [时空胶囊]({{< relref "/time-capsule" >}})
@@ -18,10 +18,10 @@ BookComments: False
 
 ## 近期中意
 - 📚 [`鱼不存在`](https://amzn.to/3JKooWw)
-- 📺 `The Pitt`
-- 🎬 `Wake Up Dead Man: A Knives Out Mystery`
 - 🎮 `33 号远征队`
 - 🎮 `Hades II`
+- 📱 [`OPPO Find X9 Pro`](https://www.oppo.com/en/smartphones/series-find-x/find-x9-pro/?utm_source=blog.douchi.space)
+- 🎒 [`Rework Toshi Pack 20L`](https://reworkgear.com/products/toshi-pack-20l?utm_source=blog.douchi.space)
 - 🎒 [`Osprey Ultralight 20L Dry Stuff Pack`](https://amzn.to/4t3DlES)
 - 🧥 `Canada Goose Chilliwack Aviator Bomber`
 - 🎥 [`TCL PlayCube 便携投影仪`](https://amzn.to/4oZUrQW)
