@@ -9,6 +9,7 @@ categories:
 tags:
   - travel
   - patreon
+  - 南极
 booktoc: false
 bookComments: true
 image: https://travelweekly.com.au/wp-content/uploads/2021/07/Greg-Mortimer-in-Antarctica-Aurora-Expeditions-Scott-Portelli-1.jpeg

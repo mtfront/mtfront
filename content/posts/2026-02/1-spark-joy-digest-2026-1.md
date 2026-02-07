@@ -9,6 +9,7 @@ categories:
 tags:
   - 关我辟事
   - travel
+  - 南极
   - 消费主义陷阱
   - backpack
   - tech
@@ -235,7 +236,7 @@ Punta Arenas 真是个非常惬意的小镇，夕阳下的广场舞：
 {{< neodb "https://neodb.social/movie/5eDOMrwMkqIW6rgZeeoTO7" 7 >}}
 I'm not childhood trauma-ed or depressed or cared about my family or sentimental enough for this. 三星半
 
-### 物质主义者 Materialists
+### 物质主义者 Materialists 🤷
 {{< neodb "https://neodb.social/movie/2fCjy7CuqNj75NidilQGds" 7 >}}
 披着纽约小时代皮的设定从桃总出现的一刹那就注定沦为普通回归真爱小甜剧，但我不得不说少了美队肌肉的加持桃总魅力值真的减掉八成。Daddy 活脱脱的小 pug 眼神配上小时代霸总爱上我的人设真的有些违和，但分手那场半蹲下模拟身高戏真的有笑到。其实蛮多小剧情设定都还挺喜欢的比如 daddy 的身高比如最后 Sophie 的遭遇和最后求助造成的剧情转折都还挺合理，但两对的 chemistry 加起来都还不如 Dakota 在社交网络和 Justin Timberlake 工具人剧情需要客串的一夜情有火花，作为一个爱情片就很成问题了。娱乐性还是不错的，三星半吧
 
