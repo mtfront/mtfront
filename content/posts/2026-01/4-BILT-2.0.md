@@ -86,3 +86,9 @@ related_off: false
 进行上面一系列分析后我发现我个人而言竟然是直接转 Wells Fargo Autograph 更合适（懒得薅开户 bonus 就直接让它转了。搞笑的是刚收到它的信的时候还在想肯定不会留 Wells Fargo 的卡就随手把信息扔了，结果后来发现竟是不错的选择……）。前 [CSR 关掉之后本来就想要张吃饭卡]({{< relref "/posts/2025-07/4-csr-replacement" >}})来着，后来不想多申一张就没再开，现在勉强用着之前 chase 全家桶遗留的 freedom unlimited。这张返的范围比 CFU 多（streaming, 加油充电，travel 还能补 CSR 空位），还没 foreign transaction fee，BILT 直接转也不多一条 credit line/inquiry，points 能直接换现金适合我这种不玩点的，感觉挺合适的？换成这张之后 CFU 可以彻底弃掉了，chase 系里只用 freedom 的 5% 和 [prime](https://www.amazon.com/dp/BT00LN946S?externalReferenceId=34e34265-d58d-4b4a-9e5f-606dbea19d50) 那张就够了。
 
 It was a good run though，烧钱阶段给大家送的点数支撑着我大半年上 Barry's 都没花钱还送 smoothie lol 新卡也不能说是特别垃圾吧，但为了用“交房租卡”骗更多人入坑而发明出来这个复杂的 bilt cash 系统再加上并不是很优秀的 benefits 既没有给 maxmizer 们提供发挥空间，又不适合消费结构简单的小白。如果只想一卡流或许可以考虑，但这个复杂的系统可能一卡流没看完就已经劝退了。我先退坑了，看看这公司还能蹦跶多久。另外这次的 marketing push 真是 financial influencer 的照妖镜，无脑吹这个卡的基本可以全拉黑了。
+
+---
+## 2026/2/7 更新
+BILT 这个公司真的 scammy 体现之，我们楼不幸也用它的系统付房租，所以即便不用它的卡了也得去它系统里连银行账户。今天我去连银行账户，本来直接用 plaid 登录 verify，结果登完跟我说 error occurred，BILT 那边要重新登录。作为码农非常能理解这种问题咋写出来的，也就内心吐槽了一下草台就继续登录了。结果登录进去直接把我放到了申请它们那个新卡的页面？？？？？？不是介绍打广告的页面哦就是直接在申请过程中页面，要是不仔细看一路点 continue 的人不得莫名其妙直接办了张新卡？真的无语。更不用提前几天申卡 deadline 前每天发消息跟用户说“action required”让用户去申卡否则账户会被关，要不仔细看可能就稀里糊涂申了。不知道 3/1 下一波交房租的时候有多少人会稀里糊涂被 charge 3% 手续费或者干脆银行账户里没准备房租导致付款失败的……
+
+rage quit 页面之后回到付房租的页面怒用传统的 routing/account number 方法加银行账户，现在还得等两天那小额 deposit 来 verify 账户。大众现在滥用 enshitification 这个词真的是有一定道理，互联网上包装精美的屎真的太多了…… 
