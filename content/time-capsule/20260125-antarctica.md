@@ -9,8 +9,8 @@ tags:
   - travel
   - 南极
   - 360
-pano: "https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/360/2026-antarctica/5.penta-arenas-sunset-2.webp"
-image: "https://media.douchi.space/douchi/media_attachments/files/115/942/594/904/940/295/original/fcab1851a8a04980.png"
+pano: "https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/360/2026-antarctica/25.ice.webp"
+image: "https://media.douchi.space/douchi/media_attachments/files/115/992/880/485/648/272/original/6a8761912f7dc646.jpg"
 ---
 
 南极真是太美了，以至于多年懒得处理照片手机直出的我这次都想好好处理一下。游记酝酿中，就先把不怎么需要处理的 360 图发一发吧。本文图较多且有一些 11K 的全景图，载入可能需要一些时间。
