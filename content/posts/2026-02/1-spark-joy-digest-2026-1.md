@@ -42,7 +42,7 @@ imageDes: "女朋友摄于 2026-02 南极，accidental expedtioner"
 - `理财` BILT 2.0 风波，[一番研究]({{< relref "/posts/2026-01/4-BILT-2.0" >}})之后 churn 了打算直接过渡到 wellsfargo autograph 了。It was a good run，毕竟请了我大半年的免费 Barry's 和 smoothie 呢…… 
 - `健康` 今年冬天阳光特别多，时隔多年难得出去跑了个 5K。
 - `健康` 终于拿到了去年配的怎么都联系不到眼镜店的以为跑路了的新眼镜。上一副眼镜的度数用了六七年了，现在终于不情不愿（inevitable）一只眼上了 1000 度……
-- `健康` 在南极感冒了一次导致几天没出门……索性
+- `健康` 在南极感冒了一次导致几天没出门……索幸没几天就开始恢复了，后期还是出门了几次。
 - `体验` `社交` 去尝试了 [snow shoe]({{< relref "/time-capsule/20260117-snoqualmie-snow-shoe" >}})，还认识了新朋友.
 - `出行` 去了南极！还附带了智利几日游。 
 
