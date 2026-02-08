@@ -24,7 +24,7 @@ image: "https://media.douchi.space/douchi/media_attachments/files/115/942/594/90
 {{< pano "https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/360/2026-antarctica/3.penta-arenas-overview.webp" "https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/360/2026-antarctica/3.penta-arenas-overview.webp" "Penta Arenas 的 Kelly Park equivalent，俯瞰色彩斑斓的小镇还是挺好看的" >}}
 ![](https://media.douchi.space/douchi/media_attachments/files/115/942/523/131/511/385/original/048258d8a6fba18f.png)
 
-{{< pano "https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/360/2026-antarctica/7.penta-arenas-plaza-2.webp" "https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/360/2026-antarctica/7.penta-arenas-plaza-2.webp" "每个南美城市似乎都有" >}}
+{{< pano "https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/360/2026-antarctica/7.penta-arenas-plaza-2.webp" "https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/360/2026-antarctica/7.penta-arenas-plaza-2.webp" "每个南美城市似乎都有一个武器广场。Punta Arenas 这个有精美的麦哲伦雕像，周围的树也很好看，广场上时不时有人卖唱，十分惬意。" >}}
 
 {{< pano "https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/360/2026-antarctica/1.boat-top.webp" "https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/360/2026-antarctica/1.boat-top.webp" "Penta Arenas 附近海域的企鹅保护区 Isla Magdalena 麦哲伦企鹅岛，旁边是另一个住满海豹的小岛。坐在船顶上被海风吹得胡乱得拍遥望挺有意思" >}}
 
