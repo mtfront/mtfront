@@ -98,7 +98,7 @@ Punta Arenas 真是个非常惬意的小镇，夕阳下的广场舞：
 {{< / columns >}}
 ![](https://media.douchi.space/douchi/media_attachments/files/116/014/878/852/856/194/original/71779faae7de28c9.png)
 
-{{< video "https://media.douchi.space/douchi/media_attachments/files/115/986/859/890/067/190/original/12c7ea705b45c528.mp4" >}}
+{{< video "https://media.douchi.space/douchi/media_attachments/files/115/986/859/890/067/190/original/12c7ea705b45c528.mp4" pause >}}
 这次碰到的鲸鱼特别多特别近，几次都被数十上百只鲸鱼包围了，太幸福了。
 
 {{< columns >}}
