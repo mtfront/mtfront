@@ -177,28 +177,26 @@ Penta Arenas 虽然有十几万人口在 Patagonia 地区是较大的城市，�
 第一天出海就被震撼的海冰海域迎接。我们是 snorkeling team 的，除此之外还有 kayak 队。特殊 activity 因为要穿 drysuit 所以都有机会提前下船先去 landing site 所以人比较少，之后去活动通常也是较晚上船的，性价比颇高。drysuit 是防水的，脖子和袖口密封，每次从脖子套进去仿佛又被生了一遍一样费力。内层穿自己衣服保暖只比上岸少一层防水外套，只有脸会接触冰冷海水。我们到的 1 月底 2 月初正值南极盛夏，其实没有很冷，温度都在 0 度左右，水下无风反而觉得不冷，倒是穿 drysuit 才是最困难的地方。
 
 ![巨大的冰山，没有参照物看不出，但那个小洞至少有十米高](https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/antarctica/DSC00472%202.webp)
-![稍微有点参照物的：前面那些船还离冰山有一定距离所以把船再缩小个 5 倍放在冰山脚下差不多就是这个 scale 了](https://media.douchi.space/douchi/media_attachments/files/116/048/962/964/695/102/original/bd466e357854bc7a.png)
 
 {{< columns >}}
+![稍微有点参照物的：前面那些船还离冰山有一定距离所以把船再缩小个 5 倍放在冰山脚下差不多就是这个 scale 了](https://media.douchi.space/douchi/media_attachments/files/116/048/962/964/695/102/original/bd466e357854bc7a.png)
 ![](https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/antarctica/DSC00422.webp)
 ![远看很像企鹅但其实会飞的 Imperial Cormorant（shag），在 Punta Arenas 也见到不少 ](https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/antarctica/DSC00491%203.webp)
 ![](https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/antarctica/DSC00532%202.webp)
-![一只在浮冰上落单的 Gentoo 企鹅](https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/antarctica/DSC00504%202.webp)
 ![](https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/antarctica/IMG20260126160629.webp)
-![南极气候多变，这种像海外仙山一样的画面经常出现](https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/antarctica/DSC00489%202.webp)
-
 ![](https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/antarctica/DSC00493%202.webp)
+![美丽浮冰前探头的 chinstrap 企鹅](https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/antarctica/DSC00525%202.webp)
 ![第一天看到的多为 chinstrap 企鹅](https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/antarctica/IMG20260126092924.webp)
 <--->
 ![穿着 drysuit 的 Snorkeling team](https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/antarctica/DSC00425.webp)
 ![kayak team 的皮艇会拖着船](https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/antarctica/DSC00442.webp)
 ![到了划船或者 snorkeling 地点后可在浮冰间穿梭（不能离太近因为随时会塌）](https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/antarctica/IMG20260126160426.webp) 
-![南极气候多变，这种像海外仙山一样的画面经常出现](https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/antarctica/DSC00489%202.webp)
 ![](https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/antarctica/DSC00501.webp)
 ![](https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/antarctica/DSC00515.webp)
+![南极气候多变，这种像海外仙山一样的画面经常出现](https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/antarctica/DSC00489%202.webp)
 ![因为企鹅不怕人，岛上企鹅又太多，经常能近距离接触](https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/antarctica/IMG20260126093012.webp)
-![美丽浮冰前探头的 chinstrap 企鹅](https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/antarctica/DSC00525%202.webp)
 {{< / columns >}}
+![一只在浮冰上落单的 Gentoo 企鹅](https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/antarctica/DSC00504%202.webp)
 ![小小企鹅在巨大冰川面前的美景经常出现](https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/antarctica/IMG20260126092102.webp)
 ![在岸上和企鹅相安无事的海豹](https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/antarctica/IMG20260126093131.webp)
 
