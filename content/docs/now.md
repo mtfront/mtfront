@@ -8,13 +8,13 @@ BookComments: False
 ![](https://media.douchi.space/douchi/media_attachments/files/115/993/036/324/594/086/original/cdc47cde86d45003.jpg)
 <i class="image-desc">女朋友摄于 2026-01 南极，accidental expedtioner </i>
 
-`updated on 2026-02-06`
+`updated on 2026-02-16`
 
 ## 近况 
 - 近期几个项目：[出厂设置播客]({{< relref "/posts/2024-11/2-podcast-other-than-default" >}})｜[日更站](https://daily.douchi.space?utm_source=blog.douchi.space)｜[跬步](https://steps.douchi.space?utm_source=blog) | [时空胶囊]({{< relref "/time-capsule" >}})
 - 秋天从[班夫]({{< relref "/posts/2025-09/3-banff" >}})玩了一圈回来，名列最爱国家公园 top3 了！
 - 把[剁手安利数据库](https://mtfront.notion.site/mtfront-shopping-reviews-e568ee6ebaa44b5da146cbe4ac4663eb)同步更新 workflow 搞好了，终于又能和博客同步了。
-- 从[南极](https://douchi.space/@mtfront/115933386225667038)玩回来了，紧锣密鼓写游记中！
+- 从南极玩回来了，鸿篇巨著[游记]({{< relref "/posts/2026-02/2-antarctica" >}})释出！
 
 ## 近期中意
 - 📚 [`鱼不存在`](https://amzn.to/3JKooWw)
@@ -23,6 +23,7 @@ BookComments: False
 - 📱 [`OPPO Find X9 Pro`](https://www.oppo.com/en/smartphones/series-find-x/find-x9-pro/?utm_source=blog.douchi.space)
 - 🎒 [`Rework Toshi Pack 20L`](https://reworkgear.com/products/toshi-pack-20l?utm_source=blog.douchi.space)
 - 🎒 [`Osprey Ultralight 20L Dry Stuff Pack`](https://amzn.to/4t3DlES)
+- 👟 [`Altra Lone Peak`](https://amzn.to/3ZAAtBJ)
 - 🧥 `Canada Goose Chilliwack Aviator Bomber`
 - 🎥 [`TCL PlayCube 便携投影仪`](https://amzn.to/4oZUrQW)
 - 🏋️ [`Speediance Gym Monster 2`](https://amzn.to/4obJGLn)
