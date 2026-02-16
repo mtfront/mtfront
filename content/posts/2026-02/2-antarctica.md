@@ -64,7 +64,7 @@ Speaking of 鸟，解锁一个新大陆之后能收集到好多新鸟好快乐�
 ![](https://media.douchi.space/douchi/media_attachments/files/115/942/352/165/720/917/original/53159a34eec38f0b.png)
 出海的船也开了蛮久，连续几天睡不足 4 小时的我们上船倒头就睡。到了海岛附近低速行驶的时候还可以去船顶上坐着。
 
-Penta Arenas 虽然有十几万人口在 Patagonia 地区是较大的城市，但城市规划比较摊大饼，有车率也很高。真正的城区其实没多大，我们住在航司订的酒店 Dreams Casino Punta Arenas 附近步行能逛到城区几乎所有景点。 
+Penta Arenas 虽然有十几万人口在 Patagonia 地区是较大的城市，但城市规划比较摊大饼，有车率也很高。真正的城区其实没多大，我们住在航司订的酒店 Dreams Casino Punta Arenas 附近步行能逛到城区几乎所有景点。说到这里要顺便赞美一下智利（或者单 Punta Arenas）行车 courtesy 好让人放心呀！这个地方有好多没有红绿灯但有黄色标志的人行道，在开还挺快的双车道大主路上，只要看到有人要过马路车们就会打双闪示意行人和后/旁车，然后就可以放心过马路了！酒店在海边，去城区要过这样一个横跨主干道的人行道，一开始还提心吊胆，走了几天发现比在美国过马路令人安心多了。
 
 ![走去 Cerro de la Cruz 路上的美丽街景](https://media.douchi.space/douchi/media_attachments/files/115/942/533/036/384/670/original/2736c203e7d396a4.png)
 
