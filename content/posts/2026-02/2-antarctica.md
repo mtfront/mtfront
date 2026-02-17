@@ -64,7 +64,7 @@ Speaking of 鸟，解锁一个新大陆之后能收集到好多新鸟好快乐�
 ![](https://media.douchi.space/douchi/media_attachments/files/115/942/352/165/720/917/original/53159a34eec38f0b.png)
 出海的船也开了蛮久，连续几天睡不足 4 小时的我们上船倒头就睡。到了海岛附近低速行驶的时候还可以去船顶上坐着。
 
-Penta Arenas 虽然有十几万人口在 Patagonia 地区是较大的城市，但城市规划比较摊大饼，有车率也很高。真正的城区其实没多大，我们住在航司订的酒店 Dreams Casino Punta Arenas 附近步行能逛到城区几乎所有景点。说到这里要顺便赞美一下智利（或者单 Punta Arenas）行车 courtesy 好让人放心呀！这个地方有好多没有红绿灯但有黄色标志的人行道，在开还挺快的双车道大主路上，只要看到有人要过马路车们就会打双闪示意行人和后/旁车，然后就可以放心过马路了！酒店在海边，去城区要过这样一个横跨主干道的人行道，一开始还提心吊胆，走了几天发现比在美国过马路令人安心多了。
+Punta Arenas 虽然有十几万人口在 Patagonia 地区是较大的城市，但城市规划比较摊大饼，有车率也很高。真正的城区其实没多大，我们住在航司订的酒店 Dreams Casino Punta Arenas 附近步行能逛到城区几乎所有景点。说到这里要顺便赞美一下智利（或者单 Punta Arenas）行车 courtesy 好让人放心呀！这个地方有好多没有红绿灯但有黄色标志的人行道，在开还挺快的双车道大主路上，只要看到有人要过马路车们就会打双闪示意行人和后/旁车，然后就可以放心过马路了！酒店在海边，去城区要过这样一个横跨主干道的人行道，一开始还提心吊胆，走了几天发现比在美国过马路令人安心多了。
 
 ![走去 Cerro de la Cruz 路上的美丽街景](https://media.douchi.space/douchi/media_attachments/files/115/942/533/036/384/670/original/2736c203e7d396a4.png)
 
@@ -90,7 +90,7 @@ Penta Arenas 虽然有十几万人口在 Patagonia 地区是较大的城市，�
 ![](https://media.douchi.space/douchi/media_attachments/files/115/942/540/616/512/053/original/5747949e5d72a974.png)
 {{< / columns >}}
 
-酒店旁边是个海滩，上面有 Punta Arenas 的大标牌。第一天去就刚好碰上绝美夕阳，于是这三天没少往这个海边跑，看到各种高维度夕阳（但早上船上的 guide 表示 Punta Arenas 其实跟美加边境每次去温哥华都会路过的 Bellingham 对等的维度所以其实也没有很南？）。
+酒店旁边是个海滩，上面有 Punta Arenas 的大标牌。第一天去就刚好碰上绝美夕阳，于是这三天没少往这个海边跑，看到各种高纬度夕阳（但早上船上的 guide 表示 Punta Arenas 其实跟美加边境每次去温哥华都会路过的 Bellingham 对等的维度所以其实也没有很南？）。
 {{< columns >}}
 ![](https://media.douchi.space/douchi/media_attachments/files/115/942/594/904/940/295/original/fcab1851a8a04980.png)
 <--->
@@ -144,10 +144,10 @@ Penta Arenas 虽然有十几万人口在 Patagonia 地区是较大的城市，�
 ![初见 gentoo 企鹅，立刻就有到了南极的实感](https://media.douchi.space/douchi/media_attachments/files/115/956/729/336/341/798/original/73a5596c107f8fd9.jpg)
 {{< / columns >}}
 
-{{< wrap "https://media.douchi.space/douchi/media_attachments/files/116/073/709/183/065/129/original/66eaded2a11c130e.png" >}}
+{{< wrap "https://media.douchi.space/douchi/media_attachments/files/116/073/709/183/065/129/original/66eaded2a11c130e.png" "每天的晚餐样餐" >}}
 到了船上井井有条像酒店 check in 一样去前台领房卡和 Orca card（船上的 ID，每天上下船刷卡以便统计人数）。没歇多久 expedition team （船上带队大家登陆的工作人员是 expediton team（33 号远征队脑残粉我听到这词就激动了））就紧锣密鼓地开始各种 orientation talk。大概也是因为我们 delay 了一天，又加上我们选了额外的 snorkeling package 所以行程有所压缩才如此之忙。
 
-船上早饭午饭是 buffet，晚餐（下图）是点餐，我们的航司是 wifi、食物全包（可单点零收费的酒水和晚餐）+ 送 200 刀 credit 可以买纪念品、做 spa 等等（我们最后一天发现 credit 没用掉还紧急去做了个 spa）。吃的 TBH surprisingly 不错，当然连吃了 11 天虽然餐品会换但毕竟原材料有限和同一组厨师，还是会吃腻就是了，但头几天还是 pleasantly surprised 的甚至会有点期待晚餐。
+船上早饭午饭是 buffet，晚餐是点餐，我们的航司是 wifi、食物全包（可单点零收费的酒水和晚餐）+ 送 200 刀 credit 可以买纪念品、做 spa 等等（我们最后一天发现 credit 没用掉还紧急去做了个 spa）。吃的 TBH surprisingly 不错，当然连吃了 11 天虽然餐品会换但毕竟原材料有限和同一组厨师，还是会吃腻就是了，但头几天还是 pleasantly surprised 的甚至会有点期待晚餐。
 
 {{< wrap "https://media.douchi.space/douchi/media_attachments/files/116/002/484/451/299/410/original/1b2e08183a6e1ea2.jpg" "行程结尾后去拍下的我们的行程记录">}}
 这里顺便提一下我们选的南极这个 tour （航司是 aurora）组织得真的蛮好的，每天都有 recap 介绍今天去的地方和相关地理、和动物知识，探险队员还会每天写 Penguin post 记录这一天，还会讲明天的计划（因为天气变化所以只是 plan A，很可能第二天醒来就已经变成 plan D 了）。船方摄影师还做了 vlog 回顾全程。从智利的酒店 orientation 到 delay 了的临时安排再到最后上飞机到在 King George Island 不能接地地换 zodiac 再上船 check in 都井然有序的，有 ground team, expedition team 和 ship crew 各司其职。很多船上工作人员的背景也很有意思，有拍纪录片的，退休的大学教授，摄影师生物学家地理学家之类的。~~难以想象如果是个草台 tech company 办这种实地需要 logistics 的东西能乱成啥样子（愈发觉得自己工作的行业超级草台以及 respect 干实事的人）。~~
