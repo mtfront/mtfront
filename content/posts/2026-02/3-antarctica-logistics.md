@@ -14,7 +14,7 @@ tags:
 booktoc: true
 bookComments: true
 image: "https://douchi.sfo3.cdn.digitaloceanspaces.com/blog/antarctica/IMG20260131151419.webp"
-imageDes: "摄于 2026-01 摄于南极"
+imageDes: "2026-01 摄于南极"
 ---
 
 上回说到去[南极玩的内容]({{< relref "/posts/2026-02/2-antarctica" >}})，为了不破坏游记本身的节奏，很多 logistics 的具体细节略去了。本文就来具体写写去南极玩到底要怎么准备，什么东西个人觉得真的值得带什么是没事找事等等游玩之外的事务性工作准备和反思。当然，我只去过一次，自然也没有一手横评经验，一下一家之言仅供参考。
